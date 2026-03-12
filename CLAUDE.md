@@ -132,7 +132,7 @@ All 9 signal types used during discovery to classify organizational moments:
 - **Prioritize non-obvious, creative companies** — avoid household names (Boeing, Amazon, Google, etc.) that anyone would think of. The value is surfacing companies people wouldn't find on their own: PE-backed roll-ups, spinoffs, fresh mergers, niche industry leaders with strong transformation signals
 
 ### Phase 2: Research (implemented)
-Comprehensive dossiers a Senior Partner can read in under 10 minutes. Eight sections:
+Comprehensive dossiers a Senior Partner can read in under 10 minutes. Ten sections:
 1. **Organization Snapshot** — legal name, HQ, founding year, ownership, geographic footprint
 1b. **Company Overview** — in-depth narrative (3-5 sentences) covering what the company does, how it makes money, ownership history, major recent events (mergers, spinoffs, PE transactions), and current strategic direction. This is the first thing a reader sees after the snapshot — it must stand alone as a complete introduction for someone who has never heard of the company. Populates the `company_overview` field on the Prospect object embedded in the Dossier.
 2. **Financial Health & Growth Stage** — revenue trajectory, profitability, analyst sentiment, key pressures/tailwinds
@@ -141,6 +141,19 @@ Comprehensive dossiers a Senior Partner can read in under 10 minutes. Eight sect
 5. **Recent News & Trigger Events** — 5-7 most relevant developments (last 18 months) with date, event, and why it matters for McChrystal
 6. **McChrystal Fit Assessment** — primary problem, best capability fit, likely objections, competitive landscape (McKinsey OrgDesign, Korn Ferry, etc.), rating (Strong/Moderate/Speculative)
 7. **Conversation Entry Points** — 2-3 opening questions for a Senior Partner, mutual connections, recommended first meeting framing
+8. **Brand Insights & Market Positioning** — deep analysis of the company's current brand strategy, market positioning, and what it reveals about organizational challenges McChrystal can address. Covers:
+   - **Brand value & competitive standing** — rankings, brand equity metrics, how the brand compares to direct competitors
+   - **Brand identity evolution** — how the company's brand positioning is shifting (or needs to shift) and what that means organizationally. Is the brand promising something the organization can't yet deliver?
+   - **Marketing leadership & strategy** — CMO vision, recent campaigns, brand ambition level. Marketing leaders are potential influencer contacts if their agenda aligns with McChrystal's capability
+   - **Brand threats** — competitive disintermediation, invisibility risks, market perception gaps. Where is the brand vulnerable, and does that vulnerability trace back to an organizational problem?
+   - **Major brand investments** — sponsorships, partnerships, campaigns that create organizational coordination demands (e.g., global event activations requiring cross-functional teamwork)
+   - The through-line: brand insights should connect back to McChrystal fit — brands that promise cross-functional agility, global coordination, or cultural transformation but lack the operating model to deliver are prime engagement targets
+9. **Deep McChrystal Group Fit Analysis** — goes beyond the Sec 6 Fit Assessment to build the full strategic case for why this prospect is (or isn't) a high-priority opportunity. Covers:
+   - **Multiple fit dimensions** — identify 3-6 reinforcing fit dimensions (e.g., operating model gap, M&A integration, crisis leadership, regional fragmentation, culture deficit, brand-org misalignment). Each dimension gets its own subsection with: the specific problem, why McChrystal is uniquely positioned vs. competitors (McKinsey, Deloitte, Korn Ferry, etc.), and timing/urgency factors
+   - **Competitor displacement logic** — for each fit dimension, explain which incumbent advisor currently owns that space and why McChrystal occupies a different category. Not "we're better than McKinsey" but "McKinsey solves strategy; we solve the operating model that lets strategy execute"
+   - **Beachhead identification** — which fit dimension is the best landing zone for an initial engagement? Should be bounded, measurable, and positioned to expand
+   - **Cumulative case** — synthesize all dimensions into a clear thesis on why this prospect is (or isn't) worth pursuing aggressively. Include revenue potential estimate ($X initial, $Y expanded, $Z ongoing)
+   - Quality standard: every claim must be grounded in specific facts from earlier dossier sections or web research — no generic assertions about "McChrystal's unique capabilities"
 
 **Fit Rating Criteria:**
 - **Strong** — Problem directly maps to a McChrystal capability AND at least 2 of: active trigger event (last 6 months), clear economic buyer identified, budget likely exists (revenue >$1B or known transformation spend), low competitive barrier, organizational urgency (crisis, deadline, board pressure)
