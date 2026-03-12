@@ -142,8 +142,13 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `bd/dashboard.py` — JSON export for dashboard; `python -m bd.dashboard` bootstraps from Markdown
 - `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()` for orchestration
 - `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data
-- `docs/` — static HTML/CSS/JS dashboard (serve with `python -m http.server 8080 --directory docs`)
+- `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `data/` — generated reports (Markdown + dashboard.json)
+
+## Deployment
+- **Dashboard**: GitHub Pages — https://ace1523.github.io/bd-agent/ (auto-deploys from `docs/` on push to main)
+- **Repo**: https://github.com/Ace1523/bd-agent
+- After any data or dashboard changes, push to main to update the live site
 
 ## Tech Stack
 - Python 3.11+, Pydantic, Rich
