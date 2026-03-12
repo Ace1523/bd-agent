@@ -1,10 +1,11 @@
 """Save report content by appending to persistent files in data/."""
 
+import fcntl
 import json
 from pathlib import Path
 from typing import Union
 
-from bd.models import Dossier, OutreachPackage, OutreachSequence, Prospect
+from bd.models import Dossier, OutreachPackage, Prospect
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
@@ -13,6 +14,7 @@ RESEARCH_FILE = DATA_DIR / "research.md"
 OUTREACH_FILE = DATA_DIR / "outreach.md"
 SITE_DIR = Path(__file__).resolve().parent.parent / "docs"
 DASHBOARD_JSON = DATA_DIR / "dashboard.json"
+LOCK_FILE = DATA_DIR / ".dashboard.lock"
 
 
 def _append(path: Path, content: str) -> Path:
@@ -43,18 +45,35 @@ def _save_dashboard_json(data: dict) -> None:
         (SITE_DIR / "dashboard.json").write_text(content)
 
 
+def _locked_update(update_fn) -> None:
+    """Acquire a file lock, load dashboard.json, apply update_fn, and save.
+
+    Prevents race conditions when parallel subagents write simultaneously.
+    """
+    DATA_DIR.mkdir(exist_ok=True)
+    with open(LOCK_FILE, "w") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        try:
+            data = _load_dashboard_json()
+            update_fn(data)
+            _save_dashboard_json(data)
+        finally:
+            fcntl.flock(lock, fcntl.LOCK_UN)
+
+
 def save_discovery(report: str, prospects: Union[list[Prospect], None] = None) -> Path:
     """Append a discovery report to data/discovery.md and update JSON."""
     path = _append(DISCOVERY_FILE, report)
     if prospects:
         import datetime
 
-        data = _load_dashboard_json()
-        data["discovery_runs"].append({
-            "date": datetime.date.today().isoformat(),
-            "prospects": [p.model_dump(mode="json") for p in prospects],
-        })
-        _save_dashboard_json(data)
+        def update(data):
+            data["discovery_runs"].append({
+                "date": datetime.date.today().isoformat(),
+                "prospects": [p.model_dump(mode="json") for p in prospects],
+            })
+
+        _locked_update(update)
     return path
 
 
@@ -62,9 +81,10 @@ def save_research(report: str, dossier: Union[Dossier, None] = None) -> Path:
     """Append a dossier report to data/research.md and update JSON."""
     path = _append(RESEARCH_FILE, report)
     if dossier:
-        data = _load_dashboard_json()
-        data["dossiers"].append(dossier.model_dump(mode="json"))
-        _save_dashboard_json(data)
+        def update(data):
+            data["dossiers"].append(dossier.model_dump(mode="json"))
+
+        _locked_update(update)
     return path
 
 
@@ -72,11 +92,12 @@ def save_outreach(report: str, package: Union[OutreachPackage, None] = None) -> 
     """Append an outreach report to data/outreach.md and update JSON."""
     path = _append(OUTREACH_FILE, report)
     if package:
-        data = _load_dashboard_json()
-        if "outreach_packages" not in data:
-            data["outreach_packages"] = []
-        data["outreach_packages"].append(package.model_dump(mode="json"))
-        _save_dashboard_json(data)
+        def update(data):
+            if "outreach_packages" not in data:
+                data["outreach_packages"] = []
+            data["outreach_packages"].append(package.model_dump(mode="json"))
+
+        _locked_update(update)
     return path
 
 
@@ -84,8 +105,9 @@ def clear_outreach() -> None:
     """Remove all outreach data from outreach.md and dashboard.json."""
     if OUTREACH_FILE.exists():
         OUTREACH_FILE.write_text("")
-    data = _load_dashboard_json()
-    data["outreach_packages"] = []
-    # Also clear legacy key if present
-    data.pop("outreach_sequences", None)
-    _save_dashboard_json(data)
+
+    def update(data):
+        data["outreach_packages"] = []
+        data.pop("outreach_sequences", None)
+
+    _locked_update(update)
