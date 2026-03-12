@@ -767,7 +767,7 @@ function renderProposals() {
       <div class="hero" style="padding: 40px 20px 32px;">
         <div class="hero-title" style="font-size: 32px;">Proposal Engine</div>
         <div class="hero-subtitle" style="max-width: 640px;">
-          AI-assisted proposal writing trained on McChrystal Group\u2019s voice, structure, and winning patterns.
+          Drop past proposals into a folder. Claude Code reads them, learns the patterns, and drafts new proposals from your dossier data. No training, no APIs \u2014 just files and AI.
         </div>
         <div style="margin-top: 16px; display: inline-block; padding: 4px 14px; border-radius: 20px; border: 1px solid var(--amber); color: var(--amber); font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Coming Soon</div>
       </div>
@@ -782,7 +782,7 @@ function renderProposals() {
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--green);">1</div>
           <h3>Learn from History</h3>
-          <p>Ingest past proposals, SOWs, and pricing sheets. The agent learns McChrystal\u2019s language, scope structures, staffing models, and how engagements are framed for different industries and problem types.</p>
+          <p>Drop past proposals, SOWs, and pricing sheets into <code>data/proposals/</code>. Claude Code reads them directly \u2014 no training step, no database. It learns McChrystal\u2019s language, scope structures, and how engagements are framed.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--amber);">2</div>
@@ -832,7 +832,7 @@ function renderProposals() {
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--ui-bright);">\u2197</div>
           <h3>Past Proposals</h3>
-          <p>PDFs, Word docs, or text of previous proposals \u2014 both wins and losses. The more examples, the better the agent learns voice, structure, and pricing norms.</p>
+          <p>PDFs, Word docs, or text files in <code>data/proposals/</code>. Both wins and losses. Claude Code reads them on demand \u2014 the more examples, the better the output.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--ui-bright);">\u2696</div>
