@@ -808,3 +808,741 @@ Best regards,
 McChrystal Group
 
 ---
+
+
+---
+
+# Outreach Sequence — WME Group (fka Endeavor)
+
+- **Target**: WME Group (fka Endeavor)
+- **Revenue**: $6.0B
+- **ICP Score**: 93
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: WME Group's rebrand — building what comes next
+- **Timing**: +0 days
+- **Hook**: $25B go-private, founder departure, and complete rebrand happening simultaneously
+
+Mark,
+
+The WME Group transition is one of the most ambitious corporate transformations I've seen — a $25B go-private, a founder stepping back, a complete rebrand, and major asset divestitures, all within twelve months.
+
+At McChrystal Group, we've worked with organizations navigating exactly this kind of inflection point — where the strategic direction is clear but the organizational identity hasn't caught up yet. The challenge isn't the strategy. It's getting 10,000 people to feel like they belong to the new thing, not mourn the old one.
+
+General McChrystal faced a version of this when he unified organizations across the intelligence community that had never operated as one team. The operating model we built — what became the Team of Teams framework — was designed for exactly this kind of moment: new leadership, new mission, same people who need a reason to believe.
+
+Would a 30-minute conversation be useful? I'd like to understand how you're thinking about the organizational side of the WME Group buildout.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: How one organization rebuilt identity after a major transition
+- **Timing**: +5 days
+- **Hook**: Organizational identity crisis during structural transformation
+
+Mark,
+
+Following up on my note about WME Group's transformation.
+
+We recently worked with a global organization that went through a similar inflection — new ownership, leadership transition, and a mandate to build a fundamentally different operating model. The hardest part wasn't redesigning the org chart. It was creating shared purpose fast enough that talented people didn't leave during the uncertainty.
+
+What we found: organizations that define "who we are now" within the first 12 months of a major transition retain 2-3x more key talent than those that let identity emerge organically. The difference is deliberate culture architecture versus hoping it figures itself out.
+
+With Ari's transition to executive chairman, the TKO carveouts, and the WME Group rebrand all happening at once — the window to set that foundation is open now. It won't stay open long.
+
+Happy to share what we've learned about compressing that identity-building timeline.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: Quick question on WME Group's operating model
+- **Timing**: +10 days
+- **Hook**: Direct ask tied to organizational design post-rebrand
+
+Mark,
+
+One last thought. You're simultaneously running WME Group, serving as TKO's President and COO, and integrating the assets that stayed versus those that went to Ari's MARI. That's three operating models that need to work together.
+
+We've helped leaders in similar dual-mandate roles build the connective tissue between entities that share resources but have different missions. It's a specific problem that requires a specific operating framework — not just good intentions.
+
+If this resonates, I'd suggest a brief diagnostic conversation — 30 minutes, no commitment. We'll share what we see and you can decide if it's worth exploring further.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — The Ensign Group
+
+- **Target**: The Ensign Group
+- **Revenue**: $5.8B
+- **ICP Score**: 87
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: Ensign's leadership pipeline — scaling what works
+- **Timing**: +0 days
+- **Hook**: 51 acquisitions in 2025 outpacing leadership development capacity
+
+Barry,
+
+Fifty-one acquisitions in a single year. That's not a growth strategy — that's a leadership production challenge disguised as an M&A one.
+
+I've been following Ensign's model for some time, and what strikes me is how similar it is to what General McChrystal built at Joint Special Operations Command — decentralized authority, empowered leaders at every level, shared culture as the connective tissue. You call it servant leadership. We call it Team of Teams. It's the same operating philosophy.
+
+The question we help organizations like yours answer: how do you produce leaders at the pace your acquisition strategy demands without diluting the culture that makes the model work?
+
+We've built leadership development pipelines for organizations scaling at your pace — where every new "unit" needs a commander who doesn't just manage, but transforms.
+
+Would a conversation about systematizing your leadership pipeline be valuable? I think we'd find a lot of common ground.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: What breaks first at 50+ acquisitions per year
+- **Timing**: +5 days
+- **Hook**: Scaling decentralized model without losing cultural coherence
+
+Barry,
+
+Following up on my note about Ensign's growth.
+
+We work with a number of organizations running decentralized operating models — and the pattern is consistent. The model works brilliantly up to a certain scale. Then one of three things breaks: leader quality starts to vary, cultural onboarding becomes superficial, or the shared standards that connect autonomous units start to drift.
+
+None of these are fatal individually. But at 50+ facilities per year, they compound. The organizations that sustain decentralized excellence at scale are the ones that invest in systematizing leader production — not just finding good people, but building a repeatable system that makes good people great, fast.
+
+That's the work McChrystal Group does. We've helped organizations build the infrastructure that makes your kind of model sustainable at scale.
+
+Happy to share a specific example if it would be helpful.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: 30 minutes on scaling the Ensign Way
+- **Timing**: +10 days
+- **Hook**: Direct ask focused on leadership pipeline acceleration
+
+Barry,
+
+Last thought. Ensign's 2026 guidance implies another 14% growth year. That means another 50+ facilities, another 50+ leaders needed, another 50+ cultures to integrate.
+
+We'd like to propose a focused conversation — 30 minutes — about what a leadership acceleration system looks like for an organization growing at your pace. No pitch, just a diagnostic discussion about whether there's a fit.
+
+General McChrystal has deep respect for what you've built. The Ensign model is what he believes all organizations should aspire to. The question is whether we can help you scale it faster.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — GXO Logistics
+
+- **Target**: GXO Logistics
+- **Revenue**: $13.2B
+- **ICP Score**: 82
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: GXO's leadership overhaul — getting the new model right
+- **Timing**: +0 days
+- **Hook**: New CEO restructuring entire leadership team within 6 months
+
+Patrick,
+
+New CEOs who restructure their entire leadership team within six months are sending a clear signal: the old operating model is broken. With 150,000 employees across 1,000+ facilities, getting the new model right isn't optional — it's existential.
+
+At McChrystal Group, we work with leaders navigating exactly this kind of inflection. You're simultaneously onboarding a new COO, a new President of Americas, flattening reporting lines, and integrating Wincanton — all while running one of the world's largest logistics operations.
+
+General McChrystal faced a similar challenge when he took command of JSOC — inheriting a large, distributed organization that needed a fundamentally different operating model to succeed. The framework he built is now used by organizations worldwide to align distributed teams during periods of rapid change.
+
+Would 30 minutes to explore whether that framework applies to GXO's transformation be worthwhile?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: Centralizing without losing the warehouse floor
+- **Timing**: +5 days
+- **Hook**: Gap between corporate standardization vision and frontline execution
+
+Patrick,
+
+Following up on my earlier note.
+
+One pattern we see in every large-scale restructuring: the leadership team aligns on a new operating model at the top — but it takes 12-18 months for that model to reach the frontline. In logistics, the gap between corporate vision and warehouse-floor execution is where performance lives or dies.
+
+We've helped organizations close that gap faster by building what we call "shared consciousness" — the ability for every level of the organization to understand the strategy, not just execute the tasks. It's the difference between compliance and commitment.
+
+With your Wincanton integration, new COO role, and regional restructuring all happening simultaneously, the risk of that gap widening is real. Happy to share how other organizations have managed it.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: Quick thought on GXO's transformation timeline
+- **Timing**: +10 days
+- **Hook**: Integration window closing — direct ask for diagnostic conversation
+
+Patrick,
+
+One more thought. You've been in the role eight months. The leadership team is largely set. The question now is whether the organization below them can move at the same pace.
+
+We'd like to suggest a brief diagnostic conversation — 30 minutes where we share what we've observed in similar transformations and you share what's working and what's not. No commitment, just a calibration.
+
+The organizations that get the most value from this kind of conversation are the ones that engage early — when the operating model is still being shaped, not after it's calcified.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — Heartland Dental
+
+- **Target**: Heartland Dental
+- **Revenue**: $4.2B
+- **ICP Score**: 80
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: 1,900 practices, one culture — Orahh Care's real challenge
+- **Timing**: +0 days
+- **Hook**: Orahh Care launch signals rethinking of network cohesion
+
+Pat,
+
+The Orahh Care launch caught my attention — not as a brand play, but as an organizational design challenge. Creating a unified dental community across 1,900+ practices that each expect clinical autonomy is one of the hardest problems in distributed operations.
+
+At McChrystal Group, we've spent two decades helping organizations solve exactly this tension: how do you create shared identity and standards across a distributed network without undermining the autonomy that makes each unit effective?
+
+General McChrystal built the Team of Teams operating model for this exact scenario — empowered leaders at every level, connected by shared consciousness rather than top-down control. It's the difference between a franchise that feels corporate and a network that feels like a community.
+
+With 165 offices added last year and the Orahh Care vision taking shape, the window to get the operating model right is now. I'd welcome a conversation about how we might help.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: What 1,900 autonomous units need to feel like one team
+- **Timing**: +5 days
+- **Hook**: Culture gap between corporate vision and practice-level reality
+
+Pat,
+
+Following up on my note about Orahh Care.
+
+In our work with large distributed organizations, we've found that the gap between corporate culture programs and frontline reality is almost always an operating model problem, not a training problem. You can run all the CE courses and values workshops in the world — but if the regional structure, decision-making authority, and communication cadence don't reinforce the culture, it won't translate.
+
+Heartland has invested heavily in development — 1,300+ CE courses, Concorde partnerships, Free Dentistry Day. These are genuinely impressive. The question is whether the organizational architecture amplifies that investment or dilutes it.
+
+Happy to share how other organizations with 1,000+ distributed units have closed that gap.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: A conversation about scaling the Heartland model
+- **Timing**: +10 days
+- **Hook**: Direct ask tied to leadership pipeline for continued growth
+
+Pat,
+
+Last thought. With guidance pointing to another aggressive growth year, Heartland will need more regional directors, more practice managers, and more leaders at every level who embody the culture — not just manage the operations.
+
+We'd like to propose a 30-minute conversation about what a leadership acceleration system looks like for an organization at your scale. No pitch — just a diagnostic discussion to see if there's a fit.
+
+We've found these conversations are most valuable before the next growth cycle kicks in, not during it.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — Amentum
+
+- **Target**: Amentum
+- **Revenue**: $14.4B
+- **ICP Score**: 80
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: Amentum's integration — a challenge we know well
+- **Timing**: +0 days
+- **Hook**: West Point CEO leading classified-environment mega-merger integration
+
+John,
+
+One West Point graduate to another — what you're building at Amentum is one of the most complex organizational integrations in the defense sector. Merging two organizations that operate in classified environments across 80 countries isn't a standard integration. It's the kind of challenge that broke lesser organizations.
+
+General McChrystal faced a version of this when he unified JSOC, CIA, NSA, and partner forces in Iraq — organizations that literally could not share information with each other due to classification barriers. The operating model he built to solve that problem is now what we bring to organizations facing similar complexity.
+
+The parallel to Amentum is direct: building shared consciousness across programs and business units that can't formally share information. Making 53,000 people feel like one organization when their work requires compartmentalization.
+
+I'd welcome a conversation about whether our experience applies to what you're building. Thirty minutes — no commitment, just a calibration between people who understand the stakes.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: Two cultures, one company — what we've learned
+- **Timing**: +5 days
+- **Hook**: PE-lean vs. engineering-process culture clash in post-merger integration
+
+John,
+
+Following up on my earlier note.
+
+In our work with post-merger organizations, the hardest cultural integration isn't between competitors — it's between organizations that were both successful but in fundamentally different ways. Legacy Amentum was lean, PE-backed, entrepreneurial. Jacobs CMS was process-driven, engineering-heavy, public-company disciplined. Both worked. Neither is wrong. But they can't simply coexist — they need to evolve into something new.
+
+We call this the "third culture" challenge. The organizations that succeed build deliberately. The ones that struggle let culture emerge by attrition — whichever group has more people or louder voices wins, and the other side disengages.
+
+With your leverage down to 3.2x and financial integration ahead of schedule, you've earned the breathing room to invest in the harder work. Happy to share how other defense sector mergers have approached it.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: Diagnostic conversation on Amentum's operating model
+- **Timing**: +10 days
+- **Hook**: Direct ask — DOGE pressure creates urgency for organizational agility
+
+John,
+
+One final thought. With DOGE scrutiny and federal budget uncertainty, the organizations that will thrive aren't the ones with the best contracts — they're the ones that can reallocate talent and resources faster than the contracting cycle allows. That kind of organizational agility doesn't happen by accident.
+
+We'd like to propose a focused diagnostic — 30 minutes where we share what we've seen in similar defense sector integrations and you share where Amentum is in the journey. West Point to West Point, no sales pitch.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — Caliber Collision
+
+- **Target**: Caliber Collision
+- **Revenue**: $7.5B
+- **ICP Score**: 80
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: Caliber's IPO readiness — the organizational side
+- **Timing**: +0 days
+- **Hook**: PE-to-public transition requires organizational maturity across 1,700+ locations
+
+Mark,
+
+Going public exposes every organizational seam. At 1,700+ locations and 30,000 employees, Caliber needs to operate like one company — not 1,700 acquisitions stitched together. The IPO roadshow will test whether that's true.
+
+At McChrystal Group, we've worked with organizations preparing for exactly this transition — from PE-backed growth mode to public-company discipline. The challenge isn't the financial readiness. It's whether the operating model, leadership pipeline, and culture can withstand the scrutiny.
+
+General McChrystal built a framework for making distributed organizations perform as one — where every unit is autonomous but aligned. That's what 1,700 collision centers need to be before the first analyst asks how you maintain quality at scale.
+
+Would a conversation about the organizational side of IPO readiness be valuable? Thirty minutes, no commitment.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: What public markets look for beyond the financials
+- **Timing**: +5 days
+- **Hook**: Legacy ABRA integration friction persists six years post-merger
+
+Mark,
+
+Following up on my earlier note.
+
+One thing we've observed in PE-to-IPO transitions: the organizations that stumble post-listing aren't usually the ones with financial surprises. They're the ones where operational consistency across locations varies more than the S-1 suggests.
+
+Six years after the ABRA merger, integration challenges still surface in some markets. That's not unusual — cultural integration at 1,700+ sites takes years. But public investors have less patience for regional inconsistency than PE owners do.
+
+We've helped organizations build the connective tissue between locations that makes "same experience everywhere" real, not just aspirational. Happy to share what we've learned.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: 30 minutes on Caliber's operating model
+- **Timing**: +10 days
+- **Hook**: Technician retention crisis + IPO timeline = organizational urgency
+
+Mark,
+
+Last thought. You're losing technicians to independent shops that offer more autonomy — while simultaneously adding governance layers for the IPO. That tension won't resolve itself.
+
+We'd like to propose a brief diagnostic conversation about what an operating model looks like that satisfies public-market requirements without making your best technicians feel like they work for a corporation instead of a collision center.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — FleetPride
+
+- **Target**: FleetPride
+- **Revenue**: $3.0B
+- **ICP Score**: 79
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: FleetPride + TruckPro — the 12-month integration window
+- **Timing**: +0 days
+- **Hook**: Fresh merger with dual PE sponsors, new CEO, 450+ locations to integrate
+
+Tom,
+
+Two PE owners, a freshly merged workforce, and 450+ locations that just became one company on paper. Making them one company in practice is the hard part — and the integration window is 12-18 months before the cultures calcify into "us vs. them."
+
+At McChrystal Group, we specialize in helping newly combined organizations build a unified operating model under pressure. Your situation has an added layer of complexity most don't face: dual PE sponsors with different investment theses and governance expectations.
+
+General McChrystal built the Team of Teams framework for exactly this kind of challenge — creating alignment across organizations with different histories, cultures, and ways of operating.
+
+Would a conversation about FleetPride's integration approach be valuable? I'd like to understand how you're thinking about it.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: What dual-sponsor integration really demands
+- **Timing**: +5 days
+- **Hook**: American Securities + Platinum Equity governance complexity
+
+Tom,
+
+Following up on my earlier note.
+
+Most PE-backed integrations are hard enough with one sponsor. FleetPride has two — American Securities and Platinum Equity — each with their own value creation thesis and governance expectations. That creates a decision-making complexity that flows through the entire organization.
+
+We've worked with dual-sponsor portfolio companies where the leadership team spent more time managing upward than managing the integration. The ones that succeed build an operating cadence that gives both sponsors visibility while maintaining leadership autonomy on execution.
+
+Your background at Advance Auto Parts gives you the operational credibility to lead this. The question is whether the organizational infrastructure matches the ambition. Happy to share what we've seen work.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: Diagnostic conversation on post-merger alignment
+- **Timing**: +10 days
+- **Hook**: Glassdoor 2.4/5 signals culture deficit that merger will amplify
+
+Tom,
+
+One final thought. Mergers amplify whatever's already there — good and bad. FleetPride's Glassdoor scores suggest there's cultural work to do, and bringing TruckPro's workforce into the mix adds another variable.
+
+We'd like to propose a 30-minute diagnostic conversation about what post-merger alignment looks like for a distributed industrial services company. No pitch — just a calibration on whether our approach fits your situation.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — InvestCloud
+
+- **Target**: InvestCloud
+- **Revenue**: $800M
+- **ICP Score**: 79
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: InvestCloud's pivot — beyond the layoffs
+- **Timing**: +0 days
+- **Hook**: AI-driven restructuring requires new operating model, not just fewer people
+
+Jeff,
+
+You've done this before — transformed a company's identity, not just its strategy. At Fiserv, you turned a $4B payments company into a $15B fintech platform over 15 years. At InvestCloud, you're trying to do something similar in a fraction of the time.
+
+The March layoffs were a necessary step. But layoffs get you to a smaller org chart — they don't give you a better operating model. InvestCloud's shift from custom solutions to a productized AI-first platform requires a fundamentally different way of working: different team structures, different decision-making processes, different skill requirements.
+
+At McChrystal Group, we help organizations rebuild their operating model during periods of strategic transformation. The companies that succeed don't just cut — they redesign.
+
+Would a conversation about what InvestCloud's operating model looks like on the other side of this pivot be valuable?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: From custom to product — the organizational rewiring
+- **Timing**: +5 days
+- **Hook**: Business model transformation requires organizational design change
+
+Jeff,
+
+Following up on my note.
+
+The shift from custom solutions to productized platform is one of the hardest transformations a company can make — because it changes the identity of the people doing the work. Engineers who built custom solutions feel diminished deploying standardized ones. Client teams who sold relationships now need to sell products.
+
+We've helped companies navigate this identity shift by building what we call "shared consciousness" — making sure everyone understands not just what's changing, but why, and what their role is in the new model. It's the difference between compliance and commitment.
+
+With Motive Partners' timeline adding urgency, getting this right in the next 6-12 months determines whether InvestCloud emerges as a category leader or gets stuck in transition.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: Quick thought on InvestCloud's transformation timeline
+- **Timing**: +10 days
+- **Hook**: Direct ask — PE timeline compresses transformation window
+
+Jeff,
+
+At Fiserv you had 15 years. At InvestCloud, with Motive Partners' timeline, you have maybe 3. That compression changes what's possible with organic transformation alone.
+
+We'd like to suggest a 30-minute diagnostic — you share where the transformation stands, we share what we've seen in similar PE-backed pivots. No commitment, just a calibration.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — Kindeva Drug Delivery
+
+- **Target**: Kindeva Drug Delivery
+- **Revenue**: $1.2B
+- **ICP Score**: 78
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: Kindeva's new leadership team — building the foundation
+- **Timing**: +0 days
+- **Hook**: Near-complete C-suite turnover, 1.9/5 Glassdoor culture score
+
+David,
+
+Taking the helm of a company that's been through four acquisitions in four years, with a near-complete C-suite turnover and a 1.9/5 culture score on Glassdoor — that's not a CEO job, it's a founding job. You're building Kindeva's identity from scratch.
+
+At McChrystal Group, we've worked with newly formed leadership teams in exactly this position — where the strategic opportunity is clear but the organizational foundation doesn't exist yet. The window to set that foundation is the first 6-12 months of a new leadership team's tenure. After that, patterns calcify.
+
+General McChrystal built the Team of Teams framework for organizations that needed to create trust and alignment across groups that had never worked together. Kindeva's four-acquisition patchwork — 3M Drug Delivery, Meridian, iPharma, Summit — is the corporate equivalent.
+
+I'd welcome a conversation about how we might help. Milton Boyer suggested you might find our approach valuable.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: Four acquisitions, one culture — what we've learned
+- **Timing**: +5 days
+- **Hook**: Multiple acquisition integration with cultural vacuum
+
+David,
+
+Following up on my earlier note.
+
+The companies that succeed after rapid acquisition aren't the ones that force a single culture on everyone. They're the ones that build a deliberate operating framework that respects each legacy while creating something new.
+
+At Kindeva, your employees came from 3M, Pfizer's Meridian unit, iPharma, and Summit. Each had its own way of working, its own definition of quality, its own identity. The Glassdoor scores suggest they haven't found a shared one yet.
+
+We've helped organizations in exactly this position — new leadership, multiple legacy cultures, and a PE sponsor expecting results on a timeline. The work is: define who Kindeva is, build the operating model that makes it real, and do it fast enough that your best people don't leave during the ambiguity.
+
+Happy to share a specific example if it would be useful.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: 30 minutes on Kindeva's organizational foundation
+- **Timing**: +10 days
+- **Hook**: Direct ask — first 6 months is the window for new CEO
+
+David,
+
+You've been in the role three months. The decisions you make about organizational culture and operating model in the next six months will define Kindeva for the next decade.
+
+We'd like to propose a brief diagnostic conversation — 30 minutes to share what we've seen in similar spinoff-to-standalone transitions and hear how you're approaching it.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+
+---
+
+# Outreach Sequence — Apex Service Partners
+
+- **Target**: Apex Service Partners
+- **Revenue**: $2.2B
+- **ICP Score**: 77
+- **Emails in sequence**: 3
+
+## Email 1
+
+- **Subject**: 107 companies, one platform — Apex's leadership challenge
+- **Timing**: +0 days
+- **Hook**: PE roll-up with 107+ acquisitions needing cultural unification at speed
+
+Jeff,
+
+Alpine Investors' PeopleFirst thesis is one of the most compelling ideas in PE: the belief that leadership talent is the primary driver of returns. At 107+ acquisitions, Apex Service Partners is the ultimate test of that thesis.
+
+At McChrystal Group, we've spent two decades building leadership systems for organizations that need to produce leaders faster than they're growing. That's your challenge at Apex — every acquisition adds a company that needs to be connected to the platform without destroying what made it successful locally.
+
+General McChrystal calls this the Team of Teams problem: how do you create alignment across autonomous units that need to operate independently but can't afford to operate in isolation? It's the exact tension at the heart of every roll-up.
+
+Would a conversation about systematizing Apex's leadership and culture integration be valuable?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 2
+
+- **Subject**: Scaling PeopleFirst beyond the thesis
+- **Timing**: +5 days
+- **Hook**: Alpine's PeopleFirst thesis needs operational framework at 107+ companies
+
+Jeff,
+
+Following up on my earlier note.
+
+Alpine's PeopleFirst approach is a thesis. Making it real across 107 companies in dozens of markets — with GMs who were independent owners six months ago — is an operating model challenge.
+
+We've worked with PE-backed platforms at similar scale where the central team had the right values but not the right system. The difference between a roll-up that works and one that fragments is whether the leadership framework can scale as fast as the deal team.
+
+At your current acquisition pace (10-15+ per year), you're adding the equivalent of a mid-size company's entire management team annually. That's a leadership production problem that most organizations have never faced.
+
+Happy to share what we've built for organizations in similar positions.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Email 3
+
+- **Subject**: Brief conversation about Apex's integration model
+- **Timing**: +10 days
+- **Hook**: Direct ask — acquisition pace outstripping integration capacity
+
+Jeff,
+
+Last thought. The deals will keep coming — the home services market is too fragmented and Alpine's thesis too strong for the pace to slow. The question is whether Apex's organizational infrastructure can keep up.
+
+We'd like to suggest a 30-minute diagnostic conversation about what a scalable leadership and culture integration system looks like for a platform growing at your pace.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---

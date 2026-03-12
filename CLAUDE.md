@@ -75,6 +75,7 @@ Core offerings:
 - Flag recent C-suite changes, activist investor pressure, M&A, or public organizational failures as high-priority
 - For each Tier 3 prospect, include a one-sentence "why this is worth the unconventional bet" rationale
 - Do NOT target organizations already known to be McChrystal Group clients
+- **Prioritize non-obvious, creative companies** — avoid household names (Boeing, Amazon, Google, etc.) that anyone would think of. The value is surfacing companies people wouldn't find on their own: PE-backed roll-ups, spinoffs, fresh mergers, niche industry leaders with strong transformation signals
 
 ### Phase 2: Research (implemented)
 Comprehensive dossiers a Senior Partner can read in under 10 minutes. Seven sections:

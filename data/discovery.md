@@ -188,3 +188,282 @@ Haleon, spun off from GSK in 2022, is executing a company-wide operating model t
 **Justification**
 
 Block is undergoing one of the most dramatic corporate transformations of 2026 — cutting 40% of its workforce to reorganize around AI. While revenue ($24B) is above the ICP sweet spot, the remaining 6,000 employees face a massive cultural and operational shift. The challenge of rebuilding organizational identity, maintaining morale, and executing an 'AI-first' strategy with half the workforce is where leadership and team alignment consulting adds enormous value.
+
+---
+
+# Discovery Report — March 11, 2026 22:39
+
+- **Prospects found**: 10
+- **Score range**: 77–93
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | WME Group (fka Endeavor) | Tier 3 | 93 | $6.0B | 10K+ | M And A, Leadership Change, Reorg, Transformation |
+| 2 | The Ensign Group | Tier 1 | 87 | $5.8B | 40K+ | Rapid Growth, M And A, Transformation |
+| 3 | GXO Logistics | Tier 2 | 82 | $9.8B | 150K+ | Leadership Change, Reorg, Transformation |
+| 4 | Heartland Dental | Tier 2 | 80 | $4.2B | 10K+ | M And A, Transformation, Leadership Change |
+| 5 | Amentum | Tier 1 | 80 | $14.4B | 53K+ | M And A, Transformation, Reorg |
+| 6 | Caliber Collision | Tier 2 | 80 | $7.5B | 30K+ | M And A, Rapid Growth, Transformation |
+| 7 | FleetPride | Tier 2 | 79 | $3.0B | 6K+ | M And A, Leadership Change, Transformation |
+| 8 | InvestCloud | Tier 2 | 79 | $800M | 3K+ | Reorg, Transformation, Leadership Change |
+| 9 | Kindeva Drug Delivery | Tier 1 | 78 | $1.2B | 2K+ | Leadership Change, Transformation, Reorg |
+| 10 | Apex Service Partners | Tier 2 | 77 | $2.2B | 8K+ | M And A, Rapid Growth, Transformation |
+
+## Tier 1 — Conventional
+
+### The Ensign Group — Score 87
+
+- **Revenue**: $5.8B
+- **Employees**: 40K+
+- **Industry**: Healthcare (Skilled Nursing & Senior Living)
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Rapid Growth** (2026-02-04): Acquired 51 healthcare operations in 2025 alone, bringing portfolio to 378 operations across 17 states. Revenue grew to $5.06B with guidance of $5.8B for 2026.
+- **M And A** (2025-11-01): Aggressive acquisition strategy adding 1,200+ skilled nursing beds and 100+ senior living units per quarter. Building-by-building transition process across diverse geographies.
+- **Transformation** (2025-08-01): Scaling a decentralized 'servant leadership' model across 378 operations — each facility operates semi-autonomously, requiring a leadership pipeline producing dozens of new facility leaders per year.
+
+**Entry Point**
+
+CEO Barry Port or COO — the executives managing the balance between acquisition pace and leadership pipeline. A board-level conversation about sustainable scaling would resonate.
+
+**Conversation Hook**
+
+Ensign acquired 51 facilities in 2025. The question isn't whether the deal team can find targets — it's whether the leadership pipeline can produce enough qualified operators to run them without diluting the culture.
+
+**Why They Fit**
+
+Ensign's decentralized operating model is remarkably similar to McChrystal's Team of Teams — semi-autonomous facilities connected by shared standards and culture. The challenge: adding 50+ facilities per year means they need to produce leaders faster than they're acquiring buildings.
+
+### Amentum — Score 80
+
+- **Revenue**: $14.4B
+- **Employees**: 53K+
+- **Industry**: Defense & Government Services
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2024-09-27): Completed transformational merger with Jacobs Solutions' Critical Mission Solutions and Cyber & Intelligence businesses in September 2024 — creating a $14.4B government services giant.
+- **Transformation** (2026-02-09): Multi-year integration of two massive organizations (53,000+ employees across 80 countries). Deleveraging from 4.0x to 3.2x while building unified culture and operating model.
+- **Reorg** (2025-06-01): Newly public company (NYSE: AMTM) navigating post-merger identity, organizational design, and government contract portfolio rationalization amid federal spending uncertainty.
+
+**Entry Point**
+
+CEO John Heller (West Point graduate) — he personally understands McChrystal's leadership philosophy. Alternatively, the CHRO or Chief Integration Officer managing the Jacobs merger integration.
+
+**Conversation Hook**
+
+Merging two organizations that operate in classified environments across 80 countries isn't a standard integration — it's the kind of complexity that broke lesser organizations. McChrystal's team built the operating model for exactly this kind of distributed, high-stakes coordination.
+
+**Why They Fit**
+
+Amentum is the result of one of the largest government services mergers in recent history — combining two deeply technical, mission-critical organizations into one entity. CEO John Heller is a West Point graduate (natural McChrystal affinity). The challenge: unifying 53,000 people across 80 countries while maintaining classified program performance.
+
+### Kindeva Drug Delivery — Score 78
+
+- **Revenue**: $1.2B
+- **Employees**: 2K+
+- **Industry**: Healthcare / Pharmaceutical CDMO
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Leadership Change** (2026-01-01): New CEO David Stevens effective January 2026, replacing founding CEO Milton Boyer. Also appointed new CFO (Daniel Speciale) and CIO (Prakash Pandian) — near-complete C-suite turnover.
+- **Transformation** (2025-10-01): Spun off from 3M and acquired by Altaris Capital Partners for $650M. Transitioning from a conglomerate division to standalone PE-backed CDMO — building independent identity, culture, and operating model.
+- **Reorg** (2025-10-01): Building new HQ in Woodbury, MN. Digital transformation initiative with new CIO. Succession plan initiated October 2025, completed January 2026.
+
+**Entry Point**
+
+New CEO David Stevens — he inherited a company mid-transformation and needs to build his leadership team's operating rhythm. Altaris Capital's deal partner would also be a strong champion.
+
+**Conversation Hook**
+
+Spinoffs that replace the CEO, CFO, and CIO within 12 months are either building something new or struggling to hold together the old. Kindeva's window to set the cultural foundation is now.
+
+**Why They Fit**
+
+Kindeva is navigating one of the hardest transitions in business: from a protected division inside 3M to a standalone PE-backed company. Near-complete C-suite turnover, new HQ, digital transformation, and Altaris performance expectations create urgent need for leadership alignment and organizational design.
+
+## Tier 2 — Adjacent
+
+### GXO Logistics — Score 82
+
+- **Revenue**: $9.8B
+- **Employees**: 150K+
+- **Industry**: Logistics & Supply Chain
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Leadership Change** (2025-08-19): New CEO Patrick Kelleher appointed August 2025 (replacing retiring Malcolm Wilson), bringing 33 years of DHL experience. First COO (Bart Beeks) appointed January 2026.
+- **Reorg** (2026-01-02): Major organizational restructuring: new President of Americas/APAC from Ferguson, new COO role created, Chief Revenue Officer departed March 2026. Regional leaders now report directly to CEO.
+- **Transformation** (2025-11-03): 150,000+ employees across 1,000+ facilities globally — new leadership team redesigning entire organizational structure to 'accelerate growth' post-spinoff from XPO.
+
+**Entry Point**
+
+CEO Patrick Kelleher — he's actively reshaping the organization and would understand the value of a structured transformation framework. Alternatively, the new COO Bart Beeks, who owns operational excellence.
+
+**Conversation Hook**
+
+New CEOs who restructure leadership teams within their first 6 months are signaling that the old operating model is broken. With 150,000 employees, GXO can't afford to get the new model wrong — and the window to set it right is closing.
+
+**Why They Fit**
+
+GXO is in the middle of a wholesale leadership and organizational overhaul: new CEO, new COO, new regional president, departing CRO, and flattened reporting lines — all while managing 150,000 employees across 1,000+ warehouses. This is exactly the kind of complex, high-stakes organizational transformation where McChrystal's operating model thrives.
+
+### Heartland Dental — Score 80
+
+- **Revenue**: $4.2B
+- **Employees**: 10K+
+- **Industry**: Healthcare (Dental Services)
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2025-10-01): KKR-backed dental roll-up operating 1,900+ dental offices across 38 states — one of the largest DSOs in the U.S.
+- **Transformation** (2025-08-01): Navigating tension between standardized PE-driven operations and clinical autonomy dentists expect. Must maintain culture across 1,900+ locations with high provider turnover.
+- **Leadership Change** (2025-06-01): Rapid executive turnover and operational complexity as company integrates newly acquired practices while managing existing ones under PE performance pressure.
+
+**Entry Point**
+
+Chief Operating Officer or Chief People Officer — the leader responsible for operational consistency and culture across 1,900+ offices. KKR's operating team could also champion an engagement.
+
+**Conversation Hook**
+
+At 1,900+ locations, Heartland is essentially running a distributed military operation where every 'unit commander' (dentist) expects autonomy. The organizations that scale past this threshold without a deliberate operating model either stall or fracture.
+
+**Why They Fit**
+
+Heartland Dental faces the signature PE roll-up dilemma at massive scale: 1,900+ locations, thousands of dentists who resist corporatization, and KKR-driven performance expectations. McChrystal's Team of Teams and culture change capabilities directly address the tension between central standardization and local clinical autonomy.
+
+### Caliber Collision — Score 80
+
+- **Revenue**: $7.5B
+- **Employees**: 30K+
+- **Industry**: Automotive Services (Collision Repair)
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2025-03-01): Hellman & Friedman-backed collision repair roll-up with 1,700+ locations nationwide. Filed for IPO in 2024, signaling a potential public market transition.
+- **Rapid Growth** (2025-06-01): Grew from regional player to 30,000+ employees and $7.5B revenue through hundreds of acquisitions, creating massive integration and culture alignment challenges.
+- **Transformation** (2024-12-01): IPO preparation requires shift from PE-backed growth-at-all-costs to public-company governance, operational transparency, and sustainable leadership pipeline.
+
+**Entry Point**
+
+CEO or Chief Transformation Officer — the executive leading IPO readiness. The Hellman & Friedman board representative responsible for value creation would also be receptive.
+
+**Conversation Hook**
+
+Going public exposes every organizational crack. Caliber's 1,700+ locations need to operate like one company, not 1,700 acquisitions — and that transformation needs to happen before the IPO roadshow, not after.
+
+**Why They Fit**
+
+Caliber faces a dual challenge: integrating 1,700+ acquired collision repair shops under a unified culture while simultaneously preparing for public-market scrutiny. The PE-to-IPO transition demands the kind of organizational maturity, leadership development, and cross-functional alignment McChrystal delivers.
+
+### FleetPride — Score 79
+
+- **Revenue**: $3.0B
+- **Employees**: 6K+
+- **Industry**: Industrial Distribution (Heavy-Duty Auto Parts)
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2025-10-28): Completed strategic merger with TruckPro (October 2025) to form largest independent heavy-duty aftermarket distributor in North America — 450+ locations, 110+ service centers.
+- **Leadership Change** (2025-07-01): New CEO Tom Greco appointed July 2025 to lead combined entity. Dual PE ownership (American Securities + Platinum Equity) adds governance complexity.
+- **Transformation** (2025-11-01): Merger resolved significant debt burden flagged by Moody's. Now must integrate two cultures, rationalize 450+ locations, and build unified operating model under new leadership.
+
+**Entry Point**
+
+CEO Tom Greco — hired specifically to lead post-merger integration. American Securities and Platinum Equity operating partners would also be receptive to organizational advisory.
+
+**Conversation Hook**
+
+FleetPride has two PE owners, a new CEO, a freshly merged workforce, and 450+ locations that just became one company on paper. Making them one company in practice is the hard part — and the integration window is 12-18 months.
+
+**Why They Fit**
+
+FleetPride is a freshly merged entity with a new CEO, two PE owners, and 450+ locations to integrate. The dual-sponsor PE structure adds complexity that most companies don't face. McChrystal's cross-functional alignment and leadership development capabilities directly address the integration challenge.
+
+### InvestCloud — Score 79
+
+- **Revenue**: $800M
+- **Employees**: 3K+
+- **Industry**: Financial Technology (Wealth Management)
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Reorg** (2026-03-09): Cut 150+ positions in Digital Wealth division in March 2026 as part of AI-driven restructuring. CEO Jeff Yabuki cited AI productivity gains and shift to productized innovation.
+- **Transformation** (2026-02-01): Motive Partners PE-backed company undergoing fundamental business model transformation from custom solutions to productized AI-first platform.
+- **Leadership Change** (2025-09-01): CEO Jeff Yabuki (former Fiserv CEO) leading a strategic pivot requiring complete organizational realignment — new operating model, new team structures, new skill requirements.
+
+**Entry Point**
+
+CEO Jeff Yabuki — former Fiserv CEO who understands large-scale organizational transformation. He's the decision-maker driving this pivot and would value a structured approach.
+
+**Conversation Hook**
+
+Layoffs get you to a smaller org chart — but they don't give you a better operating model. InvestCloud's AI pivot requires a fundamentally different way of working, not just fewer people doing the same things.
+
+**Why They Fit**
+
+InvestCloud is in the middle of a PE-imposed strategic pivot: cutting staff, shifting from custom to productized offerings, and rebuilding around AI. This is a classic 'transformation under pressure' scenario where McChrystal's organizational redesign and leadership alignment capabilities are directly applicable.
+
+### Apex Service Partners — Score 77
+
+- **Revenue**: $2.2B
+- **Employees**: 8K+
+- **Industry**: Home Services (HVAC, Plumbing, Electrical)
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2025-12-01): PE-backed roll-up by Alpine Investors with 107+ acquisitions across HVAC, plumbing, and electrical services — integration of fragmented local brands into a single operating platform.
+- **Rapid Growth** (2025-06-01): Scaled from startup to $2.2B revenue and 8,000+ employees through aggressive acquisition cadence, adding new companies monthly.
+- **Transformation** (2025-09-01): Facing classic roll-up integration challenge: standardizing culture, leadership, and operations across 107+ formerly independent companies while preserving local market relationships.
+
+**Entry Point**
+
+COO or VP of Integration — the person responsible for post-acquisition integration across 107+ companies. Alpine Investors' operating partner overseeing Apex could also be a champion.
+
+**Conversation Hook**
+
+With 107+ acquisitions and counting, Apex is past the point where ad-hoc integration works. The question isn't whether to systematize leadership and culture across the platform — it's whether they can do it fast enough to stay ahead of the acquisition pace.
+
+**Why They Fit**
+
+Textbook McChrystal fit: PE-imposed timelines, 107+ acquired companies needing cultural unification, leadership development across dozens of local GMs, and cross-functional alignment between formerly independent operators. The 'Team of Teams' model is purpose-built for this kind of decentralized-but-connected challenge.
+
+## Tier 3 — Unconventional
+
+### WME Group (fka Endeavor) — Score 93
+
+- **Revenue**: $6.0B
+- **Employees**: 10K+
+- **Industry**: Media, Entertainment & Sports
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **M And A** (2025-03-24): Silver Lake completed $25B go-private acquisition of Endeavor in March 2025. Company rebranded to WME Group with complete leadership restructuring.
+- **Leadership Change** (2025-03-24): Founder Ari Emanuel stepped down as CEO, becoming executive chairman. Mark Shapiro elevated to president. Patrick Whitesell launched new Silver Lake-backed platform.
+- **Reorg** (2025-11-01): Massive asset divestiture: sold OpenBet, transferred IMG/PBR/On Location to TKO Group ($3.25B), Emanuel's MARI acquired IMG Arts & Entertainment. Entire organizational identity being rebuilt.
+- **Transformation** (2025-06-01): Transitioning from founder-led public conglomerate to PE-owned, focused entertainment platform. Rebuilding organizational identity, culture, and operating model after stripping away major business units.
+
+**Entry Point**
+
+President & Managing Partner Mark Shapiro — he's the operational leader building the new WME Group. Silver Lake's deal lead would also be receptive given the integration complexity.
+
+**Conversation Hook**
+
+Stripping a company down to its core after a $25B go-private is the easy part. Rebuilding culture and operating model with a workforce that watched their founder leave and half their colleagues get divested — that's happening now.
+
+**Why They Fit**
+
+WME Group is one of the most dramatic corporate transformations happening right now: $25B go-private, founder departure, complete rebrand, massive divestitures, and new operating model — all in 12 months. Why this is worth the unconventional bet: entertainment is relationship-driven and resists corporate restructuring, making this exactly the kind of culture-first transformation McChrystal excels at.
