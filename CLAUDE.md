@@ -150,10 +150,23 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `data/` — generated reports (Markdown + dashboard.json)
 
-## Deployment
-- **Dashboard**: GitHub Pages — https://ace1523.github.io/bd-agent/ (auto-deploys from `docs/` on push to main)
+## Dashboard
+- **URL**: https://ace1523.github.io/bd-agent/ (auto-deploys from `docs/` on push to main)
 - **Repo**: https://github.com/Ace1523/bd-agent
 - After any data or dashboard changes, push to main to update the live site
+
+**Views:**
+- **Home** — Pipeline Summary KPIs (prospect count, avg ICP score, fit rating breakdown, outreach count), core capabilities, who we target, industry tiers, fit signals, scoring model
+- **Pipeline** — All discovered prospects as expandable cards, sorted by score
+- **Research** — Dossier cards with full 7-section detail on expand; "View Outreach" link if outreach exists
+- **Outreach** — Email sequence cards with target contacts, fit rating badge, copy-to-clipboard per email
+- **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase
+
+**UI features:**
+- Company search bar (top-right nav) — searches across all views, clicking a result navigates and auto-expands the card
+- Click-to-expand cards on Pipeline, Research, and Outreach views
+- All data reads from `docs/dashboard.json` which is synced from `data/dashboard.json` by `save.py`
+- Color palette: McChrystal orange (`#da6123`) for brand accents, muted neutrals for UI elements
 
 ## Tech Stack
 - Python 3.11+, Pydantic, Rich
