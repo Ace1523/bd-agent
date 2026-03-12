@@ -127,6 +127,20 @@ Quality standards: be specific (no generic filler), flag [INFERRED] vs. confirme
 - Models: `Email`, `OutreachSequence` in `bd/models.py`
 - Report: `bd/outreach/drafter.py` — `generate_outreach_report()`
 
+### Phase 4: Proposals (coming soon)
+AI-drafted proposals using McChrystal Group's historical proposals as reference material. Claude Code is the engine — no training pipeline, no APIs.
+
+**How it works:**
+1. Past proposals, SOWs, pricing sheets, and contracts are stored in `data/proposals/` (PDFs, Word docs, text files)
+2. When drafting for a prospect, Claude Code reads relevant reference proposals + the prospect's dossier
+3. Generates a first draft matching McChrystal's voice, scope structure, staffing models, and pricing patterns
+4. Senior Partners review and correct; Claude Code learns from the feedback over time
+
+**What's needed to activate:**
+- Past proposals dropped into `data/proposals/` — both wins and losses
+- Pricing guidelines and rate cards
+- Win/loss context (what worked, what didn't)
+
 ## Pipeline Orchestration
 Claude Code can run the full BD pipeline (discover -> research -> outreach) with a single instruction using helpers in `bd/pipeline.py`:
 
@@ -149,6 +163,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data
 - `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `data/` — generated reports (Markdown + dashboard.json)
+- `data/proposals/` — reference folder for past proposals, SOWs, contracts (Phase 4 input)
 
 ## Dashboard
 - **URL**: https://ace1523.github.io/bd-agent/ (auto-deploys from `docs/` on push to main)
