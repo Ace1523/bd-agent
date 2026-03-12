@@ -60,6 +60,56 @@ Core offerings:
 - Collegiate/university systems (presidents navigating restructuring)
 - Major infrastructure projects (construction programs, transit authorities)
 
+## Scoring Model
+
+Total ICP fit score: 0–100 points across four components.
+
+| Component | Max Points | What It Measures |
+|-----------|-----------|-----------------|
+| Signals | 35 | Count of signals (top 4) + recency bonus |
+| Revenue | 25 | Fit within $500M–$10B sweet spot |
+| Employees | 20 | 2,000+ preferred, 500+ minimum |
+| McChrystal Fit | 20 | High-fit signal types + signal diversity |
+
+**Revenue scoring curve:**
+- Sweet spot $500M–$10B → 70–100% of 25 pts (peak at midpoint)
+- Below $500M → pro-rata × 0.5
+- Above $10B → 60%
+- Unknown → 30%
+
+**Employee scoring:**
+- Below 500 → pro-rata × 0.3
+- 500–2,000 → 50–70%
+- 2,000+ → 70–100% (diminishing returns)
+- Unknown → 30%
+
+**Signal scoring:**
+- Top 4 signals count (cap prevents signal-stuffing)
+- Each signal: base (60%) + recency bonus
+- Recency: <30 days = 40%, <90 days = 30%, <180 days = 20%, older = 10%, unknown date = 15%
+
+**Fit scoring:**
+- HIGH_FIT_SIGNALS: `reorg`, `transformation`, `m_and_a`, `hiring_surge`, `funding`, `partnership` → 5 pts each (max 12)
+- Signal diversity: 2 pts per unique signal type (max 8)
+
+**Formula:** `score = revenue + employees + signals + fit`
+
+### Signal Type Definitions
+
+All 9 signal types used during discovery to classify organizational moments:
+
+| Signal Type | Definition |
+|-------------|-----------|
+| `reorg` | Restructuring, downsizing, organizational redesign |
+| `m_and_a` | Mergers, acquisitions, divestitures, go-private deals |
+| `leadership_change` | C-suite departures, new CEO/COO/CTO appointments |
+| `earnings_miss` | Revenue shortfall, guidance cuts, EBITDA pressure |
+| `rapid_growth` | Revenue surge, rapid scaling, market expansion |
+| `transformation` | Digital transformation, business model pivot, strategic overhaul |
+| `hiring_surge` | Aggressive hiring, talent acquisition push, new division buildout |
+| `funding` | IPO, capital raise, PE investment, debt restructuring |
+| `partnership` | Strategic alliances, joint ventures, platform partnerships |
+
 ## Workflow
 
 ### Phase 1: Discover (implemented)

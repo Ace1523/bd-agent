@@ -1182,28 +1182,39 @@ function renderHowItWorks() {
           <div class="score-bar-track">
             <div class="score-bar-fill bar-signals" style="width: 35%;">35</div>
           </div>
-          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">Reorgs, M&A, leadership changes, earnings misses, transformation, hiring surges, funding, partnerships</div>
+          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">Top 4 signals scored on base (60%) + recency bonus (40% if &lt;30d, 30% &lt;90d, 20% &lt;180d, 10% older)</div>
         </div>
         <div class="score-bar-row">
           <div class="score-bar-label">Revenue Fit</div>
           <div class="score-bar-track">
             <div class="score-bar-fill bar-revenue" style="width: 25%;">25</div>
           </div>
-          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">$500M\u2013$10B sweet spot for premium advisory engagements</div>
+          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">$500M\u2013$10B sweet spot (70\u2013100%); below pro-rata \u00d7 0.5; above $10B 60%; unknown 30%</div>
         </div>
         <div class="score-bar-row">
           <div class="score-bar-label">Employee Count</div>
           <div class="score-bar-track">
             <div class="score-bar-fill bar-employees" style="width: 20%;">20</div>
           </div>
-          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">2,000+ preferred \u2014 organizational complexity drives need</div>
+          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">2,000+ preferred (70\u2013100%); 500\u20132K partial (50\u201370%); below 500 pro-rata \u00d7 0.3</div>
         </div>
         <div class="score-bar-row">
           <div class="score-bar-label">McChrystal Fit</div>
           <div class="score-bar-track">
             <div class="score-bar-fill bar-fit" style="width: 20%;">20</div>
           </div>
-          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">Industry tier weighting \u2014 Tier 1 (conventional) scores highest</div>
+          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">High-fit signals (reorg, transformation, M&A, hiring, funding, partnership) 5 pts each (max 12) + diversity bonus 2 pts/type (max 8)</div>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-top:16px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Scoring Details</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
+          <strong>Signal cap:</strong> Only the top 4 signals count \u2014 prevents signal-stuffing and keeps the model balanced.<br>
+          <strong>Recency weighting:</strong> Recent signals score higher. A leadership change last month is worth more than one from a year ago.<br>
+          <strong>High-fit signals:</strong> Reorg, transformation, M&A, hiring surge, funding, and partnership map directly to McChrystal capabilities and score 5 pts each in the fit component (capped at 12).<br>
+          <strong>Signal diversity:</strong> Prospects with multiple different signal types score a 2 pt bonus per unique type (capped at 8). Diverse signals suggest complex situations \u2014 McChrystal\u2019s sweet spot.<br>
+          <strong>Formula:</strong> <code style="background:var(--bg-card); padding:2px 6px; border-radius:3px; font-size:12px;">score = revenue + employees + signals + fit</code>
         </div>
       </div>
     </div>

@@ -23,6 +23,7 @@ HIGH_FIT_SIGNALS = {
     SignalType.m_and_a,
     SignalType.hiring_surge,
     SignalType.funding,
+    SignalType.partnership,
 }
 
 
