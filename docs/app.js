@@ -5,6 +5,7 @@ let dashboardData = null;
 // ── Init ──
 document.addEventListener("DOMContentLoaded", () => {
   setupTabs();
+  setupScrollTop();
   loadData();
 });
 
@@ -38,6 +39,17 @@ function switchTab(view) {
     .classList.add("active");
   document.getElementById(`view-${view}`).classList.add("active");
   window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function setupScrollTop() {
+  const btn = document.getElementById("scroll-top");
+  if (!btn) return;
+  window.addEventListener("scroll", () => {
+    btn.classList.toggle("visible", window.scrollY > 300);
+  });
+  btn.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
 }
 
 async function loadData() {

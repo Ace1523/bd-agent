@@ -708,6 +708,36 @@ body {
   border-color: var(--green);
 }
 
+/* ── Scroll to Top ── */
+.scroll-top {
+  position: fixed;
+  bottom: 28px;
+  left: 28px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: var(--bg-surface);
+  color: var(--accent);
+  font-size: 16px;
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  pointer-events: none;
+  z-index: 200;
+  box-shadow: var(--shadow-sm);
+}
+.scroll-top.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+.scroll-top:hover {
+  background: var(--bg-hover);
+  border-color: var(--accent);
+}
+
 /* ── Toast ── */
 .toast {
   position: fixed;
