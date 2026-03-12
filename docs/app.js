@@ -261,22 +261,22 @@ function renderHome() {
       <div class="home-section-title">Core Capabilities</div>
       <div class="method-grid">
         <div class="method-card">
-          <div class="method-card-icon">&#9670;</div>
+          <div class="method-card-icon" style="color:#da6123;">&#9733;</div>
           <h3>Team of Teams</h3>
           <p>Operating model implementation built on shared consciousness and empowered execution \u2014 the framework that transformed Joint Special Operations Command.</p>
         </div>
         <div class="method-card">
-          <div class="method-card-icon">&#9650;</div>
+          <div class="method-card-icon" style="color:#7ab8f5;">&#9650;</div>
           <h3>Leadership & Executive Coaching</h3>
           <p>Developing leaders who drive transformation in VUCA environments. Decentralized authority with aligned intent.</p>
         </div>
         <div class="method-card">
-          <div class="method-card-icon">&#9724;</div>
+          <div class="method-card-icon" style="color:#e8c547;">&#11044;</div>
           <h3>Organizational Design</h3>
           <p>Redesigning structures for adaptability and speed. Breaking hierarchies and silos that fail in fast-moving markets.</p>
         </div>
         <div class="method-card">
-          <div class="method-card-icon">&#9675;</div>
+          <div class="method-card-icon" style="color:#c75d5d;">&#9878;</div>
           <h3>Crisis & High-Stakes Leadership</h3>
           <p>Decision-making under pressure. Culture change and trust-building at scale when failure has real consequences.</p>
         </div>
@@ -287,22 +287,22 @@ function renderHome() {
       <div class="home-section-title">How It Works</div>
       <div class="method-grid">
         <div class="method-card">
-          <div class="method-card-icon">&#9670;</div>
+          <div class="method-card-icon" style="color:#6bc9a0;">&#9906;</div>
           <h3>Autonomous Discovery</h3>
           <p>Claude Code searches the web for organizations showing transformation signals. Each prospect is scored against a 100-point ICP model across 4 dimensions. No human input required \u2014 the agent identifies, validates, and ranks prospects independently.</p>
         </div>
         <div class="method-card">
-          <div class="method-card-icon">&#9650;</div>
+          <div class="method-card-icon" style="color:#a78bdb;">&#9881;</div>
           <h3>Parallel Research Subagents</h3>
           <p>Prospects are split into batches and delegated to parallel subagents, each performing deep web research. Every subagent builds a complete 8-section dossier \u2014 from org snapshot and financials to leadership profiles and fit assessment. Multiple agents run simultaneously to cover 20 companies in minutes.</p>
         </div>
         <div class="method-card">
-          <div class="method-card-icon">&#9724;</div>
+          <div class="method-card-icon" style="color:#da6123;">&#9993;</div>
           <h3>AI-Drafted Outreach</h3>
           <p>Subagents generate 3-email sequences per prospect, each tailored to specific trigger events and leadership contacts from the dossier. Written in Senior Partner voice \u2014 peer-to-peer, not sales copy.</p>
         </div>
         <div class="method-card">
-          <div class="method-card-icon">&#9675;</div>
+          <div class="method-card-icon" style="color:#7ab8f5;">&#9889;</div>
           <h3>Single-Command Pipeline</h3>
           <p>The entire flow (discover \u2192 research \u2192 outreach) runs from a single instruction. Pipeline orchestration tracks completeness, verifies quality gates, and deploys to a live dashboard automatically.</p>
         </div>
