@@ -1524,3 +1524,382 @@ McChrystal Group
 Spencer — Ensign's decentralized model at 378 facilities is one of the most impressive operating stories in healthcare. We help large distributed organizations maintain speed and alignment at scale. Your comments on facility-level specialization really resonated. Would enjoy connecting.
 
 ---
+
+
+---
+
+# Outreach Package — Corteva Agriscience
+
+**Target**: [Separation PMO Leader], SVP, Strategy / Separation Program Management
+**Why this contact**: Directly responsible for the organizational design challenge McChrystal can address — building two standalone operating models within the H2 2026 deadline
+**Company**: Corteva Agriscience | **Score**: 75 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Corteva's separation — the org design challenge no one's talking about
+**Hook**: Board-approved separation into two public companies with H2 2026 deadline
+
+Hi [First Name],
+
+Corteva's decision to separate Seed and Crop Protection into two independent public companies is one of the most ambitious corporate separations in agriculture. The strategic logic is sound — but the organizational execution is where separations succeed or fail.
+
+The challenge most advisory firms miss: how do 21,500 people across six continents maintain coordination during a period when the organization is literally splitting in two? Strategy firms design the org chart. IT firms separate the systems. But who builds the leadership operating rhythms that keep both entities performing while the split happens?
+
+That's what McChrystal Group does. We've helped organizations maintain operational effectiveness during high-stakes transitions where speed, coordination, and decentralized execution are non-negotiable — drawing from the same principles that transformed Joint Special Operations.
+
+Would a 20-minute conversation make sense? I'd welcome the chance to share how we've approached similar challenges.
+
+Best,
+[Signature]
+
+---
+
+## Version B — Insight-based
+**Subject**: What agriculture separations get wrong
+**Hook**: Industry pattern: corporate separations fail on execution, not strategy
+
+Hi [First Name],
+
+Having watched several large-scale corporate separations closely, there's a consistent pattern: the strategy is clear, the IT separation is mapped, the legal structure is designed — and then the organization struggles because nobody built the human operating system for how 20,000+ people actually coordinate during the split.
+
+Corteva's separation is particularly complex because of the "razor-and-blade" integration between Seed and Crop Protection. Employees, customer relationships, and R&D platforms span both entities. Separating them without disrupting the agricultural calendar's unforgiving planting windows adds a constraint most separations don't face.
+
+McChrystal Group specializes in exactly this kind of challenge — building shared consciousness and coordinated execution across large, distributed organizations during periods of maximum change. Our approach comes from military operations where failure has real consequences and timelines are non-negotiable.
+
+I'd value 20 minutes to explore whether our approach resonates with what you're navigating.
+
+Best,
+[Signature]
+
+---
+
+## Version C — Warm angle
+**Subject**: A thought on Corteva's next 12 months
+**Hook**: Chairman Greg Page's Cargill background and agriculture leadership network
+
+Hi [First Name],
+
+I've been following Corteva's separation announcement with great interest — particularly the agricultural calendar constraint that makes this separation uniquely high-stakes compared to typical corporate splits.
+
+Chairman Greg Page's experience leading Cargill through complex global transformations gives Corteva's board a rare perspective on what organizational execution at this scale requires. Having worked with leaders who've navigated similarly high-stakes, time-pressured organizational transitions, I see direct parallels with the kind of challenges McChrystal Group helps organizations solve.
+
+We work with leadership teams during the critical execution window — not designing strategy (you have that), but building the coordination and decision-making architecture that ensures 21,500 people across six continents execute the separation without missing a beat during planting season.
+
+Would a brief conversation be worthwhile? Happy to share specific examples of how we've approached similar transitions.
+
+Best,
+[Signature]
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Corteva separation — organizational execution challenge
+
+Following Corteva's separation closely — the organizational execution challenge of splitting a $17.7B company across 6 continents in 12 months is fascinating. McChrystal Group works on exactly these kinds of high-stakes organizational transitions. Would welcome connecting.
+
+---
+
+
+---
+
+# Outreach Package — QXO
+
+**Target**: Josephine Berisha, Chief Human Resources Officer
+**Why this contact**: Directly responsible for culture integration across 700+ branches — headquarters-branch disconnect and talent attrition from legacy Beacon employees are her top challenges
+**Company**: QXO | **Score**: 83 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: QXO's Kodiak deal + Beacon integration — the people side
+**Hook**: Kodiak $2.25B acquisition announced while Beacon integration still underway
+
+Josephine,
+
+Announcing the $2.25B Kodiak acquisition while Beacon's 600-branch integration is still underway sends a clear signal: QXO's growth ambition is relentless. That's exciting — and it creates an organizational challenge that compounds with every deal.
+
+The question isn't whether the strategy works. Brad Jacobs has proven that across XPO, GXO, and RXO. The question is whether the organization can absorb acquisitions at this pace without the culture friction that slows integration and drives talent out.
+
+McChrystal Group specializes in building organizational operating models for exactly this scenario — creating shared consciousness across hundreds of distributed locations while enabling each branch to execute locally. Our approach comes from coordinating thousands of people across dozens of locations in high-stakes environments where execution speed is everything.
+
+Could we find 20 minutes to explore whether our approach fits QXO's integration challenge?
+
+Best,
+[Signature]
+
+---
+
+## Version B — Insight-based
+**Subject**: The hidden cost of serial acquisitions
+**Hook**: Pattern: PE-backed roll-ups that move faster than their culture can absorb
+
+Josephine,
+
+There's a pattern in PE-backed roll-ups that we see repeatedly: the deal pace outstrips the organization's ability to culturally absorb acquisitions. Headquarters moves at PE speed. Branch employees feel disconnected. Industry veterans leave — taking customer relationships with them.
+
+It's not a strategy problem. It's an operating model problem. The headquarters-branch disconnect grows with every acquisition because nobody built the coordination architecture that scales.
+
+McChrystal Group was founded on solving this exact challenge — maintaining shared consciousness and coordinated execution across large distributed organizations. We help serial acquirers build a repeatable integration operating model that preserves speed while ensuring every branch feels connected to the mission.
+
+QXO's 700+ location network with a $50B revenue target is precisely the kind of ambitious, distributed challenge we work on. Would a brief conversation be valuable?
+
+Best,
+[Signature]
+
+---
+
+## Version C — Warm angle
+**Subject**: Connecting the corporate office to 700+ branches
+**Hook**: CHRO role managing culture across a rapidly expanding distributed network
+
+Josephine,
+
+Leading HR for a company that's gone from startup to 700+ locations in under two years — with more acquisitions ahead — puts you at the center of one of the most interesting organizational challenges in distribution today.
+
+The people who hold the customer relationships are in the branches, not at headquarters. When those people feel disconnected from the direction, the entire growth thesis is at risk. It's a challenge we've seen in distributed organizations across industries, and it's one McChrystal Group is built to address.
+
+We help organizations build the operating rhythms that connect a fast-moving headquarters to a distributed field organization — so that branch managers feel heard, aligned, and empowered rather than directed from afar. It's the difference between a network that executes together and one that just shares a logo.
+
+Would it be worth 20 minutes to explore how our approach could support QXO's integration journey?
+
+Best,
+[Signature]
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CHRO culture integration challenge at 700+ branch scale
+
+Leading culture integration across 700+ branches during serial acquisitions is one of the most complex CHRO challenges in distribution. McChrystal Group works on exactly this — shared consciousness across distributed organizations. Would welcome connecting.
+
+---
+
+
+---
+
+# Outreach Package — Grant Thornton Advisors
+
+**Target**: Jim Peko, CEO, Grant Thornton Advisors LLC
+**Why this contact**: New CEO 14 months into the most complex transformation in the firm's history — needs organizational alignment tools for dual-entity governance and international expansion
+**Company**: Grant Thornton Advisors | **Score**: 78 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Leading GT through its biggest transformation
+**Hook**: CEO transition + PE-backed international consolidation + dual-entity structure
+
+Jim,
+
+Taking the helm of Grant Thornton during the most complex transformation in the firm's 100-year history — PE-backed growth, international consolidation, dual-entity governance, and a cultural shift from partnership to platform — puts you in a position few professional services CEOs have faced.
+
+The strategy is clear. New Mountain's growth thesis is sound. The question is: how do you get 10,000 professionals who chose a partnership-culture career to execute at PE speed without destroying the collaborative client relationships that make the firm valuable?
+
+That's exactly what McChrystal Group helps organizations navigate. We build the operating rhythms and leadership alignment that convert ambitious strategy into organizational execution — especially during periods when the operating model itself is changing. Our work draws from the same principles that transformed large-scale military operations.
+
+Would a 20-minute conversation be worthwhile? Happy to share how we've approached similar transformation challenges.
+
+Best,
+[Signature]
+
+---
+
+## Version B — Insight-based
+**Subject**: PE + partnership culture — the execution gap
+**Hook**: Pattern: PE-backed professional services transformations stall on culture, not strategy
+
+Jim,
+
+The accounting industry is watching Grant Thornton closely. As the first major U.S. firm to take PE capital, you're writing the playbook everyone else will follow — or avoid.
+
+Here's the pattern we've observed in PE-backed professional services transformations: the growth strategy is always clear. The technology investments are always identified. And execution almost always stalls because the partnership culture can't absorb the pace of change PE timelines demand.
+
+It's not a strategy problem. It's an organizational operating model problem. Partners who built careers on consensus governance need to see why PE-speed execution serves their clients and their careers — not just the PE firm's returns.
+
+McChrystal Group specializes in bridging that gap. We help organizations move fast without breaking the relationships that make them valuable. Would it be worth connecting for a brief conversation?
+
+Best,
+[Signature]
+
+---
+
+## Version C — Warm angle
+**Subject**: A note on GT's international expansion
+**Hook**: Grant Thornton Ireland acquisition + global platform buildout as unprecedented in mid-tier accounting
+
+Jim,
+
+What Grant Thornton is building — a PE-backed global multidisciplinary platform from what was primarily a U.S.-centric firm — has no precedent in accounting. Ireland is integrated, UAE and Luxembourg are in progress, Netherlands is in talks. Each acquisition brings a different national culture, regulatory environment, and operating model into a single platform.
+
+Having worked with organizations that coordinate across dozens of countries and cultures, I know this challenge well. The strategic case for each acquisition is straightforward. The coordination challenge of maintaining quality, culture, and client experience across an expanding international footprint is where things get hard.
+
+McChrystal Group was built for exactly this — creating shared consciousness across geographically distributed organizations while enabling local teams to execute with autonomy. We'd welcome 20 minutes to explore how our approach resonates with what you're building.
+
+Best,
+[Signature]
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: PE-backed global professional services transformation
+
+Building the first PE-backed global accounting platform is a fascinating organizational challenge. McChrystal Group works with leaders navigating exactly this kind of transformation — maintaining culture quality at speed. Would welcome connecting.
+
+---
+
+
+---
+
+# Outreach Package — Sedgwick
+
+**Target**: Vishy Padmanabhan, Chief Transformation Officer
+**Why this contact**: Newly created CTO role with mandate to drive integrated transformation spanning digital, data, and enterprise processes across 33,000 colleagues in 80 countries
+**Company**: Sedgwick | **Score**: 95 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Driving transformation across 33,000 people in 80 countries
+**Hook**: CTO appointment with mandate to transform digital, data, and enterprise processes globally
+
+Vishy,
+
+Congratulations on the Chief Transformation Officer role at Sedgwick. Your mandate — driving integrated transformation across digital, data, and enterprise processes for 33,000 colleagues in 80 countries — is one of the most ambitious organizational transformation scopes I've seen.
+
+Your Bain and Wells Fargo background gives you the strategic and operational playbook. The piece that's hardest to solve at this scale: how do you get 33,000 claims professionals across 80 countries to actually change how they work? The technology and process design will come. The organizational adoption at global scale is where transformations of this magnitude succeed or fail.
+
+McChrystal Group was built for exactly this problem. We help organizations build shared consciousness and coordinated execution across large, distributed, multi-country operations — drawing from the principles that transformed coalition operations across dozens of countries and time zones.
+
+Would 20 minutes be worthwhile to explore whether our approach complements what you're building?
+
+Best,
+[Signature]
+
+---
+
+## Version B — Insight-based
+**Subject**: The 80-country coordination challenge
+**Hook**: Global transformations fail when HQ strategy doesn't translate to country-level execution
+
+Vishy,
+
+Here's a pattern we see in every global transformation: the strategy is designed at headquarters, the technology is selected centrally, the processes are mapped — and then execution fractures across countries because each local operation interprets and adapts differently.
+
+In claims management, that fracture is invisible until a multinational client notices inconsistent claims handling across their global program. By then, the damage is done.
+
+The challenge at Sedgwick's scale isn't designing the transformation — it's building the organizational operating system that translates your vision consistently across 80 countries with different languages, regulatory environments, and professional cultures. McChrystal Group specializes in exactly this: creating shared consciousness across geographically distributed organizations while enabling local teams to adapt execution to their markets.
+
+Our approach draws from coordinating operations across dozens of countries in high-stakes environments where inconsistency has real consequences. Would a brief conversation be valuable?
+
+Best,
+[Signature]
+
+---
+
+## Version C — Warm angle
+**Subject**: From Bain strategy to 33K-person execution
+**Hook**: Padmanabhan's Bain background — bridging strategy to organizational execution
+
+Vishy,
+
+Moving from Bain to a CTO role at a 33,000-person global operation is a fascinating transition. You know better than most that strategy design and organizational execution are fundamentally different disciplines — and that the gap between them is where transformations fail.
+
+At McChrystal Group, we bridge that gap. We're not strategy consultants (Bain alumni don't need more strategy advice) and we're not technology implementers. We build the organizational operating system — the leadership rhythms, communication architectures, and decision-making frameworks — that converts strategy into execution across large, distributed organizations.
+
+Sedgwick's scale and global complexity is exactly the kind of challenge we work on. Our model comes from coordinating thousands of people across dozens of countries in environments where execution quality is non-negotiable — an experience that translates directly to global claims management.
+
+Would it be worth 20 minutes to compare notes on organizational execution at scale?
+
+Best,
+[Signature]
+
+---
+
+## LinkedIn Message
+**Type**: inmail
+**Subject**: Transformation at 33K-person scale
+**Hook**: CTO transformation mandate at global scale — Bain-to-execution bridge
+
+Vishy — your CTO mandate at Sedgwick is one of the most ambitious transformation scopes in the industry. McChrystal Group specializes in the organizational execution piece at exactly this scale — shared consciousness across 80 countries. Would welcome a conversation about how our approach might complement your vision.
+
+---
+
+
+---
+
+# Outreach Package — Concentra Group Holdings
+
+**Target**: Matthew DiCanio, President & CFO
+**Why this contact**: Single executive managing TSA wind-down, $265M Nova integration, de novo expansion, public company reporting, and growth strategy simultaneously
+**Company**: Concentra Group Holdings | **Score**: 91 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Concentra's November deadline — the coordination challenge
+**Hook**: TSA with Select Medical expiring November 2026 while integrating Nova and expanding
+
+Matthew,
+
+Building a fully independent corporate infrastructure before the Select Medical TSA expires in November — while simultaneously integrating Nova Medical's 67 sites and opening 7-9 new locations — is one of the most complex operational convergences in healthcare services today.
+
+The technology partners will build the systems. The question is: how do you ensure 770+ centers keep delivering consistent service to 200,000 employers — including every Fortune 100 company — while everything changes around them?
+
+McChrystal Group specializes in exactly this: maintaining operational excellence across hundreds of distributed locations during periods of maximum organizational change. Our approach builds the coordination architecture that connects corporate transformation to center-level execution — so that your clinical teams and employer clients never feel the transition.
+
+Would 20 minutes be worthwhile? Happy to share how we've helped other distributed organizations navigate similar convergences.
+
+Best,
+[Signature]
+
+---
+
+## Version B — Insight-based
+**Subject**: Scaling without breaking at 770+ locations
+**Hook**: Pattern: healthcare services companies that grow faster than their coordination model can support
+
+Matthew,
+
+Here's a pattern in distributed healthcare services: organizations grow through acquisitions and de novo expansion, reach 500+ locations, and then discover that the coordination model that worked at 200 locations doesn't scale. Service quality becomes inconsistent. Center managers feel disconnected from corporate. Employer clients notice the variability.
+
+Concentra's at an inflection point where this pattern becomes acute — 770+ locations, a major acquisition being integrated, new locations opening, and corporate infrastructure being rebuilt simultaneously. The growth is impressive. The coordination challenge is real.
+
+McChrystal Group was built for distributed operations at this scale. We help organizations create shared consciousness across hundreds of independently operating locations while empowering each one to execute locally. Our model comes from coordinating large-scale operations across dozens of locations in high-stakes environments where consistency is non-negotiable.
+
+Would a brief conversation be valuable?
+
+Best,
+[Signature]
+
+---
+
+## Version C — Warm angle
+**Subject**: Admiring what Concentra's building
+**Hook**: Keith Newton's 25+ years building Concentra through multiple ownership transitions
+
+Matthew,
+
+What Keith Newton and the team have built at Concentra over 25+ years — from a merger of occupational health businesses to the nation's largest provider with 770+ locations and 100% Fortune 100 penetration — is remarkable. And the IPO and full spinoff add an exciting new chapter.
+
+I'm reaching out because the current moment strikes me as uniquely challenging: you're building standalone operations, integrating the largest acquisition in company history, expanding the network, and establishing public company credibility — all simultaneously. That convergence of demands on organizational coordination is exactly where McChrystal Group works.
+
+We help distributed organizations maintain execution quality during periods of maximum change — building the operating rhythms that ensure every center performs while the corporate infrastructure transforms around it. Our approach draws from coordinating operations across hundreds of locations in high-stakes environments.
+
+Would 20 minutes to explore a conversation make sense?
+
+Best,
+[Signature]
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Simultaneous organizational buildout across 770+ healthcare locations
+
+Managing TSA transition, Nova integration, and de novo expansion simultaneously across 770+ centers is a remarkable coordination challenge. McChrystal Group works on exactly this — operational excellence across distributed healthcare organizations during transformation. Would welcome connecting.
+
+---

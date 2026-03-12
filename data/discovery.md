@@ -467,3 +467,151 @@ Stripping a company down to its core after a $25B go-private is the easy part. R
 **Why They Fit**
 
 WME Group is one of the most dramatic corporate transformations happening right now: $25B go-private, founder departure, complete rebrand, massive divestitures, and new operating model — all in 12 months. Why this is worth the unconventional bet: entertainment is relationship-driven and resists corporate restructuring, making this exactly the kind of culture-first transformation McChrystal excels at.
+
+
+---
+
+# Discovery Report — March 12, 2026 12:26
+
+- **Prospects found**: 5
+- **Score range**: 75–95
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | Corteva Agriscience | Tier 2 | 75 | $17.7B | 21K+ | Reorg, Transformation, Leadership Change |
+| 2 | QXO | Tier 2 | 83 | $11.7B | 10K+ | M And A, Rapid Growth, Transformation |
+| 3 | Grant Thornton Advisors | Tier 2 | 78 | $2.4B | 10K+ | Funding, Transformation, Hiring Surge |
+| 4 | Sedgwick | Tier 2 | 95 | $5.0B | 33K+ | Transformation, Funding, M And A, Leadership Change |
+| 5 | Concentra Group Holdings | Tier 2 | 91 | $2.2B | 10K+ | Transformation, M And A, Rapid Growth, Hiring Surge |
+
+## Tier 2 — Adjacent
+
+### Corteva Agriscience — Score 75
+
+- **Revenue**: $17.7B
+- **Employees**: 21K+
+- **Industry**: Agriculture / Specialty Chemicals
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Reorg** (2025-10-01): Board approved separation into two independent public companies (Seed and Crop Protection) — [source](https://www.corteva.com/resources/media-center/corteva-announces-plan-to-separate-into-two-industry-leading-public-companies.html)
+- **Transformation** (2025-10-01): Building two standalone operating models from single integrated company across 6 continents
+- **Leadership Change** (2025-10-01): CEO Chuck Magro moves to lead SpinCo (Seed); Chairman Greg Page leads New Corteva (Crop Protection) — entirely new leadership structures for each entity
+
+**Entry Point**
+
+Target the Chief Transformation Officer or SVP of Strategy leading the separation program management office — this person is navigating the most complex organizational design challenge in the company's history and needs external expertise in operating model design.
+
+**Conversation Hook**
+
+Corteva's board approved the separation in October 2025 with a H2 2026 deadline — the company is now in the critical 12-month execution window where shared AI/data platform separation and duplicate leadership team buildout create the highest organizational risk.
+
+**Why They Fit**
+
+Corteva is executing one of the largest agricultural industry separations in history, splitting its $17.7B business into two standalone public companies — Seed (SpinCo, $9.9B) and Crop Protection (New Corteva, $7.8B). This creates enormous organizational design challenges: building duplicate leadership teams, separating shared AI/data platforms, disentangling global supply chains across 6 continents, and establishing two independent operating models from a single integrated culture. McChrystal's Team of Teams framework is directly applicable to the cross-functional coordination required during separation.
+
+### QXO — Score 83
+
+- **Revenue**: $11.7B
+- **Employees**: 10K+
+- **Industry**: Building Products Distribution
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2025-04-29): Acquired Beacon Roofing Supply for $11B, becoming largest U.S. building products distributor — [source](https://investors.qxo.com/news/news-details/2025/QXO-Completes-Acquisition-of-Beacon-Roofing-Supply/default.aspx)
+- **M And A** (2026-02-11): Announced $2.25B acquisition of Kodiak Building Partners (110 locations, $2.4B revenue) — [source](https://investors.qxo.com/news/news-details/2026/QXO-to-Buy-Kodiak-Building-Partners-for-2-25-Billion/default.aspx)
+- **Rapid Growth** (2025-04-29): Stated $50B revenue target within a decade — requires continuous acquisitions and rapid integration at massive scale
+- **Transformation** (2025-04-29): Applying tech-enabled distribution playbook across 700+ legacy branches from two different companies with different cultures and systems
+
+**Entry Point**
+
+Target the Chief Integration Officer or SVP of Operations responsible for harmonizing Beacon's 600-branch network with Kodiak's 110 locations — this person faces the most acute cross-functional integration challenge in building products distribution history.
+
+**Conversation Hook**
+
+QXO announced the $2.25B Kodiak acquisition in February 2026 while still integrating Beacon's 600 branches from the April 2025 close — the company is now running two massive integrations simultaneously with a $50B revenue target creating relentless acquisition pressure.
+
+**Why They Fit**
+
+QXO is executing Brad Jacobs' most ambitious roll-up yet — integrating Beacon Roofing ($9.3B, 8,000 employees, 600 branches) while simultaneously acquiring Kodiak Building Partners ($2.4B, 110 locations). The $50B revenue target means years of continuous M&A and integration at unprecedented speed. McChrystal's operating model is purpose-built for this challenge: creating shared consciousness across hundreds of acquired branches while enabling decentralized execution at each location.
+
+### Grant Thornton Advisors — Score 78
+
+- **Revenue**: $2.4B
+- **Employees**: 10K+
+- **Industry**: Accounting / Professional Services
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Funding** (2024-05-31): New Mountain Capital acquired 60% stake — largest PE investment in a U.S. accounting firm ever — [source](https://www.grantthornton.com/insights/press-releases/2024/may/new-mountain-capital-and-grant-thornton-close-growth-investment)
+- **Transformation** (2024-05-31): Restructured into alternative practice structure (CPA firm + advisory LLC) to enable PE-backed growth strategy
+- **Hiring Surge** (2024-05-31): War chest for acquisitions and technology investments funded by PE capital and debt financing — aggressive growth mandate
+
+**Entry Point**
+
+Target the Chief Operating Officer or Chief Transformation Officer responsible for executing the PE-backed growth strategy — this person must align a partnership-culture accounting firm with PE-speed execution requirements.
+
+**Conversation Hook**
+
+Grant Thornton's New Mountain Capital deal closed in May 2024, giving the firm a war chest for acquisitions and technology investment — but transforming a partnership-culture professional services firm to PE-speed execution is an organizational design challenge that the accounting industry has never faced before.
+
+**Why They Fit**
+
+Grant Thornton is the first major accounting firm to undergo PE-backed transformation, with New Mountain Capital's 60% stake creating enormous pressure to accelerate growth, execute acquisitions, and modernize operations within PE hold-period timelines. The alternative practice structure (CPA firm + advisory LLC) creates a dual-governance challenge that requires cross-functional alignment. McChrystal's expertise in building shared consciousness across structurally separated but operationally intertwined organizations maps directly to this challenge.
+
+### Sedgwick — Score 95
+
+- **Revenue**: $5.0B
+- **Employees**: 33K+
+- **Industry**: Claims Management / Insurance Services
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Transformation** (2025-09-01): Appointed Chief Transformation Officer (Vishy Padmanabhan) in newly created role to lead company-wide operational overhaul
+- **Funding** (2024-11-01): Closed $1B minority investment from Altas Partners, with Carlyle and Stone Point making additional investments — enterprise value now $13.2B — [source](https://www.sedgwick.com/press-release/sedgwick-announces-investments-from-altas-partners-carlyle-and-stone-point/)
+- **M And A** (2025-03-01): Acquired Bottomline's legal spend management division serving property and casualty insurance industry
+- **Leadership Change** (2025-09-01): New Chief Transformation Officer role created — signals board-level recognition of organizational transformation need
+
+**Entry Point**
+
+Target Vishy Padmanabhan, Chief Transformation Officer (appointed September 2025) — he is literally tasked with transforming a 33,000-person global operation and needs external expertise in cross-functional organizational design at scale.
+
+**Conversation Hook**
+
+Sedgwick appointed Vishy Padmanabhan as Chief Transformation Officer in September 2025 — a newly created role signaling that Carlyle and the leadership team recognize the 33,000-person, 80-country operation needs a fundamental operating model redesign, not just incremental improvement.
+
+**Why They Fit**
+
+Sedgwick is a 33,000-person global claims management operation undergoing PE-driven transformation at massive scale. The appointment of a Chief Transformation Officer in September 2025 signals the beginning of a major organizational overhaul — transforming siloed country-level operations into a coordinated global platform while integrating acquisitions (Bottomline LSM, others). McChrystal's cross-functional alignment and Team of Teams operating model is precisely what a CTO at a 33,000-person, 80-country operation needs to break down geographic silos.
+
+### Concentra Group Holdings — Score 91
+
+- **Revenue**: $2.2B
+- **Employees**: 10K+
+- **Industry**: Occupational Healthcare Services
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Transformation** (2025-06-01): Separating from Select Medical and building standalone corporate infrastructure — hired 80%+ of needed FTEs, TSA expires November 2026
+- **M And A** (2025-06-01): Acquired Nova Medical Centers for $265M (67 sites in 5 states) and Pivot On-site Innovations
+- **Rapid Growth** (2026-02-28): Revenue grew 13.9% to $2.2B in FY2025; planning 7-9 de novo locations in 2026, double-digit in 2027
+- **Hiring Surge** (2025-06-01): Building entire standalone corporate infrastructure — hired 80%+ of required FTEs to replace Select Medical shared services
+
+**Entry Point**
+
+Target the COO or SVP of Integration responsible for standing up independent operations while absorbing Nova Medical and Pivot acquisitions — this person is managing the highest-stakes organizational buildout in the company's history with a hard TSA deadline.
+
+**Conversation Hook**
+
+Concentra's Transition Services Agreement with Select Medical expires November 2026 — the company has a hard deadline to build completely independent operational infrastructure while simultaneously integrating the $265M Nova Medical acquisition and continuing de novo expansion.
+
+**Why They Fit**
+
+Concentra is simultaneously executing three high-complexity organizational challenges: (1) separating from parent Select Medical and building standalone corporate infrastructure before its TSA expires in November 2026, (2) integrating Nova Medical Centers (67 sites) and Pivot On-site Innovations acquisitions, and (3) scaling de novo expansion (7-9 new locations in 2026). McChrystal's operating model directly addresses the cross-functional coordination required to stand up independent operations while integrating acquisitions at the same time.

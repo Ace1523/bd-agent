@@ -2302,3 +2302,1255 @@ A single-threaded approach (one contact, one path) won't work at a company this 
 - **Board-level connections**: Visa's board includes directors with defense, financial services, and technology backgrounds — scan for McChrystal Group alumni or network adjacency
 - **Conference/event adjacency**: McInerney and Forestell speak at Davos, Money 20/20, and payments industry events. McChrystal Group's leadership presence at Milken, Aspen Security Forum, and CEO peer networks creates natural proximity
 - **Military/veteran angle**: Visa has an active veteran employee resource group and government solutions division. McChrystal's military DNA creates authentic connection points — not for the pitch, but for the relationship warmth that earns the first meeting
+
+
+---
+
+# Research Dossier — Corteva Agriscience
+
+## Organization Snapshot
+
+- **Legal Name**: Corteva, Inc.
+- **Headquarters**: Indianapolis, Indiana
+- **Founded**: 2019
+- **Industry**: Agriculture / Specialty Chemicals
+- **Revenue**: $17.7B
+- **Employees**: 21K+
+- **Ownership**: Public (NYSE: CTVA) — spun off from DowDuPont in 2019; heritage includes Dow, DuPont, and Pioneer (founded 1926)
+- **Geographic Footprint**: Operations across 6 continents; major presence in North America, South America, Europe, and Asia-Pacific; manufacturing and R&D facilities globally
+- **ICP Score**: 75
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue**: $17.4B in FY2025, up 2.9% YoY. Seed segment: $9.9B (56% of sales); Crop Protection: $7.8B (44%). Q1 2025 showed 3% price improvement in Seed and 5% volume increase in Crop Protection.
+
+**Profitability**: Operating EBITDA reached $3.85B in FY2025, up 14% YoY. Operating EPS increased 30% to $3.34. GAAP income from continuing operations: $1.20B ($1.75 EPS).
+
+**2026 Guidance**: Operating EBITDA target of $4.0–$4.2B. 2027 value framework reaffirmed.
+
+**Analyst Sentiment**: 14 analysts cover CTVA — 29% Strong Buy, 57% Buy, 14% Hold. Concerns about "deal purgatory" during separation period where stock may underperform. Oppenheimer flagged mixed investor reactions to breaking the "razor-and-blade" synergy model.
+
+**R&D Investment**: ~8% of sales (~$1.4B annually), with ~500 new products planned for 2025 including ~300 new seed hybrids. Significant investment in gene editing (CRISPR-Cas), precision agriculture, and biologicals.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**[Separation PMO Leader]** — SVP, Strategy / Separation Program Management
+- Background: [To be confirmed]
+- Why target: Directly responsible for the organizational design challenge McChrystal can address — the separation PMO leader needs external expertise to build two standalone operating models within the H2 2026 deadline
+- Notes: Owns separation execution timeline and operating model design
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Chuck Magro | Chief Executive Officer (future SpinCo CEO) | Since 2020 | Former CEO of Nutrien; deep agricultural industry expertise | Moving to lead SpinCo (Seed) upon separation |
+| Greg Page | Chairman of the Board (future New Corteva Chair) | Chairman since 2019 | Former CEO of Cargill — extensive global agricultural leadership | Will lead New Corteva; executive sponsor, not outreach target |
+| Dave Anderson | EVP, Chief Financial Officer | Since 2019 | Corporate finance and DuPont heritage | Controls advisory budget for separation; likely economic buyer |
+| [Separation PMO Leader] | SVP, Strategy / Separation Program Management | — | [To be confirmed] | Owns separation execution timeline and operating model design |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Matrixed global organization with two primary business segments (Seed and Crop Protection) supported by shared R&D, supply chain, and corporate functions. Country-level operations vary in integration degree between segments. Currently reorganizing into two standalone entities.
+
+Glassdoor rating: 4.1/5 (1,475 reviews); 82% would recommend. Work-life balance: 3.9/5; Culture and values: 3.9/5; Career opportunities: 3.6/5.
+
+**Positive themes**: Flexible work arrangements, clear development plans, strong compensation. Heritage pride from Dow/DuPont/Pioneer legacy. Small autonomous teams with full domain ownership in some areas.
+
+**Challenge themes**: "Organization is constantly changing" — repeated restructuring fatigue from DowDuPont separation and subsequent transformations. Workload can be overwhelming. Career opportunities rated lowest (3.6/5), suggesting advancement pathways unclear during transition periods. The upcoming separation is likely amplifying these concerns.
+
+**Cultural risk for separation**: The company has a collaborative, cross-segment culture developed over decades. The separation structurally breaks the "razor-and-blade" collaboration model that many employees value. Risk of identity crisis for employees who identify with "Corteva" rather than one segment.
+
+## Recent News & Trigger Events
+
+- [2025-10-01] — **Board unanimously approved plan to separate into two independent public companies (Seed and Crop Protection)** — Massive organizational design challenge requiring external expertise in operating model design, leadership team buildout, and cross-functional coordination during separation
+  [source](https://www.corteva.com/resources/media-center/corteva-announces-plan-to-separate-into-two-industry-leading-public-companies.html)
+- [2025-10-01] — **CEO Chuck Magro named SpinCo (Seed) CEO; Chairman Greg Page to lead New Corteva (Crop Protection)** — Leadership split creates need for dual team buildout — every functional leader must be allocated to one entity
+- [2025-08-06] — **Strong Q2 2025 results — raised full-year guidance; operating EBITDA up 14%** — Financial strength supports advisory spend; demonstrates business momentum that separation must not disrupt
+- [2025-10-01] — **Analysts flag 'deal purgatory' risk and mixed investor reaction to separation** — Board pressure to demonstrate execution capability; external advisory engagement signals organizational seriousness
+- [2025-10-01] — **AI/data platform separation identified as key challenge — shared precision agriculture and gene editing platforms span both segments** — Technology disentanglement requires organizational redesign of R&D collaboration, not just IT separation
+  [source](https://agfundernews.com/cortevas-planned-separation-raises-questions-about-ai-and-data-split)
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Strong: Problem directly maps to McChrystal's organizational design and Team of Teams capability. Active trigger (Oct 2025 board approval), clear economic buyer (CFO/Separation PMO), budget exists ($17.7B revenue company with strong profitability), organizational urgency (H2 2026 hard deadline), and the gap incumbent advisors leave (human operating system during separation) is precisely McChrystal's sweet spot.
+
+**Primary Problem**: Building two fully independent operating models from a single integrated $17.7B global company in under 12 months — while maintaining business continuity, retaining talent, and preserving innovation velocity
+
+**Best Capability Fit**: Team of Teams operating model implementation and organizational design — McChrystal's framework for shared consciousness and decentralized execution is directly applicable to maintaining coordination during corporate separation, and to building high-functioning independent teams from a single organization
+
+**Likely Objections**
+
+- McKinsey/Deloitte likely already engaged on separation strategy and IT — Corteva may view leadership advisory as lower priority
+- Agricultural industry may be skeptical of military-origin advisory frameworks without clear sector credentials
+- Separation timeline (H2 2026) may feel too compressed to engage new advisors now
+- Budget allocation may favor strategy and IT separation over 'soft' organizational design work
+
+**Competitive Landscape**
+
+- McKinsey — likely advising on separation strategy, portfolio optimization, and standalone business design
+- Deloitte — probable engagement on IT/systems separation, TSA design, and financial carve-out
+- Korn Ferry / Spencer Stuart — executive search and leadership assessment for new entity leadership teams
+- BCG — may be advising on innovation strategy and R&D portfolio allocation between entities
+
+## Conversation Entry Points
+
+- **Q**: How are you thinking about maintaining cross-functional coordination across 6 continents during the separation — especially in regions where Seed and Crop Protection teams are deeply integrated?
+  *Framing*: Position McChrystal as having experience with high-stakes organizational transitions where maintaining operational tempo during restructuring is critical
+- **Q**: What's your biggest concern about building two independent leadership teams from one — and how are you managing the talent retention risk during the transition?
+  *Framing*: Demonstrate understanding of the dual-entity leadership challenge without presuming to know their internal dynamics
+- **Q**: With the agricultural calendar creating hard deadlines that most corporate separations don't face, how are you stress-testing the separation execution plan against planting season disruption risk?
+  *Framing*: Show sector awareness — agricultural companies can't afford the luxury of 'we'll figure it out later' that tech or financial services separations sometimes rely on
+
+**Recommended First Meeting Framing**: Frame as a peer conversation about organizational execution during high-stakes transitions — McChrystal Group has helped organizations maintain operational effectiveness during periods of maximum organizational disruption. Not a pitch for consulting services, but a discussion about the specific leadership and coordination challenges that separations create.
+
+## Brand Insights & Market Positioning
+
+**Brand Value & Competitive Standing**: Corteva is one of only four companies that dominate global agricultural inputs (alongside Bayer, Syngenta, and BASF). The Pioneer seed brand, established in 1926, is one of the most recognized names in agriculture. Brand differentiation centers on innovation — launching ~500 new products in 2025 including ~300 seed hybrids.
+
+**Brand Identity Evolution**: The separation forces a fundamental brand identity decision — "Corteva" was created only in 2019 as a unified agricultural company. SpinCo will carry the Pioneer legacy (nearly 100 years of brand equity), while "New Corteva" retains the newer corporate brand. The separation tests whether "Corteva" has built enough brand equity in just 7 years to stand alone without the Pioneer association.
+
+**Brand Threats**: Post-separation, each entity loses the brand halo of being a comprehensive agricultural solutions provider. Competitors (especially Bayer with its crop science + pharma backing) may position against the separated entities as too narrow. The "razor-and-blade" value proposition — farmers choosing Corteva because it offered integrated seed + chemistry solutions — disappears, requiring each entity to rebuild its market positioning independently.
+
+**Major Brand Investments**: Corteva invests ~$1.4B annually in R&D, which underpins its innovation brand positioning. Post-separation, this investment must be allocated between entities, potentially diluting the innovation narrative for both. SpinCo's investment in gene editing (CRISPR-Cas) and New Corteva's push into biologicals represent distinct brand futures that must be clearly articulated to farmers, distributors, and investors.
+
+**McChrystal Connection**: The brand separation challenge is fundamentally an organizational coordination problem — both entities need to simultaneously decouple their brand identity while maintaining customer relationships that span both. Farmers who buy Corteva seed AND Corteva crop protection will now be served by two separate companies, requiring seamless handoff design.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+### Fit Dimension 1: Corporate Separation Operating Model Design
+Corteva must build two fully independent operating models from a single integrated company in under 12 months. This is not a simple carve-out — Seed and Crop Protection share R&D infrastructure, AI/data platforms, global supply chains, shared services, and a unified commercial organization. The separation requires disentangling deeply intertwined functions while maintaining business continuity across 6 continents. McKinsey and Deloitte can design org charts and map processes, but McChrystal's Team of Teams methodology is uniquely suited to the real challenge: how do you maintain shared consciousness and cross-functional coordination during a period when the organization is literally splitting in two? The urgency is acute — the board set an H2 2026 deadline, and analysts warn of "deal purgatory" if execution stumbles.
+
+**Competitor displacement logic**: McKinsey would approach this as a strategy and process-mapping exercise; Deloitte would focus on IT separation and TSA design. McChrystal fills the gap neither can: building the human operating system that keeps 21,500 people coordinated during the most disruptive organizational event in the company's history.
+
+### Fit Dimension 2: Dual Leadership Team Buildout Under Time Pressure
+The separation creates an unprecedented leadership challenge — Corteva must build two complete C-suites, two boards, and two management structures from one existing team. CEO Chuck Magro moves to lead SpinCo (Seed), and Chairman Greg Page leads New Corteva (Crop Protection). But below the top level, every VP, director, and functional leader must be allocated to one entity or the other, creating talent competition, retention risk, and institutional knowledge gaps. McChrystal's leadership development and team-building capabilities are directly relevant to standing up two high-functioning leadership teams simultaneously.
+
+**Competitor displacement logic**: Korn Ferry and Spencer Stuart excel at individual executive placement. McChrystal addresses the systemic challenge: how do you build two leadership teams that can operate independently when they've spent years operating as one, and ensure both teams develop shared consciousness within their new entities?
+
+### Fit Dimension 3: AI/Data Platform Separation and Innovation Continuity
+Corteva invests $1.4B+ annually in R&D (~8% of sales), with AI-driven precision agriculture, gene editing (CRISPR-Cas), and digital farming platforms that span both Seed and Crop Protection. Separating these shared technology assets — especially proprietary data models and AI platforms — without disrupting innovation velocity is one of the highest-risk aspects of the split. The company's "razor-and-blade" model (pairing seeds with complementary chemistries) has created deep cross-segment data dependencies. This requires not just technical separation but organizational redesign of how R&D teams collaborate post-split.
+
+**Competitor displacement logic**: Accenture and BCG would focus on the technology architecture. McChrystal addresses the organizational dimension — redesigning how innovation teams work when the seamless cross-segment collaboration that drove Corteva's competitive advantage is being structurally eliminated.
+
+### Fit Dimension 4: Global Supply Chain Disentanglement
+Corteva operates across 6 continents with manufacturing, distribution, and commercial operations that serve both segments through shared infrastructure. Separating global supply chains while maintaining service levels to farmers during critical planting seasons creates enormous operational risk. The agricultural calendar is unforgiving — a missed planting window means a lost year. This requires McChrystal's crisis-leadership and high-stakes decision-making capabilities.
+
+**Competitor displacement logic**: Supply chain consultancies (Gartner, E&Y) can redesign logistics networks. McChrystal uniquely addresses the leadership challenge of making rapid, decentralized decisions across dozens of country operations during a high-stakes separation with zero margin for supply disruption.
+
+### 9b. Cumulative Case — Why Corteva Is a Top Pipeline Opportunity
+
+Corteva represents a rare convergence of organizational complexity and time pressure. The company is attempting to split a $17.7B, 21,500-person global operation into two standalone public companies in under 12 months — while maintaining business continuity, retaining talent, separating shared technology platforms, and disentangling global supply chains. Every dimension reinforces the others: leadership uncertainty creates talent retention risk, which threatens supply chain execution, which jeopardizes the separation timeline, which erodes analyst confidence.
+
+**Reinforcing signal chain**: Board-approved separation (Oct 2025) → dual leadership team buildout → AI/data platform separation → global supply chain disentanglement → talent competition between entities → innovation velocity risk → analyst "deal purgatory" pressure → board accountability for H2 2026 deadline
+
+**Revenue potential**: $750K initial diagnostic and separation operating model design (4-6 months), expanding to $2M–$3M for full dual-entity leadership development and Team of Teams implementation across both New Corteva and SpinCo, with $500K–$1M ongoing advisory retainer through separation completion and first year of independent operations.
+
+### 9c. Enterprise Issues & Organizational Challenges
+
+**1. Shared Services Bifurcation Without Operational Disruption**
+Corteva's 21,500 employees are supported by centralized shared services — HR, IT, finance, legal, procurement — that must be duplicated for both entities. Building parallel shared services organizations while keeping the existing ones running is like rebuilding an airplane engine mid-flight. McChrystal's cross-functional alignment methodology can design the transition operating model that prevents service gaps during the switchover.
+
+**2. Talent Allocation and Retention Crisis**
+Every mid-level and senior leader must choose (or be assigned to) one of two entities. High performers become retention risks as competitors (Bayer, Syngenta, BASF) recruit during the uncertainty. The "razor-and-blade" commercial model means many customer-facing employees have relationships spanning both segments — forcing them into one entity risks customer relationship disruption. McChrystal's leadership development programs can build engagement and purpose during the transition.
+
+**3. Innovation Culture Fragmentation**
+Corteva's R&D strength comes from cross-pollination between Seed and Crop Protection — gene editing insights informing crop protection strategies and vice versa. Separation structurally eliminates this collaboration engine. Without intentional design, both entities risk losing the innovation culture that drove $1.4B+ in annual R&D investment. McChrystal can design post-separation collaboration frameworks that preserve beneficial cross-entity information sharing.
+
+**4. Regional Operating Model Inconsistency**
+Corteva operates across 6 continents with varying degrees of integration between Seed and Crop Protection at the country level. Some countries have fully integrated commercial teams; others are more independent. This means the separation will look fundamentally different in each market, requiring locally adapted approaches within a globally consistent framework — exactly the kind of decentralized-yet-coordinated execution McChrystal's model enables.
+
+**5. Analyst and Investor Confidence Management**
+Oppenheimer analyst Kristen Owen noted "mixed investor reactions" to the separation, with concerns about destroying the "razor-and-blade" synergies. The company faces what analysts call "deal purgatory" — a period where stock performance stalls as investors wait for execution proof. Demonstrating organizational execution capability is essential to maintaining market confidence. McChrystal's frameworks provide visible, communicable evidence of execution discipline.
+
+**6. Agricultural Calendar Constraint**
+Unlike most corporate separations, Corteva cannot afford execution delays because agricultural planting seasons create hard deadlines. A disruption during spring planting in North America or South America could result in permanent customer loss. This high-stakes, time-pressured environment is precisely where McChrystal's crisis leadership and empowered execution models excel.
+
+### 9d. Expected Outcomes from McChrystal Group Engagement
+
+**1. Separation Operating Model Blueprint**
+McChrystal would deliver a detailed dual-entity operating model that maps decision rights, communication architectures, and cross-functional coordination mechanisms for both New Corteva and SpinCo. Measurable result: reduce separation execution risk by establishing clear operating rhythms within 90 days of engagement, with weekly cross-functional alignment cadences.
+
+**2. Accelerated Leadership Team Cohesion**
+McChrystal's leadership development programs would build high-performing teams for both new entities from the current Corteva leadership pool. Measurable result: achieve functional leadership team alignment for both entities within 120 days, reducing the typical 12-18 month "forming-storming-norming" cycle by 50%.
+
+**3. Talent Retention Through Purpose and Clarity**
+By establishing clear organizational identity, mission, and operating rhythm for each entity, McChrystal would reduce the uncertainty that drives attrition during separations. Measurable result: keep voluntary attrition among top-quartile performers below 8% during the separation period (vs. industry average of 15-20% during major restructurings).
+
+**4. Innovation Velocity Preservation**
+Design post-separation collaboration frameworks that maintain beneficial R&D cross-pollination through structured information-sharing mechanisms. Measurable result: maintain R&D pipeline throughput at 90%+ of pre-separation levels through the first 12 months of independent operations.
+
+**5. Regional Execution Consistency**
+Implement McChrystal's decentralized execution model across all country operations, ensuring locally adapted separation execution within globally consistent guardrails. Measurable result: achieve on-time separation milestones in 90%+ of country operations, with no supply disruptions during critical planting seasons.
+
+**6. Stakeholder Confidence Building**
+Provide visible execution framework that can be communicated to analysts, investors, and the board. Measurable result: positive analyst commentary on execution capability within two quarterly earnings cycles.
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Business Unit | Leader | Function | McChrystal Relevance |
+|---|---|---|---|
+| Corteva (Overall) | Chuck Magro | CEO (moving to SpinCo CEO) | Executive sponsor; key relationship for SpinCo engagement |
+| Corteva (Board) | Greg Page | Chairman (moving to New Corteva Chair) | Executive sponsor for New Corteva; decision-maker on separation governance |
+| Finance | Dave Anderson | EVP, CFO | Controls budget for separation advisory spend; key stakeholder for operating model design |
+| Seed Segment | [To be named] | President, Seed | **Priority target** — will lead SpinCo's largest business unit; needs standalone operating model |
+| Crop Protection | [To be named] | President, Crop Protection | **Priority target** — will lead New Corteva's core business; needs independent team buildout |
+| R&D / Technology | [To be named] | Chief Technology Officer | Critical stakeholder for AI/data platform separation; innovation continuity |
+| Global Operations | [To be named] | SVP, Supply Chain | Key stakeholder for global supply chain disentanglement; agricultural calendar constraints |
+| Human Resources | [To be named] | CHRO | Critical for talent allocation, retention strategy, and dual-entity workforce planning |
+| Strategy / Separation PMO | [To be named] | SVP, Strategy | **Top priority engagement target** — owns separation execution timeline and operating model design |
+| Legal / Compliance | [To be named] | General Counsel | Tax-free separation structure, regulatory filings, IP allocation between entities |
+
+Priority engagement targets: (1) SVP of Strategy / Separation PMO leader — owns the execution timeline; (2) Seed Segment President — needs standalone operating model for SpinCo; (3) CFO Dave Anderson — controls advisory budget and is most likely economic buyer.
+
+### 9f. Opportunity Thesis
+
+**Strategic Signal Convergence — Why Now**
+Board-approved separation (Oct 2025) → H2 2026 execution deadline → dual leadership team buildout underway → AI/data platform separation creates R&D risk → global supply chain disentanglement during planting seasons → talent competition between entities → analyst "deal purgatory" pressure → urgency to demonstrate execution capability NOW
+
+The convergence is time-bound: Corteva is in the 12-month window where organizational design decisions will determine whether both entities launch as high-performing independent companies or stumble into years of post-separation dysfunction. Every month of delay increases execution risk.
+
+**The Structural Paradox — Why McChrystal, Not McKinsey**
+McKinsey, BCG, and Deloitte are almost certainly already engaged on Corteva's separation — advising on strategy, IT separation, tax structure, and process design. But none of them solve the human operating system challenge: how do 21,500 people across 6 continents maintain coordination during a period of maximum organizational disruption? McKinsey designs the org chart; McChrystal builds the leadership and operating rhythms that make the org chart actually work. Deloitte separates the IT systems; McChrystal ensures the people using those systems can still make fast, coordinated decisions. This is the gap incumbent advisors consistently leave unfilled — and it's where separations fail.
+
+**Phased Engagement Hypothesis — Land and Expand**
+
+*Phase 1 (Months 1-4): Separation Operating Model Diagnostic — $500K–$750K*
+Scope: Assess current cross-functional dependencies between Seed and Crop Protection, map decision architectures, identify the 10 highest-risk separation workstreams, and design the dual-entity operating model blueprint. Start with 2-3 pilot country operations to test the model.
+Why this beachhead: The separation PMO needs an operating model framework immediately — they have a hard deadline and the board is watching. This is a bounded, high-value deliverable that demonstrates McChrystal's unique capability.
+
+*Phase 2 (Months 4-10): Dual-Entity Leadership Development — $1.5M–$2.5M*
+Scope: Build high-performing leadership teams for both New Corteva and SpinCo through McChrystal's Team of Teams methodology. Implement shared consciousness operating rhythms for each entity. Roll out decentralized execution model across all country operations.
+Expansion logic: Phase 1 diagnostic reveals specific leadership gaps and team dysfunction that only McChrystal can address at scale.
+
+*Phase 3 (Months 10-18): Post-Separation Stabilization and Advisory — $500K–$1M/year*
+Scope: Ongoing advisory to both entities during first year of independent operations. Quarterly leadership alignment sessions. Innovation collaboration framework monitoring.
+
+**Competitive Displacement Strategy**
+Corteva's separation will involve multiple advisory firms. McChrystal should position as complementary — not competing with McKinsey on strategy or Deloitte on IT. The pitch: "Your strategy advisors design what the organization should look like; we build the leadership and operating system that makes it work." Entry through the separation PMO or CHRO, who own the people side of the separation. Procurement bypass: position as a leadership development engagement (different budget line than management consulting), or enter through a direct relationship with the Separation PMO leader.
+
+**Multi-Threaded Pursuit Map**
+
+*Thread 1: Separation PMO / Strategy*
+Target: SVP of Strategy or Separation PMO leader
+Angle: "We've helped organizations navigate high-stakes transitions where the operating model had to change faster than the org chart"
+Vector: Direct outreach; conference proximity at agricultural industry events (Commodity Classic, Farm Progress Show)
+
+*Thread 2: CHRO / Talent*
+Target: Chief Human Resources Officer
+Angle: "Leadership team cohesion and talent retention during separation — our programs reduce transition attrition by 50%"
+Vector: Direct outreach; CHRO network connections; HR leadership conferences
+
+*Thread 3: Board / Chairman Greg Page*
+Target: Greg Page (Chairman, future New Corteva Chair)
+Angle: Page's background as former Cargill CEO means he understands the stakes of organizational transformation in agriculture at global scale
+Vector: McChrystal personal network; board-level introductions through shared connections in agricultural leadership circles; potential military/veteran angle if applicable
+
+
+---
+
+# Research Dossier — QXO
+
+## Organization Snapshot
+
+- **Legal Name**: QXO, Inc.
+- **Headquarters**: Greenwich, Connecticut
+- **Founded**: 2023
+- **Industry**: Building Products Distribution
+- **Revenue**: $11.7B
+- **Employees**: 10K+
+- **Ownership**: Public (NYSE: QXO) — founded by Brad Jacobs (serial acquirer behind XPO Logistics, GXO, RXO); $3B Series C convertible preferred raised January 2026 to fund acquisitions
+- **Geographic Footprint**: 700+ locations across the United States and Canada (600+ legacy Beacon branches + 110 Kodiak locations pending close). Primarily domestic with some Canadian operations. Serves 110,000+ customers.
+- **ICP Score**: 83
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue**: Q3 2025 net sales of $2.73B; Q2 2025 net sales of $1.91B (first full quarter post-Beacon). Annualized run rate ~$10-11B. Adding Kodiak ($2.4B revenue) expected to bring combined to ~$12-13B.
+
+**Profitability**: Currently operating at a loss on GAAP basis — Q3 2025 diluted loss per share of $(0.24), adjusted diluted EPS of $0.14. Integration costs and debt service from $11B Beacon acquisition weighing on near-term profitability. Management targeting at least double legacy Beacon EBITDA organically.
+
+**Capital Structure**: $3B Series C convertible preferred stock (January 2026) to fund acquisitions. Significant debt load from Beacon acquisition.
+
+**Growth Trajectory**: $50B revenue target within a decade. Beacon ($11B) + Kodiak ($2.25B) are first two building blocks. Active deal pipeline for additional acquisitions in the $800B building products distribution market.
+
+**Analyst Sentiment**: Wall Street closely watching integration execution. Jacobs' track record at XPO/GXO provides credibility, but QXO's most ambitious platform yet in a more fragmented, relationship-driven industry.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Josephine Berisha** — Chief Human Resources Officer
+- Tenure: Since June 2024
+- Background: Corporate HR leadership
+- Why target: Directly responsible for culture integration across 700+ branches. The headquarters-branch disconnect and talent attrition from legacy Beacon employees are her top challenges — McChrystal's distributed leadership model is exactly what she needs.
+- Notes: Owns culture integration challenge; Glassdoor feedback on her desk
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Brad Jacobs | Chairman & CEO | Founder (2023) | Serial acquirer — founded XPO Logistics ($19B), GXO Logistics, RXO. Author of 'How to Make a Few Billion Dollars.' Known for aggressive acquisition-driven growth and operational transformation. | Executive sponsor; visionary but top-down leadership style creating branch-level friction |
+| Josephine Berisha | Chief Human Resources Officer | Since June 2024 | Corporate HR leadership | Owns culture integration challenge; Glassdoor feedback on her desk |
+| Ihsan Essaid | Chief Financial Officer | Since June 2024 | Corporate finance | Controls integration and transformation budget |
+| Valeri Liborski | Chief Technology Officer | Since April 2025 | Technology leadership | Leading tech transformation across branch network |
+| Ashwin Rao | Chief AI Officer | Since November 2024 | AI/ML leadership | First CAIO hire; driving AI-enabled distribution vision |
+| Steve Swinney | Co-Founder & CEO, Kodiak Building Partners | 15 years at Kodiak | Building products distribution | Rolling equity into QXO; key relationship for Kodiak integration |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Flattened hierarchy post-Beacon acquisition. Corporate HQ in Greenwich, CT with centralized strategy, technology, and finance functions. 700+ independently operating branches organized by region. Tension between corporate centralization speed and branch-level autonomy.
+
+**Glassdoor feedback reveals significant culture integration challenges post-Beacon acquisition:**
+
+Employees report culture "deteriorated significantly" since QXO acquisition. Environment described as "cold and hierarchical" with leadership perceived as "top-down and unapproachable." Decision-making centers around "unwavering deference to the CEO."
+
+"Most upper management with industry experience now gone" — legacy Beacon branch managers and sales leaders with deep customer relationships departing. "Severe disconnect from the QXO corporate team to the business and customers."
+
+Layoffs announced after acquisition but restructuring took months to execute, "leaving employees in the dark about job security." Company direction described as "vague."
+
+**Positive signals**: Jacobs' publicly stated integration philosophy emphasizes "one QXO" culture via immediate rebranding, internal social platform, and unified identity. Some employees see opportunity in Jacobs' track record and the $50B vision.
+
+**McChrystal relevance**: The gap between Jacobs' stated integration philosophy and the branch-level experience is precisely the headquarters-field disconnect McChrystal's shared consciousness model addresses.
+
+## Recent News & Trigger Events
+
+- [2025-04-29] — **Completed $11B acquisition of Beacon Roofing Supply — largest deal in building products distribution history** — Massive integration challenge: 600+ branches, 8,000+ employees, 110,000+ customers. Culture integration already showing friction in employee reviews.
+  [source](https://investors.qxo.com/news/news-details/2025/QXO-Completes-Acquisition-of-Beacon-Roofing-Supply/default.aspx)
+- [2026-02-11] — **Announced $2.25B acquisition of Kodiak Building Partners (110 locations, $2.4B revenue)** — Second major acquisition before Beacon integration stabilized — compounds organizational complexity. Forces simultaneous integration of two different company cultures.
+  [source](https://investors.qxo.com/news/news-details/2026/QXO-to-Buy-Kodiak-Building-Partners-for-2-25-Billion/default.aspx)
+- [2026-01-01] — **Raised $3B Series C convertible preferred stock to fund additional large acquisitions** — Capital deployed for more deals — each acquisition adds to the organizational integration burden without a proven operating model
+- [2025-09-01] — **Launched 'broad transformation initiative' across pricing, procurement, sales, org structure, and logistics** — Transformation initiative confirms organizational redesign is underway — ideal timing for McChrystal engagement
+- [2025-09-25] — **Home Depot completed SRS Distribution acquisition — creating 1,200+ location, 8,000-truck fleet competitor** — Competitive pressure intensifies; QXO must integrate faster and execute better to compete against well-capitalized rival
+- [2025-12-31] — **Brad Jacobs stepped down as Chairman of XPO and GXO to focus exclusively on QXO** — Full CEO attention on QXO integration and growth — increased urgency and decision-making velocity
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Strong: Problem directly maps to McChrystal's Team of Teams capability. Multiple active triggers (Beacon close Apr 2025, Kodiak Feb 2026, transformation initiative launched). Glassdoor reviews provide visible evidence of organizational dysfunction. Budget exists ($11B+ revenue, $3B capital raise). Organizational urgency acute — Kodiak closing soon and Home Depot/SRS competing. The gap incumbent advisors leave (headquarters-branch cultural integration) is McChrystal's core competency.
+
+**Primary Problem**: Building a unified, high-performing organization from serial acquisitions at unprecedented speed — while Glassdoor reviews reveal a growing headquarters-branch culture disconnect that threatens customer relationships and talent retention
+
+**Best Capability Fit**: Team of Teams operating model — QXO's 700+ branch distributed network with a centralized corporate headquarters is the exact organizational topology McChrystal's framework was designed for: shared consciousness across the entire enterprise with empowered execution at each branch
+
+**Likely Objections**
+
+- Brad Jacobs has built multiple companies before and may believe his proven playbook doesn't need external organizational advisory
+- QXO is currently operating at a GAAP loss — advisory spend may face scrutiny during integration cost management
+- Jacobs' top-down leadership style may resist McChrystal's decentralized execution philosophy
+- Existing advisory relationships (McKinsey, Bain likely engaged) may crowd out organizational consultants
+
+**Competitive Landscape**
+
+- McKinsey — likely advising on integration strategy, synergy capture, and $50B growth roadmap
+- Bain — probable engagement on operational transformation and branch optimization
+- Accenture/Deloitte — technology transformation and systems integration across branch network
+- Korn Ferry — executive talent assessment and cultural diagnostics
+
+## Conversation Entry Points
+
+- **Q**: How are you experiencing the integration at the branch level — what are branch managers telling you about the transition from Beacon to QXO?
+  *Framing*: Position McChrystal as having visibility into the distributed field organization perspective, which headquarters often lacks during rapid integrations
+- **Q**: With Kodiak closing in Q2 and the $50B target demanding continuous acquisitions, how are you building a repeatable integration operating model that scales?
+  *Framing*: Acknowledge Jacobs' serial acquirer expertise while introducing the concept that organizational integration at this scale requires a systematic framework, not just speed
+- **Q**: What's your approach to maintaining customer relationships when legacy branch managers with deep local ties are being replaced or restructured?
+  *Framing*: Show understanding that building products distribution is relationship-driven and that talent retention at the branch level directly impacts revenue retention
+
+**Recommended First Meeting Framing**: Frame as a peer conversation between operators who've built large distributed organizations. McChrystal Group has helped organizations maintain execution quality across hundreds of locations during rapid transformation — not as consultants who slow things down, but as operators who help organizations move fast without breaking.
+
+## Brand Insights & Market Positioning
+
+**Brand Value & Competitive Standing**: QXO is a brand-new identity in building products distribution — less than 2 years old. The company immediately rebranded all Beacon locations to QXO on day one of acquisition close, a deliberate strategy to create unified identity but one that erased Beacon's 97-year brand history in the roofing industry. QXO competes against Home Depot/SRS Distribution (1,200+ locations, consumer brand backing) and 56 PE-backed roofing platforms.
+
+**Brand Identity Evolution**: QXO's brand positioning centers on technology-enabled distribution — positioning against the industry's legacy reputation as fragmented and low-tech. Brad Jacobs' personal brand (serial value creator) is inseparable from the QXO corporate brand. The $50B revenue target is both a growth strategy and a brand narrative — positioning QXO as the inevitable consolidator.
+
+**Brand Threats**: Immediate Beacon rebrand created employee backlash — "company direction is vague" suggests the QXO brand identity hasn't been internalized by the branch workforce. The gap between the corporate brand promise (tech-enabled, modern, unified) and branch-level experience (cold, hierarchical, vague direction) creates brand authenticity risk. If customers experience a decline in service quality during integration, the QXO brand launches with negative associations in a relationship-driven industry.
+
+**Major Brand Investments**: $50B revenue target functions as a brand narrative. Chief AI Officer and CTO hires signal technology investment. Immediate Day 1 rebranding across 600+ branches (signage, swag, internal platforms) represents significant brand deployment spend.
+
+**McChrystal Connection**: The brand authenticity gap — QXO promises tech-enabled, world-class distribution but branch employees describe cold, hierarchical, disconnected culture — is fundamentally an organizational alignment problem. McChrystal's shared consciousness model directly addresses the gap between what the brand promises externally and how the organization actually operates internally.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+### Fit Dimension 1: Multi-Acquisition Integration at Unprecedented Speed
+QXO is running two massive integrations simultaneously — Beacon Roofing ($11B, 600+ branches, closed April 2025) and Kodiak Building Partners ($2.25B, 110 locations, expected Q2 2026 close) — while actively pursuing additional acquisitions toward a $50B revenue target. This is not a one-time integration challenge; it's a perpetual M&A machine that needs a repeatable operating model for absorbing acquisitions at speed. McKinsey and Bain can design integration playbooks on paper. McChrystal builds the human operating system — shared consciousness across 700+ branches and decentralized execution at each location — that makes those playbooks actually work when you're integrating a new acquisition every quarter.
+
+**Competitor displacement logic**: McKinsey's integration playbooks are strategic frameworks; McChrystal builds the leadership and communication operating rhythms that enable 700+ branch managers to execute a unified strategy while adapting to local market conditions. Bain focuses on synergy capture; McChrystal ensures the organizational culture can absorb continuous acquisitions without breaking.
+
+### Fit Dimension 2: Culture Unification Across Legacy Workforces
+Glassdoor reviews reveal a critical culture integration gap — Beacon employees report "culture has deteriorated significantly" since the QXO acquisition, with the environment feeling "cold and hierarchical" and leadership perceived as "top-down and unapproachable." Many legacy Beacon employees with industry experience have departed, creating "severe disconnect" between QXO corporate and the branch network. This is exactly the pattern McChrystal addresses: a headquarters that moves fast but loses shared consciousness with the field organization.
+
+**Competitor displacement logic**: Korn Ferry measures culture; McChrystal changes it. The problem isn't diagnosing the culture gap (Glassdoor already did that) — it's building the operating rhythms and communication architectures that restore trust between a PE-speed headquarters and a 600+ branch field organization.
+
+### Fit Dimension 3: Technology Transformation Across a Fragmented Branch Network
+QXO's stated ambition is to become the "tech-enabled leader" in the $800B building products distribution industry. The company hired a Chief AI Officer (Ashwin Rao, November 2024) and CTO (Valeri Liborski, April 2025) to drive a technology playbook across Beacon's legacy systems. But technology transformation at 700+ branches serving 110,000+ customers requires organizational adoption, not just software deployment. McChrystal's experience with technology adoption in complex, distributed organizations directly applies.
+
+**Competitor displacement logic**: Accenture and Deloitte deploy technology; McChrystal ensures the branch managers, sales teams, and operations staff actually adopt it. The technology transformation will fail if the cultural dysfunction identified in Glassdoor reviews isn't addressed simultaneously.
+
+### Fit Dimension 4: Brad Jacobs' Serial Acquirer Model — Organizational Maturity Gap
+Brad Jacobs has built and scaled multiple companies (XPO Logistics, GXO, RXO) through aggressive acquisition. His playbook works: immediate rebranding, flattened hierarchy, rapid systems consolidation. But QXO is his most ambitious platform yet — building products distribution is more fragmented, more local, and more relationship-driven than logistics. The same top-down speed that worked at XPO is creating backlash at QXO's branch level. McChrystal's value proposition: preserve Jacobs' speed and ambition while building the decentralized execution model that prevents the culture deterioration visible in employee reviews.
+
+**Competitor displacement logic**: No competitor can credibly say "we'll help you move just as fast, but with organizational durability." McKinsey would slow Jacobs down; McChrystal gives him a framework to maintain speed with organizational health.
+
+### 9b. Cumulative Case — Why QXO Is a Top Pipeline Opportunity
+
+QXO represents a rare convergence of massive scale, continuous M&A pressure, and visible organizational dysfunction. The company is attempting to build a $50B distribution empire through serial acquisitions at a pace of at least one major deal per year. The Beacon integration is underway and already showing culture friction; Kodiak closes in months; and more acquisitions are coming. Every new deal amplifies the organizational challenge — and Glassdoor reviews prove the current approach is creating backlash.
+
+**Reinforcing signal chain**: Beacon acquisition (Apr 2025) → rapid rebranding and restructuring → legacy employee attrition and culture backlash → Kodiak announced (Feb 2026) before Beacon integration stabilized → technology transformation launched across fragmented branch network → $50B target demands continuous acquisitions → each acquisition tests an already-strained organizational model → compounding integration risk
+
+**Revenue potential**: $500K initial engagement focused on Beacon integration operating model assessment (3-4 months), expanding to $2M–$3.5M for enterprise-wide Team of Teams implementation across 700+ branches, with $750K–$1.5M/year ongoing retainer as each new acquisition requires integration into the operating model.
+
+### 9c. Enterprise Issues & Organizational Challenges
+
+**1. Headquarters-to-Branch Disconnect**
+Glassdoor reviews describe a "severe disconnect from the QXO corporate team to the business and customers." Legacy Beacon branch managers with deep industry relationships and local market knowledge feel sidelined by corporate directives that don't account for local realities. This is the classic centralization-vs-decentralization tension McChrystal's Team of Teams model directly addresses: shared consciousness (everyone understands the strategy) with empowered execution (branch managers adapt to local markets).
+
+**2. Talent Hemorrhage from Culture Shock**
+Employees report "most upper management with industry experience now gone" post-acquisition. The building products distribution industry is deeply relationship-driven — when experienced branch managers and sales leaders leave, they take customer relationships with them. This talent loss directly threatens the revenue base QXO paid $11B to acquire. McChrystal's leadership engagement and purpose-building frameworks can stabilize retention.
+
+**3. Serial Acquisition Without Integration Maturity**
+QXO's model demands acquiring a new company every 6-12 months. But the organization hasn't yet proven it can fully integrate Beacon before adding Kodiak. Without a repeatable, scalable integration operating model, each acquisition compounds organizational complexity faster than the company can absorb it. McChrystal can design the repeatable integration playbook that scales.
+
+**4. Technology Adoption Resistance in a Trades-Adjacent Workforce**
+Building products distribution employs a workforce that ranges from warehouse workers to sales reps to branch managers — many of whom have worked in the industry for decades with paper-based or legacy systems. The Chief AI Officer's vision for tech-enabled distribution will fail if the organizational change management doesn't meet branch employees where they are. McChrystal's approach to building buy-in through shared consciousness rather than top-down mandates is critical.
+
+**5. 700+ Branch Coordination Challenge**
+QXO now operates 700+ locations across the U.S. and Canada (600+ Beacon + 110 Kodiak). Maintaining consistent customer experience, pricing discipline, and operational standards across that many independently operating branches requires a communication and decision-making architecture that doesn't exist yet. McChrystal's distributed operations model — designed for exactly this scale of coordinated decentralized execution — is purpose-built for this challenge.
+
+**6. Competitive Pressure from Home Depot/SRS**
+Home Depot completed its acquisition of SRS Distribution in September 2025, creating a nearly 8,000-truck fleet with 1,200+ locations. QXO faces a well-capitalized competitor that can match its scale while leveraging Home Depot's consumer brand and technology infrastructure. This competitive pressure makes organizational execution speed even more critical.
+
+### 9d. Expected Outcomes from McChrystal Group Engagement
+
+**1. Repeatable Acquisition Integration Operating Model**
+McChrystal would deliver a standardized integration playbook — communication rhythms, decision architectures, and cultural onboarding frameworks — that QXO can deploy with each new acquisition. Measurable result: reduce time-to-full-integration from 18-24 months to 9-12 months for each subsequent acquisition, directly supporting the $50B revenue target timeline.
+
+**2. Branch Network Cultural Cohesion**
+Implement Team of Teams operating rhythms across 700+ branches to restore shared consciousness between corporate headquarters and the field organization. Measurable result: improve Glassdoor "culture and values" rating from current levels (estimated 2.5-3.0 based on reviews) to 3.5+ within 12 months, and reduce voluntary attrition among branch managers by 30%.
+
+**3. Accelerated Technology Adoption**
+Design organizational change management approach for AI and technology initiatives that builds buy-in from branch-level employees. Measurable result: achieve 80%+ adoption of new technology tools across all branches within 6 months of deployment (vs. typical 40-50% adoption rates for top-down technology mandates in distributed workforces).
+
+**4. Cross-Functional Decision Speed**
+Establish decision-making frameworks that preserve Brad Jacobs' execution speed while empowering branch-level leaders. Measurable result: reduce average decision-making cycle time for pricing, procurement, and customer exception decisions by 40%, enabling branches to compete effectively against local independents.
+
+**5. Kodiak Integration Acceleration**
+Apply proven integration operating model to the Kodiak Building Partners acquisition (expected Q2 2026 close). Measurable result: achieve operational integration of 110 Kodiak locations within 6 months of close (vs. the 12+ months Beacon integration is requiring), proving the repeatable model works.
+
+**6. Competitive Positioning Against Home Depot/SRS**
+Build organizational capability that enables QXO to compete against Home Depot/SRS Distribution through superior execution speed and customer responsiveness at the branch level. Measurable result: maintain or grow market share in overlapping markets within 12 months.
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Business Unit | Leader | Function | McChrystal Relevance |
+|---|---|---|---|
+| QXO (Overall) | Brad Jacobs | Chairman & CEO | Executive sponsor; serial acquirer who needs an organizational operating model that scales with his acquisition ambition |
+| Finance | Ihsan Essaid | Chief Financial Officer | Budget authority for transformation initiatives; controls integration spend |
+| Human Resources | Josephine Berisha | Chief Human Resources Officer | **Priority engagement target** — owns culture integration, talent retention, and organizational design. The Glassdoor feedback lands directly on her desk |
+| Technology | Valeri Liborski | Chief Technology Officer (since Apr 2025) | Technology transformation leader; needs organizational adoption strategy for branch network |
+| AI & Data | Ashwin Rao | Chief AI Officer (since Nov 2024) | AI-driven distribution vision; needs change management for branch-level technology adoption |
+| Branch Operations (Legacy Beacon) | [To be confirmed] | President/SVP, Branch Operations | **Priority target** — responsible for 600+ branch performance; directly experiencing culture integration challenges |
+| Kodiak Integration | Steve Swinney | Kodiak Co-Founder/CEO (rolling equity) | Key relationship for Kodiak integration; has agreed to roll equity into QXO |
+| Board | Jared Kushner et al. | Board of Directors | Board oversight of integration execution and $50B strategy |
+
+Priority engagement targets: (1) Josephine Berisha, CHRO — owns the culture and integration challenge; (2) SVP of Branch Operations — experiencing the headquarters-branch disconnect firsthand; (3) Brad Jacobs — executive sponsor who has built companies before and recognizes organizational operating model gaps.
+
+### 9f. Opportunity Thesis
+
+**Strategic Signal Convergence — Why Now**
+Beacon acquisition closed (Apr 2025) → immediate rebranding and restructuring → legacy talent attrition and Glassdoor backlash → CTO and CAIO hired to drive tech transformation → Kodiak acquisition announced (Feb 2026) before Beacon fully integrated → $3B Series C convertible preferred to fund more acquisitions → $50B target demands relentless acquisition pace → compounding organizational strain
+
+The convergence is accelerating: QXO is adding organizational complexity faster than its operating model can absorb. The Glassdoor feedback is the early warning signal. Without intervention, each new acquisition will amplify the culture disconnect that's already visible.
+
+**The Structural Paradox — Why McChrystal, Not McKinsey**
+Brad Jacobs has worked with every major consulting firm across XPO, GXO, and RXO. McKinsey and Bain have likely already provided integration playbooks and synergy analyses for Beacon. But the Glassdoor reviews prove that strategic playbooks aren't solving the organizational problem. The headquarters-branch disconnect, the "cold and hierarchical" culture perception, the departure of experienced industry talent — these are operating model failures, not strategy failures. McKinsey tells QXO what to do; McChrystal builds the organizational system that gets 700+ branches to actually do it. This is the gap Jacobs' existing advisory relationships consistently leave unfilled.
+
+**Phased Engagement Hypothesis — Land and Expand**
+
+*Phase 1 (Months 1-3): Branch Integration Operating Model Assessment — $400K–$600K*
+Scope: Assess current state of Beacon integration from the branch perspective (not headquarters). Map communication architectures, decision-making patterns, and cultural friction points across a sample of 20-30 branches. Deliver a "State of the Branch Network" diagnostic that gives Jacobs and the CHRO visibility into what's actually happening at the field level.
+Why this beachhead: The Glassdoor feedback tells leadership there's a problem, but they don't have granular visibility into how it manifests across different regions and branch types. McChrystal's diagnostic provides that visibility — and it's a bounded, high-value deliverable that builds trust.
+
+*Phase 2 (Months 3-9): Team of Teams Implementation Across Branch Network — $1.5M–$2.5M*
+Scope: Implement shared consciousness operating rhythms across all 700+ branches. Design and deploy communication architectures that connect corporate strategy to branch execution. Train 50+ regional leaders in McChrystal's decentralized execution framework. Pilot technology adoption change management approach.
+Expansion logic: Phase 1 diagnostic reveals specific dysfunction patterns that only McChrystal's distributed operations model can address at scale.
+
+*Phase 3 (Months 9+): Perpetual Integration Advisory — $750K–$1.5M/year*
+Scope: Embed McChrystal integration operating model into QXO's acquisition playbook. Provide rapid-deployment integration teams for each new acquisition. Ongoing branch network culture monitoring and leadership development.
+
+**Competitive Displacement Strategy**
+QXO's existing advisory relationships are likely strategy-focused (McKinsey, Bain) and technology-focused (Accenture, Deloitte). McChrystal enters through the CHRO or branch operations leadership — a different stakeholder set than existing advisors target. The pitch: "Your strategy advisors designed the integration plan; we're here because the plan isn't landing at the branch level." Position as complementary to existing relationships. Procurement bypass: enter through a leadership development or organizational effectiveness budget line.
+
+**Multi-Threaded Pursuit Map**
+
+*Thread 1: CHRO — Culture and Integration*
+Target: Josephine Berisha, CHRO
+Angle: "The Glassdoor feedback from Beacon employees tells us there's a culture integration gap between corporate and the branch network. We specialize in building shared consciousness across distributed organizations."
+Vector: Direct outreach; HR leadership network connections; CHRO conferences
+
+*Thread 2: Branch Operations — Field Perspective*
+Target: SVP/President of Branch Operations
+Angle: "We help distributed organizations maintain local execution quality during rapid centralization and transformation — your branch managers need a voice in the integration, not just directives from corporate."
+Vector: Building products industry events; regional branch manager networks
+
+*Thread 3: Brad Jacobs — Executive Sponsor*
+Target: Brad Jacobs, Chairman & CEO
+Angle: Jacobs has built four companies through serial acquisition — he understands organizational operating models better than most CEOs. Pitch McChrystal as the organizational equivalent of what his CTO and CAIO provide for technology: a systematic framework for scaling human coordination.
+Vector: CEO peer network; McChrystal personal relationship; military/veteran connection if applicable; Jacobs' public speaking circuit (he is a frequent conference speaker)
+
+
+---
+
+# Research Dossier — Grant Thornton Advisors
+
+## Organization Snapshot
+
+- **Legal Name**: Grant Thornton Advisors LLC (operating entity); Grant Thornton LLP (attest entity); Grant Thornton Global Advisors (international holding company)
+- **Headquarters**: Chicago, Illinois
+- **Founded**: 1924
+- **Industry**: Accounting / Professional Services
+- **Revenue**: $2.4B
+- **Employees**: 10K+
+- **Ownership**: PE-backed: New Mountain Capital (60% majority stake since May 2024), CDPQ and OA Private Capital (minority investors). Alternative practice structure: Grant Thornton LLP (regulated CPA/attest services) and Grant Thornton Advisors LLC (PE-owned advisory/non-attest services). Grant Thornton Global Advisors holding company for international consolidation.
+- **Geographic Footprint**: Primarily U.S. operations across multiple offices. Expanding internationally: Grant Thornton Ireland (acquired January 2025), agreements for UAE, Luxembourg, and Cayman Islands operations. Advanced talks with Netherlands. Creating first PE-backed global accounting platform.
+- **ICP Score**: 78
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue**: $2.4B in FY2023 (fiscal year ending July 31) — record year and 7th-largest U.S. accounting firm by revenue. [2024/2025 revenue not publicly disclosed since going private.]
+
+**Growth Trajectory**: PE capital providing acquisition war chest and technology investment. International consolidation (Ireland, UAE, Luxembourg, Cayman Islands, Netherlands) will add significant revenue. 56 new partners, principals, and managing directors appointed in July 2024 — signaling organic growth investment.
+
+**PE Economics**: New Mountain Capital's 60% stake acquired at undisclosed valuation. Deal funded acquisitions, partner buyouts, retirement obligation buyouts, and technology investments. Additional debt financing supplementing PE equity. PE hold period typically 5-7 years, implying exit preparation by 2029-2031.
+
+**Key Financial Pressures**: PE-speed growth targets vs. organic growth pace of partnership model. Need to demonstrate value creation through revenue growth, margin expansion, and international scale to support eventual PE exit at premium multiple.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Jim Peko** — CEO, Grant Thornton Advisors LLC
+- Tenure: CEO since January 2025; former COO
+- Background: Long-tenured principal at the firm; led transformational investments in core business segments and recent transactions
+- Why target: New CEO 14 months into the most complex transformation in the firm's history — needs organizational alignment tools and leadership team operating rhythms to execute PE-backed growth strategy across dual entities and expanding international footprint
+- Notes: New CEO inheriting maximum transformation complexity; priority engagement target
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Jim Peko | CEO, Grant Thornton Advisors LLC | CEO since January 2025; former COO | Long-tenured principal at the firm; led transformational investments in core business segments and recent transactions | New CEO inheriting maximum transformation complexity; priority engagement target |
+| Seth Siegel | Senior Advisor (former CEO) | CEO Aug 2022 – Jan 2025; 30 years at firm | Led PE transaction with New Mountain Capital; deep institutional knowledge | Transitioned to advisory role; may provide warm introduction path |
+| Steve Tennant | CEO, Grant Thornton Ireland; Executive Committee member | Since GT Ireland acquisition Jan 2025 | Irish accounting/advisory leadership | First international integration leader; template for subsequent acquisitions |
+| [New Mountain Capital Representative] | Board Member / PE Sponsor | — | PE operating and value creation | Controls transformation budget and hold-period timeline; economic buyer for organizational advisory |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Dual-entity alternative practice structure: Grant Thornton LLP (CPA/attest, regulated) and Grant Thornton Advisors LLC (advisory, PE-owned). Grant Thornton Global Advisors serves as international holding company. Executive committee includes domestic and newly added international leaders. Practice areas include audit/assurance, tax, advisory services.
+
+**Partnership Heritage**: Grant Thornton's culture was built over 100 years as a partnership — consensus-driven, collegial, relationship-focused. Partners shared economics and governance. This culture attracted and retained professionals who valued stability, predictability, and peer relationships.
+
+**PE Transformation Impact**: The New Mountain Capital transaction fundamentally changes the social contract. Partners bought out lose equity stakes. Remaining partners face PE-style performance metrics, growth targets, and hold-period timelines. The shift from "owner-operator" to "employee of PE-backed entity" is culturally disorienting for many.
+
+**CEO Transition Signal**: Seth Siegel's departure 8 months after the PE deal close may signal cultural friction at the top. His replacement by COO Jim Peko (an internal promotion) suggests the firm prioritized continuity over external transformation leadership.
+
+**Growth Culture Signals**: Appointment of 56 new partners/principals in July 2024 — one of the largest partner classes in firm history — signals aggressive growth and talent investment. International expansion (Ireland, UAE, Netherlands) creates opportunities for ambitious professionals.
+
+**Risk Factors**: Competitor recruiting during transformation uncertainty. Professional services talent is highly mobile. Deloitte, EY, BDO, RSM will aggressively recruit Grant Thornton professionals who feel the culture is changing.
+
+## Recent News & Trigger Events
+
+- [2024-05-31] — **New Mountain Capital closes 60% majority stake — largest PE investment in U.S. accounting firm history** — Transforms governance, growth trajectory, and cultural expectations for 10,000 professionals
+  [source](https://www.grantthornton.com/insights/press-releases/2024/may/new-mountain-capital-and-grant-thornton-close-growth-investment)
+- [2025-01-08] — **CEO Seth Siegel steps down 8 months after PE deal close; COO Jim Peko becomes CEO** — Leadership transition during maximum transformation complexity — new CEO needs organizational alignment tools immediately
+  [source](https://www.cpapracticeadvisor.com/2025/01/08/grant-thornton-ceo-seth-siegel-leaves-post/154182/)
+- [2025-01-03] — **Completed acquisition of Grant Thornton Ireland; created Grant Thornton Global Advisors holding company for international platform** — First international consolidation deal creates integration template — needs operating model for cross-border coordination
+  [source](https://www.businesswire.com/news/home/20250103789826/en/)
+- [2025-01-01] — **International expansion agreements reached for UAE, Luxembourg, and Cayman Islands; advanced talks with Netherlands** — Multiple simultaneous international integrations compound organizational complexity
+- [2024-07-29] — **Appointed 56 new partners, principals, and managing directors — one of largest partner classes in firm history** — Aggressive talent investment signals growth mandate; new partners need alignment with PE-backed strategy
+
+## McChrystal Fit Assessment
+
+**Rating**: Moderate
+ — Moderate: Clear McChrystal fit with CEO transition, PE-backed cultural transformation, and international integration. However, revenue ($2.4B) is at the lower end of ICP sweet spot, professional services culture may resist military-framed advisory, and New Mountain Capital may prefer PE-specialized operators. The gap in available advisors (Big Four excluded) creates an opportunity, but the engagement requires positioning McChrystal's framework in partnership-culture language.
+
+**Primary Problem**: Transforming a 100-year-old partnership culture into a PE-backed, acquisition-driven international growth platform — while managing a CEO transition, dual-entity governance complexity, and multiple international integrations simultaneously
+
+**Best Capability Fit**: Organizational design and leadership development — McChrystal's Team of Teams model can bridge the gap between PE-speed execution demands and partnership-culture consensus traditions, building shared consciousness across an expanding international platform while enabling empowered execution at the practice and country level
+
+**Likely Objections**
+
+- Professional services firms may view military-origin advisory as culturally misaligned with their partnership ethos
+- New Mountain Capital may prefer to work with PE-specialized operating partners rather than external organizational advisors
+- Revenue ($2.4B) is below the ICP sweet spot midpoint — engagement size may be smaller than typical McChrystal deals
+- Jim Peko may prefer to build his leadership approach organically rather than bringing in external advisory
+
+**Competitive Landscape**
+
+- McKinsey / Bain — likely advise New Mountain Capital on value creation strategy and accounting sector thesis
+- Deloitte / EY / PwC — structurally excluded as direct competitors; cannot advise Grant Thornton
+- Korn Ferry — possible engagement on leadership assessment and talent retention
+- Heidrick & Struggles — may be advising on CEO transition and board composition
+
+## Conversation Entry Points
+
+- **Q**: How are you thinking about preserving the collaborative partnership culture that your clients value while executing at the speed your PE partners require?
+  *Framing*: Acknowledge the core tension without taking sides — position McChrystal as understanding both the PE growth mandate and the value of partnership culture
+- **Q**: With Ireland integrated and UAE, Luxembourg, and Netherlands in progress, what's your operating model for maintaining service quality and culture consistency across an expanding international footprint?
+  *Framing*: Show awareness of the specific international integration challenge and imply that a repeatable model is needed
+- **Q**: How is the leadership team coalescing around the new strategic direction — especially with international leaders like Steve Tennant joining the executive committee?
+  *Framing*: Acknowledge the CEO transition and expanding leadership team without implying dysfunction
+
+**Recommended First Meeting Framing**: Frame as a peer conversation about organizational transformation in professional services — McChrystal Group understands the tension between speed and culture, having helped organizations navigate transformations where execution tempo needed to change without destroying the relationship-based qualities that made them successful.
+
+## Brand Insights & Market Positioning
+
+**Brand Value & Competitive Standing**: Grant Thornton is the 7th-largest U.S. accounting firm, positioned in the "mid-tier" between the Big Four (Deloitte, PwC, EY, KPMG) and smaller regional firms. The brand has traditionally stood for "the agility of a mid-size firm with global capability" — a positioning now amplified by the PE-backed international consolidation.
+
+**Brand Identity Evolution**: The PE transaction is fundamentally reshaping Grant Thornton's brand. The firm is evolving from "collaborative mid-tier alternative to the Big Four" to "PE-backed growth platform with global ambitions." This brand evolution creates both opportunity (attracting ambitious professionals and clients who want Big Four capability without Big Four bureaucracy) and risk (alienating professionals and clients who chose Grant Thornton precisely for its partnership-culture, mid-tier feel).
+
+**Brand Threats**: The dual-entity structure (LLP + LLC) creates potential brand confusion — which entity does the client engage with? International consolidation risks diluting the brand if acquired member firms have different quality standards or market positioning. Competitors (BDO, RSM, Baker Tilly) will position against Grant Thornton's PE ownership, arguing that PE-backed firms prioritize short-term returns over client relationships.
+
+**Major Brand Investments**: International expansion is the biggest brand investment — creating a genuinely global platform from what was primarily a U.S.-centric firm. The 56 new partners/principals signal talent investment. PE capital funding technology modernization to enhance digital service delivery.
+
+**McChrystal Connection**: The brand challenge is an organizational alignment problem — the firm needs its 10,000 professionals to embody the new brand promise (global, ambitious, growth-oriented) while preserving the existing brand equity (collaborative, client-focused, agile). McChrystal's shared consciousness model can align the workforce around the evolved brand identity.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+### Fit Dimension 1: Partnership Culture to PE-Speed Execution Transformation
+Grant Thornton is attempting something unprecedented in professional services: transforming a consensus-driven partnership culture into a PE-backed growth machine operating under hold-period timelines. The firm's 10,000 professionals were trained in a partnership model where decisions are deliberated, career paths are predictable, and growth is organic. New Mountain Capital's 60% stake demands acquisition-driven growth, rapid international expansion, technology modernization, and margin improvement — all at a speed incompatible with traditional partnership governance. McChrystal's Team of Teams model is uniquely positioned for this challenge: building shared consciousness (everyone understands the new strategic direction and why) while enabling empowered execution (partners and teams can act quickly without waiting for consensus).
+
+**Competitor displacement logic**: McKinsey advises PE firms on value creation plans; Deloitte consults on accounting firm operations. Neither has experience transforming a partnership culture from the inside. McChrystal addresses the human operating system — how do you get 10,000 professionals who chose a partnership-culture career to embrace PE-speed execution without destroying the client relationship quality that makes the firm valuable?
+
+### Fit Dimension 2: CEO Transition During Maximum Organizational Change
+Seth Siegel, who led the PE transaction as CEO, stepped down in January 2025 — less than 8 months after the deal closed. New CEO Jim Peko (former COO) inherits the most complex transformation in the firm's history: international acquisitions, structural separation into two entities (LLP + LLC), partner buyouts, technology investments, and cultural change. CEO transitions during major transformations are high-risk moments. McChrystal's leadership development capability can accelerate Peko's team's alignment and establish new operating rhythms during this critical period.
+
+**Competitor displacement logic**: Spencer Stuart and Heidrick & Struggles advise on CEO transitions. McChrystal goes beyond individual leader coaching to build the leadership team dynamics and organizational operating model that makes the new CEO effective across a 10,000-person organization undergoing simultaneous structural and cultural transformation.
+
+### Fit Dimension 3: International Consolidation Operating Model
+Grant Thornton is the only U.S. accounting firm pursuing PE-backed international consolidation — acquiring member firms in Ireland, UAE, Luxembourg, Cayman Islands, and Netherlands under a new holding company (Grant Thornton Global Advisors). Each acquisition brings a different national culture, regulatory environment, and operating model into a single platform. This is a multi-country integration challenge that requires exactly the kind of cross-functional coordination across geographic boundaries McChrystal's framework enables.
+
+**Competitor displacement logic**: Big Four firms have internal integration capabilities for their own global networks. Grant Thornton, as the first mid-tier firm attempting PE-backed global consolidation, has no internal playbook for this. McChrystal provides the operating model for maintaining shared consciousness across a rapidly expanding international footprint.
+
+### Fit Dimension 4: Dual-Entity Governance Complexity
+The alternative practice structure — Grant Thornton LLP (CPA/attest, regulated) and Grant Thornton Advisors LLC (advisory, PE-owned) — creates a structural governance challenge. Two entities serving overlapping clients with different ownership, regulatory requirements, and growth mandates must coordinate seamlessly. Client relationships span both entities. McChrystal's experience with coordinating structurally separated but operationally intertwined organizations directly applies.
+
+**Competitor displacement logic**: PwC and EY have operated in similar dual structures for decades but built them gradually. Grant Thornton created this structure overnight as part of the PE transaction, without the decades of institutional muscle memory. McChrystal can accelerate the development of cross-entity coordination capabilities.
+
+### 9b. Cumulative Case — Why Grant Thornton Is a Top Pipeline Opportunity
+
+Grant Thornton represents a first-of-its-kind transformation in professional services. No major accounting firm has attempted PE-backed, acquisition-driven international consolidation while simultaneously restructuring into a dual-entity governance model AND managing a CEO transition. Every dimension compounds the others: the CEO transition creates leadership uncertainty during the most complex period in the firm's history; the international acquisitions require integration capabilities that a partnership culture has never needed; the dual-entity structure demands coordination between legally separate organizations serving the same clients.
+
+**Reinforcing signal chain**: PE acquisition (May 2024) → alternative practice structure created → partnership buyouts begin → CEO departure (Jan 2025) → new CEO inherits transformation → Ireland acquisition completed → UAE/Luxembourg/Cayman deals in progress → Netherlands talks underway → 56 new partners/principals appointed → growth mandate vs. partnership culture tension → integration complexity compounding with each international acquisition
+
+**Revenue potential**: $400K–$600K initial leadership alignment and operating model diagnostic (3-4 months), expanding to $1.5M–$2M for firm-wide Team of Teams implementation covering domestic operations and international integration, with $500K–$750K/year ongoing advisory as each new international acquisition requires cultural integration into the platform.
+
+### 9c. Enterprise Issues & Organizational Challenges
+
+**1. Partnership Culture Shock Under PE Ownership**
+For decades, Grant Thornton partners operated under a model of consensus governance, predictable career progression, and organic growth. The PE transaction fundamentally changes the social contract — partners who are bought out lose equity; those who remain face performance metrics and growth targets foreign to partnership culture. This culture shock is the single biggest risk to the transformation. McChrystal can build purpose and alignment around the new strategic direction without destroying the collaborative culture that makes the firm effective.
+
+**2. CEO Transition at the Worst Possible Moment**
+Seth Siegel's departure 8 months after the deal close creates a leadership vacuum during maximum organizational change. New CEO Jim Peko must establish credibility, build his leadership team, and execute a transformation playbook he inherited but didn't design — all while managing partner anxiety about the PE-backed future. McChrystal's leadership development programs can accelerate Peko's team formation and organizational alignment.
+
+**3. International Integration Without Institutional Capability**
+Grant Thornton has never integrated international member firms into a centralized platform. The Ireland acquisition was first; UAE, Luxembourg, Cayman Islands, and Netherlands are in various stages. Each brings different regulatory frameworks, cultural norms, and operating models. The firm needs a repeatable international integration capability that doesn't yet exist. McChrystal can design the operating model for cross-border coordination.
+
+**4. Dual-Entity Client Handoff Complexity**
+The LLP (attest) and LLC (advisory) serve overlapping clients who don't care about the internal corporate structure — they want seamless service. But the two entities have different ownership, regulatory constraints, and incentive structures. Without explicit coordination mechanisms, client experience will degrade at the handoff points. McChrystal's cross-functional alignment methodology directly addresses this.
+
+**5. Talent Retention During Transformation**
+Professional services firms compete intensely for talent. The PE transaction, CEO change, and structural uncertainty create attrition risk. Competitors (Deloitte, EY, BDO, RSM) will recruit aggressively against Grant Thornton during this period. McChrystal can build engagement through purpose and clarity, reducing the uncertainty that drives departures.
+
+**6. Technology Modernization Across a Professional Workforce**
+PE capital is funding technology investments to improve efficiency and enable growth. But professional services firms are notoriously resistant to technology-driven workflow changes — partners and managers have ingrained habits around client service delivery. McChrystal's change management through shared consciousness approach can accelerate technology adoption.
+
+### 9d. Expected Outcomes from McChrystal Group Engagement
+
+**1. Unified Strategic Narrative and Operating Rhythm**
+McChrystal would establish a firm-wide communication architecture and operating cadence that connects the new CEO's strategic vision to every office, practice area, and international operation. Measurable result: achieve 85%+ of partners reporting understanding of and alignment with the transformation strategy within 6 months (vs. typical 40-50% during major PE-backed transitions).
+
+**2. Accelerated CEO and Leadership Team Effectiveness**
+McChrystal's leadership programs would build high-performing team dynamics around new CEO Jim Peko and his executive committee, including newly integrated international leaders. Measurable result: establish functional leadership team cohesion within 90 days, reducing the typical 12-18 month "forming-storming-norming" cycle by 60%.
+
+**3. Repeatable International Integration Playbook**
+Design and pilot a standardized integration operating model for each international member firm acquisition. Measurable result: reduce time-to-full-integration for subsequent international acquisitions from 12+ months to 6-8 months.
+
+**4. Client Experience Continuity Across Dual Entities**
+Implement cross-entity coordination mechanisms ensuring seamless client service across LLP and LLC. Measurable result: maintain client satisfaction scores (NPS or equivalent) at pre-transaction levels through the first 18 months of the dual-entity structure.
+
+**5. Partner Retention and Engagement**
+Build purpose-driven engagement that helps partners see the PE-backed transformation as opportunity rather than threat. Measurable result: keep voluntary partner attrition below 5% during the first 24 months post-PE transaction (vs. industry average of 10-15% during major ownership changes).
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Business Unit | Leader | Function | McChrystal Relevance |
+|---|---|---|---|
+| Grant Thornton Advisors LLC | Jim Peko | CEO (since Jan 2025, former COO) | **Top priority** — new CEO inheriting maximum transformation complexity; needs operating model and leadership team alignment |
+| Grant Thornton LLP | [To be confirmed] | Managing Partner, Attest Services | Key stakeholder for dual-entity coordination; represents regulated CPA practice |
+| Grant Thornton Global Advisors | [New Mountain Capital designee] | Holding Company / International Platform | Governance layer for international consolidation; PE oversight |
+| Advisory Services | [To be confirmed] | Practice Leader, Advisory | Fastest-growing segment under PE mandate; potential champion |
+| Tax Services | [To be confirmed] | Practice Leader, Tax | Core service line; client relationship continuity during structural change |
+| Grant Thornton Ireland | Steve Tennant | CEO, GT Ireland; Executive Committee member | First international acquisition; integration template for subsequent deals |
+| New Mountain Capital | [Board representative] | PE Majority Owner (60%) | Economic buyer; controls transformation budget and hold-period timeline |
+| Human Resources | [To be confirmed] | CHRO | **Priority target** — talent retention and culture transformation during PE ownership |
+
+Priority engagement targets: (1) Jim Peko, CEO — new leader needing organizational alignment tools; (2) CHRO — owns talent retention and culture during transformation; (3) New Mountain Capital board designee — PE partner who controls transformation investment.
+
+### 9f. Opportunity Thesis
+
+**Strategic Signal Convergence — Why Now**
+PE acquisition closes (May 2024) → alternative practice structure created → partner buyouts begin → CEO departs (Jan 2025) → new CEO Jim Peko takes helm → Ireland acquisition completed (Jan 2025) → UAE/Luxembourg/Cayman deals in progress → 56 new partners/principals appointed (Jul 2024) → growth mandate accelerating → each international acquisition adds integration complexity → CEO needs operating model NOW
+
+The convergence is acute: the firm is 18 months into the PE transaction with a new CEO, an expanding international footprint, and a dual-entity structure — all creating simultaneous organizational complexity without an established operating model for managing it.
+
+**The Structural Paradox — Why McChrystal, Not McKinsey**
+McKinsey and Bain advise PE firms on accounting sector investments and value creation plans. But Grant Thornton's challenge isn't strategy — New Mountain Capital has a clear growth thesis. The challenge is getting 10,000 professionals trained in partnership-culture consensus to execute at PE speed. Deloitte can't advise (direct competitor). EY can't advise (direct competitor). The Big Four are structurally excluded. McKinsey can design the value creation plan but can't build the cultural operating system that makes partners embrace it. McChrystal fills a gap that no other advisor can credibly occupy: transforming the human operating system of a partnership culture without destroying the collaborative client-service quality that makes the firm valuable.
+
+**Phased Engagement Hypothesis — Land and Expand**
+
+*Phase 1 (Months 1-3): CEO and Leadership Team Alignment — $300K–$500K*
+Scope: Work with new CEO Jim Peko and his executive committee (including international leaders like Steve Tennant from Ireland) to establish leadership team operating rhythms, decision-making frameworks, and communication architecture for the transformed organization. Include assessment of partnership culture dynamics and PE-speed execution readiness.
+Why this beachhead: New CEO in the first months of a massive transformation needs rapid leadership team alignment. This is a bounded, high-urgency engagement that demonstrates immediate value.
+
+*Phase 2 (Months 3-8): Firm-Wide Operating Model and International Integration — $1M–$1.5M*
+Scope: Design and deploy firm-wide communication and coordination architecture. Build repeatable international integration playbook and pilot with next acquisition. Implement cross-entity (LLP/LLC) coordination mechanisms.
+
+*Phase 3 (Months 8+): Ongoing Transformation Advisory — $500K–$750K/year*
+Scope: Integration support for each new international acquisition. Partner engagement and retention programs. Ongoing leadership development as the firm scales.
+
+**Competitive Displacement Strategy**
+Big Four competitors are structurally excluded from advising Grant Thornton. McKinsey/Bain likely advise New Mountain Capital on the investment thesis. McChrystal enters through the firm's internal leadership — Jim Peko, the CHRO, or practice leaders — not through the PE firm. Position as a leadership and organizational effectiveness partner (different budget line than strategy consulting). The pitch: "New Mountain has the growth strategy; your strategy advisors have the value creation plan; we build the organizational operating system that makes your 10,000 professionals execute it."
+
+**Multi-Threaded Pursuit Map**
+
+*Thread 1: CEO Jim Peko — Leadership Alignment*
+Target: Jim Peko, CEO
+Angle: "You've been CEO for [X] months during the most complex transformation in your firm's history. How are you building alignment across a leadership team that spans two legal entities and expanding international operations?"
+Vector: Direct outreach; CEO peer networks; McChrystal personal relationships in professional services
+
+*Thread 2: CHRO — Culture and Talent*
+Target: Chief Human Resources Officer
+Angle: "PE-backed partnership transformations create unique talent retention risks — partners who feel the culture is changing may look elsewhere. We help organizations maintain engagement through purpose and clarity during maximum change."
+Vector: HR leadership conferences; professional services industry CHRO networks
+
+*Thread 3: New Mountain Capital — PE Value Creation*
+Target: New Mountain Capital board representative
+Angle: "Organizational execution is the #1 risk to value creation in professional services PE deals. McChrystal provides the operating model that converts your value creation plan into partner-level execution."
+Vector: PE operating partner networks; McChrystal relationships with PE firms
+
+
+---
+
+# Research Dossier — Sedgwick
+
+## Organization Snapshot
+
+- **Legal Name**: Sedgwick Claims Management Services, Inc.
+- **Headquarters**: Memphis, Tennessee
+- **Founded**: 1969
+- **Industry**: Claims Management / Insurance Services
+- **Revenue**: $5.0B
+- **Employees**: 33K+
+- **Ownership**: PE-backed: Carlyle Group (majority owner since 2018, $6.7B initial investment). Minority investors: Stone Point Capital, Altas Partners ($1B investment Nov 2024), CDPQ, Onex, and management investors. Enterprise value: $13.2B.
+- **Geographic Footprint**: 80 countries, 407 locations worldwide, 33,000+ colleagues. Major operations in U.S., UK, Ireland, Canada, Australia, and continental Europe. Global claims handling for multinational insurance programs.
+- **ICP Score**: 95
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue**: Estimated ~$5B annually (2025). [INFERRED — Sedgwick is private; multiple sources estimate revenue between $4.6B and $5B.]
+
+**Growth Trajectory**: Enterprise value grew from $6.7B (2018 Carlyle acquisition) to $13.2B (November 2024 Altas investment) — nearly 2x in 6 years. Continuous acquisition strategy adding capabilities (Bottomline LSM, smaller bolt-ons).
+
+**Profitability**: Not publicly disclosed. PE ownership for 8+ years with $1B additional investment suggests strong cash flow generation and positive EBITDA trajectory.
+
+**PE Economics**: Carlyle's 2018 entry at $6.7B; current $13.2B enterprise value represents ~2x money-on-invested-capital before exit. Altas Partners' $1B investment (Nov 2024) at $13.2B valuation signals confidence in continued value creation. Extended hold period (8+ years) unusual for PE — indicates Carlyle sees further upside from transformation.
+
+**Key Financial Pressures**: PE exit timeline creating urgency for demonstrable operational improvement. $13.2B valuation must be justified to eventual buyers or public market investors. Transformation investment (CTO hire, technology modernization, sales reorg) expected to drive margin improvement.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Vishy Padmanabhan** — Chief Transformation Officer
+- Tenure: Since September 2025
+- Background: Former Senior Executive at Wells Fargo; former Partner at Bain & Company. MBA from Emory University. Specializes in aligning IT with business goals, modernizing legacy systems, outcome-based innovation
+- Why target: Newly created CTO role with mandate to drive integrated transformation spanning digital, data, and enterprise processes across 33,000 colleagues in 80 countries. His success depends on organizational change management at massive scale — exactly McChrystal's capability. Former Bain partner understands structured advisory approaches.
+- Notes: Reports directly to CEO; owns transformation mandate
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Michael Arbour | CEO | Current CEO | Insurance and claims management leadership | Executive sponsor; controls strategic direction |
+| Vishy Padmanabhan | Chief Transformation Officer | Since September 2025 | Former Senior Executive at Wells Fargo; former Partner at Bain & Company. MBA from Emory University. Specializes in aligning IT with business goals, modernizing legacy systems, outcome-based innovation | Reports directly to CEO; owns transformation mandate |
+| Paul White | CEO, International | Since January 2026 | International insurance/claims operations | New role; owns 80-country international operation coordination |
+| Brad Krauss | EVP, Head of Casualty & Specialty Business Development | With Sedgwick since 2002; 30+ years industry | Insurance and risk management | Leads reorganized U.S. sales team; influential operational leader |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Global matrix organization: CEO (Michael Arbour) with CTO (Padmanabhan), International CEO (Paul White), and service line leaders. U.S. sales recently reorganized into national and regional structure. Country operations have historically operated with significant autonomy. 209 executives in org chart reflecting both geographic and functional leadership. PE board oversight from Carlyle, Altas, and Stone Point.
+
+**Positive signals**: Sedgwick emphasizes a "culture of caring" — purpose-driven work centered on helping people through claims processes. Colleague resource groups foster community. Internal messaging emphasizes career mobility, industry-leading leaders, and meaningful work. The "caring" culture is both an employee retention asset and a client-facing differentiator.
+
+**Transformation challenge**: A "culture of caring" optimized for claims handling must now absorb digital transformation, process automation, and data-driven decision-making. Claims professionals who chose this career for the human element may resist technology-driven changes that feel like they reduce the personal touch. The CTO's mandate to drive "digital, data, and enterprise processes" transformation directly tests whether the caring culture can adapt.
+
+**Geographic culture variation**: 80-country operation means vastly different cultural contexts. Claims handling in Japan, Germany, Brazil, and the U.S. reflect different professional norms, client expectations, and regulatory environments. The CTO's global transformation must be culturally sensitive across all markets.
+
+**PE ownership impact**: Eight years of Carlyle ownership has normalized PE expectations among senior leadership. But the CTO appointment and sales reorganization signal that operational transformation is entering a new, more intensive phase that will touch all 33,000 colleagues — not just leadership.
+
+## Recent News & Trigger Events
+
+- [2025-09-03] — **Appointed Vishy Padmanabhan as Chief Transformation Officer — newly created role** — CTO appointment signals board-level recognition that 33,000-person global operation needs fundamental operating model redesign. His mandate: 'champion innovation and agility at scale, partnering across technology and operations to drive an integrated transformation agenda'
+  [source](https://www.sedgwick.com/press-release/sedgwick-appoints-vishy-padmanabhan-to-chief-transformation-officer/)
+- [2024-11-01] — **Closed $1B minority investment from Altas Partners; Carlyle and Stone Point made additional investments; enterprise value reached $13.2B** — $1B fresh capital signals extended PE hold and investment in value creation; $13.2B valuation creates exit urgency
+  [source](https://www.sedgwick.com/press-release/sedgwick-announces-investments-from-altas-partners-carlyle-and-stone-point/)
+- [2026-01-01] — **Paul White appointed CEO, International — new role overseeing 80-country operation** — New international CEO signals recognition that cross-border coordination needs dedicated leadership; alignment opportunity for McChrystal's global operating model
+- [2025-02-01] — **Strategic reorganization of U.S. sales team — new national and regional structure** — Sales reorg is first visible structural change in broader transformation; signals appetite for organizational redesign
+- [2025-03-01] — **Acquired Bottomline's legal spend management division for property & casualty insurance** — Acquisition adds capability but also integration complexity during transformation period
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Strong: Problem directly maps to McChrystal's core capability (organizational transformation at massive distributed scale). Active trigger (CTO appointed Sept 2025). Clear economic buyer (CTO with transformation budget). Budget exists ($5B revenue, $13.2B enterprise value, PE-funded transformation). Organizational urgency (PE timeline, $1B fresh capital to deploy). The scale (33,000 people, 80 countries) is the largest in the pipeline and plays directly to McChrystal's military-derived expertise in cross-geographic coordination.
+
+**Primary Problem**: Executing company-wide digital, data, and enterprise process transformation across 33,000 colleagues in 80 countries — requiring organizational change management at a scale few companies have attempted, under PE timeline pressure to justify $13.2B enterprise valuation
+
+**Best Capability Fit**: Team of Teams at global scale — McChrystal's framework for shared consciousness and empowered execution across geographically distributed teams operating in different languages, time zones, and regulatory environments is a direct transfer from military coalition operations experience. The 33,000-person, 80-country scale is the largest opportunity in the pipeline and directly matches McChrystal's differentiated capability.
+
+**Likely Objections**
+
+- CTO Padmanabhan's Bain background may bias toward familiar Bain/McKinsey-style advisory over McChrystal's approach
+- Carlyle may prefer PE-specialized operating partners over external organizational advisors
+- 33,000-person global scale may seem too large for a boutique advisory firm — McChrystal must demonstrate capability at this scale
+- Claims management industry may not immediately see relevance of military-origin organizational frameworks
+
+**Competitive Landscape**
+
+- Bain & Company — Padmanabhan's former employer; likely has advisory relationship at strategy level
+- McKinsey — may be advising Carlyle on value creation and transformation strategy
+- Accenture / Deloitte — probable technology implementation partners for digital transformation
+- AlixPartners — PE-specialized operational improvement; may be engaged on performance enhancement
+
+## Conversation Entry Points
+
+- **Q**: You've been in the CTO role for about six months now — what's your biggest surprise about how the organization actually operates across 80 countries versus how it looks from the leadership level?
+  *Framing*: Position as a peer conversation about the gap between strategy vision and organizational reality at global scale — McChrystal specializes in closing that gap
+- **Q**: How are you thinking about driving transformation adoption at the claims-handler level — getting 33,000 colleagues to change how they work without disrupting the claims quality your clients depend on?
+  *Framing*: Demonstrate understanding that transformation at this scale requires bottom-up buy-in, not just top-down mandates
+- **Q**: With Paul White now leading international operations and the U.S. sales team recently reorganized, how are you coordinating the transformation across these structural changes?
+  *Framing*: Show awareness of the multiple simultaneous organizational changes and imply that coordination is the key challenge
+
+**Recommended First Meeting Framing**: Frame as a conversation between organizational transformation practitioners. McChrystal Group has experience driving change across large, distributed organizations where geographic spread and operational complexity make traditional top-down transformation approaches fail. The CTO should see McChrystal as a partner who understands the gap between transformation strategy and frontline execution.
+
+## Brand Insights & Market Positioning
+
+**Brand Value & Competitive Standing**: Sedgwick is the global market leader in claims management, a position built over decades of organic growth and acquisitions. The brand represents reliability, expertise, and global reach in an industry where trust is paramount — insurers and corporations entrust Sedgwick with managing claims that directly impact their policyholders' experience.
+
+**Brand Identity Evolution**: Sedgwick's brand is evolving from "reliable claims processor" to "technology-enabled claims solutions provider." The CTO appointment and digital transformation mandate signal a brand repositioning toward innovation and data-driven decision-making. This evolution risks alienating the "caring" brand identity that differentiates Sedgwick from purely transactional competitors.
+
+**Brand Threats**: Technology-native insurtech companies (Lemonade, Hippo, Root) are pushing claims processing toward automation and AI. While Sedgwick operates at a scale insurtechs can't match, the threat creates pressure to modernize without losing the human-touch brand differentiator. Competitors (Crawford & Company, Broadspire, Gallagher Bassett) may position against Sedgwick as slow to modernize during the transformation period.
+
+**Major Brand Investments**: Global scale (80 countries, 407 locations) is itself a brand investment — no competitor matches Sedgwick's geographic reach. The CTO's technology transformation represents the next major brand investment: building a digital-native claims platform that can handle millions of claims annually with improved speed and accuracy.
+
+**McChrystal Connection**: The brand transformation challenge — evolving from "reliable claims processor" to "technology-enabled solutions provider" while maintaining the "culture of caring" — is fundamentally an organizational alignment problem. Every claims professional must embody the new brand promise (innovative, data-driven, fast) while preserving the existing brand equity (caring, expert, reliable). McChrystal's shared consciousness model can align 33,000 colleagues around this evolved brand identity.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+### Fit Dimension 1: Global Operating Model Transformation at 33,000-Person Scale
+Sedgwick operates across 80 countries with 33,000+ employees managing claims for some of the world's largest insurers, corporations, and government entities. The appointment of Vishy Padmanabhan as Chief Transformation Officer in September 2025 signals that the existing operating model — built through decades of acquisitions and organic growth across disparate geographies — cannot support the next phase of growth. Padmanabhan's mandate spans "digital, data, and enterprise processes" — a transformation that touches every colleague in every country. McKinsey can design a target operating model on paper. McChrystal builds the human operating system that gets 33,000 people across 80 countries to actually execute it — shared consciousness at global scale with empowered execution at the local claims-handling level.
+
+**Competitor displacement logic**: Bain (Padmanabhan's former employer) likely has a relationship but focuses on strategy. Accenture/Deloitte would focus on technology implementation. McChrystal fills the gap neither addresses: how do you maintain coordination and cultural cohesion across 33,000 people in 80 countries during a transformation that changes how every colleague works? This is a distributed leadership challenge, not a technology deployment challenge.
+
+### Fit Dimension 2: PE-Driven Value Creation Pressure at Scale
+Carlyle acquired Sedgwick for $6.7B in 2018. Eight years into ownership, Altas Partners invested $1B in November 2024, pushing enterprise value to $13.2B. This signals Carlyle is extending its hold period and investing in value creation rather than exiting. The CTO appointment and sales reorganization indicate Carlyle expects significant operational improvement — faster claims processing, better technology adoption, improved client experience — to justify the $13.2B valuation for eventual exit. McChrystal's ability to drive measurable organizational performance improvement at scale directly supports the PE value creation thesis.
+
+**Competitor displacement logic**: PE operating partners and AlixPartners focus on financial performance improvement. McChrystal addresses the organizational execution capability that determines whether operational improvements actually stick at the claims-handler level. Cost reduction is easy; sustained performance improvement across 33,000 people requires organizational operating model change.
+
+### Fit Dimension 3: Cross-Country Coordination in Claims Management
+Claims management is inherently cross-functional and often cross-border — a multinational corporation's property claim may involve adjusters in multiple countries, legal teams in different jurisdictions, and reporting requirements that span regulatory frameworks. Sedgwick's 80-country operation creates coordination complexity that mirrors military coalition operations — exactly the environment McChrystal's Team of Teams model was designed for. The new international CEO role (Paul White, effective January 2026) signals recognition that international coordination needs dedicated leadership.
+
+**Competitor displacement logic**: No consulting firm specializes in cross-border claims coordination at organizational scale. McChrystal's framework for maintaining shared consciousness across geographically distributed teams operating in different languages, time zones, and regulatory environments is a direct transfer from military coalition experience.
+
+### Fit Dimension 4: Sales Organization Redesign as Transformation Catalyst
+In February 2025, Sedgwick announced a strategic reorganization of its U.S. sales team with a new national and regional structure. This is not just a sales restructuring — it's the first visible organizational change in a broader transformation. Sales reorganizations in services companies often reveal deeper structural issues: misaligned incentive structures, siloed client relationships, poor cross-selling between service lines. McChrystal can help ensure the sales reorg becomes a catalyst for broader organizational alignment rather than an isolated structural change.
+
+**Competitor displacement logic**: Sales consultancies (Korn Ferry, Alexander Group) optimize sales structures. McChrystal ensures the new sales structure is supported by organization-wide communication and coordination that enables cross-selling and client experience consistency.
+
+### Fit Dimension 5: Acquisition Integration Across the Claims Ecosystem
+Sedgwick's growth strategy includes continuous acquisitions — Bottomline's legal spend management (March 2025) and smaller bolt-ons. Each acquisition adds capabilities but also adds organizational complexity. Without a repeatable integration operating model, Sedgwick risks creating a fragmented collection of acquired businesses rather than a unified platform. McChrystal can design the integration framework that scales.
+
+**Competitor displacement logic**: Integration consulting firms (McKinsey, Bain) design integration playbooks. McChrystal builds the organizational culture and communication architecture that makes acquisitions feel like joining a unified platform rather than being absorbed by a holding company.
+
+### 9b. Cumulative Case — Why Sedgwick Is a Top Pipeline Opportunity
+
+Sedgwick is the highest-scoring prospect in the pipeline (95.0) for good reason: it represents a rare convergence of massive scale (33,000 employees, 80 countries), active transformation leadership (newly appointed CTO), PE-driven urgency ($13.2B valuation to justify), and organizational complexity (cross-border claims coordination). Every dimension reinforces the others: the CTO's transformation agenda requires organizational change at global scale; the PE timeline creates urgency; the international footprint creates coordination complexity; continuous acquisitions add organizational strain.
+
+**Reinforcing signal chain**: Carlyle ownership since 2018 → enterprise value grows to $13.2B → Altas Partners $1B investment (Nov 2024) signals extended hold and value creation focus → CTO Vishy Padmanabhan appointed (Sept 2025) → sales team reorganized (Feb 2025) → international CEO appointed (Jan 2026) → Bottomline acquisition adds capability complexity → digital/data/process transformation mandate → 33,000 colleagues across 80 countries must change how they work
+
+**Revenue potential**: $750K–$1M initial diagnostic and transformation operating model design (4-6 months), expanding to $3M–$5M for global Team of Teams implementation across key regions and service lines, with $1M–$2M/year ongoing transformation advisory retainer through PE hold period. Total engagement potential: $5M–$8M over 3-4 years — one of the largest opportunities in the pipeline.
+
+### 9c. Enterprise Issues & Organizational Challenges
+
+**1. Geographic Silos Across 80 Countries**
+Sedgwick's global operation grew through acquisitions and organic expansion, creating country-level operations with varying processes, technology platforms, and cultural norms. A claim handled in the UK follows different workflows, uses different systems, and reflects different service expectations than one handled in Australia, Germany, or Brazil. The CTO's mandate to drive "integrated transformation spanning digital, data, and enterprise processes" requires breaking down these geographic silos without destroying the local expertise that makes Sedgwick effective in each market. McChrystal's shared consciousness model — global visibility with local execution — directly addresses this.
+
+**2. Transformation Resistance at 33,000-Person Scale**
+Claims adjusters, examiners, and administrators handle millions of claims annually through established workflows. Changing how 33,000 people work — new technology, new processes, new data requirements — creates enormous resistance. Padmanabhan's background at Wells Fargo and Bain gives him strategy credibility, but executing transformation across a globally distributed, claims-processing workforce requires organizational change management at a scale few firms have attempted. McChrystal's approach — building shared understanding of why the transformation matters, then empowering teams to adapt execution locally — is the proven framework for this scale.
+
+**3. PE Timeline Creating Transformation Urgency Without Organizational Readiness**
+Carlyle's 2018 acquisition means the firm is 8+ years into ownership with enterprise value at $13.2B. Whether Carlyle extends further, exits via sale, or pursues IPO, the PE timeline demands visible operational improvement. But transformation at 33,000-person scale takes years, not quarters. The CTO is under pressure to show results quickly while building sustainable change. McChrystal can help balance PE-speed expectations with organizational absorption capacity.
+
+**4. Cross-Border Claims Coordination Gaps**
+Multinational clients expect seamless claims handling across borders — but Sedgwick's country operations evolved independently, creating coordination gaps. A global insurance program with claims in 15 countries may be handled by 15 independent Sedgwick teams with limited real-time information sharing. The new international CEO role (Paul White, January 2026) acknowledges this gap. McChrystal's cross-functional, cross-geographic coordination framework directly applies.
+
+**5. Technology Platform Fragmentation**
+Decades of acquisitions created a patchwork of technology systems across countries and service lines. The CTO's digital transformation mandate requires platform consolidation — but technology change fails when organizational change management doesn't accompany it. McChrystal ensures the human operating system evolves alongside the technology platform.
+
+**6. Sales and Service Line Siloing**
+The February 2025 sales reorganization signals that Sedgwick's service lines (casualty, property, marine, benefits, brand protection) were not cross-selling effectively. Clients who use Sedgwick for property claims may not know about (or have access to) marine or brand protection capabilities. This service-line siloing is an organizational coordination problem — exactly what McChrystal's shared consciousness model breaks down.
+
+**7. Acquisition Integration Fatigue**
+Sedgwick has made numerous acquisitions across its growth trajectory. Each acquisition adds capability but also adds organizational complexity — different systems, cultures, workflows, and client relationships. Without a scalable integration model, the organization risks integration fatigue where each new acquisition creates more organizational entropy. McChrystal can design the repeatable framework.
+
+### 9d. Expected Outcomes from McChrystal Group Engagement
+
+**1. Global Transformation Operating Model**
+McChrystal would design and deploy a transformation communication and coordination architecture that connects CTO Padmanabhan's strategy to every country operation, service line, and functional team. Measurable result: achieve 80%+ colleague awareness and understanding of transformation priorities across all 80 countries within 6 months of implementation.
+
+**2. Cross-Border Claims Coordination Improvement**
+Implement shared consciousness operating rhythms across multinational claims teams, enabling real-time information sharing and coordinated decision-making. Measurable result: reduce cross-border claims resolution time by 25-30% for multinational clients within 12 months.
+
+**3. Accelerated Technology Adoption**
+Design organizational change management approach that builds buy-in for digital transformation at the claims-handler level. Measurable result: achieve 75%+ adoption of new digital tools within 6 months of deployment in pilot countries (vs. typical 40-50% for top-down technology mandates in distributed organizations).
+
+**4. Service Line Cross-Selling Improvement**
+Build cross-service-line communication architectures that enable the new sales structure to identify and execute cross-selling opportunities. Measurable result: increase cross-service-line revenue per client by 15-20% within 12 months of the new sales structure deployment.
+
+**5. Transformation Speed Without Disruption**
+McChrystal's framework would enable faster transformation execution while maintaining claims processing quality and client satisfaction. Measurable result: maintain claims quality metrics (NPS, cycle time, accuracy) at or above pre-transformation levels during the first 18 months of change.
+
+**6. PE Value Creation Acceleration**
+Provide the organizational execution capability that converts Padmanabhan's transformation strategy into measurable operational improvement. Measurable result: contribute to 200-400 basis point EBITDA margin improvement over 24 months through organizational efficiency gains, supporting the PE value creation thesis.
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Business Unit | Leader | Function | McChrystal Relevance |
+|---|---|---|---|
+| Sedgwick (Global) | Michael Arbour | CEO | Executive sponsor; controls strategic direction and advisory engagement |
+| Transformation | Vishy Padmanabhan | Chief Transformation Officer (since Sept 2025) | **Top priority engagement target** — owns the transformation mandate; his success depends on organizational change at 33K-person scale. Former Bain partner and Wells Fargo executive. Reports to CEO |
+| International | Paul White | CEO, International (since Jan 2026) | **Priority target** — owns 80-country international operation; cross-border coordination directly maps to McChrystal capability |
+| U.S. Casualty & Specialty BD | Brad Krauss | EVP, Head of Casualty & Specialty Business Development | Sales reorg leader; 30+ years industry experience; influential voice on organizational change |
+| Finance | [To be confirmed] | CFO | Budget authority for transformation investments |
+| Human Resources | [To be confirmed] | CHRO | Organizational change management, talent retention during transformation |
+| Carlyle Group | [Board representative] | PE Majority Owner | Controls strategic investment decisions and hold-period timeline |
+| Altas Partners | [Board representative] | Minority Investor ($1B, Nov 2024) | Growth capital provider; expects operational improvement returns |
+| Property Claims | [To be confirmed] | Service Line Leader | Major service line; property claims drive significant revenue |
+| Marine Claims | [To be confirmed] | Service Line Leader | Specialized service line; cross-border coordination intensive |
+| Brand Protection | [To be confirmed] | Service Line Leader | Growing service line; requires cross-functional coordination with legal and PR teams |
+
+Priority engagement targets: (1) Vishy Padmanabhan, CTO — directly responsible for the transformation McChrystal can accelerate; (2) Paul White, CEO International — owns the cross-border coordination challenge; (3) Michael Arbour, CEO — executive sponsor.
+
+### 9f. Opportunity Thesis
+
+**Strategic Signal Convergence — Why Now**
+Carlyle ownership since 2018 → enterprise value $6.7B to $13.2B → Altas Partners $1B investment (Nov 2024) signals extended PE hold → CTO Vishy Padmanabhan appointed (Sept 2025) to lead digital/data/process transformation → U.S. sales team reorganized (Feb 2025) → International CEO Paul White appointed (Jan 2026) → Bottomline LSM acquisition (Mar 2025) adds integration complexity → transformation mandate activates across 33,000 colleagues in 80 countries → urgency to show results before eventual PE exit
+
+The convergence is exceptional: a newly appointed CTO with a clear mandate, a new international CEO, a recent sales reorganization, and $13.2B in enterprise value that must be justified through operational improvement. Every element creates demand for organizational transformation capability at global scale.
+
+**The Structural Paradox — Why McChrystal, Not McKinsey**
+Padmanabhan's background at Bain means Sedgwick has access to world-class strategy capability. McKinsey or BCG could design the transformation roadmap. Accenture or Deloitte could implement the technology. But who builds the organizational operating system that gets 33,000 claims professionals across 80 countries to change how they work? This is not a strategy problem or a technology problem — it's a distributed leadership and coordination problem at massive scale. McChrystal's Team of Teams model was literally designed for this: maintaining shared consciousness and empowered execution across thousands of people in dozens of countries operating in different languages, time zones, and regulatory environments. No other firm can credibly claim expertise in organizational transformation at this geographic scale and operational complexity.
+
+**Phased Engagement Hypothesis — Land and Expand**
+
+*Phase 1 (Months 1-4): Transformation Operating Model Diagnostic — $750K–$1M*
+Scope: Partner with CTO Padmanabhan to assess current organizational readiness for transformation across 5-6 key country operations. Map communication architectures, decision-making patterns, and coordination gaps between headquarters, regions, and country operations. Deliver a "Global Transformation Readiness" diagnostic with specific recommendations for operating model design.
+Why this beachhead: The CTO is 6 months into his role with an enormous mandate and a PE timeline. He needs visibility into how the organization actually operates across 80 countries before he can design the transformation approach. McChrystal's diagnostic provides that visibility — and it positions us as the organizational execution partner for the entire transformation journey.
+
+*Phase 2 (Months 4-12): Regional Team of Teams Implementation — $2M–$3.5M*
+Scope: Deploy shared consciousness operating rhythms across 3-4 priority regions (e.g., North America, UK/Europe, Asia-Pacific). Train 100+ regional and country leaders in McChrystal's decentralized execution framework. Design cross-service-line coordination mechanisms to support new sales structure. Implement cross-border claims coordination model for multinational clients.
+Expansion logic: Phase 1 diagnostic reveals specific coordination gaps and transformation resistance patterns that only McChrystal's distributed operations model can address at scale.
+
+*Phase 3 (Months 12+): Global Transformation Advisory — $1M–$2M/year*
+Scope: Expand implementation to remaining countries. Ongoing transformation monitoring and leadership development. Integration support for each new acquisition. Cross-border coordination optimization.
+
+**Competitive Displacement Strategy**
+Bain (Padmanabhan's former employer) has a relationship but operates at strategy level, not organizational execution. McKinsey/BCG may be advising Carlyle on value creation. Accenture/Deloitte are technology implementers. McChrystal enters through the CTO directly — his mandate is to champion "innovation and agility at scale," and he needs an organizational execution partner. Position McChrystal as complementary: "Bain designs the strategy; Accenture builds the technology; McChrystal builds the organizational operating system that gets 33,000 people to execute it." Procurement bypass: enter through the CTO's transformation budget (separate from general consulting spend).
+
+**Multi-Threaded Pursuit Map**
+
+*Thread 1: CTO Vishy Padmanabhan — Transformation Execution*
+Target: Vishy Padmanabhan, Chief Transformation Officer
+Angle: "Your mandate spans digital, data, and enterprise processes across 33,000 colleagues. The technology and process design will come from your teams and partners. What's missing is the organizational execution model that gets 80 countries to adopt the new way of working. That's our specialty."
+Vector: Direct outreach. Padmanabhan's Bain background means he respects structured, data-driven approaches — frame McChrystal's model in those terms. Conference proximity at insurance/claims industry events.
+
+*Thread 2: International CEO Paul White — Cross-Border Coordination*
+Target: Paul White, CEO International (since January 2026)
+Angle: "You're building a coordinated international operation from what was previously a collection of country businesses. McChrystal has helped organizations maintain shared consciousness and coordinated execution across dozens of countries and time zones."
+Vector: Direct outreach. International insurance industry events. McChrystal's military coalition experience directly relevant to cross-country coordination.
+
+*Thread 3: Carlyle Group / Board — PE Value Creation*
+Target: Carlyle operating partner or board representative
+Angle: "Organizational execution capability is the bottleneck between your value creation thesis and operational reality. McChrystal provides the operating model that converts transformation strategy into measurable improvement across 33,000 people."
+Vector: PE operating partner networks; McChrystal relationships with PE firms. Carlyle portfolio company cross-referencing (has McChrystal worked with other Carlyle portfolio companies?).
+
+
+---
+
+# Research Dossier — Concentra Group Holdings
+
+## Organization Snapshot
+
+- **Legal Name**: Concentra Group Holdings Parent, Inc.
+- **Headquarters**: Addison, Texas (Dallas area)
+- **Founded**: 1979
+- **Industry**: Occupational Healthcare Services
+- **Revenue**: $2.2B
+- **Employees**: 10K+
+- **Ownership**: Public (NYSE: CON) since July 2024 IPO. Spun off from Select Medical Holdings Corporation. Full distribution completed November 2025 — Select Medical no longer owns shares. Welsh Carson Anderson & Stowe was a prior minority investor through Select Medical. Now a fully independent public company.
+- **Geographic Footprint**: 770+ occupational health centers and onsite clinics across 42 U.S. states. Nova Medical acquisition added 67 sites in Texas, Georgia, Tennessee, Indiana, and Wisconsin. No international operations. Employer onsite clinics at major corporate locations.
+- **ICP Score**: 91
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue**: $2.2B in FY2025, up 13.9% YoY. Q4 2025 revenue growth continued strong trajectory.
+
+**Profitability**: Adjusted EBITDA of $431.9M in FY2025, up 14.6% YoY. EBITDA margin ~19.6%. Company guided for ~$2.1B revenue and ~$415M adjusted EBITDA including Nova for 2025 (pre-actual results exceeding guidance).
+
+**Growth Trajectory**: Planning 7-9 de novo new locations in 2026, potentially double-digit in 2027. Continued bolt-on acquisition strategy alongside organic growth. Revenue CAGR accelerating with Nova integration.
+
+**Capital Structure**: IPO raised $529M (July 2024). Manageable debt load from separation. Strong cash flow generation supports de novo expansion and bolt-on acquisitions.
+
+**Analyst Sentiment**: Newly public company building analyst coverage. Strong FY2025 results against initial guidance exceeded expectations. Key watch items: TSA transition execution, Nova integration milestones, de novo expansion pace.
+
+**Client Base**: ~200,000 employer partners including 100% of Fortune 100 and ~95% of Fortune 500 — providing revenue stability and cross-selling opportunities.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Matthew DiCanio** — President & CFO
+- Tenure: President since 2023; CFO since 2024
+- Background: Operations and finance leadership; oversees clinical, operational, sales, marketing, M&A, real estate, growth, and business improvement
+- Why target: The most overloaded executive in the pipeline — simultaneously managing TSA wind-down, $265M Nova integration, de novo expansion, public company reporting, and growth strategy. McChrystal's organizational coordination framework directly addresses his convergence of challenges.
+- Notes: Single executive managing TSA transition, Nova integration, and growth strategy simultaneously
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| W. Keith Newton | Chairman, President & CEO | CEO since 2015; co-founded predecessor in 1997 | Occupational health pioneer; led company through multiple ownership transitions (Humana → Select Medical/Welsh Carson → IPO). Deep institutional knowledge spanning 25+ years. | Executive sponsor; visionary leader who has navigated complex transitions |
+| Matthew DiCanio | President & CFO | President since 2023; CFO since 2024 | Operations and finance leadership; oversees clinical, operational, sales, marketing, M&A, real estate, growth, and business improvement | Single executive managing TSA transition, Nova integration, and growth strategy simultaneously |
+| John A. Delorimier | EVP, Chief Digital and Data Officer | Current | Healthcare technology and digital transformation | Building standalone digital infrastructure under TSA deadline |
+| Giovanni Gallara | EVP, Chief Clinical Services Officer | Current | Clinical healthcare operations | Responsible for clinical quality consistency across 770+ centers during transitions |
+| Su Zan Nelson | EVP, Chief Accounting Officer | Current | Healthcare finance and accounting | Public company financial reporting; TSA transition for financial systems |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Newly independent public company structure with CEO (Newton) and President/CFO (DiCanio) overseeing all operations. Functional EVPs for digital/data, clinical services, and accounting. Regional structure across 42 states with center-level management. Employer onsite division and Concentra Ventures as separate business units. Still transitioning from Select Medical shared services to fully independent infrastructure.
+
+**Mission-Driven Identity**: Concentra's stated mission is "improving the health of America's workforce." The occupational health focus creates a purpose-driven culture — employees connect their work to helping injured workers return to health and employers maintain safe workplaces. This purpose alignment is both a retention asset and a potential resistance point during technology-driven transformation.
+
+**Transition Culture Dynamics**: Employees are experiencing a unique cultural moment — Concentra has gone from being a Select Medical subsidiary to an independent public company in 18 months. This creates both excitement (independence, growth potential, equity opportunity) and anxiety (new systems, new processes, TSA uncertainty). The culture is in flux, making it simultaneously receptive to and stressed by organizational change.
+
+**Center-Level Autonomy**: Each of the 770+ centers operates with significant day-to-day autonomy — local clinical directors and center managers make patient care and employer relationship decisions. This distributed model creates the classic McChrystal challenge: maintaining quality consistency and strategic alignment across hundreds of independently operating units.
+
+**Growth Culture**: 13.9% revenue growth, Nova acquisition, and de novo expansion plans signal a growth-oriented culture. Leadership's willingness to pursue multiple growth vectors simultaneously suggests organizational ambition — but also potential overextension risk.
+
+**Occupational Health Workforce**: Clinical staff (physicians, nurse practitioners, physical therapists) combined with business operations staff creates a dual-culture organization. Clinical staff are mission-driven; operations staff are efficiency-driven. Aligning these two cultures around shared priorities during a period of organizational transition is a classic McChrystal challenge.
+
+## Recent News & Trigger Events
+
+- [2025-11-01] — **Completed full spinoff from Select Medical — Concentra now a fully independent public company** — Independence creates urgency to build standalone corporate infrastructure; TSA clock running
+  [source](https://ir.concentra.com/news-events/press-releases/detail/174/concentra-announces-completion-of-spin-off-from-select-medical)
+- [2025-03-03] — **Closed $265M acquisition of Nova Medical Centers (67 sites in 5 states)** — Largest acquisition in company history; integration happening simultaneously with TSA transition and infrastructure buildout
+- [2025-06-01] — **Hired 80%+ of FTEs needed to replace Select Medical shared services** — Rapid corporate hiring creates large cohort of new employees without institutional knowledge — organizational onboarding and alignment challenge
+- [2026-02-28] — **FY2025 results exceed guidance — revenue $2.2B (+13.9%), Adjusted EBITDA $431.9M (+14.6%)** — Strong results set high expectations for continued performance; execution stumbles during TSA transition would be visible to investors
+- [2026-11-01] — **Transition Services Agreement with Select Medical expires November 2026 [UPCOMING]** — Hard deadline for completing standalone infrastructure — the single most time-sensitive organizational challenge in the pipeline
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Strong: Problem directly maps to McChrystal's distributed operations capability. Hard deadline trigger (TSA Nov 2026). Clear economic buyer (President/CFO DiCanio). Budget exists ($2.2B revenue, strong cash flow, IPO proceeds). Organizational urgency (TSA deadline + acquisition integration + expansion simultaneously). The 770+ center scale plays directly to McChrystal's strength in coordinated decentralized execution.
+
+**Primary Problem**: Simultaneously building standalone corporate infrastructure (hard TSA deadline Nov 2026), integrating the largest acquisition in company history (Nova, 67 sites), and scaling de novo expansion — three high-complexity organizational challenges converging in a newly independent public company with no historical precedent for operating independently
+
+**Best Capability Fit**: Distributed operations coordination and Team of Teams — Concentra's 770+ independently operating centers with a new corporate infrastructure being built around them is exactly the organizational topology McChrystal excels at: maintaining shared consciousness and empowered execution across hundreds of distributed locations during maximum organizational change
+
+**Likely Objections**
+
+- Revenue ($2.2B) is at the lower end of ICP sweet spot — advisory budget may be constrained for a newly public company focused on demonstrating profitability
+- Healthcare services may not immediately see relevance of military-origin organizational frameworks
+- Company may view TSA transition as primarily a technology/systems challenge rather than an organizational coordination challenge
+- Strong FY2025 performance may create complacency — 'things are working, why bring in outside help?'
+
+**Competitive Landscape**
+
+- Accenture / Deloitte — likely engaged on IT systems separation and TSA implementation
+- Advisory Board / Kaufman Hall — healthcare-specific operational consulting
+- Welsh Carson operating partners — PE-affiliated operational advisors (legacy relationship through Select Medical)
+- Huron Consulting Group — healthcare transformation advisory (potential competitor)
+
+## Conversation Entry Points
+
+- **Q**: With the TSA expiring in November and Nova integration underway, how are you managing the coordination across what are essentially three simultaneous organizational buildouts?
+  *Framing*: Show understanding of the convergence of challenges without overstating the difficulty — position McChrystal as a peer who has helped organizations manage multiple complex workstreams simultaneously
+- **Q**: How are your center managers experiencing the transition from Select Medical infrastructure to Concentra-owned systems — are they seeing disruption at the point of care?
+  *Framing*: Demonstrate concern for the operational reality at the center level, where organizational changes are felt most acutely
+- **Q**: As you scale from 770 to 780+ centers this year, what's your playbook for maintaining the service consistency that your Fortune 500 clients depend on?
+  *Framing*: Acknowledge the growth ambition while raising the quality-at-scale challenge that McChrystal directly addresses
+
+**Recommended First Meeting Framing**: Frame as a conversation about operational execution during organizational transition — McChrystal Group has helped organizations maintain performance across hundreds of distributed locations during periods of maximum organizational change. Not about strategy (they have one) or technology (they're building it) — about the organizational coordination that ensures 770+ centers keep performing while everything around them changes.
+
+## Brand Insights & Market Positioning
+
+**Brand Value & Competitive Standing**: Concentra is the clear market leader in U.S. occupational health by location count (770+). The brand represents reliability and scale to employer clients — particularly Fortune 500 companies that need a single national provider for occupational health services. The Fortune 100/500 client penetration (100%/95%) is an extraordinary brand position.
+
+**Brand Identity Evolution**: Concentra is evolving from "occupational health division of Select Medical" to "independent occupational health platform." This brand independence is both an opportunity (focused identity, direct equity) and a risk (loss of Select Medical's institutional backing and healthcare system credibility). The Nova acquisition extends the brand footprint but creates integration challenges that could affect brand consistency.
+
+**Brand Threats**: Regional and local occupational health providers compete on personal relationships and community presence. National competitors (Premise Health for onsite clinics, CareATC for employer health) are growing. The risk is that TSA transition disruption or integration challenges create service quality inconsistencies that damage the brand's reliability promise to Fortune 500 clients.
+
+**Major Brand Investments**: IPO itself was a brand event — establishing Concentra as an independent public company with its own equity story. Nova acquisition ($265M) extends the brand's geographic reach. De novo expansion (7-9 new sites in 2026) invests in brand presence in new markets.
+
+**McChrystal Connection**: Concentra's brand promise to employers is "consistent, reliable occupational health services across every location." Delivering on this promise across 770+ centers during simultaneous TSA transition, acquisition integration, and expansion is fundamentally an organizational coordination challenge. McChrystal's shared consciousness model ensures that every center delivers the brand promise regardless of the organizational changes happening at the corporate level.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+### Fit Dimension 1: Standalone Infrastructure Buildout Under Hard Deadline
+Concentra completed its spinoff from Select Medical via IPO (July 2024) and full distribution (November 2025), but remains dependent on Select Medical for critical operational services under a Transition Services Agreement expiring November 2026. The company has hired 80%+ of the FTEs needed to replace shared services, but building a fully independent corporate infrastructure — IT systems, HR operations, financial reporting, procurement, compliance — while maintaining service quality across 770+ locations is an enormous organizational design challenge. McChrystal's operating model directly addresses the coordination required to stand up parallel systems while keeping the existing operation running seamlessly.
+
+**Competitor displacement logic**: Accenture and Deloitte can implement technology systems for the separation. McChrystal builds the organizational coordination layer that ensures 770+ locations continue serving 200,000 employers without disruption during the infrastructure transition. This is a distributed operations challenge, not a technology implementation challenge.
+
+### Fit Dimension 2: Simultaneous Acquisition Integration and Organizational Buildout
+While building standalone infrastructure, Concentra is simultaneously integrating Nova Medical Centers (67 sites in 5 states, closed March 2025) and Pivot On-site Innovations. Integrating acquisitions is challenging under normal circumstances; doing it while the parent organization is itself under construction amplifies complexity exponentially. Nova's 67 sites must be absorbed into systems, processes, and culture that are themselves being rebuilt. McChrystal's ability to maintain coordination across multiple simultaneous organizational changes is directly applicable.
+
+**Competitor displacement logic**: Integration consultancies focus on one-time integration events. McChrystal addresses the compound challenge: how do you integrate an acquisition (Nova) into an organization (Concentra) that is itself transforming its infrastructure? No standard integration playbook covers this scenario.
+
+### Fit Dimension 3: Rapid De Novo Expansion Adding Organizational Complexity
+Concentra plans to open 7-9 new locations in 2026 and double-digit new sites in 2027. Each new center requires staffing, training, systems setup, local employer partnerships, and integration into Concentra's operational model. This expansion is happening simultaneously with the TSA wind-down and Nova integration. McChrystal's framework for scaling distributed operations — maintaining quality and consistency across hundreds of independently operating locations — directly enables this growth.
+
+**Competitor displacement logic**: Healthcare consulting firms (Advisory Board, Kaufman Hall) advise on growth strategy. McChrystal provides the organizational operating model that enables Concentra to open new locations at speed without degrading service quality at existing ones. This is an execution capability, not a strategy capability.
+
+### Fit Dimension 4: Newly Public Company Building Operational Maturity
+Concentra went public in July 2024 and completed full separation in November 2025. As a newly public company, it faces analyst scrutiny, quarterly earnings pressure, and investor expectations for growth and margin improvement. The company must build the operational discipline, reporting rigor, and strategic communication capabilities expected of a public company — all while executing the TSA transition, acquisitions, and de novo expansion. McChrystal's leadership development and organizational alignment capabilities can accelerate the maturity required for public company performance.
+
+**Competitor displacement logic**: Public company readiness advisors (EY, Deloitte) focus on compliance and governance. McChrystal addresses the organizational performance and leadership alignment that determines whether a newly public company meets market expectations or disappoints.
+
+### 9b. Cumulative Case — Why Concentra Is a Top Pipeline Opportunity
+
+Concentra is executing the most complex organizational buildout in the occupational health industry: simultaneously standing up independent corporate infrastructure (hard deadline November 2026), integrating the largest acquisition in its history (Nova, 67 sites), continuing de novo expansion (7-9 new locations in 2026), and building public company maturity — all at the same time. The convergence creates compounding risk: a failure in any one dimension (TSA deadline miss, Nova integration stumble, expansion quality issues, earnings disappointment) cascades into the others.
+
+**Reinforcing signal chain**: IPO completed (Jul 2024) → full spinoff from Select Medical (Nov 2025) → TSA clock starts ticking → Nova acquisition closes ($265M, 67 sites, Mar 2025) → Pivot acquisition adds more integration → standalone infrastructure buildout (80% FTEs hired) → de novo expansion planned (7-9 sites in 2026) → FY2025 results strong (revenue +13.9%) creating high expectations → November 2026 TSA deadline approaching → simultaneous execution pressure across all dimensions
+
+**Revenue potential**: $400K–$600K initial diagnostic focused on TSA transition operating model and integration coordination (3-4 months), expanding to $1.5M–$2M for company-wide Team of Teams implementation across 770+ locations, with $500K–$750K/year ongoing advisory through TSA completion and beyond. Total engagement potential: $2.5M–$3.5M over 2-3 years.
+
+### 9c. Enterprise Issues & Organizational Challenges
+
+**1. TSA Dependency Risk — Building the Airplane While Flying It**
+Concentra's most critical challenge: replacing Select Medical shared services before the November 2026 TSA expiration. HR, IT, financial systems, procurement, and other corporate functions currently depend on Select Medical infrastructure. The 80% FTE hiring completion is encouraging, but the remaining 20% plus the actual systems migration and process standup must happen flawlessly. A TSA deadline miss would create operational disruption across 770+ locations. McChrystal's organizational coordination capability can design the transition operating model that ensures zero-disruption cutover.
+
+**2. Nova Medical Integration During Infrastructure Transition**
+Integrating 67 Nova Medical sites into Concentra while Concentra's own corporate infrastructure is being rebuilt is like renovating a house while adding a new wing. Nova sites must adopt Concentra processes, systems, and culture — but those processes and systems are themselves changing as the TSA winds down. McChrystal can design the sequencing and coordination that prevents the integration from collapsing under the weight of concurrent changes.
+
+**3. 770+ Location Consistency Challenge**
+Concentra operates across 42 states with centers that range from standalone urgent care-style facilities to onsite employer clinics. Maintaining consistent service quality, patient experience, and employer satisfaction across this network requires organizational coordination at scale. Each center operates somewhat independently, creating the distributed operations challenge McChrystal's model directly addresses.
+
+**4. Newly Public Company Performance Pressure**
+FY2025 revenue grew 13.9% and adjusted EBITDA grew 14.6% — setting high expectations for continued performance. As a newly public company (NYSE: CON), Concentra faces quarterly earnings scrutiny and analyst expectations. Any operational disruption from the TSA transition, integration challenges, or expansion missteps will be immediately visible to investors. McChrystal can help build the operational discipline that prevents execution stumbles during the critical first years as a public company.
+
+**5. Employer Client Relationship Continuity**
+Concentra partners with 200,000 employers, including 100% of Fortune 100 and ~95% of Fortune 500. These relationships depend on consistent, reliable service delivery. The combination of infrastructure transition, acquisition integration, and expansion creates multiple points where service quality could degrade. McChrystal's shared consciousness model ensures that every center maintains service excellence during organizational turbulence.
+
+**6. New Employee Cohort Integration**
+The rapid hiring to replace Select Medical shared services means Concentra is onboarding hundreds of new corporate employees who have no institutional knowledge of how the organization operates. Simultaneously, Nova Medical's 67-site workforce must be culturally integrated. Building cohesion across legacy Concentra, new corporate hires, and acquired Nova employees requires intentional culture-building at speed. McChrystal's team-building and purpose frameworks directly apply.
+
+### 9d. Expected Outcomes from McChrystal Group Engagement
+
+**1. Zero-Disruption TSA Transition**
+McChrystal would design the coordination architecture for migrating from Select Medical shared services to independent Concentra infrastructure without service disruption. Measurable result: complete TSA wind-down by November 2026 deadline with zero center-level service interruptions and zero employer client complaints attributable to the transition.
+
+**2. Accelerated Nova Integration**
+Design an integration operating model that absorbs Nova's 67 sites into Concentra while both organizations are in transition. Measurable result: achieve full operational integration of Nova sites within 9 months of close (vs. typical 12-18 months for healthcare services acquisitions), with Nova site performance metrics matching legacy Concentra benchmarks within 6 months.
+
+**3. De Novo Expansion Playbook**
+Create a standardized new-center launch operating model that enables Concentra to open 7-9 locations in 2026 and scale to double-digit openings in 2027. Measurable result: reduce average new-center time-to-profitability by 20% compared to historical averages, with new centers achieving target utilization rates within 90 days.
+
+**4. New Employee Cohesion**
+McChrystal's team-building programs would integrate legacy Concentra, new corporate hires, and acquired Nova employees into a unified culture with shared purpose. Measurable result: achieve above-industry employee engagement scores across all employee cohorts within 12 months.
+
+**5. Investor Confidence Through Execution Discipline**
+Provide visible organizational execution framework that demonstrates management capability to analysts and investors. Measurable result: maintain or exceed FY2025 growth trajectory (13.9% revenue growth) through FY2026 despite simultaneous TSA transition, integration, and expansion execution.
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Business Unit | Leader | Function | McChrystal Relevance |
+|---|---|---|---|
+| Concentra (Overall) | W. Keith Newton | Chairman, President & CEO (since 2015) | Executive sponsor; co-founded the company; deep institutional knowledge |
+| Operations & Growth | Matthew DiCanio | President & CFO (since 2023/2024) | **Top priority target** — oversees clinical, operational, sales, marketing, M&A, real estate, and growth. The single person most responsible for TSA transition, Nova integration, and de novo expansion simultaneously |
+| Digital & Data | John A. Delorimier | EVP, Chief Digital and Data Officer | Technology transformation leader; responsible for building standalone digital infrastructure |
+| Clinical Services | Giovanni Gallara | EVP, Chief Clinical Services Officer | Clinical quality and consistency across 770+ centers; critical for maintaining service standards during transition |
+| Accounting & Finance | Su Zan Nelson | EVP, Chief Accounting Officer | Financial reporting and compliance for newly public company; TSA transition for financial systems |
+| Nova Medical Integration | [To be confirmed] | Integration Leader | Responsible for absorbing 67 Nova sites into Concentra operations |
+| Employer Onsite Group | [To be confirmed] | Division Leader | Onsite clinic operations at employer locations; sensitive client relationships |
+| Concentra Ventures | [Under DiCanio] | Innovation/Growth | New ventures and business development; growth beyond core occupational health |
+
+Priority engagement targets: (1) Matthew DiCanio, President & CFO — the single executive managing the convergence of TSA transition, acquisition integration, de novo expansion, and growth strategy; (2) John Delorimier, CDDO — building standalone digital infrastructure under TSA deadline pressure; (3) Keith Newton, CEO — executive sponsor with deep institutional knowledge.
+
+### 9f. Opportunity Thesis
+
+**Strategic Signal Convergence — Why Now**
+IPO completes (Jul 2024) → full spinoff from Select Medical (Nov 2025) → TSA clock starts → Nova Medical acquisition closes ($265M, 67 sites, Mar 2025) → Pivot acquisition adds integration load → standalone FTE hiring at 80%+ → FY2025 results strong (revenue +13.9%, EBITDA +14.6%) → high investor expectations set → de novo expansion begins (7-9 sites in 2026) → November 2026 TSA expiration deadline → all workstreams must execute simultaneously with zero margin for error
+
+The convergence is uniquely time-bound: the November 2026 TSA deadline is a hard constraint that creates urgency across every organizational dimension. Each concurrent initiative (infrastructure buildout, acquisition integration, expansion, public company maturity) must execute on the same timeline.
+
+**The Structural Paradox — Why McChrystal, Not McKinsey**
+McKinsey and Bain can design standalone operating models and integration plans. Accenture and Deloitte can implement technology systems. But Concentra's challenge isn't strategy or technology — it's organizational coordination across 770+ locations during simultaneous infrastructure transition, acquisition integration, and expansion. This is a distributed execution challenge at a complexity level that strategy consultants don't address. McChrystal's Team of Teams model — building shared consciousness across hundreds of independently operating locations while empowering each center to execute locally — is purpose-built for Concentra's situation. No other firm combines distributed operations expertise with leadership development at this scale in healthcare services.
+
+**Phased Engagement Hypothesis — Land and Expand**
+
+*Phase 1 (Months 1-3): TSA Transition Operating Model — $350K–$500K*
+Scope: Map the critical TSA dependencies across all shared service functions (IT, HR, finance, procurement). Identify the highest-risk transition workstreams and design a coordination architecture that ensures zero-disruption cutover at each center. Include 10-15 center-level assessments to understand how TSA services are actually consumed at the point of care.
+Why this beachhead: The November 2026 TSA deadline creates urgent demand for a transition operating model. This is a bounded, high-value engagement with a clear deliverable and measurable success criteria (TSA completion without service disruption).
+
+*Phase 2 (Months 3-9): Enterprise Operating Model and Integration — $1M–$1.5M*
+Scope: Implement shared consciousness operating rhythms across 770+ centers. Design Nova integration operating model. Create de novo expansion playbook. Train 50+ regional leaders in McChrystal's decentralized execution framework.
+Expansion logic: Phase 1 TSA transition work reveals broader organizational coordination gaps that only McChrystal's distributed operations model can address at the 770+ center scale.
+
+*Phase 3 (Months 9+): Growth Operating Model Advisory — $500K–$750K/year*
+Scope: Ongoing support for de novo expansion execution. Integration support for future acquisitions. Newly public company organizational maturity development.
+
+**Competitive Displacement Strategy**
+Concentra's advisory relationships likely include healthcare consulting firms (Advisory Board), IT separation consultants (Accenture/Deloitte), and PE-affiliated advisors (Welsh Carson operating partners). McChrystal enters through the President/CFO (Matthew DiCanio), who is the single executive managing the convergence of all organizational challenges. The pitch: "Your technology partners are building the systems; your consulting partners designed the strategy; we build the organizational coordination layer that ensures 770+ centers continue performing while everything changes around them." Procurement bypass: position as a leadership development and organizational effectiveness engagement (different budget line than management consulting or IT implementation).
+
+**Multi-Threaded Pursuit Map**
+
+*Thread 1: President/CFO Matthew DiCanio — Organizational Coordination*
+Target: Matthew DiCanio, President & CFO
+Angle: "You're managing TSA transition, Nova integration, de novo expansion, and public company performance simultaneously. We specialize in helping leaders coordinate multiple complex workstreams across distributed organizations without dropping any balls."
+Vector: Direct outreach; healthcare leadership conferences; CFO/COO networks
+
+*Thread 2: Chief Digital & Data Officer — Infrastructure Transition*
+Target: John Delorimier, EVP & Chief Digital and Data Officer
+Angle: "Building standalone digital infrastructure under a hard TSA deadline requires organizational change management at 770+ centers, not just technology deployment. We help distributed organizations adopt new systems at speed."
+Vector: Healthcare IT conferences (HIMSS); CIO/CTO networks
+
+*Thread 3: CEO Keith Newton — Executive Sponsor*
+Target: W. Keith Newton, Chairman, President & CEO
+Angle: Newton co-founded Concentra and has been with the company through multiple ownership transitions. His deep institutional knowledge makes him uniquely positioned to appreciate the organizational challenge of the current moment.
+Vector: McChrystal personal network; occupational health industry events; healthcare CEO peer networks
