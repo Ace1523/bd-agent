@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source:*)",
+      "Bash(python3:*)",
+      "Bash(find:*)",
+      "Bash(bd --help:*)",
+      "WebSearch",
+      "Bash(/Users/chadwallace/Desktop/bd-agent/.venv/bin/python3.14:*)",
+      "Bash(python -c \"from bd.discover.report import generate_report; from bd.research.report import generate_dossier_report; from bd.outreach.drafter import generate_outreach_report; print\\(''all imports OK''\\)\")",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(.venv/bin/python3 -c \"\nimport json\ndata = json.loads\\(open\\('data/dashboard.json'\\).read\\(\\)\\)\nprint\\(f'Dossiers in dashboard: {len\\(data[\\\\\"dossiers\\\\\"]\\)}'\\)\nfor d in data['dossiers']:\n    p = d['prospect']\n    fa = d.get\\('fit_assessment'\\) or {}\n    print\\(f'  {p[\\\\\"company_name\\\\\"]} — Score {p[\\\\\"score\\\\\"]:.0f} — {fa.get\\(\\\\\"rating\\\\\",\\\\\"?\\\\\"\\)} — {len\\(d.get\\(\\\\\"trigger_events\\\\\",[]\\)\\)} triggers, {len\\(d.get\\(\\\\\"conversation_entries\\\\\",[]\\)\\)} convos'\\)\n\")",
+      "Bash(.venv/bin/python3 -c \"from bd.save import clear_outreach; print\\('clear_outreach: ok'\\)\")",
+      "Bash(.venv/bin/python3 -c \"from bd.pipeline import pipeline_status; print\\(pipeline_status\\(\\)\\)\")",
+      "Bash(.venv/bin/python3 -c \"from bd.save import clear_outreach; clear_outreach\\(\\); print\\('Outreach data cleared'\\)\")",
+      "Bash(.venv/bin/python3 -c \"\nimport json\nd = json.load\\(open\\('data/dashboard.json'\\)\\)\nfor dos in d['dossiers']:\n    p = dos['prospect']\n    fa = dos.get\\('fit_assessment', {}\\)\n    print\\(f\\\\\"{p['company_name']} | score={p['score']} | tier={p.get\\('tier',''\\)} | rating={fa.get\\('rating',''\\)} | problem={fa.get\\('primary_problem',''\\)[:80]}\\\\\"\\)\n\")",
+      "Bash(.venv/bin/python3 << 'PYEOF'\nimport json\nd = json.load\\(open\\('data/dashboard.json'\\)\\)\nfor dos in d['dossiers']:\n    p = dos['prospect']\n    fa = dos.get\\('fit_assessment', {}\\)\n    contacts = [c for c in dos.get\\('key_contacts', []\\) if c.get\\('is_priority_target'\\)]\n    triggers = dos.get\\('trigger_events', []\\)[:3]\n    convos = dos.get\\('conversation_entries', []\\)[:2]\n    print\\(f\"\\\\n=== {p['company_name']} ===\"\\)\n    print\\(f\"Industry: {p.get\\('industry',''\\)}\"\\)\n    print\\(f\"Revenue: {p.get\\('revenue_estimate',''\\)}, Employees: {p.get\\('employee_count',''\\)}\"\\)\n    print\\(f\"Tier: {p.get\\('tier',''\\)}, Score: {p.get\\('score',''\\)}\"\\)\n    print\\(f\"Rating: {fa.get\\('rating',''\\)}\"\\)\n    print\\(f\"Primary Problem: {fa.get\\('primary_problem',''\\)}\"\\)\n    print\\(f\"Best Fit: {fa.get\\('best_capability_fit',''\\)}\"\\)\n    print\\(f\"Entry Point: {p.get\\('entry_point',''\\)}\"\\)\n    print\\(f\"Hook: {p.get\\('conversation_hook',''\\)}\"\\)\n    for c in contacts:\n        print\\(f\"Priority Contact: {c['name']} - {c['title']} \\({c.get\\('priority_rationale',''\\)}\\)\"\\)\n    for t in triggers[:2]:\n        print\\(f\"Trigger: {t.get\\('date',''\\)} - {t['event'][:100]}\"\\)\n    for cv in convos[:1]:\n        print\\(f\"Opening Q: {cv['opening_question'][:100]}\"\\)\nPYEOF)",
+      "Bash(.venv/bin/python3 -c \"import json; d=json.load\\(open\\('data/dashboard.json'\\)\\); names=[x['prospect']['company_name'] for x in d.get\\('dossiers',[]\\)]; print\\(names\\)\")",
+      "Bash(.venv/bin/python3 -c \"import json; d=json.load\\(open\\('data/dashboard.json'\\)\\); print\\([x['prospect']['company_name'] for x in d.get\\('dossiers',[]\\)]\\)\")",
+      "Bash(.venv/bin/python3 generate_outreach_batch1.py)",
+      "Bash(.venv/bin/python3 -c \"import json; d=json.load\\(open\\('data/dashboard.json'\\)\\); print\\(f'Outreach sequences in dashboard: {len\\(d.get\\(\\\\\"outreach_sequences\\\\\",[]\\)\\)}'\\); [print\\(f'  - {s[\\\\\"dossier\\\\\"][\\\\\"prospect\\\\\"][\\\\\"company_name\\\\\"]}: {len\\(s[\\\\\"emails\\\\\"]\\)} emails'\\) for s in d.get\\('outreach_sequences',[]\\)]\")",
+      "Bash(.venv/bin/python3 run_outreach_batch2.py)",
+      "Bash(.venv/bin/python3 -c \"import json; d=json.load\\(open\\('data/dashboard.json'\\)\\); seqs=d.get\\('outreach_sequences',[]\\); print\\(f'{len\\(seqs\\)} outreach sequences total'\\); [print\\(f'  - {s[\\\\\"dossier\\\\\"][\\\\\"prospect\\\\\"][\\\\\"company_name\\\\\"]}: {len\\(s[\\\\\"emails\\\\\"]\\)} emails'\\) for s in seqs]\")",
+      "Bash(.venv/bin/python3 -c \"import json; d=json.load\\(open\\('data/dashboard.json'\\)\\); print\\(len\\(d['outreach_sequences']\\), 'sequences'\\); print\\([s['dossier']['prospect']['company_name'] for s in d['outreach_sequences']]\\)\")",
+      "Bash(.venv/bin/python3 -c \"from bd.pipeline import pipeline_status; import json; print\\(json.dumps\\(pipeline_status\\(\\), indent=2\\)\\)\")",
+      "Bash(.venv/bin/python3 -c \"\nimport json\nd = json.load\\(open\\('data/dashboard.json'\\)\\)\nfor s in d['outreach_sequences'][:2]:\n    p = s['dossier']['prospect']\n    contacts = [c for c in s['dossier'].get\\('key_contacts', []\\) if c.get\\('is_priority_target'\\)]\n    print\\(f\\\\\"{p['company_name']}:\\\\\"\\)\n    for c in contacts:\n        print\\(f\\\\\"  {c['name']} - {c['title']}\\\\\"\\)\n    print\\(\\)\n\")",
+      "Bash(git add:*)"
+    ]
+  }
+}

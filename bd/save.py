@@ -11,7 +11,7 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 DISCOVERY_FILE = DATA_DIR / "discovery.md"
 RESEARCH_FILE = DATA_DIR / "research.md"
 OUTREACH_FILE = DATA_DIR / "outreach.md"
-SITE_DIR = Path(__file__).resolve().parent.parent / "site"
+SITE_DIR = Path(__file__).resolve().parent.parent / "docs"
 DASHBOARD_JSON = DATA_DIR / "dashboard.json"
 
 

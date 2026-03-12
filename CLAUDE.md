@@ -142,7 +142,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `bd/dashboard.py` — JSON export for dashboard; `python -m bd.dashboard` bootstraps from Markdown
 - `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()` for orchestration
 - `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data
-- `site/` — static HTML/CSS/JS dashboard (serve with `python -m http.server 8080 --directory site`)
+- `docs/` — static HTML/CSS/JS dashboard (serve with `python -m http.server 8080 --directory docs`)
 - `data/` — generated reports (Markdown + dashboard.json)
 
 ## Tech Stack
