@@ -9,22 +9,24 @@
   --accent: #da6123;
   --accent-hover: #e8783f;
   --accent-glow: rgba(218, 97, 35, 0.15);
+  --ui: #8b949e;
+  --ui-bright: #b1bac4;
   --text: #e6edf3;
   --text-secondary: #8b949e;
   --text-muted: #6e7681;
-  --green: #3fb950;
-  --green-bg: rgba(63, 185, 80, 0.15);
-  --green-text: #3fb950;
-  --amber: #d29922;
-  --amber-bg: rgba(210, 153, 34, 0.15);
-  --amber-text: #d29922;
+  --green: #58a65c;
+  --green-bg: rgba(88, 166, 92, 0.12);
+  --green-text: #6fbf73;
+  --amber: #c49a2a;
+  --amber-bg: rgba(196, 154, 42, 0.12);
+  --amber-text: #d4aa3a;
   --gray-badge: #6e7681;
   --gray-badge-bg: rgba(110, 118, 129, 0.15);
   --gray-badge-text: #8b949e;
-  --red: #f85149;
-  --red-bg: rgba(248, 81, 73, 0.1);
-  --purple: #a371f7;
-  --purple-bg: rgba(163, 113, 247, 0.1);
+  --red: #e05550;
+  --red-bg: rgba(224, 85, 80, 0.1);
+  --purple: #9a7de8;
+  --purple-bg: rgba(154, 125, 232, 0.1);
   --shadow-sm: 0 1px 3px rgba(0,0,0,0.3);
   --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
   --shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
@@ -208,7 +210,7 @@ body {
   letter-spacing: 0.5px;
 }
 
-.tier-1 { background: rgba(74, 158, 255, 0.15); color: var(--accent); }
+.tier-1 { background: rgba(74, 158, 255, 0.12); color: #7ab8f5; }
 .tier-2 { background: var(--purple-bg); color: var(--purple); }
 .tier-3 { background: rgba(210, 153, 34, 0.1); color: var(--amber); }
 
@@ -221,7 +223,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  color: var(--accent);
+  color: var(--ui-bright);
   margin-bottom: 4px;
 }
 
@@ -270,7 +272,7 @@ body {
 }
 
 .tag-reorg { background: var(--amber-bg); color: var(--amber); }
-.tag-m_and_a { background: rgba(74, 158, 255, 0.12); color: var(--accent); }
+.tag-m_and_a { background: rgba(74, 158, 255, 0.12); color: #7ab8f5; }
 .tag-leadership_change { background: rgba(219, 76, 156, 0.12); color: #db4c9c; }
 .tag-earnings_miss { background: var(--red-bg); color: var(--red); }
 .tag-rapid_growth { background: var(--green-bg); color: var(--green); }
@@ -294,21 +296,21 @@ body {
 
 .card.expanded {
   grid-column: 1 / -1;
-  box-shadow: 0 0 0 1px var(--accent), var(--shadow-lg);
-  border-color: var(--accent);
+  box-shadow: 0 0 0 1px var(--border), var(--shadow-lg);
+  border-color: var(--ui);
 }
 
 .signal-item {
   margin-bottom: 12px;
   padding-left: 12px;
-  border-left: 3px solid var(--accent);
+  border-left: 3px solid var(--border);
 }
 
 .signal-type {
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--ui-bright);
   margin-bottom: 2px;
 }
 
@@ -329,7 +331,7 @@ body {
 }
 
 .signal-source a {
-  color: var(--accent);
+  color: var(--ui-bright);
   text-decoration: none;
 }
 
@@ -446,8 +448,8 @@ body {
 
 .priority-target {
   background: var(--bg);
-  border: 1px solid var(--accent-glow);
-  border-left: 3px solid var(--accent);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--ui);
   border-radius: var(--radius-sm);
   padding: 12px;
   margin-bottom: 8px;
@@ -475,7 +477,7 @@ body {
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--ui-bright);
 }
 
 .email-timing {
@@ -686,7 +688,7 @@ body {
 .icp-value {
   font-size: 24px;
   font-weight: 800;
-  color: var(--accent);
+  color: var(--text);
   margin-bottom: 4px;
 }
 
@@ -741,7 +743,7 @@ body {
   transition: width 0.6s ease;
 }
 
-.score-bar-fill.bar-revenue { background: var(--accent); }
+.score-bar-fill.bar-revenue { background: #7ab8f5; }
 .score-bar-fill.bar-employees { background: var(--green); }
 .score-bar-fill.bar-signals { background: var(--amber); }
 .score-bar-fill.bar-fit { background: var(--purple); }
@@ -820,7 +822,7 @@ body {
 .pipeline-card-count {
   font-size: 28px;
   font-weight: 800;
-  color: var(--accent);
+  color: var(--text);
 }
 
 .pipeline-card-count-label {

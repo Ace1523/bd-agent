@@ -239,8 +239,8 @@ function renderHome() {
     <div class="home-section">
       <div class="home-section-title">Industry Tiers</div>
       <div class="method-grid">
-        <div class="method-card" style="border-left: 3px solid var(--accent);">
-          <h3 style="color: var(--accent);">Tier 1 \u2014 Conventional</h3>
+        <div class="method-card" style="border-left: 3px solid #7ab8f5;">
+          <h3 style="color: #7ab8f5;">Tier 1 \u2014 Conventional</h3>
           <p>Proven hunting ground. Defense & aerospace, federal agencies, financial services, healthcare systems, large industrials & manufacturing.</p>
         </div>
         <div class="method-card" style="border-left: 3px solid var(--purple);">
@@ -262,7 +262,7 @@ function renderHome() {
           <div class="signal-card-desc">Restructuring, layoffs, unit consolidation. Immediate need for cross-functional alignment.</div>
         </div>
         <div class="signal-card">
-          <div class="signal-card-name" style="color: var(--accent);">M&A</div>
+          <div class="signal-card-name" style="color: #7ab8f5;">M&A</div>
           <div class="signal-card-desc">Mergers and acquisitions creating integration challenges across cultures, teams, and systems.</div>
         </div>
         <div class="signal-card">
@@ -476,7 +476,7 @@ function dossierCard(d) {
         <span>${formatRevenue(p.revenue_estimate)}</span>
         <span>${formatEmployees(p.employee_count)} employees</span>
         ${p.industry ? `<span>${escapeHtml(p.industry)}</span>` : ""}
-        ${hasOutreach ? `<a href="#" class="outreach-link" onclick="event.stopPropagation(); switchTab('outreach'); return false;" style="color:var(--accent); font-size:12px; margin-left:auto;">View Outreach &rsaquo;</a>` : ""}
+        ${hasOutreach ? `<a href="#" class="outreach-link" onclick="event.stopPropagation(); switchTab('outreach'); return false;" style="color:var(--ui-bright); font-size:12px; margin-left:auto;">View Outreach &rsaquo;</a>` : ""}
       </div>
       ${blurb ? `<div class="card-blurb">${escapeHtml(blurb)}</div>` : ""}
       <div class="dossier-detail">
@@ -534,7 +534,7 @@ function contactsSection(contacts) {
       ${contacts
         .map(
           (c) => `
-        <tr${c.is_priority_target ? ' style="color: var(--accent);"' : ""}>
+        <tr${c.is_priority_target ? ' style="color: var(--ui-bright);"' : ""}>
           <td><strong>${escapeHtml(c.name)}</strong></td>
           <td>${escapeHtml(c.title)}</td>
           <td>${c.background ? escapeHtml(c.background) : "\u2014"}</td>
@@ -715,8 +715,8 @@ function outreachCard(seq) {
         <span>${emails.length} emails</span>
       </div>
       ${contacts.length ? `
-        <div style="margin-top:10px; padding:10px 12px; background:var(--bg-surface); border-radius:var(--radius-sm); border-left:3px solid var(--accent);">
-          <div style="font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--accent); margin-bottom:6px;">Target Contacts</div>
+        <div style="margin-top:10px; padding:10px 12px; background:var(--bg-surface); border-radius:var(--radius-sm); border-left:3px solid var(--border);">
+          <div style="font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--ui-bright); margin-bottom:6px;">Target Contacts</div>
           ${contacts.map((c) => `
             <div style="margin-bottom:4px;">
               <strong style="color:var(--text-primary); font-size:13px;">${escapeHtml(c.name)}</strong>
@@ -808,7 +808,7 @@ function renderHowItWorks() {
 
 <strong>Industry Aperture \u2014 Three Tiers</strong>
 
-<span style="color:var(--accent);">Tier 1 \u2014 Conventional (proven hunting ground)</span>
+<span style="color:#7ab8f5;">Tier 1 \u2014 Conventional (proven hunting ground)</span>
 Defense &amp; aerospace, federal agencies, financial services, healthcare systems, large industrials &amp; manufacturing
 
 <span style="color:var(--purple);">Tier 2 \u2014 Adjacent (natural expansion)</span>
@@ -876,7 +876,7 @@ Primary problem, best capability fit, likely objections, competitive landscape (
 
 2. <span style="color:var(--amber);">Email 2 \u2014 Value-add follow-up</span> (Day 5): Share a relevant framework, insight, or parallel example. Position McChrystal as a thought partner, not a vendor. No hard ask yet.
 
-3. <span style="color:var(--accent);">Email 3 \u2014 Direct ask</span> (Day 10): Propose a specific, low-commitment next step (30-min call, diagnostic conversation, introduce to a relevant Senior Partner). Create urgency tied to their timeline.
+3. <span style="color:#7ab8f5;">Email 3 \u2014 Direct ask</span> (Day 10): Propose a specific, low-commitment next step (30-min call, diagnostic conversation, introduce to a relevant Senior Partner). Create urgency tied to their timeline.
 
 <strong>Tone &amp; Voice</strong>
 \u2022 Write as a Senior Partner, not a sales rep \u2014 peer-to-peer, not vendor-to-buyer
@@ -949,7 +949,7 @@ Primary problem, best capability fit, likely objections, competitive landscape (
           <div class="signal-card-desc">Restructuring, layoffs, unit consolidation. The org chart is in flux \u2014 cross-functional alignment is critical before silos harden in the new structure.</div>
         </div>
         <div class="signal-card">
-          <div class="signal-card-name" style="color: var(--accent);">M&A</div>
+          <div class="signal-card-name" style="color: #7ab8f5;">M&A</div>
           <div class="signal-card-desc">Mergers and acquisitions. Two cultures, two operating models, one deadline. Integration failures are leadership failures.</div>
         </div>
         <div class="signal-card">
@@ -978,7 +978,7 @@ Primary problem, best capability fit, likely objections, competitive landscape (
       </p>
       <div class="method-grid">
         <div class="method-card">
-          <div class="method-card-icon" style="color:var(--accent);">1</div>
+          <div class="method-card-icon" style="color:#7ab8f5;">1</div>
           <h3>Organization Snapshot</h3>
           <p>Legal name, HQ, founding year, ownership structure, geographic footprint. The basics a partner needs before the first call.</p>
         </div>
@@ -1029,8 +1029,8 @@ Primary problem, best capability fit, likely objections, competitive landscape (
           <h3 style="color: var(--amber);">Email 2 \u2014 Value-Add</h3>
           <p><strong>Day 5.</strong> Shares a relevant framework, insight, or parallel example. Positions McChrystal as a thought partner, not a vendor. No hard ask \u2014 builds credibility and keeps the thread warm.</p>
         </div>
-        <div class="method-card" style="border-left: 3px solid var(--accent);">
-          <h3 style="color: var(--accent);">Email 3 \u2014 Direct Ask</h3>
+        <div class="method-card" style="border-left: 3px solid #7ab8f5;">
+          <h3 style="color: #7ab8f5;">Email 3 \u2014 Direct Ask</h3>
           <p><strong>Day 10.</strong> Proposes a specific, low-commitment next step: 30-minute call, diagnostic conversation, or introduction to a relevant Senior Partner. Creates urgency tied to the prospect\u2019s own timeline.</p>
         </div>
       </div>
