@@ -29,6 +29,9 @@ Core offerings:
 - C-suite changes, activist investor pressure, mergers/acquisitions, public organizational failures
 - Earnings misses or strategic pivots
 - Digital/operational transformation initiatives
+- Executive hiring surges — new C-suite roles, leadership team buildouts signaling strategic shifts
+- Funding events — PE recapitalizations, funding rounds, credit facilities, secondary offerings
+- Strategic partnerships, joint ventures, or platform alliances that force operating model changes
 
 ### Industry Aperture — Three Tiers
 

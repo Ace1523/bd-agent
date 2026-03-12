@@ -88,6 +88,14 @@ SIGNAL_TYPE_MAP = {
     "rapid growth": SignalType.rapid_growth,
     "rapid_growth": SignalType.rapid_growth,
     "transformation": SignalType.transformation,
+    "hiring surge": SignalType.hiring_surge,
+    "hiring_surge": SignalType.hiring_surge,
+    "hiring": SignalType.hiring_surge,
+    "funding": SignalType.funding,
+    "fundraising": SignalType.funding,
+    "partnership": SignalType.partnership,
+    "partnerships": SignalType.partnership,
+    "joint venture": SignalType.partnership,
 }
 
 

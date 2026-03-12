@@ -17,7 +17,13 @@ from bd.config import (
 from bd.models import Prospect, SignalType
 
 # Signal types that strongly indicate McChrystal Group fit
-HIGH_FIT_SIGNALS = {SignalType.reorg, SignalType.transformation, SignalType.m_and_a}
+HIGH_FIT_SIGNALS = {
+    SignalType.reorg,
+    SignalType.transformation,
+    SignalType.m_and_a,
+    SignalType.hiring_surge,
+    SignalType.funding,
+}
 
 
 def score_revenue(prospect: Prospect) -> float:

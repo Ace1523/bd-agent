@@ -429,6 +429,9 @@ body {
 .tag-earnings_miss { background: var(--red-bg); color: var(--red); }
 .tag-rapid_growth { background: var(--green-bg); color: var(--green); }
 .tag-transformation { background: var(--purple-bg); color: var(--purple); }
+.tag-hiring_surge { background: rgba(45, 183, 183, 0.12); color: #2db7b7; }
+.tag-funding { background: rgba(74, 158, 255, 0.15); color: #5aafff; }
+.tag-partnership { background: rgba(218, 97, 35, 0.12); color: var(--accent); }
 
 /* ── Card detail (expanded) ── */
 .card-detail,

@@ -26,6 +26,9 @@ SIGNAL_TYPES = [
     "earnings_miss",
     "rapid_growth",
     "transformation",
+    "hiring_surge",
+    "funding",
+    "partnership",
 ]
 
 # Industry tiers for prospect classification

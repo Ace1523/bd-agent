@@ -14,6 +14,9 @@ class SignalType(str, Enum):
     earnings_miss = "earnings_miss"
     rapid_growth = "rapid_growth"
     transformation = "transformation"
+    hiring_surge = "hiring_surge"
+    funding = "funding"
+    partnership = "partnership"
 
 
 class FitTier(str, Enum):

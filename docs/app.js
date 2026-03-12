@@ -357,6 +357,18 @@ function renderHome() {
           <div class="signal-card-name" style="color: var(--purple);">Transformation</div>
           <div class="signal-card-desc">Digital, operational, or strategic pivots. New operating models requiring organization-wide change.</div>
         </div>
+        <div class="signal-card">
+          <div class="signal-card-name" style="color: #2db7b7;">Hiring Surge</div>
+          <div class="signal-card-desc">Executive hiring waves, new C-suite roles created, talent acquisition patterns signaling strategic shifts.</div>
+        </div>
+        <div class="signal-card">
+          <div class="signal-card-name" style="color: #5aafff;">Funding</div>
+          <div class="signal-card-desc">PE recaps, funding rounds, credit facilities, secondary offerings. Capital infusion often precedes transformation.</div>
+        </div>
+        <div class="signal-card">
+          <div class="signal-card-name" style="color: var(--accent);">Partnership</div>
+          <div class="signal-card-desc">Strategic partnerships, joint ventures, platform alliances. New relationships that change how the org operates.</div>
+        </div>
       </div>
     </div>
 
@@ -1170,7 +1182,7 @@ function renderHowItWorks() {
           <div class="score-bar-track">
             <div class="score-bar-fill bar-signals" style="width: 35%;">35</div>
           </div>
-          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">Reorgs, M&A, leadership changes, earnings misses, transformation initiatives</div>
+          <div style="color:var(--text-secondary); font-size:12px; margin-left:12px; min-width:200px;">Reorgs, M&A, leadership changes, earnings misses, transformation, hiring surges, funding, partnerships</div>
         </div>
         <div class="score-bar-row">
           <div class="score-bar-label">Revenue Fit</div>
@@ -1473,6 +1485,18 @@ function renderHowItWorks() {
         <div class="signal-card">
           <div class="signal-card-name" style="color: var(--purple);">Transformation</div>
           <div class="signal-card-desc">Digital, operational, or strategic pivots. New operating models that require organization-wide change \u2014 not just new technology.</div>
+        </div>
+        <div class="signal-card">
+          <div class="signal-card-name" style="color: #2db7b7;">Hiring Surge</div>
+          <div class="signal-card-desc">Executive hiring waves, new C-suite roles created, talent acquisition patterns. When companies build new leadership teams, they\u2019re signaling a strategic shift that needs alignment.</div>
+        </div>
+        <div class="signal-card">
+          <div class="signal-card-name" style="color: #5aafff;">Funding</div>
+          <div class="signal-card-desc">PE recapitalizations, funding rounds, credit facilities, secondary offerings. Capital infusion often precedes transformation \u2014 the money arrives, then the hard organizational work begins.</div>
+        </div>
+        <div class="signal-card">
+          <div class="signal-card-name" style="color: var(--accent);">Partnership</div>
+          <div class="signal-card-desc">Strategic partnerships, joint ventures, platform alliances. New external relationships that force internal operating model changes \u2014 coordination challenges multiply with each partner.</div>
         </div>
       </div>
     </div>
