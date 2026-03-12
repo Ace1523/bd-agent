@@ -348,6 +348,7 @@ function renderPipeline() {
   container.innerHTML = `
     <div class="section-header">
       <h2 class="section-title">Pipeline</h2>
+      <span class="expand-hint">click a tile to expand</span>
       <span class="section-count">${prospects.length} prospects</span>
     </div>
     <div class="card-grid">
@@ -431,6 +432,7 @@ function renderResearch() {
   container.innerHTML = `
     <div class="section-header">
       <h2 class="section-title">Research Dossiers</h2>
+      <span class="expand-hint">click a tile to expand</span>
       <span class="section-count">${dossiers.length} dossiers</span>
     </div>
     <div class="card-grid">
@@ -682,6 +684,7 @@ function renderOutreach() {
   container.innerHTML = `
     <div class="section-header">
       <h2 class="section-title">Outreach Sequences</h2>
+      <span class="expand-hint">click a tile to expand</span>
       <span class="section-count">${sequences.length} sequences</span>
     </div>
     <div class="card-grid">
