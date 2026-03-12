@@ -294,7 +294,7 @@ function renderHome() {
         <div class="method-card">
           <div class="method-card-icon" style="color:#a78bdb;">&#9881;</div>
           <h3>Parallel Research Subagents</h3>
-          <p>Prospects are split into batches and delegated to parallel subagents, each performing deep web research. Every subagent builds a complete 8-section dossier \u2014 from org snapshot and financials to leadership profiles and fit assessment. Multiple agents run simultaneously to cover 20 companies in minutes.</p>
+          <p>Prospects are split into batches and delegated to parallel subagents, each performing deep web research. Every subagent builds a complete 10-section dossier \u2014 from org snapshot and financials to leadership profiles and fit assessment. Multiple agents run simultaneously to cover 20 companies in minutes.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:#da6123;">&#9993;</div>
@@ -1078,7 +1078,7 @@ function renderProposals() {
         <div class="pipeline-card" onclick="switchTab('research')">
           <div class="pipeline-card-step">Phase 2</div>
           <div class="pipeline-card-title">Research</div>
-          <div class="pipeline-card-desc">Build 7-section dossiers</div>
+          <div class="pipeline-card-desc">Build 10-section dossiers</div>
         </div>
         <div class="pipeline-card" onclick="switchTab('outreach')">
           <div class="pipeline-card-step">Phase 3</div>
@@ -1141,7 +1141,7 @@ function renderHowItWorks() {
           <div class="pipeline-card-step">Phase 2</div>
           <div class="pipeline-card-title">Research</div>
           <div class="pipeline-card-desc">
-            Parallel subagents build 8-section dossiers: org snapshot, company overview, financials, leadership profiles, culture signals, trigger events, fit assessment, and conversation entry points. Designed to be read by a Senior Partner in under 10 minutes.
+            Parallel subagents build 10-section dossiers: org snapshot, company overview, financials, leadership profiles, culture signals, trigger events, fit assessment, conversation entry points, brand insights &amp; market positioning, and deep McChrystal fit analysis. Designed to be read by a Senior Partner in under 10 minutes.
           </div>
         </div>
         <div class="pipeline-card">
@@ -1261,13 +1261,13 @@ function renderHowItWorks() {
       <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:20px;">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Subagent Prompt Construction</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
-          Each subagent receives: company name, industry, revenue, employee count, tier, signals, and the full 8-section dossier requirements. Per-company research includes: recent news (last 6 months), leadership bios &amp; LinkedIn presence, Glassdoor/culture signals, financial data &amp; analyst sentiment, competitor presence, and McChrystal-specific fit angles.
+          Each subagent receives: company name, industry, revenue, employee count, tier, signals, and the full 10-section dossier requirements. Per-company research includes: recent news (last 6 months), leadership bios &amp; LinkedIn presence, Glassdoor/culture signals, financial data &amp; analyst sentiment, competitor presence, McChrystal-specific fit angles, brand value/rankings &amp; CMO strategy, and multi-dimensional fit analysis with competitor displacement logic and deal sizing.
         </div>
       </div>
 
       <div class="home-section-title" style="margin-top:24px;">Dossier Sections</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Each dossier follows a standardized 8-section format. The goal: a Senior Partner can read it in under 10 minutes and walk into a meeting prepared.
+        Each dossier follows a standardized 10-section format. The goal: a Senior Partner can read it in under 10 minutes and walk into a meeting prepared.
       </p>
       <div class="method-grid">
         <div class="method-card">
@@ -1309,6 +1309,16 @@ function renderHowItWorks() {
           <div class="method-card-icon" style="color:var(--text-secondary);">7</div>
           <h3>Conversation Entry Points</h3>
           <p>2\u20133 opening questions for a Senior Partner, mutual connections, recommended first meeting framing.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#da6123;">8</div>
+          <h3>Brand Insights &amp; Market Positioning</h3>
+          <p>Brand value and competitive standing, identity evolution, CMO strategy and campaigns, brand threats (disintermediation, invisibility), and major brand investments. Every insight connects back to an organizational challenge McChrystal can address.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#c75d5d;">9</div>
+          <h3>Deep McChrystal Fit Analysis</h3>
+          <p>3\u20136 reinforcing fit dimensions with competitor displacement logic for each. Identifies the beachhead engagement, estimates deal sizing, and builds the cumulative strategic case a Senior Partner uses to decide whether to pursue.</p>
         </div>
       </div>
 

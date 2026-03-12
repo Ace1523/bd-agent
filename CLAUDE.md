@@ -249,9 +249,11 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 **Step 2: Research (parallel subagents)**
 - Split prospects into batches of 3-4 companies
 - Launch 2-3 subagents in parallel, each responsible for its batch
-- Each subagent: performs deep web research on its companies, builds `Dossier` objects with all 7 sections populated, calls `generate_dossier_report()`
-- Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, and McChrystal-specific fit angles
+- Each subagent: performs deep web research on its companies, builds `Dossier` objects with all 10 sections populated, calls `generate_dossier_report()`
+- Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, McChrystal-specific fit angles, brand value/rankings, CMO/marketing strategy, brand campaigns, sponsorships, and competitive brand positioning
 - Subagent prompt must include: company name, industry, revenue, employee count, tier, signals, and the full dossier section requirements from Phase 2
+- **Brand Insights (Sec 8)** — subagents must research the company's brand value (Kantar, Interbrand rankings if available), current brand strategy and campaigns, CMO vision, brand threats (competitive disintermediation, market perception gaps), and major brand investments (sponsorships, partnerships). Connect every insight back to an organizational coordination challenge McChrystal can address
+- **Deep McChrystal Fit Analysis (Sec 9)** — subagents must identify 3-6 reinforcing fit dimensions with specific competitor displacement logic for each. Name the beachhead engagement (bounded, measurable entry point), estimate deal sizing ($X initial → $Y expanded → $Z ongoing), and build a cumulative case grounded in facts from the earlier sections. This is the section a Senior Partner reads to decide whether to pursue — it must be specific, strategic, and non-generic
 
 **Step 3: Outreach (parallel subagents)**
 - Split prospects into batches of 5 companies
