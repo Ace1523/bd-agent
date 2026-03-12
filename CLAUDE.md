@@ -138,7 +138,15 @@ Quality standards: be specific (no generic filler), flag [INFERRED] vs. confirme
 - CEO stays as a contact but is marked "executive sponsor," not outreach target
 - If the target contact is a veteran, lean into the military connection
 
-- Models: `ColdEmail`, `OutreachPackage` in `bd/models.py`
+**LinkedIn message:**
+- Each outreach package also includes one LinkedIn message (connection request or InMail)
+- 50–100 words max — shorter and more casual than email
+- No signature block, no formal structure — should feel like a real person reaching out
+- Reference one specific thing about the contact or their company
+- Use `message_type`: "connection_request" (300 char limit, no subject) or "inmail" (has subject line)
+- Prefer connection request unless the contact's profile suggests InMail is needed
+
+- Models: `ColdEmail`, `LinkedInMessage`, `OutreachPackage` in `bd/models.py`
 - Report: `bd/outreach/drafter.py` — `generate_outreach_report()`
 
 ### Phase 4: Proposals (coming soon)
@@ -182,9 +190,9 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 **Step 3: Outreach (parallel subagents)**
 - Split prospects into batches of 5 companies
 - Launch 2 subagents in parallel, each responsible for its batch
-- Each subagent: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachPackage` objects with 3 `ColdEmail` versions (A/B/C) each, calls `generate_outreach_report()`
+- Each subagent: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachPackage` objects with 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage` each, calls `generate_outreach_report()`
 - Target contact must be a champion-level contact (VP/SVP/CTO/Head of Strategy), NOT the CEO
-- Subagent prompt must include: the full outreach requirements from Phase 3 (version structure, email structure, tone, quality standards, targeting logic)
+- Subagent prompt must include: the full outreach requirements from Phase 3 (version structure, email structure, LinkedIn message, tone, quality standards, targeting logic)
 
 **Step 4: Verify & Deploy**
 - Run `pipeline_status()` to confirm all prospects have dossiers and outreach
@@ -198,7 +206,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - If a prospect turns out to have no compelling current signal upon deeper research, drop it and find a replacement — do not force-fit
 
 ## Key Modules
-- `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `ColdEmail`, `OutreachPackage` (legacy: `Email`, `OutreachSequence`)
+- `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `ColdEmail`, `LinkedInMessage`, `OutreachPackage` (legacy: `Email`, `OutreachSequence`)
 - `bd/discover/scorer.py` — `score_prospect()` and component scoring functions
 - `bd/discover/report.py` — `generate_report()` produces Markdown reports (grouped by tier)
 - `bd/config.py` — ICP thresholds, scoring weights, signal types, industry tiers

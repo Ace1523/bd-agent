@@ -32,6 +32,19 @@ def generate_outreach_report(package: OutreachPackage) -> str:
         lines.append("---")
         lines.append("")
 
+    if package.linkedin_message:
+        lm = package.linkedin_message
+        lines.append("## LinkedIn Message")
+        lines.append(f"**Type**: {lm.message_type}")
+        if lm.subject:
+            lines.append(f"**Subject**: {lm.subject}")
+        lines.append(f"**Hook**: {lm.hook}")
+        lines.append("")
+        lines.append(lm.body)
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+
     report = "\n".join(lines)
     save_outreach(report, package)
     return report

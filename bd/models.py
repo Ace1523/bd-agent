@@ -205,9 +205,25 @@ class ColdEmail(BaseModel):
     )
 
 
+class LinkedInMessage(BaseModel):
+    """A LinkedIn outreach message (connection request or InMail)."""
+
+    message_type: str = Field(
+        description="'connection_request' or 'inmail'"
+    )
+    subject: Union[str, None] = Field(
+        default=None, description="InMail subject line (not used for connection requests)"
+    )
+    body: str
+    hook: str = Field(
+        description="The specific angle this message leverages"
+    )
+
+
 class OutreachPackage(BaseModel):
-    """3 independent cold email versions targeting a champion-level contact."""
+    """3 independent cold email versions + LinkedIn message targeting a champion-level contact."""
 
     dossier: Dossier
     target_contact: Contact
     cold_emails: list[ColdEmail] = Field(default_factory=list)
+    linkedin_message: Union[LinkedInMessage, None] = None

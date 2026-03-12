@@ -13,6 +13,7 @@ from bd.models import (
     FitAssessment,
     FitRating,
     FitTier,
+    LinkedInMessage,
     OutreachPackage,
     Prospect,
     Signal,
@@ -438,6 +439,38 @@ def parse_outreach_markdown(md: str) -> list[OutreachPackage]:
 
             i += 3
 
+        # Parse LinkedIn message
+        linkedin_message = None
+        li_match = re.search(
+            r"^## LinkedIn Message\s*\n(.*?)(?=\n---|\n## |\Z)", block,
+            re.MULTILINE | re.DOTALL,
+        )
+        if li_match:
+            li_text = li_match.group(1)
+            li_type = "connection_request"
+            li_subject = None
+            li_hook = ""
+            li_body_lines = []
+
+            for line in li_text.strip().split("\n"):
+                stripped = line.strip()
+                if stripped.startswith("**Type**:"):
+                    li_type = stripped.replace("**Type**:", "").strip()
+                elif stripped.startswith("**Subject**:"):
+                    li_subject = stripped.replace("**Subject**:", "").strip()
+                elif stripped.startswith("**Hook**:"):
+                    li_hook = stripped.replace("**Hook**:", "").strip()
+                elif not stripped.startswith("**") and stripped:
+                    li_body_lines.append(line)
+
+            if li_body_lines:
+                linkedin_message = LinkedInMessage(
+                    message_type=li_type,
+                    subject=li_subject,
+                    body="\n".join(li_body_lines).strip(),
+                    hook=li_hook,
+                )
+
         # Create minimal prospect/dossier
         prospect = Prospect(company_name=company_name, score=score)
         dossier = Dossier(prospect=prospect)
@@ -454,6 +487,7 @@ def parse_outreach_markdown(md: str) -> list[OutreachPackage]:
                 dossier=dossier,
                 target_contact=target_contact,
                 cold_emails=cold_emails,
+                linkedin_message=linkedin_message,
             )
         )
 

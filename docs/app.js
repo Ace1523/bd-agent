@@ -880,7 +880,7 @@ function outreachCard(pkg) {
       </div>
       <div class="card-meta">
         <span>${formatRevenue(p.revenue_estimate)}</span>
-        <span>${coldEmails.length} versions</span>
+        <span>${coldEmails.length} versions${pkg.linkedin_message ? " + LinkedIn" : ""}</span>
       </div>
       ${tc.name ? `
         <div style="margin-top:10px; padding:10px 12px; background:var(--bg-surface); border-radius:var(--radius-sm); border-left:3px solid var(--accent);">
@@ -894,7 +894,24 @@ function outreachCard(pkg) {
       ` : ""}
       <div class="email-sequence">
         ${coldEmails.map((e, i) => coldEmailCard(e, i)).join("")}
+        ${pkg.linkedin_message ? linkedInCard(pkg.linkedin_message) : ""}
       </div>
+    </div>`;
+}
+
+function linkedInCard(msg) {
+  const id = `li-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`;
+  const typeLabel = msg.message_type === "inmail" ? "InMail" : "Connection Request";
+
+  return `
+    <div class="email-card" style="border-left: 3px solid #0a66c2;">
+      <div class="email-header">
+        <span class="email-number" style="color:#0a66c2;">LinkedIn ${typeLabel}</span>
+      </div>
+      ${msg.subject ? `<div class="email-subject">${escapeHtml(msg.subject)}</div>` : ""}
+      <div class="email-hook">Hook: ${escapeHtml(msg.hook)}</div>
+      <div class="email-body" id="${id}">${escapeHtml(msg.body)}</div>
+      <button class="copy-btn" onclick="copyEmail('${id}', this)">Copy</button>
     </div>`;
 }
 
@@ -1336,10 +1353,21 @@ function renderHowItWorks() {
         </div>
       </div>
 
-      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Tone &amp; Quality Standards</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
           150\u2013200 words max per version. Warm but credible, peer-to-peer \u2014 not salesy. No buzzwords, no firm bragging in the first half. The 3 versions must be genuinely different \u2014 not the same email with swapped openers. Should not be detectable as AI-generated. Flag [GAP] if a version can\u2019t find a real angle.
+        </div>
+      </div>
+
+      <div class="home-section-title" style="margin-top:24px;">LinkedIn Message</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:16px;">
+        Each outreach package also includes one LinkedIn message \u2014 a short, conversational touchpoint a Senior Partner can copy-paste directly into LinkedIn.
+      </p>
+      <div class="method-grid" style="margin-bottom:20px;">
+        <div class="method-card" style="border-left: 3px solid #0a66c2;">
+          <h3 style="color: #0a66c2;">Connection Request or InMail</h3>
+          <p>50\u2013100 words max. More casual than email \u2014 no signature block, no formal structure. Should feel like a real person reaching out, not a template. References one specific thing about the contact or their company.</p>
         </div>
       </div>
     </div>
