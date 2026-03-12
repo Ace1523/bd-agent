@@ -1099,12 +1099,88 @@ function showToast(msg) {
 }
 
 function updateMeta() {
-  const runs = dashboardData.discovery_runs || [];
-  const totalProspects = new Set();
-  runs.forEach((r) => (r.prospects || []).forEach((p) => totalProspects.add(p.company_name)));
-  const dossiers = (dashboardData.dossiers || []).length;
-  const sequences = (dashboardData.outreach_sequences || []).length;
+  // Search setup
+  const input = document.getElementById("nav-search-input");
+  const resultsDiv = document.getElementById("nav-search-results");
+  if (!input) return;
 
-  document.getElementById("nav-meta").textContent =
-    `${totalProspects.size} prospects \u00B7 ${dossiers} dossiers \u00B7 ${sequences} sequences`;
+  input.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+    if (q.length < 2) { resultsDiv.innerHTML = ""; resultsDiv.classList.remove("show"); return; }
+
+    const matches = [];
+
+    // Search prospects
+    for (const run of dashboardData.discovery_runs || []) {
+      for (const p of run.prospects || []) {
+        if (p.company_name.toLowerCase().includes(q) && !matches.find(m => m.name === p.company_name)) {
+          matches.push({ name: p.company_name, score: p.score, views: ["pipeline"] });
+        }
+      }
+    }
+
+    // Check dossiers & outreach
+    for (const d of dashboardData.dossiers || []) {
+      const name = d.prospect?.company_name;
+      if (name?.toLowerCase().includes(q)) {
+        const existing = matches.find(m => m.name === name);
+        if (existing) { existing.views.push("research"); }
+        else { matches.push({ name, score: d.prospect?.score || 0, views: ["research"] }); }
+      }
+    }
+    for (const s of dashboardData.outreach_sequences || []) {
+      const name = s.dossier?.prospect?.company_name;
+      if (name?.toLowerCase().includes(q)) {
+        const existing = matches.find(m => m.name === name);
+        if (existing && !existing.views.includes("outreach")) { existing.views.push("outreach"); }
+        else if (!existing) { matches.push({ name, score: s.dossier?.prospect?.score || 0, views: ["outreach"] }); }
+      }
+    }
+
+    if (!matches.length) {
+      resultsDiv.innerHTML = '<div class="search-result-item search-empty">No matches</div>';
+      resultsDiv.classList.add("show");
+      return;
+    }
+
+    resultsDiv.innerHTML = matches.map(m => `
+      <div class="search-result-item" data-company="${escapeHtml(m.name)}">
+        <span class="search-result-name">${escapeHtml(m.name)}</span>
+        <span class="search-result-meta">${Math.round(m.score)} &middot; ${m.views.join(", ")}</span>
+      </div>
+    `).join("");
+    resultsDiv.classList.add("show");
+
+    resultsDiv.querySelectorAll(".search-result-item[data-company]").forEach(item => {
+      item.addEventListener("click", () => {
+        const company = item.dataset.company;
+        const views = matches.find(m => m.name === company)?.views || [];
+        const targetView = views.includes("research") ? "research" : views.includes("outreach") ? "outreach" : "pipeline";
+        switchTab(targetView);
+        input.value = "";
+        resultsDiv.innerHTML = "";
+        resultsDiv.classList.remove("show");
+
+        // Expand the matching card
+        setTimeout(() => {
+          const container = document.getElementById("view-" + targetView);
+          container.querySelectorAll(".card").forEach(card => {
+            const nameEl = card.querySelector(".card-company");
+            if (nameEl && nameEl.textContent.trim() === company) {
+              card.classList.add("expanded");
+              card.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+          });
+        }, 100);
+      });
+    });
+  });
+
+  // Close results on click outside
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest(".nav-search")) {
+      resultsDiv.innerHTML = "";
+      resultsDiv.classList.remove("show");
+    }
+  });
 }
