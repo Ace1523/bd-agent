@@ -167,6 +167,18 @@ class Dossier(BaseModel):
     conversation_entries: list[ConversationEntry] = Field(default_factory=list)
     recommended_meeting_framing: Union[str, None] = None
 
+    # Section 8: Brand Insights & Market Positioning
+    brand_insights: Union[str, None] = Field(
+        default=None,
+        description="Brand value, identity evolution, CMO strategy, brand threats, major investments",
+    )
+
+    # Section 9: Deep McChrystal Group Fit Analysis
+    deep_fit_analysis: Union[str, None] = Field(
+        default=None,
+        description="Multi-dimensional fit case, competitor displacement, beachhead ID, revenue estimate",
+    )
+
     # Legacy fields (still populated for backward compatibility)
     pain_points: list[str] = Field(default_factory=list)
     competitors_present: list[str] = Field(default_factory=list)

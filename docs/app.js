@@ -620,6 +620,8 @@ function dossierCard(d) {
         ${triggers.length ? triggerEventsSection(triggers) : ""}
         ${fa ? fitAssessmentSection(fa) : ""}
         ${convos.length ? conversationSection(convos, d.recommended_meeting_framing) : ""}
+        ${d.brand_insights ? richTextSection("Brand Insights & Market Positioning", d.brand_insights) : ""}
+        ${d.deep_fit_analysis ? richTextSection("Deep McChrystal Group Fit Analysis", d.deep_fit_analysis) : ""}
         ${pains.length && !fa ? painPointsSection(pains) : ""}
         ${competitors.length && !fa ? competitorsSection(competitors) : ""}
         ${d.transformation_timeline && !triggers.length ? textSection("Timeline", d.transformation_timeline) : ""}
@@ -814,6 +816,22 @@ function textSection(title, content) {
     <div class="dossier-section">
       <h4>${escapeHtml(title)}</h4>
       <div class="dossier-text">${escapeHtml(content)}</div>
+    </div>`;
+}
+
+function richTextSection(title, content) {
+  if (!content) return "";
+  // Convert Markdown-like formatting to HTML
+  let html = escapeHtml(content)
+    .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+    .replace(/^### (.+)$/gm, '<h5 style="margin:12px 0 4px; color:var(--ui-bright);">$1</h5>')
+    .replace(/^- (.+)$/gm, '<li style="margin-left:16px;">$1</li>')
+    .replace(/\n\n/g, "</p><p>")
+    .replace(/\n/g, "<br>");
+  return `
+    <div class="dossier-section">
+      <h4>${escapeHtml(title)}</h4>
+      <div class="dossier-text"><p>${html}</p></div>
     </div>`;
 }
 

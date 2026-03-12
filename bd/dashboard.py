@@ -340,6 +340,26 @@ def parse_research_markdown(md: str) -> list[Dossier]:
         if analysis_match:
             analysis = analysis_match.group(1).strip()
 
+        # Parse brand insights
+        brand_insights = None
+        brand_match = re.search(
+            r"## Brand Insights & Market Positioning\s*\n(.*?)(?=\n## |\n---|\Z)",
+            block,
+            re.DOTALL,
+        )
+        if brand_match:
+            brand_insights = brand_match.group(1).strip()
+
+        # Parse deep fit analysis
+        deep_fit_analysis = None
+        fit_match = re.search(
+            r"## Deep McChrystal Group Fit Analysis\s*\n(.*?)(?=\n## |\n---|\Z)",
+            block,
+            re.DOTALL,
+        )
+        if fit_match:
+            deep_fit_analysis = fit_match.group(1).strip()
+
         prospect = Prospect(
             company_name=company_name,
             revenue_estimate=revenue,
@@ -357,6 +377,8 @@ def parse_research_markdown(md: str) -> list[Dossier]:
                 transformation_timeline=timeline,
                 budget_context=budget,
                 detailed_analysis=analysis,
+                brand_insights=brand_insights,
+                deep_fit_analysis=deep_fit_analysis,
             )
         )
 
