@@ -1875,3 +1875,207 @@ Glassdoor reviews show above-average ratings for skilled nursing industry (3.4-3
   *Framing*: Draw the explicit parallel. Show that McChrystal designed the model they're already running.
 
 **Recommended First Meeting Framing**: Ensign already operates the way McChrystal believes organizations should work. This isn't about fixing what's broken — it's about scaling what works. The conversation is: how do you produce leaders at the pace your acquisition strategy demands?
+
+
+---
+
+# Research Dossier — Visa Inc.
+
+## Organization Snapshot
+
+- **Legal Name**: Visa Inc. (NYSE: V)
+- **Headquarters**: San Francisco, California, USA
+- **Founded**: 1958
+- **Industry**: Financial Services / Payments Technology
+- **Revenue**: $40.0B
+- **Employees**: 30K+
+- **Ownership**: Public (NYSE: V) — Market cap ~$600B, S&P 500 component
+- **Geographic Footprint**: 200+ countries and territories, offices in 80+ cities globally, regional hubs in Singapore, London, Dubai, São Paulo, and Miami
+- **ICP Score**: 87
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Q1 FY2026 (Oct-Dec 2025):** $10.9B net revenue (+15% YoY), GAAP EPS $3.17 (beat $3.14 consensus). Payments volume ~$4.0T/quarter (+8%), processed transactions 63.8B (+9%). Cross-border volume +11% (excluding intra-Europe).
+
+**Growth trajectory:** FY2025 full-year net revenue $40.0B (+11% YoY), net income $23.4B. Value-Added Services (VAS) now $10.9B/year (+24% growth) — fastest-growing segment and key to the 'network of networks' thesis. VAS includes risk/identity solutions, issuer processing, advisory services, and merchant acquiring — targeting a $520B total addressable market.
+
+**Three growth pillars:**
+1. **Consumer Payments** — core card network, steady mid-single-digit growth
+2. **Commercial & Money Movement (CMS)** — B2B payments, Visa Direct, Visa B2B Connect ($200T addressable market)
+3. **Value-Added Services (VAS)** — highest growth, 28% YoY, integrating Pismo and Featurespace capabilities
+
+**Investment phase:** OpEx +16% as Visa invests heavily in platform transformation, M&A integration, and AI capabilities. Capital return remains aggressive: $3.8B in share buybacks + $1.3B dividends per quarter.
+
+**Key risks:** DOJ antitrust lawsuit (filed Sep 2024, motion to dismiss denied Jun 2025, trial likely 2027-2028) targeting Visa's ~60% debit market share; ongoing interchange fee legislative pressure; fintech/blockchain competition (Stripe, Adyen, stablecoin networks); international regulatory headwinds in EU, India, Brazil.
+
+**Analyst sentiment:** Generally positive on transformation thesis but cautious on DOJ overhang. Revenue growth exceeding expectations, but OpEx growth rate drawing scrutiny.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Jack Forestell** — Chief Product & Strategy Officer
+- Tenure: CPSO since 2023; at Visa since 2016
+- Background: Former McKinsey partner, led Visa's product organization before elevation to CPSO. Owns the platform transformation vision, VAS growth strategy, and agentic commerce initiative.
+- Why target: Owns the platform transformation that requires cross-functional agility across Consumer Payments, CMS, VAS, and 3 acquired entities. The #1 person who needs Team of Teams to succeed.
+- Notes: Transformation nerve center — owns product roadmap, acquired entity integration (Pismo, Featurespace), and Visa-as-a-Service architecture. Feels cross-functional coordination pain most acutely.
+
+**Oliver Jenkyn** — Group President, Global Markets
+- Tenure: At Visa since 2019
+- Background: Former President of North America. Now oversees all regional P&Ls and client relationships globally.
+- Why target: Feels the global-vs-regional coordination tension daily, especially with Europe now operating semi-independently under Cahill. Natural champion for shared consciousness framework.
+- Notes: Cross-regional coordination challenge intensified by Antony Cahill's appointment as independent European CEO. Needs alignment mechanisms that don't create bottlenecks.
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Ryan McInerney | Chief Executive Officer | CEO since Feb 2023; at Visa since 2013 (previously President) | Former McKinsey consultant, JPMorgan Chase consumer banking executive. Driving 'payments hyperscaler' vision and Visa-as-a-Service platform strategy. | Architect of the transformation strategy. Executive sponsor, not outreach target. |
+| Jack Forestell | Chief Product & Strategy Officer | CPSO since 2023; at Visa since 2016 | Former McKinsey partner, led Visa's product organization before elevation to CPSO. Owns the platform transformation vision, VAS growth strategy, and agentic commerce initiative. | Transformation nerve center — owns product roadmap, acquired entity integration (Pismo, Featurespace), and Visa-as-a-Service architecture. Feels cross-functional coordination pain most acutely. |
+| Oliver Jenkyn | Group President, Global Markets | At Visa since 2019 | Former President of North America. Now oversees all regional P&Ls and client relationships globally. | Cross-regional coordination challenge intensified by Antony Cahill's appointment as independent European CEO. Needs alignment mechanisms that don't create bottlenecks. |
+| Chris Suh | Chief Financial Officer | CFO since 2023; at Visa since 2022 | Former Microsoft VP of Finance (Azure, Cloud). Brought in from outside to drive financial discipline during transformation investment phase. | Managing tension between aggressive capital return ($5.1B/quarter) and transformation investment (OpEx +16%). Key voice on M&A integration economics. |
+| Antony Cahill | CEO, European Operations | Appointed May 2025 (new role) | Former Mastercard executive, deep European payments regulatory expertise. First-ever dedicated CEO for Visa's European region. | New standalone leadership role — signals Visa's recognition that Europe requires autonomous decision-making for regulatory navigation (PSD3, interchange caps, digital euro). |
+| Paul Fabara | EVP, Chief Risk Officer | At Visa since 2019 | Former American Express risk executive. Oversees fraud prevention, compliance, and Featurespace integration. | DOJ antitrust case interface — coordinates across legal, government relations, product, and commercial teams. Featurespace ($946M) integration directly under his purview. |
+| Kelly Mahon Tullier | Vice Chair, Chief People & Corporate Affairs Officer | At Visa since 2014 | Former GC, now leads people strategy, government affairs, and corporate communications. | Owns the employee experience during transformation — layoffs, AI mandates, RTO policy, culture challenges. Also leads government affairs response to DOJ case. |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Matrixed global organization with product-led and region-led dual reporting lines. Historically hierarchical with strong functional silos. Recent creation of standalone European CEO role (Cahill) signals shift toward regional autonomy but creates coordination complexity.
+
+**Glassdoor: 3.8/5 (declining ~1% YoY)**
+
+Key employee sentiment themes from reviews and reporting:
+
+- **Rigid hierarchy**: 'The hierarchical culture is unbelievably strong and rigid' — decision-making concentrates at the top, front-line teams lack authority to move quickly
+- **AI-driven anxiety**: Teams mandated to increase capacity 25% via AI tools; scrum masters and agile coaches eliminated in Jan 2025 layoff, removing connective tissue between teams
+- **RTO friction**: 60% in-office requirement; remote employees report being sidelined or pushed out. Hybrid model creating two-tier culture
+- **Forced performance ratings**: Reports of 10% forced poor ratings to drive attrition without severance costs — eroding psychological safety
+- **Severance cuts**: Severance packages quietly reduced by ~50%, further damaging trust during restructuring
+- **Political culture**: Long-tenured employees described as protective of fiefdoms; external hires brought in to drive change report being undermined by institutional antibodies
+- **Matrixed slowness**: Multiple reviewers cite excessive alignment overhead, slow decision-making, and unclear decision rights as top frustrations
+
+**McChrystal relevance**: The culture signals describe an organization in exactly the state McChrystal Group is built to address — a hierarchical, siloed structure attempting a transformation that requires speed, trust, and cross-functional collaboration. The gap between the 'network of networks' vision and the organizational reality is the engagement opportunity.
+
+## Recent News & Trigger Events
+
+- [2025-01-15] — **1,400-person layoff across departments** — AI-driven restructuring eliminating scrum masters, agile coaches, and middle management. Creates organizational void in cross-team coordination precisely when transformation demands more, not less. Post-layoff culture rebuild is a core McChrystal capability.
+- [2025-02-20] — **Investor Day: 'Network of networks' vision unveiled** — Publicly committed to platform transformation from card network to payments hyperscaler. VAS targeting $520B addressable market. This is the strategic moment — the vision is set, now the organization must execute. McChrystal's operating model expertise is the gap between vision and execution.
+- [2025-05-01] — **Antony Cahill appointed CEO, European Operations (new role)** — First-ever standalone European CEO signals regional autonomy shift. Creates coordination challenge between Cahill's Europe org and Jenkyn's global markets — exactly the kind of alignment problem shared consciousness frameworks solve.
+- [2025-09-01] — **Ended 30-year NFL sponsorship, pivoting to FIFA World Cup 2026 / LA28 Olympics** — Major brand strategy pivot requiring new cross-functional activation capabilities across marketing, digital, and regional teams. Replacing a well-oiled NFL playbook with global event activation in an untested model.
+- [2025-10-01] — **Launched Trusted Agent Protocol with 10+ partners for agentic commerce** — Agentic commerce is a new product category requiring cross-functional speed between product, risk, and partner teams. Early-mover advantage depends on organizational agility Visa's current structure may not support.
+- [2026-01-28] — **Q1 FY2026 earnings: $10.9B revenue (+15% YoY), VAS +28%** — Strong financial performance validates transformation thesis but increases execution pressure — board and investors now expect continued acceleration. OpEx +16% draws scrutiny, creating tension between investment and efficiency.
+- [2026-02-01] — **Acquired Prisma Medios de Pago (Argentina payments processor)** — Third major acquisition in 24 months (after Pismo and Featurespace). Each acquisition adds integration complexity — different cultures (Brazil, UK, Argentina), different tech stacks, different regulatory environments. M&A integration overload is a classic McChrystal engagement trigger.
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Problem directly maps to McChrystal's core capability (Team of Teams for platform transformation). Multiple active trigger events (layoff, M&A, regional restructuring — all within last 12 months). Clear economic buyers identified (Forestell, Jenkyn). Budget is not a constraint ($40B revenue, $5.1B/quarter capital return). Organizational urgency is high (DOJ case, declining employee engagement, 3 simultaneous integrations). Strong fit across all 5 criteria.
+
+**Primary Problem**: Visa is attempting a once-in-a-generation platform transformation (card network → payments hyperscaler) while simultaneously fighting an existential DOJ antitrust case, integrating 3 major acquisitions, restructuring its workforce via AI, and managing a demoralized employee base with declining engagement scores. This is a VUCA environment inside a $40B company — the exact scenario McChrystal Group was built for.
+
+**Best Capability Fit**: Team of Teams operating model — Visa's matrixed, hierarchical structure is the #1 Glassdoor complaint and the primary blocker to the cross-functional agility their 'network of networks' vision requires. Also: organizational design post-layoff, crisis leadership around DOJ litigation, culture change to retain talent during transformation, and M&A integration acceleration across three acquired entities in three different countries.
+
+**Likely Objections**
+
+- "We're a $600B market cap company — we don't need boutique advisory" (counter: size is the problem, not the solution; McChrystal's model was built for large, complex organizations under pressure)
+- "Our transformation is technology-driven, not organizational" (counter: the technology vision is clear — it's the organizational execution that's stalling, per Glassdoor and restructuring signals)
+- "Legal won't allow external advisors near the DOJ case" (counter: McChrystal addresses the organizational response coordination, not the legal strategy — keeping operations running while legal fights the case)
+- Budget is not the objection — procurement complexity and internal politics are the real barriers at a company this size
+
+**Competitive Landscape**
+
+- McKinsey — strategy consulting (McInerney and Forestell are both ex-McKinsey; relationship exists but may be stale or overly familiar)
+- BCG — digital transformation advisory (strong payments practice)
+- Deloitte / Accenture — technology implementation and systems integration (likely already engaged on Pismo/Featurespace technical integration)
+- Korn Ferry — leadership development and talent assessment (may be engaged on post-layoff org design)
+- McChrystal differentiator: none of these firms address the operating model and cross-functional decision-making architecture that is the actual bottleneck
+
+## Conversation Entry Points
+
+- **Q**: Jack, you're building Visa-as-a-Service while integrating Pismo and Featurespace into the product org — how are your product and engineering teams coordinating across those three tracks without stepping on each other?
+  *Framing*: Position as peer conversation about organizational complexity, not a sales pitch. Forestell is ex-McKinsey — he'll respond to pattern recognition and frameworks, not platitudes. Lead with the specific integration coordination challenge.
+- **Q**: Oliver, with Antony Cahill now running Europe independently, how are you ensuring the global markets org stays aligned on priorities rather than fragmenting into regional fiefdoms?
+  *Framing*: Frame around the global-vs-regional tension that Jenkyn lives every day. The Cahill appointment created a structural coordination challenge that didn't exist before. McChrystal's shared consciousness framework is directly applicable.
+- **Q**: The shift from NFL to FIFA/Olympics is a bold brand pivot — is the internal org structure set up to activate globally, or are regional teams still operating the old NFL-era playbook in silos?
+  *Framing*: Lower-stakes entry point that's publicly visible (sponsorship pivot is well-known). Tests whether Visa leadership recognizes the organizational implications of strategic decisions. Can naturally lead to broader transformation conversation.
+
+**Recommended First Meeting Framing**: Frame as a leadership conversation, not a consulting pitch. McChrystal Group has worked with organizations navigating exactly this pattern: simultaneous transformation, M&A integration, regulatory threat, and workforce restructuring. The question isn't whether Visa can define the strategy — it's whether the organization can execute at the speed the strategy demands. Offer a 30-minute 'pattern recognition' conversation where McChrystal shares what they've seen work (and fail) in similar situations.
+
+## Enterprise Issues & Organizational Challenges
+
+Deep analysis of enterprise-level problems McChrystal Group could address:
+
+**1. Platform transformation vs. organizational inertia**
+Visa's "network of networks" vision requires cross-functional speed — product, engineering, risk, and regional teams operating as a unified organism. But Glassdoor reviews describe rigid hierarchy, slow decision-making, and excessive alignment overhead. The strategy demands a fundamentally different operating model than the one that built Visa's card network dominance. This is the classic McChrystal problem: an organization designed for a previous era trying to compete in a new one without changing how it works.
+
+**2. M&A integration overload**
+Three major acquisitions in 24 months — Pismo ($929M, Brazil, core banking infrastructure), Featurespace ($946M, UK, AI fraud detection), and Prisma Medios de Pago (Argentina, payments processing). Each requires cultural integration, technical integration, and regulatory harmonization across different countries and operating norms. The risk isn't that any single integration fails — it's that the cumulative coordination burden overwhelms the organization while it's simultaneously transforming its core business. McChrystal's Team of Teams model is specifically designed for this: enabling acquired entities to operate with autonomy while maintaining shared consciousness with the parent organization.
+
+**3. AI-driven workforce disruption**
+The Jan 2025 layoff of 1,400 employees — including scrum masters and agile coaches — sent a clear signal: AI is replacing human connective tissue. Remaining employees are mandated to increase capacity 25% via AI tools. This creates a trust deficit: people who survived the layoff are anxious about the next round, burned-out from absorbing the workload of eliminated colleagues, and skeptical of leadership's commitment to their development. The organizational irony is that Visa eliminated the coordination roles (scrum masters, agile coaches) that enabled cross-team collaboration precisely when the transformation demands more coordination, not less.
+
+**4. Regulatory existential threat**
+The DOJ antitrust lawsuit (filed Sep 2024, motion to dismiss denied Jun 2025) targets Visa's ~60% debit market share and alleges anticompetitive practices. This isn't a nuisance suit — it's an existential threat to the core business model. The organizational challenge: Visa must mount a coordinated cross-functional response (legal, government relations, product, commercial) while not allowing the litigation to paralyze day-to-day operations and transformation execution. McChrystal's crisis leadership framework — separating the "fight" from the "run" — is directly applicable.
+
+**5. Sponsorship strategy pivot**
+Ending the 30-year NFL partnership and pivoting to FIFA World Cup 2026 / LA28 Olympics is a major brand strategy shift. The NFL relationship had a well-oiled activation playbook built over three decades. FIFA/Olympics activation requires fundamentally different capabilities: global coordination across dozens of regional teams, digital-first activation in markets with varying infrastructure, and cross-functional collaboration between marketing, digital, regional, and product teams. The old playbook doesn't transfer — Visa needs to build new organizational muscles.
+
+**6. Regional leadership fragmentation**
+The appointment of Antony Cahill as CEO of European Operations (May 2025) — a new role — signals Visa's recognition that Europe's regulatory environment (PSD3, interchange caps, digital euro) requires autonomous decision-making. But autonomy without alignment creates fiefdoms. If Cahill's European org starts making product, pricing, and partnership decisions independently of Forestell's global product strategy and Jenkyn's global markets org, Visa risks fragmenting into regional silos — the opposite of the "network of networks" vision.
+
+**7. Culture erosion**
+The combination of forced performance ratings (10% forced poor ratings), halved severance packages, AI mandates, RTO requirements, and political internal culture is systematically eroding the trust and psychological safety that transformation requires. Employees describe a culture where long-tenured insiders protect fiefdoms while external hires brought in to drive change are undermined. This is the organizational equivalent of an autoimmune response — the very people hired to transform the company are being rejected by the institutional immune system. McChrystal's shared consciousness and trust-building at scale directly addresses this pathology.
+
+**8. Talent retention during transformation**
+Visa's best people — the ones who could drive the transformation — are also the ones with the most options. Declining Glassdoor scores (3.8/5, -1% YoY), AI anxiety, forced attrition mechanisms, and a political culture create flight risk at exactly the wrong moment. Losing senior product leaders, engineers, or risk specialists during the Pismo/Featurespace integration or the DOJ defense would be catastrophic. McChrystal's culture change and trust-building capabilities can help Visa create an environment where top talent chooses to stay because they believe in the mission and trust the leadership, not because of golden handcuffs.
+
+## Expected Outcomes from McChrystal Group Engagement
+
+What a successful McChrystal Group engagement with Visa would deliver:
+
+**1. Cross-functional operating model for platform transformation**
+Break the silos between Consumer Payments, Commercial & Money Movement, Value-Added Services, and acquired entities (Pismo, Featurespace, Prisma). Implement a Team of Teams structure where each unit maintains operational autonomy while sharing real-time strategic context with the others. Measurable outcome: reduce cross-functional decision-making cycle time by 40-60%, enabling the "network of networks" vision to execute at the speed the market demands.
+
+**2. Shared consciousness framework across global regions**
+Design and implement an information-sharing and alignment architecture that ensures Cahill's European operations, Jenkyn's global markets org, and Forestell's product organization are operating from a common picture without requiring everything to flow through the CEO. This is the McChrystal sweet spot — enabling decentralized execution with centralized awareness. Outcome: regional teams can make autonomous decisions that align with global strategy without weekly alignment meetings and approval chains.
+
+**3. Crisis leadership playbook for DOJ antitrust navigation**
+Build a coordinated cross-functional response framework that separates the DOJ "fight" (legal, government relations) from the "run" (product, commercial, transformation). Ensure the litigation response doesn't consume leadership bandwidth or paralyze operational decision-making. Outcome: Visa maintains transformation velocity while mounting an effective legal defense — the two tracks run in parallel, not in sequence.
+
+**4. Post-layoff culture rebuild**
+Restore trust and psychological safety after the Jan 2025 layoff, AI mandates, and forced attrition mechanisms. Clarify decision rights so remaining employees know what authority they have. Rebuild the connective tissue (cross-team coordination) that was lost when scrum masters and agile coaches were eliminated. Outcome: employee engagement scores stabilize and begin recovering within 6 months; voluntary attrition of top performers decreases.
+
+**5. M&A integration acceleration**
+Apply Team of Teams principles to the integration of Pismo (Brazil), Featurespace (UK), and Prisma (Argentina) into Visa's global organization. Preserve the innovation culture and speed of the acquired companies while integrating them into Visa's risk, compliance, and go-to-market frameworks. Outcome: integration timelines compressed by 30-40% while maintaining acquired talent retention above 85%.
+
+**6. Decision-speed improvement**
+Address the #1 employee frustration (excessive alignment overhead, slow decision-making) by implementing clear decision rights, empowered execution frameworks, and information-sharing practices that eliminate the need for hierarchical approval chains. Push authority to the edges where market knowledge lives. Outcome: measurable reduction in decision latency across product, commercial, and regional organizations.
+
+**7. Sponsorship activation capability**
+Build the cross-functional team muscles needed for FIFA World Cup 2026 / LA28 Olympics activation across regions. Replace the NFL-era playbook (US-centric, single-sport, 30-year muscle memory) with a global, multi-sport, digital-first activation model that requires coordination across marketing, digital, product, and 20+ regional teams. Outcome: Visa activates FIFA World Cup 2026 at a level that validates the sponsorship pivot to analysts and the board.
+
+## Key Stakeholders & Business Unit Map
+
+Detailed breakdown of Visa's organizational structure and key internal stakeholders relevant to McChrystal Group engagement:
+
+| Business Unit | Leader | Function | McChrystal Relevance |
+|--------------|--------|----------|---------------------|
+| **Consumer Payments** | Under Oliver Jenkyn (Global Markets) | Core card network — consumer credit, debit, prepaid | Legacy cash cow generating majority of revenue. Must coexist with new payment flows (crypto, A2A, BNPL) without resisting cannibalization. Team of Teams helps legacy units participate in transformation rather than block it. |
+| **Commercial & Money Movement (CMS)** | Under Jack Forestell (CPSO) | B2B payments, Visa Direct (real-time push payments), Visa B2B Connect, cross-border | $200T addressable market requiring entirely new go-to-market muscles. Cross-border coordination between regional teams is essential. Current siloed structure slows time-to-market in high-growth segments. |
+| **Value-Added Services (VAS)** | Under Jack Forestell (CPSO) | Risk/identity solutions, issuer processing, merchant services, advisory, data analytics | Fastest-growing segment ($10.9B, +28% YoY). Integration point for Featurespace (AI fraud) and Pismo (core banking). The segment where transformation succeeds or fails — requires tight coordination between acquired capabilities and Visa-native products. |
+| **Product & Strategy** | Jack Forestell, CPSO | Platform vision, Visa-as-a-Service architecture, agentic commerce, tokenization | Transformation nerve center. Forestell owns the "what" — the platform vision. But execution requires coordination across every other unit. Highest alignment need in the organization. **Priority engagement target.** |
+| **Global Markets** | Oliver Jenkyn, Group President | Regional P&Ls, client relationships across all geographies | Cross-regional coordination challenge is intensifying with Cahill's European autonomy. Jenkyn needs mechanisms to maintain alignment without micromanaging regions. Shared consciousness is the answer. **Priority engagement target.** |
+| **European Operations** | Antony Cahill, CEO Europe (new role, May 2025) | EU/UK markets, PSD3 navigation, digital euro response, interchange regulation | New standalone role risks fragmenting from global strategy. Cahill must navigate aggressive EU regulation while staying aligned with Forestell's global product roadmap. Classic tension between local adaptation and global coherence. |
+| **Marketing & Brand Partnerships** | CMO (reporting to McInerney) | Brand strategy, sponsorships (FIFA, Olympics), digital marketing, campaign activation | Executing the NFL→FIFA/Olympics pivot. Requires new cross-functional activation model spanning 20+ regional marketing teams, digital product teams, and partner relationship teams. The 30-year NFL muscle memory doesn't transfer. |
+| **Digital & Innovation** | Under Jack Forestell (CPSO) | Tokenization (16B+ tokens in market), stablecoins/crypto strategy, agentic commerce, AI | Fast-moving frontier — Trusted Agent Protocol launched Oct 2025 with 10+ partners. Needs maximum autonomy to move at startup speed while staying connected to risk, compliance, and commercial teams. Team of Teams enables this. |
+| **Finance** | Chris Suh, CFO | Capital allocation, investor relations, M&A integration economics, efficiency programs | Managing the tension between aggressive capital return ($3.8B buybacks + $1.3B dividends/quarter) and transformation investment (OpEx +16%). Suh's Azure/cloud background makes him sympathetic to platform transformation logic. |
+| **Government Solutions** | Division head (under Global Markets) | Public sector payments, disbursements, digital identity, government partnerships | Growing initiative (23 global government partners). Requires cross-functional coordination with product (for capability development) and regional teams (for local government relationships). Underserved by current organizational structure. |
+| **Risk & Compliance** | Paul Fabara, CRO | Fraud prevention, regulatory compliance, Featurespace integration, DOJ case coordination | High-stakes coordination hub. Fabara must integrate Featurespace's AI fraud technology, manage the DOJ antitrust response, and maintain compliance across 200+ markets — all simultaneously. The DOJ case alone requires cross-functional coordination across legal, government relations, product, and commercial. |
+| **Technology & Operations** | CTO/CIO (reporting to McInerney) | Infrastructure, cloud migration, network reliability, Pismo integration | Backbone of transformation. Pismo integration ($929M) modernizes Visa's core processing infrastructure. Must maintain 99.999% uptime on the existing network while building the next-generation platform. Classic "rebuild the plane while flying" challenge. |
+
+**Stakeholder engagement priority:**
+1. **Jack Forestell (CPSO)** — Primary target. Owns the transformation vision and feels the cross-functional coordination pain most acutely. Ex-McKinsey, will respond to structured frameworks and pattern recognition.
+2. **Oliver Jenkyn (Group President, Global Markets)** — Secondary target. Lives the global-vs-regional tension daily. Natural champion for shared consciousness framework.
+3. **Kelly Mahon Tullier (VP, Chief People & Corporate Affairs)** — Influencer. Owns employee experience, culture, and government affairs. Would be key stakeholder in any engagement focused on post-layoff culture rebuild.
+4. **Ryan McInerney (CEO)** — Executive sponsor. Not the outreach target, but the ultimate decision-maker. Ex-McKinsey, will need to see McChrystal's differentiation from strategy firms he already knows.

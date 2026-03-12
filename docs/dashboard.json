@@ -3992,6 +3992,210 @@
       "transformation_timeline": null,
       "budget_context": null,
       "detailed_analysis": ""
+    },
+    {
+      "prospect": {
+        "company_name": "Visa Inc.",
+        "revenue_estimate": 40000000000.0,
+        "employee_count": 30000,
+        "industry": "Financial Services / Payments Technology",
+        "tier": "tier_1",
+        "signals": [
+          {
+            "type": "transformation",
+            "description": "'Network of networks' pivot \u2014 Visa-as-a-Service platform transformation unveiled at Feb 2025 Investor Day, targeting $520B addressable market in Value-Added Services",
+            "date": "2025-02-20",
+            "source": null
+          },
+          {
+            "type": "m_and_a",
+            "description": "Three major acquisitions requiring integration: Pismo ($929M, core banking infrastructure), Featurespace ($946M, AI fraud detection), and Prisma Medios de Pago (Argentina payments processor, Feb 2026)",
+            "date": "2026-02-01",
+            "source": null
+          },
+          {
+            "type": "reorg",
+            "description": "1,400-person layoff in Jan 2025 across departments, AI-driven restructuring eliminating scrum masters and agile coaches, teams mandated to increase capacity 25% via AI",
+            "date": "2025-01-15",
+            "source": null
+          },
+          {
+            "type": "partnership",
+            "description": "Ended 30-year NFL sponsorship (Mar 2026) to pivot to FIFA World Cup 2026 / LA28 Olympics; launched Trusted Agent Protocol with 10+ partners for agentic commerce (Oct 2025)",
+            "date": "2026-03-01",
+            "source": null
+          }
+        ],
+        "score": 87.4,
+        "source_urls": [],
+        "company_overview": "Visa is the world's largest electronic payments network, processing over $15 trillion in total volume annually across 200+ countries. With $40B in FY2025 net revenue, Visa is undergoing a fundamental strategic transformation from a traditional card network into a 'network of networks' payments hyperscaler \u2014 building Visa-as-a-Service to capture a $520B addressable market in Value-Added Services. Under CEO Ryan McInerney (since Feb 2023), Visa is aggressively acquiring (Pismo $929M, Featurespace $946M, Prisma), restructuring its workforce (1,400-person layoff Jan 2025), and navigating a DOJ antitrust lawsuit that threatens its core debit business.",
+        "summary": "Visa is attempting a once-in-a-generation platform transformation while simultaneously fighting an existential DOJ antitrust case, integrating 3 major acquisitions, and managing a demoralized workforce \u2014 a textbook VUCA environment requiring the cross-functional agility and shared consciousness that McChrystal Group delivers.",
+        "entry_point": "Jack Forestell, Chief Product & Strategy Officer \u2014 owns the platform transformation vision and feels the cross-functional coordination pain daily as product, engineering, and acquired entities (Pismo, Featurespace) need to operate as a unified team.",
+        "conversation_hook": "Visa's Jan 2025 layoff of 1,400 employees \u2014 including scrum masters and agile coaches \u2014 removed the connective tissue that enabled cross-team coordination, precisely when the 'network of networks' transformation demands more coordination, not less."
+      },
+      "legal_name": "Visa Inc. (NYSE: V)",
+      "headquarters": "San Francisco, California, USA",
+      "founded_year": 1958,
+      "ownership_structure": "Public (NYSE: V) \u2014 Market cap ~$600B, S&P 500 component",
+      "geographic_footprint": "200+ countries and territories, offices in 80+ cities globally, regional hubs in Singapore, London, Dubai, S\u00e3o Paulo, and Miami",
+      "financial_health": "**Q1 FY2026 (Oct-Dec 2025):** $10.9B net revenue (+15% YoY), GAAP EPS $3.17 (beat $3.14 consensus). Payments volume ~$4.0T/quarter (+8%), processed transactions 63.8B (+9%). Cross-border volume +11% (excluding intra-Europe).\n\n**Growth trajectory:** FY2025 full-year net revenue $40.0B (+11% YoY), net income $23.4B. Value-Added Services (VAS) now $10.9B/year (+24% growth) \u2014 fastest-growing segment and key to the 'network of networks' thesis. VAS includes risk/identity solutions, issuer processing, advisory services, and merchant acquiring \u2014 targeting a $520B total addressable market.\n\n**Three growth pillars:**\n1. **Consumer Payments** \u2014 core card network, steady mid-single-digit growth\n2. **Commercial & Money Movement (CMS)** \u2014 B2B payments, Visa Direct, Visa B2B Connect ($200T addressable market)\n3. **Value-Added Services (VAS)** \u2014 highest growth, 28% YoY, integrating Pismo and Featurespace capabilities\n\n**Investment phase:** OpEx +16% as Visa invests heavily in platform transformation, M&A integration, and AI capabilities. Capital return remains aggressive: $3.8B in share buybacks + $1.3B dividends per quarter.\n\n**Key risks:** DOJ antitrust lawsuit (filed Sep 2024, motion to dismiss denied Jun 2025, trial likely 2027-2028) targeting Visa's ~60% debit market share; ongoing interchange fee legislative pressure; fintech/blockchain competition (Stripe, Adyen, stablecoin networks); international regulatory headwinds in EU, India, Brazil.\n\n**Analyst sentiment:** Generally positive on transformation thesis but cautious on DOJ overhang. Revenue growth exceeding expectations, but OpEx growth rate drawing scrutiny.",
+      "key_contacts": [
+        {
+          "name": "Ryan McInerney",
+          "title": "Chief Executive Officer",
+          "tenure": "CEO since Feb 2023; at Visa since 2013 (previously President)",
+          "background": "Former McKinsey consultant, JPMorgan Chase consumer banking executive. Driving 'payments hyperscaler' vision and Visa-as-a-Service platform strategy.",
+          "linkedin": null,
+          "notes": "Architect of the transformation strategy. Executive sponsor, not outreach target.",
+          "is_priority_target": false,
+          "priority_rationale": null
+        },
+        {
+          "name": "Jack Forestell",
+          "title": "Chief Product & Strategy Officer",
+          "tenure": "CPSO since 2023; at Visa since 2016",
+          "background": "Former McKinsey partner, led Visa's product organization before elevation to CPSO. Owns the platform transformation vision, VAS growth strategy, and agentic commerce initiative.",
+          "linkedin": null,
+          "notes": "Transformation nerve center \u2014 owns product roadmap, acquired entity integration (Pismo, Featurespace), and Visa-as-a-Service architecture. Feels cross-functional coordination pain most acutely.",
+          "is_priority_target": true,
+          "priority_rationale": "Owns the platform transformation that requires cross-functional agility across Consumer Payments, CMS, VAS, and 3 acquired entities. The #1 person who needs Team of Teams to succeed."
+        },
+        {
+          "name": "Oliver Jenkyn",
+          "title": "Group President, Global Markets",
+          "tenure": "At Visa since 2019",
+          "background": "Former President of North America. Now oversees all regional P&Ls and client relationships globally.",
+          "linkedin": null,
+          "notes": "Cross-regional coordination challenge intensified by Antony Cahill's appointment as independent European CEO. Needs alignment mechanisms that don't create bottlenecks.",
+          "is_priority_target": true,
+          "priority_rationale": "Feels the global-vs-regional coordination tension daily, especially with Europe now operating semi-independently under Cahill. Natural champion for shared consciousness framework."
+        },
+        {
+          "name": "Chris Suh",
+          "title": "Chief Financial Officer",
+          "tenure": "CFO since 2023; at Visa since 2022",
+          "background": "Former Microsoft VP of Finance (Azure, Cloud). Brought in from outside to drive financial discipline during transformation investment phase.",
+          "linkedin": null,
+          "notes": "Managing tension between aggressive capital return ($5.1B/quarter) and transformation investment (OpEx +16%). Key voice on M&A integration economics.",
+          "is_priority_target": false,
+          "priority_rationale": null
+        },
+        {
+          "name": "Antony Cahill",
+          "title": "CEO, European Operations",
+          "tenure": "Appointed May 2025 (new role)",
+          "background": "Former Mastercard executive, deep European payments regulatory expertise. First-ever dedicated CEO for Visa's European region.",
+          "linkedin": null,
+          "notes": "New standalone leadership role \u2014 signals Visa's recognition that Europe requires autonomous decision-making for regulatory navigation (PSD3, interchange caps, digital euro).",
+          "is_priority_target": false,
+          "priority_rationale": null
+        },
+        {
+          "name": "Paul Fabara",
+          "title": "EVP, Chief Risk Officer",
+          "tenure": "At Visa since 2019",
+          "background": "Former American Express risk executive. Oversees fraud prevention, compliance, and Featurespace integration.",
+          "linkedin": null,
+          "notes": "DOJ antitrust case interface \u2014 coordinates across legal, government relations, product, and commercial teams. Featurespace ($946M) integration directly under his purview.",
+          "is_priority_target": false,
+          "priority_rationale": null
+        },
+        {
+          "name": "Kelly Mahon Tullier",
+          "title": "Vice Chair, Chief People & Corporate Affairs Officer",
+          "tenure": "At Visa since 2014",
+          "background": "Former GC, now leads people strategy, government affairs, and corporate communications.",
+          "linkedin": null,
+          "notes": "Owns the employee experience during transformation \u2014 layoffs, AI mandates, RTO policy, culture challenges. Also leads government affairs response to DOJ case.",
+          "is_priority_target": false,
+          "priority_rationale": null
+        }
+      ],
+      "org_structure": "Matrixed global organization with product-led and region-led dual reporting lines. Historically hierarchical with strong functional silos. Recent creation of standalone European CEO role (Cahill) signals shift toward regional autonomy but creates coordination complexity.",
+      "culture_signals": "**Glassdoor: 3.8/5 (declining ~1% YoY)**\n\nKey employee sentiment themes from reviews and reporting:\n\n- **Rigid hierarchy**: 'The hierarchical culture is unbelievably strong and rigid' \u2014 decision-making concentrates at the top, front-line teams lack authority to move quickly\n- **AI-driven anxiety**: Teams mandated to increase capacity 25% via AI tools; scrum masters and agile coaches eliminated in Jan 2025 layoff, removing connective tissue between teams\n- **RTO friction**: 60% in-office requirement; remote employees report being sidelined or pushed out. Hybrid model creating two-tier culture\n- **Forced performance ratings**: Reports of 10% forced poor ratings to drive attrition without severance costs \u2014 eroding psychological safety\n- **Severance cuts**: Severance packages quietly reduced by ~50%, further damaging trust during restructuring\n- **Political culture**: Long-tenured employees described as protective of fiefdoms; external hires brought in to drive change report being undermined by institutional antibodies\n- **Matrixed slowness**: Multiple reviewers cite excessive alignment overhead, slow decision-making, and unclear decision rights as top frustrations\n\n**McChrystal relevance**: The culture signals describe an organization in exactly the state McChrystal Group is built to address \u2014 a hierarchical, siloed structure attempting a transformation that requires speed, trust, and cross-functional collaboration. The gap between the 'network of networks' vision and the organizational reality is the engagement opportunity.",
+      "trigger_events": [
+        {
+          "date": "2025-01-15",
+          "event": "1,400-person layoff across departments",
+          "relevance": "AI-driven restructuring eliminating scrum masters, agile coaches, and middle management. Creates organizational void in cross-team coordination precisely when transformation demands more, not less. Post-layoff culture rebuild is a core McChrystal capability.",
+          "source": null
+        },
+        {
+          "date": "2025-02-20",
+          "event": "Investor Day: 'Network of networks' vision unveiled",
+          "relevance": "Publicly committed to platform transformation from card network to payments hyperscaler. VAS targeting $520B addressable market. This is the strategic moment \u2014 the vision is set, now the organization must execute. McChrystal's operating model expertise is the gap between vision and execution.",
+          "source": null
+        },
+        {
+          "date": "2025-05-01",
+          "event": "Antony Cahill appointed CEO, European Operations (new role)",
+          "relevance": "First-ever standalone European CEO signals regional autonomy shift. Creates coordination challenge between Cahill's Europe org and Jenkyn's global markets \u2014 exactly the kind of alignment problem shared consciousness frameworks solve.",
+          "source": null
+        },
+        {
+          "date": "2025-09-01",
+          "event": "Ended 30-year NFL sponsorship, pivoting to FIFA World Cup 2026 / LA28 Olympics",
+          "relevance": "Major brand strategy pivot requiring new cross-functional activation capabilities across marketing, digital, and regional teams. Replacing a well-oiled NFL playbook with global event activation in an untested model.",
+          "source": null
+        },
+        {
+          "date": "2025-10-01",
+          "event": "Launched Trusted Agent Protocol with 10+ partners for agentic commerce",
+          "relevance": "Agentic commerce is a new product category requiring cross-functional speed between product, risk, and partner teams. Early-mover advantage depends on organizational agility Visa's current structure may not support.",
+          "source": null
+        },
+        {
+          "date": "2026-01-28",
+          "event": "Q1 FY2026 earnings: $10.9B revenue (+15% YoY), VAS +28%",
+          "relevance": "Strong financial performance validates transformation thesis but increases execution pressure \u2014 board and investors now expect continued acceleration. OpEx +16% draws scrutiny, creating tension between investment and efficiency.",
+          "source": null
+        },
+        {
+          "date": "2026-02-01",
+          "event": "Acquired Prisma Medios de Pago (Argentina payments processor)",
+          "relevance": "Third major acquisition in 24 months (after Pismo and Featurespace). Each acquisition adds integration complexity \u2014 different cultures (Brazil, UK, Argentina), different tech stacks, different regulatory environments. M&A integration overload is a classic McChrystal engagement trigger.",
+          "source": null
+        }
+      ],
+      "fit_assessment": {
+        "primary_problem": "Visa is attempting a once-in-a-generation platform transformation (card network \u2192 payments hyperscaler) while simultaneously fighting an existential DOJ antitrust case, integrating 3 major acquisitions, restructuring its workforce via AI, and managing a demoralized employee base with declining engagement scores. This is a VUCA environment inside a $40B company \u2014 the exact scenario McChrystal Group was built for.",
+        "best_capability_fit": "Team of Teams operating model \u2014 Visa's matrixed, hierarchical structure is the #1 Glassdoor complaint and the primary blocker to the cross-functional agility their 'network of networks' vision requires. Also: organizational design post-layoff, crisis leadership around DOJ litigation, culture change to retain talent during transformation, and M&A integration acceleration across three acquired entities in three different countries.",
+        "likely_objections": [
+          "\"We're a $600B market cap company \u2014 we don't need boutique advisory\" (counter: size is the problem, not the solution; McChrystal's model was built for large, complex organizations under pressure)",
+          "\"Our transformation is technology-driven, not organizational\" (counter: the technology vision is clear \u2014 it's the organizational execution that's stalling, per Glassdoor and restructuring signals)",
+          "\"Legal won't allow external advisors near the DOJ case\" (counter: McChrystal addresses the organizational response coordination, not the legal strategy \u2014 keeping operations running while legal fights the case)",
+          "Budget is not the objection \u2014 procurement complexity and internal politics are the real barriers at a company this size"
+        ],
+        "competitive_landscape": [
+          "McKinsey \u2014 strategy consulting (McInerney and Forestell are both ex-McKinsey; relationship exists but may be stale or overly familiar)",
+          "BCG \u2014 digital transformation advisory (strong payments practice)",
+          "Deloitte / Accenture \u2014 technology implementation and systems integration (likely already engaged on Pismo/Featurespace technical integration)",
+          "Korn Ferry \u2014 leadership development and talent assessment (may be engaged on post-layoff org design)",
+          "McChrystal differentiator: none of these firms address the operating model and cross-functional decision-making architecture that is the actual bottleneck"
+        ],
+        "rating": "strong",
+        "rating_rationale": "Problem directly maps to McChrystal's core capability (Team of Teams for platform transformation). Multiple active trigger events (layoff, M&A, regional restructuring \u2014 all within last 12 months). Clear economic buyers identified (Forestell, Jenkyn). Budget is not a constraint ($40B revenue, $5.1B/quarter capital return). Organizational urgency is high (DOJ case, declining employee engagement, 3 simultaneous integrations). Strong fit across all 5 criteria."
+      },
+      "conversation_entries": [
+        {
+          "opening_question": "Jack, you're building Visa-as-a-Service while integrating Pismo and Featurespace into the product org \u2014 how are your product and engineering teams coordinating across those three tracks without stepping on each other?",
+          "framing": "Position as peer conversation about organizational complexity, not a sales pitch. Forestell is ex-McKinsey \u2014 he'll respond to pattern recognition and frameworks, not platitudes. Lead with the specific integration coordination challenge."
+        },
+        {
+          "opening_question": "Oliver, with Antony Cahill now running Europe independently, how are you ensuring the global markets org stays aligned on priorities rather than fragmenting into regional fiefdoms?",
+          "framing": "Frame around the global-vs-regional tension that Jenkyn lives every day. The Cahill appointment created a structural coordination challenge that didn't exist before. McChrystal's shared consciousness framework is directly applicable."
+        },
+        {
+          "opening_question": "The shift from NFL to FIFA/Olympics is a bold brand pivot \u2014 is the internal org structure set up to activate globally, or are regional teams still operating the old NFL-era playbook in silos?",
+          "framing": "Lower-stakes entry point that's publicly visible (sponsorship pivot is well-known). Tests whether Visa leadership recognizes the organizational implications of strategic decisions. Can naturally lead to broader transformation conversation."
+        }
+      ],
+      "recommended_meeting_framing": "Frame as a leadership conversation, not a consulting pitch. McChrystal Group has worked with organizations navigating exactly this pattern: simultaneous transformation, M&A integration, regulatory threat, and workforce restructuring. The question isn't whether Visa can define the strategy \u2014 it's whether the organization can execute at the speed the strategy demands. Offer a 30-minute 'pattern recognition' conversation where McChrystal shares what they've seen work (and fail) in similar situations.",
+      "pain_points": [],
+      "competitors_present": [],
+      "transformation_timeline": null,
+      "budget_context": null,
+      "detailed_analysis": ""
     }
   ],
   "outreach_packages": [
