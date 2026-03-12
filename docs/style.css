@@ -241,6 +241,61 @@ body {
   flex-shrink: 0;
 }
 
+/* ── Filter bar ── */
+.filter-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 4px;
+}
+
+.filter-bar::-webkit-scrollbar { display: none; }
+
+.filter-pill {
+  background: none;
+  border: 1px solid var(--ui-bright);
+  color: var(--ui-bright);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 14px;
+  border-radius: 20px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition);
+  flex-shrink: 0;
+}
+
+.filter-pill:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.filter-pill.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}
+
+/* ── Category header ── */
+.category-header {
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 28px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-light);
+  grid-column: 1 / -1;
+}
+
+.category-header:first-child {
+  margin-top: 0;
+}
+
 /* ── Card grid ── */
 .card-grid {
   display: grid;

@@ -131,6 +131,62 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+// ── Industry category mapping ──
+const CATEGORIES = [
+  "Healthcare",
+  "Defense & Government",
+  "Technology & Fintech",
+  "Industrial & Logistics",
+  "Energy",
+  "Home & Business Services",
+  "Media & Consumer",
+];
+
+function categoryOf(industry) {
+  if (!industry) return "Media & Consumer";
+  const ind = industry.toLowerCase();
+  if (ind.includes("health") || ind.includes("dental") || ind.includes("pharma") || ind.includes("drug")) return "Healthcare";
+  if (ind.includes("defense") || ind.includes("government") || ind.includes("federal") || ind.includes("aerospace")) return "Defense & Government";
+  if (ind.includes("tech") || ind.includes("fintech") || ind.includes("software") || ind.includes("semiconductor") || ind.includes("gaming") || ind.includes("telecom") || ind.includes("optical") || ind.includes("network")) return "Technology & Fintech";
+  if (ind.includes("industrial") || ind.includes("logistics") || ind.includes("auto") || ind.includes("chemical") || ind.includes("material") || ind.includes("parts") || ind.includes("collision") || ind.includes("fleet") || ind.includes("manufacturing") || ind.includes("supply chain")) return "Industrial & Logistics";
+  if (ind.includes("energy") || ind.includes("oil") || ind.includes("gas") || ind.includes("utilit") || ind.includes("renewable") || ind.includes("power")) return "Energy";
+  if (ind.includes("home") || ind.includes("service") || ind.includes("hvac") || ind.includes("plumbing") || ind.includes("residential")) return "Home & Business Services";
+  if (ind.includes("media") || ind.includes("entertainment") || ind.includes("consumer") || ind.includes("retail") || ind.includes("apparel") || ind.includes("sport") || ind.includes("talent")) return "Media & Consumer";
+  return "Media & Consumer";
+}
+
+function renderFilterBar(containerId, onFilter) {
+  const pills = ["All", ...CATEGORIES];
+  const bar = document.createElement("div");
+  bar.className = "filter-bar";
+  bar.innerHTML = pills
+    .map(
+      (cat, i) =>
+        `<button class="filter-pill${i === 0 ? " active" : ""}" data-category="${cat}">${cat}</button>`
+    )
+    .join("");
+  bar.querySelectorAll(".filter-pill").forEach((pill) => {
+    pill.addEventListener("click", () => {
+      bar.querySelectorAll(".filter-pill").forEach((p) => p.classList.remove("active"));
+      pill.classList.add("active");
+      onFilter(pill.dataset.category);
+    });
+  });
+  const container = document.getElementById(containerId);
+  const header = container.querySelector(".section-header");
+  if (header) header.after(bar);
+}
+
+function groupByCategory(items, industryAccessor) {
+  const groups = {};
+  for (const cat of CATEGORIES) groups[cat] = [];
+  for (const item of items) {
+    const cat = categoryOf(industryAccessor(item));
+    groups[cat].push(item);
+  }
+  return groups;
+}
+
 // ══════════════════════════════════════════
 // HOME VIEW
 // ══════════════════════════════════════════
@@ -364,11 +420,28 @@ function renderPipeline() {
       <span class="expand-hint">click a tile to expand</span>
       <span class="section-count">${prospects.length} prospects</span>
     </div>
-    <div class="card-grid">
-      ${prospects.map((p, i) => prospectCard(p, i)).join("")}
-    </div>`;
+    <div class="card-grid"></div>`;
 
-  attachCardToggle(container);
+  renderFilterBar("view-pipeline", (cat) => renderPipelineCards(prospects, cat));
+  renderPipelineCards(prospects, "All");
+}
+
+function renderPipelineCards(prospects, category) {
+  const container = document.querySelector("#view-pipeline .card-grid");
+  if (category === "All") {
+    const groups = groupByCategory(prospects, (p) => p.industry);
+    let html = "";
+    for (const cat of CATEGORIES) {
+      if (!groups[cat].length) continue;
+      html += `<div class="category-header">${cat}</div>`;
+      html += groups[cat].map((p) => prospectCard(p)).join("");
+    }
+    container.innerHTML = html;
+  } else {
+    const filtered = prospects.filter((p) => categoryOf(p.industry) === category);
+    container.innerHTML = filtered.map((p) => prospectCard(p)).join("");
+  }
+  attachCardToggle(document.getElementById("view-pipeline"));
 }
 
 function truncateToSentences(text, max) {
@@ -447,17 +520,37 @@ function renderResearch() {
     return;
   }
 
+  // Sort dossiers by score descending
+  const sorted = [...dossiers].sort((a, b) => (b.prospect?.score || 0) - (a.prospect?.score || 0));
+
   container.innerHTML = `
     <div class="section-header">
       <h2 class="section-title">Research Dossiers</h2>
       <span class="expand-hint">click a tile to expand</span>
-      <span class="section-count">${dossiers.length} dossiers</span>
+      <span class="section-count">${sorted.length} dossiers</span>
     </div>
-    <div class="card-grid">
-      ${dossiers.map((d) => dossierCard(d)).join("")}
-    </div>`;
+    <div class="card-grid"></div>`;
 
-  attachCardToggle(container);
+  renderFilterBar("view-research", (cat) => renderResearchCards(sorted, cat));
+  renderResearchCards(sorted, "All");
+}
+
+function renderResearchCards(dossiers, category) {
+  const container = document.querySelector("#view-research .card-grid");
+  if (category === "All") {
+    const groups = groupByCategory(dossiers, (d) => d.prospect?.industry);
+    let html = "";
+    for (const cat of CATEGORIES) {
+      if (!groups[cat].length) continue;
+      html += `<div class="category-header">${cat}</div>`;
+      html += groups[cat].map((d) => dossierCard(d)).join("");
+    }
+    container.innerHTML = html;
+  } else {
+    const filtered = dossiers.filter((d) => categoryOf(d.prospect?.industry) === category);
+    container.innerHTML = filtered.map((d) => dossierCard(d)).join("");
+  }
+  attachCardToggle(document.getElementById("view-research"));
 }
 
 function dossierCard(d) {
@@ -722,17 +815,37 @@ function renderOutreach() {
     return;
   }
 
+  // Sort sequences by score descending
+  const sorted = [...sequences].sort((a, b) => (b.dossier?.prospect?.score || 0) - (a.dossier?.prospect?.score || 0));
+
   container.innerHTML = `
     <div class="section-header">
       <h2 class="section-title">Outreach Sequences</h2>
       <span class="expand-hint">click a tile to expand</span>
-      <span class="section-count">${sequences.length} sequences</span>
+      <span class="section-count">${sorted.length} sequences</span>
     </div>
-    <div class="card-grid">
-      ${sequences.map((s) => outreachCard(s)).join("")}
-    </div>`;
+    <div class="card-grid"></div>`;
 
-  attachCardToggle(container, true);
+  renderFilterBar("view-outreach", (cat) => renderOutreachCards(sorted, cat));
+  renderOutreachCards(sorted, "All");
+}
+
+function renderOutreachCards(sequences, category) {
+  const container = document.querySelector("#view-outreach .card-grid");
+  if (category === "All") {
+    const groups = groupByCategory(sequences, (s) => s.dossier?.prospect?.industry);
+    let html = "";
+    for (const cat of CATEGORIES) {
+      if (!groups[cat].length) continue;
+      html += `<div class="category-header">${cat}</div>`;
+      html += groups[cat].map((s) => outreachCard(s)).join("");
+    }
+    container.innerHTML = html;
+  } else {
+    const filtered = sequences.filter((s) => categoryOf(s.dossier?.prospect?.industry) === category);
+    container.innerHTML = filtered.map((s) => outreachCard(s)).join("");
+  }
+  attachCardToggle(document.getElementById("view-outreach"), true);
 }
 
 function outreachCard(seq) {
