@@ -751,3 +751,776 @@ McChrystal Group
 Jenn — separating a 98-year-old company into two public entities while managing the Elliott dynamic is an extraordinary organizational challenge. McChrystal Group works with people leaders navigating exactly this kind of high-stakes transition. Would welcome connecting.
 
 ---
+
+
+---
+
+# Outreach Package — FleetPride
+
+**Target**: Chuck Broadus, President, TruckPro Division
+**Why this contact**: Former TruckPro CEO now leading the TruckPro division post-merger — owns the integration challenge firsthand and has the operational authority to engage advisory support
+**Company**: FleetPride | **Score**: 79 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: FleetPride + TruckPro: 450 locations, one culture
+**Hook**: TruckPro-FleetPride merger closed October 2025 — 450+ location integration underway
+
+Chuck,
+
+Congratulations on closing the TruckPro-FleetPride merger in October. Building the nation's largest independent heavy-duty aftermarket distributor is a significant milestone — but integrating 450+ locations, two sales cultures, and overlapping distribution networks is where the real work begins.
+
+At McChrystal Group, we've guided PE-backed companies through exactly this kind of post-merger integration — aligning frontline teams across geographies so that "one company" isn't just a press release, it's how the branches actually operate. Our Team of Teams model was built for organizations that need decentralized execution with shared standards.
+
+We helped a comparable multi-site industrial services company cut integration timeline by 40% while maintaining customer retention above 95%.
+
+Would a 20-minute conversation be useful? I'd like to hear how the early integration is going from your perspective leading the TruckPro side.
+
+Best,
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Why most distributor mergers stall at the branch level
+**Hook**: Industrial distributor mergers fail at the branch level — FleetPride faces this at massive scale
+
+Chuck,
+
+The heavy-duty aftermarket is consolidating fast, but here's what we see across industrial roll-ups: headquarters declares integration complete while branch managers are still running two playbooks. The synergy math works on paper. The culture math doesn't.
+
+With FleetPride and TruckPro combining under dual PE ownership, you're navigating something few leaders have faced — merging two market leaders where the frontline employees are the product. Parts availability and service quality live or die at the branch level, not in Irving or Nashville.
+
+McChrystal Group specializes in exactly this: building operating rhythms that connect 450 locations into a single, adaptive network without killing the local ownership that made each business successful.
+
+I'd welcome 20 minutes to share what we've seen work — and what doesn't — in multi-site industrial integrations. Worth a conversation?
+
+Best,
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: West Point to the aftermarket — a shared perspective
+**Hook**: Chuck Broadus is a West Point grad and 82nd Airborne veteran — direct military connection to McChrystal's DNA
+
+Chuck,
+
+Fellow West Point graduates don't end up running heavy-duty parts businesses by accident. The path from the 82nd Airborne to building TruckPro into a national platform tells me you understand something most executives don't — that the best-run organizations push authority to the edge while maintaining shared situational awareness.
+
+That's exactly what General McChrystal built at JSOC, and it's the operating model we bring to companies navigating complex integrations. With FleetPride and TruckPro now combined, you're essentially standing up a joint task force across 450+ locations with two distinct operational cultures.
+
+McChrystal Group has deep roots in the veteran leadership community, and our Team of Teams framework was born from the same principles you lived at Bragg.
+
+I'd value 20 minutes with a fellow grad who's applying mission-driven leadership in the private sector. Would that be useful?
+
+Best,
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: West Point connection + active post-merger integration challenge
+
+Chuck — fellow West Point grad here at McChrystal Group. The FleetPride-TruckPro integration caught our attention. We've helped several PE-backed industrial companies navigate exactly this kind of multi-site culture merge. Would enjoy comparing notes on post-merger integration from someone who knows what right looks like.
+
+---
+
+
+---
+
+# Outreach Package — GXO Logistics
+
+**Target**: Bart Beeks, Chief Operating Officer
+**Why this contact**: Newly appointed to a newly created COO role (Jan 2026) — tasked with standardizing operations across 1,200 sites globally. Perfect timing for an operating model conversation.
+**Company**: GXO Logistics | **Score**: 82 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: First COO at GXO — 1,200 sites, one standard
+**Hook**: Bart Beeks started as GXO's first-ever COO in January 2026 — greenfield mandate to standardize 1,200 sites
+
+Bart,
+
+Taking on GXO's first-ever COO role is a mandate, not just a title. Standardizing operational excellence across 1,200 sites globally — while a new CEO, new chairman, and new commercial leader are all finding their footing simultaneously — is one of the harder transformation briefs in logistics right now.
+
+McChrystal Group works with global operators facing exactly this: how do you drive consistent execution across hundreds of sites without creating a bureaucratic command structure that kills local responsiveness? Our Team of Teams operating model was designed for this tension.
+
+We recently helped a global services company with 800+ locations implement a standardized operating rhythm that improved cross-site collaboration by 35% within six months.
+
+I know your first 90 days are packed, but 20 minutes to compare notes on scaling operational excellence globally could be time well spent. Interested?
+
+Best,
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The standardization trap in global logistics
+**Hook**: Global standardization paradox — GXO's new leadership team must avoid the playbook-nobody-follows trap
+
+Bart,
+
+Here's the paradox we see in every global logistics standardization effort: the sites that need the most improvement resist the hardest, and the sites that are already excellent resent being told to change what works. The result? A beautifully documented playbook that nobody follows.
+
+GXO's challenge is particularly acute — $13.2 billion in revenue, 1,200 sites, and a leadership team that's almost entirely new in the last six months. That's a lot of change to absorb at once.
+
+McChrystal Group specializes in building operating models that balance global standards with local autonomy. We call it "shared consciousness with empowered execution" — every site sees the same picture but has the freedom to act on local conditions.
+
+Having spent 25 years at CEVA scaling across 170 countries, you've seen what works and what doesn't. I'd enjoy 20 minutes to exchange perspectives on making standardization stick. Worth a call?
+
+Best,
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From special forces to supply chain — a familiar path
+**Hook**: Bart Beeks is a former Dutch Special Forces commanding officer — direct military-to-business parallel with McChrystal
+
+Bart,
+
+It's not often I reach out to someone who went from commanding Dutch Special Forces to running global logistics operations — but that background is exactly why I think we'd have a productive conversation.
+
+McChrystal Group was founded by General Stanley McChrystal after transforming Joint Special Operations Command from a hierarchical military structure into an adaptive network. You lived that same reality in the Dutch SOF community, and you've spent 25 years translating those instincts into commercial operations at CEVA.
+
+Now you're building GXO's operational playbook from scratch as its first COO. The challenge of connecting 1,200 sites into a coherent operating system — while preserving the speed and judgment that made each site successful — is a special operations problem dressed in logistics clothing.
+
+I'd welcome 20 minutes with someone who speaks both languages. Interested?
+
+Best,
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Dutch Special Forces background + new COO role building from scratch
+
+Bart — from Dutch Special Forces to GXO's first-ever COO is quite a trajectory. At McChrystal Group, we work with leaders who think in operating systems, not org charts. Would enjoy connecting as you build the operational playbook for 1,200 sites.
+
+---
+
+
+---
+
+# Outreach Package — WME Group (fka Endeavor)
+
+**Target**: Christian Muirhead, Co-Chairman, WME Group
+**Why this contact**: As Co-Chairman with a corporate strategy background (not an agent), Muirhead is the operational leader most likely to champion organizational transformation during post-privatization restructuring
+**Company**: WME Group (fka Endeavor) | **Score**: 93 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: WME Group's post-privatization identity moment
+**Hook**: March 2025 privatization + rebrand + leadership departures — WME Group is rebuilding its identity from scratch
+
+Christian,
+
+Going private at $25 billion, losing Ari to TKO full-time, spinning off WME Football to Whitesell, and rebranding from Endeavor to WME Group — all in a single quarter. That's not a transition. That's a reinvention.
+
+McChrystal Group works with leadership teams navigating exactly this kind of inflection point — where the old organizational identity no longer fits and the new one hasn't been built yet. The representation business you're now leading operates fundamentally differently than the conglomerate Endeavor became, and the culture needs to reflect that.
+
+We helped a major media company realign its leadership structure and decision-making culture after a comparable ownership transition, reducing leadership attrition by 30% during the first year.
+
+I imagine your calendar is full of Silver Lake check-ins, but would 20 minutes to discuss post-privatization organizational design be worthwhile?
+
+Best,
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What talent agencies get wrong after going private
+**Hook**: PE-backed talent agencies often centralize and lose top agents — WME Group needs the opposite playbook
+
+Christian,
+
+The entertainment industry's go-private playbook usually follows a predictable arc: cut costs, centralize decisions, lose the agents who made the business valuable. The irony is that PE ownership creates the stability to invest long-term, but the organizational response often destroys the entrepreneurial culture that justified the premium.
+
+WME Group is at a rare inflection point. You've shed the conglomerate complexity of Endeavor, you have Silver Lake's backing at an 87% stake, and you're refocusing on the representation business that built the brand. The question isn't strategy — it's whether the organization can operate as a focused, entrepreneurial agency again after years as a public conglomerate.
+
+McChrystal Group helps leadership teams build cultures that balance accountability with autonomy — exactly what a talent business needs. Worth 20 minutes to explore?
+
+Best,
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Building culture through 30 acquisitions — and now a reset
+**Hook**: Muirhead's CCO-to-Co-Chairman path — understands that organizational change is a communication and culture challenge
+
+Christian,
+
+Not many people have orchestrated communications for 30+ acquisitions, an IPO, and a take-private — all at the same company. Your trajectory from CCO to Co-Chairman tells me you understand something important: in a people business, how you communicate change IS the change.
+
+What caught my attention is that WME Group's challenge right now isn't a communications problem — it's an organizational design problem. You're rebuilding the agency's identity after shedding Endeavor's conglomerate structure, and you need the culture to match the new mandate. That's a different muscle than managing a press cycle.
+
+General McChrystal faced a similar moment when he took command of JSOC — an organization with extraordinary talent that was organized wrong for the fight it was in. We help leaders redesign how their organizations actually work, not just how they talk about it.
+
+Would a 20-minute conversation be valuable?
+
+Best,
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Post-privatization organizational redesign at WME Group
+
+Christian — the Endeavor-to-WME Group transformation is one of the most interesting organizational redesigns happening right now. McChrystal Group works with leadership teams navigating exactly these identity inflection points. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — Amentum
+
+**Target**: Steven Demetriou, Executive Chairman
+**Why this contact**: Architect of the Jacobs CMS/CI spinoff that created the new Amentum — has a 2-year Executive Chair mandate to ensure integration succeeds and personally owns the cultural merger challenge
+**Company**: Amentum | **Score**: 80 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Amentum's two-culture integration challenge
+**Hook**: Amentum-Jacobs merger financials improving but cultural integration of engineering vs. operations workforces is the real challenge
+
+Steve,
+
+The Amentum-Jacobs CMS merger is hitting its stride financially — leverage down from 4.0x to 3.2x, Q1 2026 EPS beating estimates. But the harder integration is still underway: merging Jacobs' white-collar engineering culture with Amentum's blue-collar operations DNA into a single organization that actually works as one team.
+
+McChrystal Group specializes in exactly this kind of cultural integration — where two distinct workforces need to develop shared identity and operating rhythms without either side feeling absorbed by the other. Our model was built for organizations where mission-critical work happens at the tactical edge, not in headquarters.
+
+We've guided defense and government services companies through comparable post-merger integrations, focusing on the frontline culture alignment that drives retention and contract performance.
+
+With your two-year Executive Chair mandate, the window to get this right is defined. Would 20 minutes to discuss cultural integration approaches be valuable?
+
+Best,
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Why defense services mergers fail on culture, not contracts
+**Hook**: Defense services mergers fail on frontline culture, not contract management — Amentum's 53K employees face this risk
+
+Steve,
+
+In government services, the conventional wisdom is that integration success = contract retention. But what we've observed across the sector is that the companies that lose contracts post-merger don't lose them on price or capability — they lose them because the frontline teams stopped operating with the cohesion that won the work in the first place.
+
+Amentum now has 53,000 employees across two legacy organizations with fundamentally different professional identities. Engineers from Jacobs CMS and operators from legacy Amentum both do mission-critical work, but they think about problems differently, communicate differently, and measure success differently.
+
+McChrystal Group's operating model was literally built in the defense and intelligence community. We understand the clearance environment, the program-based structure, and the unique challenge of building culture across compartmented operations.
+
+I'd welcome 20 minutes to share what we've seen work in defense services integration. Worth a conversation?
+
+Best,
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From Jacobs to Amentum — building something new
+**Hook**: Demetriou personally architected the Jacobs-to-Amentum transition — organizational design is his legacy play
+
+Steve,
+
+Having led Jacobs for nearly a decade before architecting the CMS/CI spinoff into Amentum, you've done something rare — built a major company and then helped create its successor. That takes a leader who thinks about organizational design, not just portfolio strategy.
+
+What struck me about your Executive Chair role is the specificity of the mandate: two years to ensure the combined organization actually integrates, not just coexists. That's an unusual level of accountability in a PE-influenced structure, and it signals that everyone involved knows culture is the risk, not the financials.
+
+General McChrystal faced a similar challenge at JSOC — bringing together operators from different services and agencies who were excellent independently but needed to function as a unified network. His solution became our Team of Teams framework.
+
+Given your deep experience leading complex organizations through transformation, I think a 20-minute conversation would be mutually valuable. Open to it?
+
+Best,
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Defense/intelligence community credibility + active two-culture integration
+
+Steve — the Amentum-Jacobs integration is one of the most consequential mergers in government services. McChrystal Group was built in the defense and intelligence community, and we work with leaders navigating exactly this kind of two-culture integration. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — Apex Service Partners
+
+**Target**: AJ Brown, Chief Executive Officer, Apex Service Partners
+**Why this contact**: CEO leading 107+ acquisitions integration and 8,000+ employees across a PE-backed roll-up at massive scale — the person who owns both culture and execution daily
+**Company**: Apex Service Partners | **Score**: 77 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 107 acquisitions — now what holds it together?
+**Hook**: 60 acquisitions in 2025 alone — Apex is at the inflection point where acquisition pace can outrun integration capacity
+
+AJ,
+
+Sixty add-on acquisitions in 2025 alone, a $3.4 billion continuation vehicle from Alpine, and 8,000+ employees across the country. Apex has mastered the acquisition playbook. But here's the question that keeps roll-up CEOs up at night: at what point does the pace of acquisition outrun the organization's ability to integrate?
+
+McChrystal Group works with PE-backed platforms facing exactly this inflection point — where the challenge shifts from "can we buy it?" to "can we operate it as one company?" Our Team of Teams model helps multi-site operators build the connective tissue between locations without bureaucratic overhead.
+
+We recently helped a comparable multi-site services platform implement an operating rhythm across 80+ locations that cut integration time per acquisition by 35%.
+
+Would 20 minutes to discuss scaling integration alongside acquisition velocity be useful?
+
+Best,
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The hidden cost of roll-up speed in home services
+**Hook**: Home services roll-ups stall when founder-operators feel like branch managers — Apex's scale amplifies this risk
+
+AJ,
+
+The home services roll-up playbook looks straightforward on paper: buy local brands, keep the owner, centralize back-office, repeat. But the platforms that stall at scale all hit the same wall — the founder-operators who made each acquisition valuable start feeling like branch managers, and the best ones leave.
+
+With 107+ acquisitions, Apex is well past the point where Alpine's PeopleFirst philosophy alone can hold the culture together. You need an operating model that gives local leaders genuine autonomy while maintaining the standards and visibility that justify the platform premium.
+
+McChrystal Group's framework was designed for exactly this tension — organizations that need to be simultaneously centralized and decentralized. It's how special operations units operate: shared consciousness, empowered execution.
+
+I'd enjoy 20 minutes to share what we've seen work in high-velocity roll-ups. Worth a call?
+
+Best,
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Alpine's PeopleFirst meets Team of Teams
+**Hook**: Alpine's PeopleFirst philosophy parallels McChrystal's Team of Teams — natural alignment of values and approach
+
+AJ,
+
+Alpine's PeopleFirst philosophy is one of the most thoughtful approaches to PE-backed leadership I've seen — the idea that you invest in people first and results follow. It's why Apex works.
+
+McChrystal Group operates from a remarkably similar premise. General McChrystal transformed JSOC by trusting frontline teams with decision-making authority while building the information-sharing systems that kept everyone aligned. We call it "shared consciousness with empowered execution." You'd probably call it PeopleFirst with an operating system underneath.
+
+As Apex scales past 8,000 employees and 107 acquisitions, the challenge isn't the philosophy — it's the mechanics. How do you maintain the PeopleFirst culture when the CEO can't personally know every market leader? That's the organizational design problem we solve.
+
+Would a 20-minute conversation about scaling culture in high-growth platforms be valuable?
+
+Best,
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: PeopleFirst philosophy alignment + roll-up scale challenge
+
+AJ — what Apex has built with 107+ acquisitions under Alpine's PeopleFirst model is impressive. McChrystal Group helps PE-backed platforms scale the culture and operating systems that hold it all together. Would enjoy connecting as you navigate the next phase of growth.
+
+---
+
+
+---
+
+# Outreach Package — Heartland Dental
+
+**Target**: Alex Ward, Director, KKR Private Equity & Board Member, Heartland Dental
+**Why this contact**: KKR board representative overseeing Heartland's growth strategy — controls investment thesis and operational improvement agenda across KKR's healthcare portfolio
+**Company**: Heartland Dental | **Score**: 80 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Heartland's 1,900+ practices — scaling culture
+**Hook**: 165 new locations added in 2025 creating operational complexity
+
+Alex,
+
+Heartland closing 2025 with 165 new locations and 11.5 million patient visits is an impressive growth story. But as someone who's watched PE-backed healthcare platforms scale, you know the gap between adding locations and actually integrating them is where value gets created or destroyed.
+
+McChrystal Group works with organizations navigating exactly this tension — rapid geographic expansion that outpaces the cultural and operational connective tissue holding everything together. We helped a similarly scaled, multi-site healthcare organization build what we call "shared consciousness" across distributed teams, reducing integration timelines by months.
+
+With the Orahh Care launch in Q1 2026 adding another layer of complexity, this feels like a moment where the right operating framework could compound Heartland's momentum rather than let it fragment.
+
+Would a 20-minute conversation make sense to explore whether our approach fits what you're seeing across the portfolio?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The DSO scaling paradox
+**Hook**: Industry-wide tension between growth speed and operational excellence in dental platforms
+
+Alex,
+
+The dental support organization space has a paradox: the platforms that grow fastest often lose the doctor-led culture that made them attractive in the first place. At 1,900+ practices, Heartland is the largest test case for whether a DSO can scale without becoming bureaucratic.
+
+At McChrystal Group, we've spent a decade studying how large, distributed organizations maintain speed and autonomy without sacrificing alignment — what we call "Team of Teams." The principles come from environments where the stakes were life and death, but the application is remarkably relevant to multi-site healthcare: empowered local leaders, shared consciousness across geographies, and decision-making at the edge.
+
+KKR's portfolio gives you visibility across dozens of platform builds. I'd be curious whether the cultural integration challenge at Heartland maps to patterns you're seeing elsewhere.
+
+Happy to share our framework in a brief call if useful.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Yale + healthcare portfolio ops
+**Hook**: Shared interest in PE-backed healthcare operational excellence
+
+Alex,
+
+Your path from Bain to H&F to running KKR's healthcare PE board portfolio is one I don't see often — most people specialize earlier. That breadth is exactly what a platform like Heartland needs right now, when the challenge isn't "should we grow" but "how do we grow without breaking what works."
+
+I lead McChrystal Group's work with PE-backed platforms facing this exact inflection point. General McChrystal built our practice around the insight that the organizations that win aren't the ones with the best strategy — they're the ones that can execute across distributed, autonomous teams without constant top-down coordination.
+
+With Heartland pushing past 1,900 practices and launching Orahh Care, I imagine the operating model conversation is top of mind for you and Pat Bauer.
+
+Would 20 minutes to compare notes be worthwhile? No pitch — just a candid exchange on what we're each seeing.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: KKR healthcare portfolio and Heartland's 1,900+ practice expansion
+
+Alex — your work across KKR's healthcare portfolio caught my attention, especially the Heartland Dental growth story. We work with PE-backed platforms navigating the gap between rapid expansion and operational integration. Would enjoy connecting and comparing notes on what's working at scale.
+
+---
+
+
+---
+
+# Outreach Package — Caliber Collision
+
+**Target**: David Simmons, President and CEO, Caliber Collision
+**Why this contact**: CEO navigating simultaneous IPO preparation and continued multi-site integration — owns the organizational readiness agenda
+**Company**: Caliber Collision | **Score**: 80 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Caliber's IPO and the org behind it
+**Hook**: Confidential IPO filing in July 2025 with potential 2026 listing
+
+David,
+
+Caliber's confidential IPO filing last July signals a pivotal chapter — moving from PE-backed growth engine to public company accountability. Having led PPD through its own scale and complexity challenges, you know the organizational demands of that transition go far beyond the S-1.
+
+McChrystal Group works with leadership teams navigating exactly this moment: when the operating model that got you to 1,800+ locations needs to evolve for public scrutiny, analyst expectations, and a different rhythm of accountability. We've helped organizations build the cross-functional alignment and decision-making speed that public markets reward.
+
+With Goldman, BofA, and JPMorgan involved, the financial architecture is clearly in good hands. The question we'd explore is whether the organizational architecture — how 1,800+ locations communicate, escalate, and execute — is equally ready.
+
+Would a 20-minute call to discuss what we're seeing in pre-IPO organizational readiness be useful?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Multi-site operators and the public market test
+**Hook**: Industry trend of PE-backed collision repair platforms going public amid consolidation wave
+
+David,
+
+The collision repair industry is forecasting an acceleration in consolidation through 2026, and Caliber sits at the center of it. But here's what we've observed working with other multi-site operators going public: the transition exposes every gap in how distributed teams align, communicate, and make decisions.
+
+At McChrystal Group, we call this the "shared consciousness" challenge — how do you maintain speed and local autonomy across nearly 2,000 locations while creating the consistency and transparency that public investors demand? The principles we use came from transforming how U.S. special operations coordinated across global theaters, and they map directly to distributed service organizations.
+
+Your background leading 30,000+ people at PPD across 46 countries gives you a rare lens on this. I'd be curious how you're thinking about the operating model evolution from private to public.
+
+Happy to share a framework in a brief conversation if it would be useful.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: PPD to Caliber — different industry, same challenge
+**Hook**: David's experience scaling PPD parallels Caliber's current organizational complexity
+
+David,
+
+The jump from pharma services to collision repair is less surprising than it looks — both are about operating thousands of distributed teams where local execution quality is the product. What you built at PPD across 46 countries is exactly the kind of muscle Caliber needs as it approaches public markets.
+
+I lead McChrystal Group's work with operationally complex, multi-site organizations. Our practice was built by General McChrystal on a simple premise: hierarchies that worked for stable environments break down when speed, scale, and distributed execution matter most. The fix isn't more control — it's better connectivity.
+
+With the IPO timeline moving forward, I imagine you're thinking about which organizational investments will matter most in the next 18 months. We've helped other leadership teams answer that question before the public market spotlight makes it urgent.
+
+Would 20 minutes to compare perspectives be worthwhile?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: IPO preparation and multi-site organizational readiness
+
+David — your move from PPD to Caliber is a fascinating leadership story. With the IPO timeline progressing, the organizational complexity of 1,800+ locations under public scrutiny is exactly the kind of challenge we help leadership teams navigate. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — InvestCloud
+
+**Target**: John Googas, President, InvestCloud
+**Why this contact**: As President, owns operational execution during a period of significant restructuring — 150+ layoffs, AI-driven reorganization, and geographic consolidation
+**Company**: InvestCloud | **Score**: 79 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: InvestCloud's restructuring — the human side
+**Hook**: 150+ layoffs in Digital Wealth division and geographic consolidation in March 2026
+
+John,
+
+The restructuring Jeff announced last week — 150+ roles in Digital Wealth, geographic consolidation, the shift from custom to productized delivery — is a significant organizational pivot. Getting the AI-driven efficiency thesis right is one challenge. Getting the remaining team aligned and executing through the uncertainty is another.
+
+McChrystal Group works with leadership teams navigating exactly this kind of inflection: when the strategy requires fewer people doing fundamentally different work, and the organizational connective tissue has to be rebuilt while the plane is flying. We've helped technology companies consolidate distributed teams without losing the speed and collaboration that made them effective.
+
+With InvestCloud returning to revenue growth in 2025 ahead of schedule, there's real momentum to protect. The question is whether the organizational model can absorb this level of change without losing it.
+
+Would a 20-minute conversation about what we're seeing in post-restructuring alignment be useful?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: AI restructuring and the team that's left
+**Hook**: Industry-wide AI-driven workforce reductions creating organizational trust and alignment challenges
+
+John,
+
+Every wealthtech company is grappling with the same question: how do you capture AI productivity gains without hollowing out the organizational trust and institutional knowledge that drive client relationships? The companies that get this right will win the next five years. The ones that don't will optimize themselves into irrelevance.
+
+McChrystal Group has spent a decade helping organizations redesign how teams operate after major structural change. We call it building "shared consciousness" — ensuring that when you consolidate geographies and flatten structures, you don't accidentally create information silos where there used to be human connections.
+
+InvestCloud's three-pillar strategy — SMART capabilities, productized innovation, geographic consolidation — is strategically sound. The execution risk lives in the organizational dynamics: how the remaining team understands their role, trusts the direction, and collaborates across the new structure.
+
+I'd welcome a brief call to share what we've learned from similar transformations.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Scaling through acquisition — the integration tax
+**Hook**: InvestCloud's growth-by-acquisition history creating geographic and cultural fragmentation
+
+John,
+
+InvestCloud's journey — recapitalizing at $1B, integrating Finantix and Tegra118, building a platform spanning $4 trillion in assets — is a remarkable growth story. But growth through acquisition always carries what I'd call an "integration tax": the accumulated cultural and operational complexity that compounds over time.
+
+Jeff's decision to consolidate geographically and shift to productized delivery suggests you're addressing that tax head-on. At McChrystal Group, we've helped other PE-backed technology platforms work through the same challenge — moving from a collection of acquired businesses to a genuinely integrated operating company.
+
+Our approach comes from General McChrystal's experience transforming how special operations forces worked across organizational boundaries. The parallel to post-M&A integration is direct: different teams, different cultures, different operating rhythms that need to function as one.
+
+Would 20 minutes to compare notes on what we've seen work be worthwhile?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Post-acquisition integration and AI-driven restructuring
+
+John — InvestCloud's move to consolidate and productize after years of acquisition-driven growth is a pivotal moment. We help leadership teams navigate exactly this kind of organizational transformation. Would enjoy connecting to share perspectives.
+
+---
+
+
+---
+
+# Outreach Package — Kindeva Drug Delivery
+
+**Target**: Milton Boyer, Board Member & Former CEO, Kindeva Drug Delivery
+**Why this contact**: Former CEO now serving as Board Member — retains strategic influence during leadership transition. Military background (Army Captain) creates natural McChrystal connection.
+**Company**: Kindeva Drug Delivery | **Score**: 78 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Kindeva's leadership transition — continuity at scale
+**Hook**: CEO transition from Milton Boyer to David Stevens effective January 2026
+
+Milton,
+
+Congratulations on the planned transition to David Stevens — executing a CEO succession while mid-transformation is one of the hardest things a board can do well. The fact that you initiated it in October and completed it by January says something about the intentionality behind it.
+
+McChrystal Group works with organizations navigating leadership transitions during periods of significant operational change. The risk isn't usually the new leader — it's the signal disruption: teams that were aligned around one leader's vision, communication style, and priorities suddenly recalibrating while the business keeps moving.
+
+With Kindeva integrating the Meridian combination, expanding across autoinjectors, inhalers, transdermals, and microneedles, and operating under Altaris's growth thesis, the organizational complexity David is inheriting is substantial. We've helped other PE-backed healthcare companies ensure that CEO transitions accelerate momentum rather than create a pause.
+
+Would a 20-minute call to discuss what we've seen work in similar transitions be useful?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: CDMO integration — beyond the org chart
+**Hook**: Post-merger integration of Kindeva and Meridian creating cross-functional complexity
+
+Milton,
+
+The CDMO space is in the middle of a structural shift — customers want fewer, more capable partners, which means platforms like Kindeva need to integrate disparate manufacturing capabilities (autoinjectors, inhalers, patches, microneedles) into something that feels seamless to clients. That's an organizational design problem as much as a commercial one.
+
+McChrystal Group has spent a decade helping organizations solve what we call the "Team of Teams" challenge: how do you get specialized units with different technical languages, operating rhythms, and cultures to collaborate with the speed and trust of a single team? The framework comes from General McChrystal's work transforming U.S. special operations — and the parallels to post-merger CDMO integration are direct.
+
+With David stepping into the CEO role and you continuing to guide from the board, this feels like the right moment to invest in the organizational architecture, not just the operational one.
+
+Would a brief conversation to explore fit be worthwhile?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Army Captain to pharma leader — a shared lens
+**Hook**: Milton Boyer's U.S. Army service (Captain, 1984-1990) as shared military connection
+
+Milton,
+
+From one military-connected organization to another — your path from Army Captain to building one of the leading CDMOs in the world is exactly the kind of career McChrystal Group was built to serve. General McChrystal founded our firm on the belief that the leadership principles forged in military service — mission clarity, decentralized execution, trust under pressure — are exactly what complex organizations need.
+
+You lived that transition. You know that the discipline and adaptability required to lead in uniform translates directly to leading a global manufacturing operation through a major merger integration.
+
+With Kindeva in the middle of a CEO transition, a Meridian integration still maturing, and Altaris expecting growth, the next 12 months will test the organizational model in ways that strategy alone can't solve. We help leadership teams like yours build the connective tissue that makes complex organizations fast and resilient.
+
+I'd welcome 20 minutes to connect — veteran to veteran-serving organization. No pitch, just a conversation.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Shared military background and CEO transition timing
+
+Milton — fellow military background here (McChrystal Group, founded by General McChrystal). Your journey from Army Captain to leading Kindeva through the Meridian merger is impressive. With the CEO transition to David Stevens, I'd enjoy connecting to discuss how we help organizations navigate leadership change at scale.
+
+---
+
+
+---
+
+# Outreach Package — The Ensign Group
+
+**Target**: Spencer Burton, President and Chief Operating Officer, The Ensign Group
+**Why this contact**: As President and COO, owns the operational model that enables 50+ acquisitions per year — the executive most directly responsible for making decentralized execution work at massive scale
+**Company**: The Ensign Group | **Score**: 87 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 378 facilities and counting — Ensign's edge
+**Hook**: Ensign reaching 378 operations across 17 states with continued acquisitions in Q1 2026
+
+Spencer,
+
+Ensign closing 2025 with acquisitions in Kansas, Arizona, and Colorado — then immediately adding Wisconsin in early 2026 — is the kind of operating tempo that most healthcare organizations can't sustain. At 378 facilities across 17 states, the question isn't whether you can keep acquiring. It's whether the operating model that makes each acquisition successful can scale indefinitely.
+
+McChrystal Group works with organizations operating at exactly this cadence — where the decentralized model that drives performance also creates risk when new facilities, new markets, and new teams are added faster than culture can absorb them. We've helped large, distributed organizations maintain what we call "shared consciousness" across hundreds of operating units.
+
+Your Q4 earnings call flagged an increasingly competitive acquisition pipeline. When price competition heats up, the organizations that integrate fastest and unlock performance soonest win.
+
+Would a 20-minute call to compare notes on scaling decentralized operations be worthwhile?
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Decentralized at scale — where most break down
+**Hook**: Ensign's decentralized operating model as both competitive advantage and scaling risk
+
+Spencer,
+
+Most organizations that claim to be "decentralized" are actually just disorganized. Ensign is one of the rare exceptions — a genuinely decentralized model where facility-level leaders have real authority and accountability. But here's what we've observed working with other large distributed operators: the model that works brilliantly at 200 facilities can start showing stress fractures at 400.
+
+McChrystal Group was built on this exact problem. General McChrystal transformed U.S. special operations from a traditional hierarchy into a network of empowered teams — what became the "Team of Teams" model. The challenge was identical to yours: how do you maintain speed, autonomy, and local expertise while ensuring that 378 facilities across 17 states are learning from each other and operating with a shared understanding of what good looks like?
+
+Your emphasis on specialization and staff development at the facility level suggests you're already thinking about this. I'd be curious how you're approaching it as the portfolio approaches 400 operations.
+
+Happy to share our framework in a brief call if useful.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Your facility-level philosophy — we should talk
+**Hook**: Spencer's personal emphasis on facility-level leadership development and specialization
+
+Spencer,
+
+I caught your comments on the Q4 earnings call about facility-level specialization and staff development. It's rare to hear a COO of a $3B+ public company talk about individual facilities with that level of specificity. It tells me you understand something most operators miss: the quality of the local leader is the single biggest variable in whether an acquisition succeeds or fails.
+
+That belief is exactly why McChrystal Group exists. General McChrystal learned in Iraq that the most powerful organizational advantage isn't strategy or resources — it's pushing decision-making authority to the people closest to the problem, while keeping everyone connected to a shared purpose. We call it "empowered execution."
+
+With Ensign acquiring at a pace that few in healthcare can match, the leaders you're developing today are the ones who'll determine whether facilities 379 through 500 perform at the same level as the first 200.
+
+I'd welcome 20 minutes to share how we've helped other high-acquisition organizations scale their leadership development model. No pitch — just an exchange of ideas.
+
+Best,
+[Senior Partner Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Ensign's decentralized model and facility-level leadership philosophy
+
+Spencer — Ensign's decentralized model at 378 facilities is one of the most impressive operating stories in healthcare. We help large distributed organizations maintain speed and alignment at scale. Your comments on facility-level specialization really resonated. Would enjoy connecting.
+
+---
