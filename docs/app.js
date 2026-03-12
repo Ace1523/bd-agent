@@ -301,6 +301,9 @@ function renderHome() {
       <div style="border-left: 3px solid #da6123; padding: 12px 16px; margin-bottom: 20px; background: rgba(218,97,35,0.06); border-radius: 0 6px 6px 0; font-size: 0.95rem; line-height: 1.6; color: var(--text-secondary);">
         <strong style="color: var(--text-primary);">This isn\u2019t PitchBook or Apollo.io.</strong> Those platforms pull from static databases of company data and generic lead scores. This agent searches the live web against McChrystal Group\u2019s specific Ideal Customer Profile \u2014 9 signal types, 3 industry tiers, revenue and employee thresholds, and organizational fit criteria purpose-built around how McChrystal sells. Every prospect, dossier, and outreach package is tailored to this firm, not generic lead gen.
       </div>
+      <div style="border-left: 3px solid #da6123; padding: 12px 16px; margin-bottom: 20px; background: rgba(218,97,35,0.06); border-radius: 0 6px 6px 0; font-size: 0.95rem; line-height: 1.6; color: var(--text-secondary);">
+        <strong style="color: var(--text-primary);">Discovery is weighted toward unique opportunities.</strong> The algorithm prioritizes non-obvious companies \u2014 PE-backed roll-ups, fresh spinoffs, post-merger integrations, and niche industry leaders with strong transformation signals \u2014 over household-name Fortune 500s that any firm would think of. F500 companies still surface when signals are compelling, but the real value is in what others miss. Research parameters can always be refined to shift targeting.
+      </div>
       <div class="method-grid">
         <div class="method-card">
           <div class="method-card-icon" style="color:#6bc9a0;">&#9906;</div>
