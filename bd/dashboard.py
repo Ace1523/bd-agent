@@ -30,7 +30,7 @@ def _load_dashboard() -> dict:
     """Load existing dashboard.json or return empty structure."""
     if DASHBOARD_JSON.exists():
         return json.loads(DASHBOARD_JSON.read_text())
-    return {"discovery_runs": [], "dossiers": [], "outreach_packages": []}
+    return {"discovery_runs": [], "dossiers": [], "outreach_packages": [], "market_intelligence": []}
 
 
 def _save_dashboard(data: dict) -> Path:

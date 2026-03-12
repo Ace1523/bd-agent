@@ -53,7 +53,7 @@ function setupScrollTop() {
 }
 
 async function loadData() {
-  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works", "future"];
+  const views = ["home", "pipeline", "research", "outreach", "markets", "proposals", "how-it-works", "future"];
   views.forEach((v) => {
     document.getElementById(`view-${v}`).innerHTML =
       '<div class="loading">Loading data...</div>';
@@ -84,6 +84,7 @@ function renderAll() {
   renderPipeline();
   renderResearch();
   renderOutreach();
+  renderMarkets();
   renderProposals();
   renderHowItWorks();
   renderFuture();
@@ -1080,6 +1081,153 @@ function legacyEmailCard(email, index) {
 }
 
 // ══════════════════════════════════════════
+// MARKETS VIEW
+// ══════════════════════════════════════════
+
+const MARKET_CATEGORIES = ["All", "Niche", "General"];
+
+function freshnessBadge(lastRefreshed) {
+  if (!lastRefreshed) return '<span class="freshness-badge freshness-gray">No data</span>';
+  const refreshDate = new Date(lastRefreshed);
+  const now = new Date();
+  const daysDiff = Math.floor((now - refreshDate) / (1000 * 60 * 60 * 24));
+  if (daysDiff <= 7) return `<span class="freshness-badge freshness-green">${daysDiff}d ago</span>`;
+  if (daysDiff <= 30) return `<span class="freshness-badge freshness-amber">${daysDiff}d ago</span>`;
+  return `<span class="freshness-badge freshness-gray">${daysDiff}d ago</span>`;
+}
+
+function renderMarkets() {
+  const container = document.getElementById("view-markets");
+  const sectors = dashboardData.market_intelligence || [];
+
+  if (!sectors.length) {
+    container.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-state-icon">&#127758;</div>
+        <div class="empty-state-text">No market intelligence yet. Run a market research scan to populate.</div>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = `
+    <div class="section-header">
+      <h2 class="section-title">Market Intelligence</h2>
+      <span class="expand-hint">click a tile to expand</span>
+      <span class="section-count">${sectors.length} sectors</span>
+    </div>
+    <div class="filter-bar" id="market-filter-bar"></div>
+    <div class="card-grid" id="market-card-grid"></div>`;
+
+  // Build filter pills
+  const filterBar = document.getElementById("market-filter-bar");
+  filterBar.innerHTML = MARKET_CATEGORIES.map((cat, i) =>
+    `<button class="filter-pill${i === 0 ? " active" : ""}" data-category="${cat}">${cat}</button>`
+  ).join("");
+  filterBar.querySelectorAll(".filter-pill").forEach(pill => {
+    pill.addEventListener("click", () => {
+      filterBar.querySelectorAll(".filter-pill").forEach(p => p.classList.remove("active"));
+      pill.classList.add("active");
+      renderMarketCards(sectors, pill.dataset.category);
+    });
+  });
+
+  renderMarketCards(sectors, "All");
+}
+
+function renderMarketCards(sectors, category) {
+  const grid = document.getElementById("market-card-grid");
+  if (category === "All") {
+    const niche = sectors.filter(s => s.category === "niche");
+    const general = sectors.filter(s => s.category === "general");
+    let html = "";
+    if (niche.length) {
+      html += '<div class="category-header">Niche Sectors</div>';
+      html += niche.map(s => marketCard(s)).join("");
+    }
+    if (general.length) {
+      html += '<div class="category-header">General Sectors</div>';
+      html += general.map(s => marketCard(s)).join("");
+    }
+    grid.innerHTML = html;
+  } else {
+    const catKey = category.toLowerCase();
+    const filtered = sectors.filter(s => s.category === catKey);
+    grid.innerHTML = filtered.map(s => marketCard(s)).join("");
+  }
+  attachMarketCardToggle();
+}
+
+function marketCard(sector) {
+  const articleCount = (sector.articles || []).length;
+  const catClass = sector.category === "niche" ? "category-niche" : "category-general";
+  const catLabel = sector.category === "niche" ? "Niche" : "General";
+
+  return `
+    <div class="card" data-sector-name="${escapeHtml(sector.name)}">
+      <div class="card-header">
+        <div class="card-company">${escapeHtml(sector.name)}</div>
+        <div class="card-badges">
+          <span class="category-badge ${catClass}">${catLabel}</span>
+          ${freshnessBadge(sector.last_refreshed)}
+        </div>
+      </div>
+      <div class="card-meta">
+        <span>${articleCount} article${articleCount !== 1 ? "s" : ""}</span>
+      </div>
+      <div class="card-detail">
+        <div class="dossier-section">
+          <h4>Overview</h4>
+          <div class="dossier-text">${escapeHtml(sector.overview)}</div>
+        </div>
+        ${sector.key_trends && sector.key_trends.length ? `
+          <div class="dossier-section">
+            <h4>Key Trends</h4>
+            <ul class="trend-list">
+              ${sector.key_trends.map(t => `<li>${escapeHtml(t)}</li>`).join("")}
+            </ul>
+          </div>` : ""}
+        <div class="dossier-section">
+          <h4>McChrystal Angle</h4>
+          <div class="dossier-text">${escapeHtml(sector.mcchrystal_angle)}</div>
+        </div>
+        ${sector.articles && sector.articles.length ? `
+          <div class="dossier-section">
+            <h4>Top Articles</h4>
+            ${sector.articles.map(a => articleItem(a)).join("")}
+          </div>` : ""}
+        ${sector.last_refreshed ? `
+          <div style="font-size:11px; color:var(--text-muted); margin-top:12px;">
+            Last refreshed: ${sector.last_refreshed}
+          </div>` : ""}
+      </div>
+    </div>`;
+}
+
+function articleItem(article) {
+  const dateStr = article.date || "Recent";
+  return `
+    <div class="article-item">
+      <a class="article-link" href="${escapeHtml(article.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation();">${escapeHtml(article.title)}</a>
+      <div class="article-meta">${escapeHtml(article.source)} &middot; ${dateStr}</div>
+      <div class="article-summary">${escapeHtml(article.summary)}</div>
+      ${article.relevance_note ? `<div class="article-relevance">McChrystal relevance: ${escapeHtml(article.relevance_note)}</div>` : ""}
+    </div>`;
+}
+
+function attachMarketCardToggle() {
+  const container = document.getElementById("view-markets");
+  container.querySelectorAll(".card").forEach(card => {
+    card.addEventListener("click", (e) => {
+      // Don't collapse when clicking article links
+      if (e.target.closest(".article-link")) return;
+      const wasExpanded = card.classList.contains("expanded");
+      container.querySelectorAll(".card.expanded").forEach(c => c.classList.remove("expanded"));
+      if (!wasExpanded) card.classList.add("expanded");
+    });
+  });
+}
+
+// ══════════════════════════════════════════
 // PROPOSALS VIEW
 // ══════════════════════════════════════════
 
@@ -1814,6 +1962,13 @@ function updateMeta() {
         const existing = matches.find(m => m.name === name);
         if (existing && !existing.views.includes("outreach")) { existing.views.push("outreach"); }
         else if (!existing) { matches.push({ name, score: s.dossier?.prospect?.score || 0, views: ["outreach"] }); }
+      }
+    }
+
+    // Search market sectors
+    for (const sector of dashboardData.market_intelligence || []) {
+      if (sector.name?.toLowerCase().includes(q) && !matches.find(m => m.name === sector.name)) {
+        matches.push({ name: sector.name, score: 0, views: ["markets"] });
       }
     }
 

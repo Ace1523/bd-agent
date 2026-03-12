@@ -244,6 +244,27 @@ Quality standards: be specific (no generic filler), flag [INFERRED] vs. confirme
 - Models: `ColdEmail`, `LinkedInMessage`, `OutreachPackage` in `bd/models.py`
 - Report: `bd/outreach/drafter.py` — `generate_outreach_report()`
 
+### Market Intelligence (living feed)
+Market/sector intelligence reports with curated news articles. Covers niche markets (PE-backed roll-ups, post-merger integrations, defense consolidation, etc.) and general markets.
+
+**Sector List:**
+
+*Niche:* PE-Backed Roll-Ups, Post-Merger Integrations, Defense Consolidation, Healthcare M&A, Energy Transition, Tech Spinoffs & Carve-outs, Government Transformation, Sports & Entertainment Ownership
+
+*General:* Technology & AI, Financial Services, Industrial & Manufacturing, Healthcare Systems, Energy & Utilities
+
+**Refresh workflow:**
+1. Claude Code performs web searches for each sector (last 30 days of news)
+2. Builds `MarketSector` objects with 5-10 articles each, diverse sources
+3. Calls `generate_market_report(sectors)` — saves Markdown + replaces `market_intelligence` in dashboard.json
+4. Push to GitHub to deploy
+
+Replace semantics ensure stale articles are removed on refresh.
+
+- Models: `SectorCategory`, `MarketArticle`, `MarketSector` in `bd/models.py`
+- Report: `bd/market/report.py` — `generate_market_report()`
+- Save: `bd/save.py` — `save_market_intelligence()`, `clear_market_intelligence()`
+
 ### Phase 4: Proposals (coming soon)
 AI-drafted proposals using McChrystal Group's historical proposals as reference material. Claude Code is the engine — no training pipeline, no APIs.
 
@@ -303,16 +324,17 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - If a prospect turns out to have no compelling current signal upon deeper research, drop it and find a replacement — do not force-fit
 
 ## Key Modules
-- `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `ColdEmail`, `LinkedInMessage`, `OutreachPackage` (legacy: `Email`, `OutreachSequence`)
+- `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `ColdEmail`, `LinkedInMessage`, `OutreachPackage`, `SectorCategory`, `MarketArticle`, `MarketSector` (legacy: `Email`, `OutreachSequence`)
 - `bd/discover/scorer.py` — `score_prospect()` and component scoring functions
 - `bd/discover/report.py` — `generate_report()` produces Markdown reports (grouped by tier)
 - `bd/config.py` — ICP thresholds, scoring weights, signal types, industry tiers
 - `bd/formatting.py` — shared formatting helpers (revenue, employee counts)
 - `bd/research/report.py` — `generate_dossier_report()` produces Markdown dossiers
 - `bd/outreach/drafter.py` — `generate_outreach_report()` produces Markdown outreach packages (3 cold email versions A/B/C)
+- `bd/market/report.py` — `generate_market_report()` produces Markdown market intelligence reports
 - `bd/dashboard.py` — JSON export for dashboard; `python -m bd.dashboard` bootstraps from Markdown
 - `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()` for orchestration
-- `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data
+- `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data; `save_market_intelligence()` / `clear_market_intelligence()` for market data
 - `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `data/` — generated reports (Markdown + dashboard.json)
 - `data/proposals/` — reference folder for past proposals, SOWs, contracts (Phase 4 input)
@@ -327,6 +349,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - **Pipeline** — Prospect cards grouped by industry category, with filter pills. Sorted by score within each group. Each card shows Company Overview on expand.
 - **Research** — Dossier cards grouped by industry category, with filter pills. Full 10-section detail on expand (including in-depth Company Overview); "View Outreach" link if outreach exists
 - **Outreach** — Outreach package cards grouped by industry category, with filter pills. Target contact (champion-level, not CEO), fit rating badge, 3 cold email versions (A/B/C) with copy-to-clipboard
+- **Markets** — Market intelligence cards with filter pills (All/Niche/General). Collapsed: sector name, category badge, freshness badge (green ≤7d, amber ≤30d, gray >30d), article count. Expanded: overview, key trends, McChrystal angle, top articles with clickable links, last refreshed date
 - **Proposals** — Phase 4 (coming soon): AI-assisted proposal writing trained on McChrystal Group's historical proposals, SOWs, and pricing. Will draft from dossier data + learned patterns
 - **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase
 

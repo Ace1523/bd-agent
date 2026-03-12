@@ -5,13 +5,14 @@ import json
 from pathlib import Path
 from typing import Union
 
-from bd.models import Dossier, OutreachPackage, Prospect
+from bd.models import Dossier, MarketSector, OutreachPackage, Prospect
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
 DISCOVERY_FILE = DATA_DIR / "discovery.md"
 RESEARCH_FILE = DATA_DIR / "research.md"
 OUTREACH_FILE = DATA_DIR / "outreach.md"
+MARKET_FILE = DATA_DIR / "market_intelligence.md"
 SITE_DIR = Path(__file__).resolve().parent.parent / "docs"
 DASHBOARD_JSON = DATA_DIR / "dashboard.json"
 LOCK_FILE = DATA_DIR / ".dashboard.lock"
@@ -33,7 +34,7 @@ def _load_dashboard_json() -> dict:
     """Load existing dashboard.json or return empty structure."""
     if DASHBOARD_JSON.exists():
         return json.loads(DASHBOARD_JSON.read_text())
-    return {"discovery_runs": [], "dossiers": [], "outreach_packages": []}
+    return {"discovery_runs": [], "dossiers": [], "outreach_packages": [], "market_intelligence": []}
 
 
 def _save_dashboard_json(data: dict) -> None:
@@ -109,5 +110,32 @@ def clear_outreach() -> None:
     def update(data):
         data["outreach_packages"] = []
         data.pop("outreach_sequences", None)
+
+    _locked_update(update)
+
+
+def save_market_intelligence(
+    report: str, sectors: Union[list[MarketSector], None] = None
+) -> Path:
+    """Replace market intelligence in market_intelligence.md and dashboard.json."""
+    DATA_DIR.mkdir(exist_ok=True)
+    MARKET_FILE.write_text(report)
+    if sectors:
+        def update(data):
+            data["market_intelligence"] = [
+                s.model_dump(mode="json") for s in sectors
+            ]
+
+        _locked_update(update)
+    return MARKET_FILE
+
+
+def clear_market_intelligence() -> None:
+    """Remove all market intelligence data."""
+    if MARKET_FILE.exists():
+        MARKET_FILE.write_text("")
+
+    def update(data):
+        data["market_intelligence"] = []
 
     _locked_update(update)

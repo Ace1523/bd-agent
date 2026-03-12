@@ -9,6 +9,7 @@ from bd.save import (
     DATA_DIR,
     DASHBOARD_JSON,
     DISCOVERY_FILE,
+    MARKET_FILE,
     OUTREACH_FILE,
     RESEARCH_FILE,
     _load_dashboard_json,
@@ -58,10 +59,13 @@ def pipeline_status() -> dict:
     missing_dossiers = prospect_names - dossier_names
     missing_outreach = dossier_names - outreach_names
 
+    market_sectors = len(data.get("market_intelligence", []))
+
     return {
         "prospects": len(prospect_names),
         "dossiers": len(dossier_names),
         "outreach_packages": len(outreach_names),
+        "market_sectors": market_sectors,
         "missing_dossiers": sorted(missing_dossiers),
         "missing_outreach": sorted(missing_outreach),
     }
@@ -84,7 +88,11 @@ def clear_phase(phase: str) -> None:
         data.pop("outreach_sequences", None)
         if OUTREACH_FILE.exists():
             OUTREACH_FILE.write_text("")
+    elif phase == "market":
+        data["market_intelligence"] = []
+        if MARKET_FILE.exists():
+            MARKET_FILE.write_text("")
     else:
-        raise ValueError(f"Unknown phase: {phase!r}. Use 'discovery', 'research', or 'outreach'.")
+        raise ValueError(f"Unknown phase: {phase!r}. Use 'discovery', 'research', 'outreach', or 'market'.")
 
     _save_dashboard_json(data)

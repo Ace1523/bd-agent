@@ -1167,3 +1167,110 @@ body {
   white-space: pre-line;
   font-family: var(--font-mono, "SF Mono", "Fira Code", "Cascadia Code", monospace);
 }
+
+/* ── Market Intelligence ── */
+.article-item {
+  padding: 12px;
+  margin-bottom: 10px;
+  background: var(--bg);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--accent);
+}
+
+.article-link {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  transition: color var(--transition);
+}
+
+.article-link:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
+.article-meta {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-top: 2px;
+  margin-bottom: 6px;
+}
+
+.article-summary {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.article-relevance {
+  font-size: 12px;
+  color: var(--ui-bright);
+  font-style: italic;
+  margin-top: 4px;
+}
+
+.freshness-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.freshness-green {
+  background: var(--green-bg);
+  color: var(--green-text);
+}
+
+.freshness-amber {
+  background: var(--amber-bg);
+  color: var(--amber-text);
+}
+
+.freshness-gray {
+  background: var(--gray-badge-bg);
+  color: var(--gray-badge-text);
+}
+
+.category-badge {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.category-niche {
+  background: var(--purple-bg);
+  color: var(--purple);
+}
+
+.category-general {
+  background: rgba(74, 158, 255, 0.12);
+  color: #7ab8f5;
+}
+
+.trend-list {
+  list-style: none;
+  padding: 0;
+}
+
+.trend-list li {
+  font-size: 13px;
+  color: var(--text-secondary);
+  padding: 4px 0 4px 16px;
+  position: relative;
+  line-height: 1.5;
+}
+
+.trend-list li::before {
+  content: "\25B8";
+  color: var(--accent);
+  position: absolute;
+  left: 0;
+  font-size: 12px;
+}

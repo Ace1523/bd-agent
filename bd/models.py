@@ -242,3 +242,30 @@ class OutreachPackage(BaseModel):
     target_contact: Contact
     cold_emails: list[ColdEmail] = Field(default_factory=list)
     linkedin_message: Union[LinkedInMessage, None] = None
+
+
+class SectorCategory(str, Enum):
+    """Category for market intelligence sectors."""
+    niche = "niche"
+    general = "general"
+
+
+class MarketArticle(BaseModel):
+    """A curated news article for a market sector."""
+    title: str
+    url: str
+    source: str  # e.g. "Reuters", "WSJ"
+    date: Union[datetime.date, None] = None
+    summary: str  # 2-3 sentences
+    relevance_note: Union[str, None] = None  # why it matters for McChrystal
+
+
+class MarketSector(BaseModel):
+    """A market/sector intelligence report with curated articles."""
+    name: str  # e.g. "PE-Backed Roll-Ups"
+    category: SectorCategory
+    overview: str  # 3-5 sentence sector thesis
+    key_trends: list[str] = Field(default_factory=list)  # 3-5 bullets
+    mcchrystal_angle: str  # why this sector maps to MG capabilities
+    articles: list[MarketArticle] = Field(default_factory=list)
+    last_refreshed: Union[datetime.date, None] = None
