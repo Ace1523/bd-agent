@@ -148,12 +148,41 @@ Comprehensive dossiers a Senior Partner can read in under 10 minutes. Ten sectio
    - **Brand threats** — competitive disintermediation, invisibility risks, market perception gaps. Where is the brand vulnerable, and does that vulnerability trace back to an organizational problem?
    - **Major brand investments** — sponsorships, partnerships, campaigns that create organizational coordination demands (e.g., global event activations requiring cross-functional teamwork)
    - The through-line: brand insights should connect back to McChrystal fit — brands that promise cross-functional agility, global coordination, or cultural transformation but lack the operating model to deliver are prime engagement targets
-9. **Deep McChrystal Group Fit Analysis** — goes beyond the Sec 6 Fit Assessment to build the full strategic case for why this prospect is (or isn't) a high-priority opportunity. Covers:
-   - **Multiple fit dimensions** — identify 3-6 reinforcing fit dimensions (e.g., operating model gap, M&A integration, crisis leadership, regional fragmentation, culture deficit, brand-org misalignment). Each dimension gets its own subsection with: the specific problem, why McChrystal is uniquely positioned vs. competitors (McKinsey, Deloitte, Korn Ferry, etc.), and timing/urgency factors
-   - **Competitor displacement logic** — for each fit dimension, explain which incumbent advisor currently owns that space and why McChrystal occupies a different category. Not "we're better than McKinsey" but "McKinsey solves strategy; we solve the operating model that lets strategy execute"
-   - **Beachhead identification** — which fit dimension is the best landing zone for an initial engagement? Should be bounded, measurable, and positioned to expand
-   - **Cumulative case** — synthesize all dimensions into a clear thesis on why this prospect is (or isn't) worth pursuing aggressively. Include revenue potential estimate ($X initial, $Y expanded, $Z ongoing)
-   - Quality standard: every claim must be grounded in specific facts from earlier dossier sections or web research — no generic assertions about "McChrystal's unique capabilities"
+9. **Deep McChrystal Group Fit Analysis** — the most important section. Goes beyond the Sec 6 Fit Assessment to build the full strategic case a Senior Partner reads to decide whether to pursue. Must include ALL of the following subsections (reference the Visa Inc. dossier as the gold standard):
+
+   **9a. Fit Dimensions (3-6 reinforcing dimensions)**
+   - Each dimension gets its own `### Fit Dimension N: Title` subsection
+   - For each: the specific problem, why McChrystal is uniquely positioned vs. competitors (McKinsey, Deloitte, Korn Ferry, etc.), and timing/urgency factors
+   - Competitor displacement logic per dimension — not "we're better than McKinsey" but "McKinsey solves strategy; we solve the operating model that lets strategy execute"
+
+   **9b. Cumulative Case — Why [Company] Is a Top Pipeline Opportunity**
+   - Synthesize all dimensions into a clear thesis
+   - List the reinforcing signal chain (how each dimension amplifies the others)
+   - Include revenue potential estimate ($X initial, $Y expanded, $Z ongoing)
+
+   **9c. Enterprise Issues & Organizational Challenges**
+   - 5-8 detailed problem areas, each its own numbered subsection with a bold title
+   - Go deep on the specific organizational dysfunction — not generic "they have silos" but the exact mechanism of how the dysfunction manifests (e.g., "eliminated scrum masters during a layoff that demanded more coordination, not less")
+   - Connect each issue to a McChrystal capability
+
+   **9d. Expected Outcomes from McChrystal Group Engagement**
+   - 5-7 concrete, measurable outcomes a Senior Partner could put in a proposal
+   - Each outcome: bold title, 2-3 sentence description of what McChrystal would deliver, specific measurable result (e.g., "reduce cross-functional decision-making cycle time by 40-60%")
+
+   **9e. Key Stakeholders & Business Unit Map**
+   - Table format: Business Unit | Leader | Function | McChrystal Relevance
+   - Cover all major business units, not just the C-suite
+   - Flag which units are priority engagement targets and why
+   - Include a stakeholder engagement priority list (numbered, with rationale for each)
+
+   **9f. Opportunity Thesis**
+   - **Strategic Signal Convergence — Why Now**: explain how multiple signals compound each other's organizational impact. Use a signal chain showing causation (→ arrows)
+   - **The Structural Paradox — Why McChrystal, Not McKinsey**: articulate why incumbent advisors can't solve this problem. Be specific about which firms are likely engaged and why they leave a gap
+   - **Phased Engagement Hypothesis — Land and Expand**: 3-phase plan with dollar ranges, timelines, and specific scope for each phase. Phase 1 must be a bounded beachhead. Explain why this specific beachhead (not just "start small")
+   - **Competitive Displacement Strategy**: how to get past procurement, bypass incumbent advisor relationships, and position McChrystal as a complement not a competitor
+   - **Multi-Threaded Pursuit Map**: 2-3 parallel outreach threads targeting different contacts with different angles, plus warm introduction vectors (McChrystal personal network, board connections, conference proximity, military/veteran angles)
+
+   Quality standard: every claim must be grounded in specific facts from earlier dossier sections or web research — no generic assertions about "McChrystal's unique capabilities"
 
 **Fit Rating Criteria:**
 - **Strong** — Problem directly maps to a McChrystal capability AND at least 2 of: active trigger event (last 6 months), clear economic buyer identified, budget likely exists (revenue >$1B or known transformation spend), low competitive barrier, organizational urgency (crisis, deadline, board pressure)
@@ -253,7 +282,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, McChrystal-specific fit angles, brand value/rankings, CMO/marketing strategy, brand campaigns, sponsorships, and competitive brand positioning
 - Subagent prompt must include: company name, industry, revenue, employee count, tier, signals, and the full dossier section requirements from Phase 2
 - **Brand Insights (Sec 8)** — subagents must research the company's brand value (Kantar, Interbrand rankings if available), current brand strategy and campaigns, CMO vision, brand threats (competitive disintermediation, market perception gaps), and major brand investments (sponsorships, partnerships). Connect every insight back to an organizational coordination challenge McChrystal can address
-- **Deep McChrystal Fit Analysis (Sec 9)** — subagents must identify 3-6 reinforcing fit dimensions with specific competitor displacement logic for each. Name the beachhead engagement (bounded, measurable entry point), estimate deal sizing ($X initial → $Y expanded → $Z ongoing), and build a cumulative case grounded in facts from the earlier sections. This is the section a Senior Partner reads to decide whether to pursue — it must be specific, strategic, and non-generic
+- **Deep McChrystal Fit Analysis (Sec 9)** — this is the most critical section and must match the depth of the Visa Inc. dossier. Subagents must produce ALL six subsections (9a–9f): fit dimensions with competitor displacement logic, cumulative case with revenue estimate, enterprise issues (5-8 detailed problems), expected outcomes (5-7 measurable deliverables), key stakeholders & business unit map (table format covering all major units), and full opportunity thesis (signal convergence, structural paradox, phased engagement with dollar ranges, competitive displacement strategy, multi-threaded pursuit map with 2-3 parallel outreach threads). This is the section a Senior Partner reads to decide whether to pursue — it must be specific, strategic, and non-generic. Every claim grounded in facts from earlier sections or web research
 
 **Step 3: Outreach (parallel subagents)**
 - Split prospects into batches of 5 companies

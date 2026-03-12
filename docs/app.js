@@ -842,13 +842,46 @@ function textSection(title, content) {
 
 function richTextSection(title, content) {
   if (!content) return "";
-  // Convert Markdown-like formatting to HTML
-  let html = escapeHtml(content)
+  // Convert Markdown tables to HTML tables, then handle inline formatting
+  const lines = content.split("\n");
+  const processed = [];
+  let i = 0;
+  while (i < lines.length) {
+    // Detect markdown table: line with |, next line is separator |---|
+    if (lines[i].includes("|") && i + 1 < lines.length && /^\|[\s-:|]+\|$/.test(lines[i + 1].trim())) {
+      let tableHtml = '<table style="width:100%; border-collapse:collapse; font-size:13px; margin:12px 0;">';
+      // Header row
+      const headers = lines[i].split("|").filter(c => c.trim()).map(c => c.trim());
+      tableHtml += "<thead><tr>" + headers.map(h =>
+        `<th style="text-align:left; padding:8px 10px; border-bottom:2px solid var(--border); color:var(--ui-bright); font-weight:600;">${escapeHtml(h).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")}</th>`
+      ).join("") + "</tr></thead><tbody>";
+      i += 2; // skip header + separator
+      while (i < lines.length && lines[i].includes("|")) {
+        const cells = lines[i].split("|").filter(c => c.trim()).map(c => c.trim());
+        tableHtml += "<tr>" + cells.map(c =>
+          `<td style="padding:8px 10px; border-bottom:1px solid var(--border-light); vertical-align:top;">${escapeHtml(c).replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")}</td>`
+        ).join("") + "</tr>";
+        i++;
+      }
+      tableHtml += "</tbody></table>";
+      processed.push(tableHtml);
+    } else {
+      processed.push(lines[i]);
+      i++;
+    }
+  }
+  let html = escapeHtml(processed.join("\n"))
     .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
     .replace(/^### (.+)$/gm, '<h5 style="margin:12px 0 4px; color:var(--ui-bright);">$1</h5>')
     .replace(/^- (.+)$/gm, '<li style="margin-left:16px;">$1</li>')
     .replace(/\n\n/g, "</p><p>")
     .replace(/\n/g, "<br>");
+  // Restore table HTML that got escaped
+  processed.forEach(p => {
+    if (p.startsWith("<table")) {
+      html = html.replace(escapeHtml(p), p);
+    }
+  });
   return `
     <div class="dossier-section">
       <h4>${escapeHtml(title)}</h4>
