@@ -1282,6 +1282,33 @@ body {
   grid-column: unset;
 }
 
+/* ── Sidebar Collapse Tab ── */
+.sidebar-collapse-tab {
+  position: absolute;
+  top: 50%;
+  left: -28px;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 48px;
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-right: none;
+  border-radius: 8px 0 0 8px;
+  color: var(--text-secondary);
+  font-size: 12px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition);
+  z-index: 1;
+}
+
+.sidebar-collapse-tab:hover {
+  background: var(--bg-hover);
+  color: var(--accent);
+}
+
 /* ── Markets Overlay ── */
 .markets-overlay {
   position: fixed;

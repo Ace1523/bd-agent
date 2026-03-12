@@ -1335,7 +1335,10 @@ function setupMarketsSidebar() {
     else openSidebar();
   });
 
+  const collapseTab = document.getElementById("sidebar-collapse-tab");
+
   closeBtn.addEventListener("click", closeSidebar);
+  if (collapseTab) collapseTab.addEventListener("click", closeSidebar);
   overlay.addEventListener("click", closeSidebar);
 
   document.addEventListener("keydown", (e) => {
