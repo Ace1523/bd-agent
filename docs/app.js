@@ -1253,7 +1253,7 @@ function renderHowItWorks() {
           <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Parallel subagents</div>
         </div>
         <div class="method-card" style="text-align:center;">
-          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">8</div>
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">10</div>
           <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Dossier sections each</div>
         </div>
       </div>

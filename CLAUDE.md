@@ -296,7 +296,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 **Views:**
 - **Home** — Pipeline Summary KPIs (prospect count, avg ICP score, fit rating breakdown, outreach count), core capabilities, who we target, industry tiers, fit signals, scoring model
 - **Pipeline** — Prospect cards grouped by industry category, with filter pills. Sorted by score within each group. Each card shows Company Overview on expand.
-- **Research** — Dossier cards grouped by industry category, with filter pills. Full 8-section detail on expand (including in-depth Company Overview); "View Outreach" link if outreach exists
+- **Research** — Dossier cards grouped by industry category, with filter pills. Full 10-section detail on expand (including in-depth Company Overview); "View Outreach" link if outreach exists
 - **Outreach** — Outreach package cards grouped by industry category, with filter pills. Target contact (champion-level, not CEO), fit rating badge, 3 cold email versions (A/B/C) with copy-to-clipboard
 - **Proposals** — Phase 4 (coming soon): AI-assisted proposal writing trained on McChrystal Group's historical proposals, SOWs, and pricing. Will draft from dossier data + learned patterns
 - **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase

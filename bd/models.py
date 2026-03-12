@@ -126,7 +126,7 @@ class ConversationEntry(BaseModel):
 
 
 class Dossier(BaseModel):
-    """Comprehensive research dossier on a prospect (7 sections)."""
+    """Comprehensive research dossier on a prospect (10 sections)."""
 
     prospect: Prospect
 
