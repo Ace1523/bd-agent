@@ -29,7 +29,7 @@ function switchTab(view) {
 }
 
 async function loadData() {
-  const views = ["home", "pipeline", "research", "outreach", "how-it-works"];
+  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works"];
   views.forEach((v) => {
     document.getElementById(`view-${v}`).innerHTML =
       '<div class="loading">Loading data...</div>';
@@ -60,6 +60,7 @@ function renderAll() {
   renderPipeline();
   renderResearch();
   renderOutreach();
+  renderProposals();
   renderHowItWorks();
   updateMeta();
 }
@@ -752,6 +753,100 @@ function emailCard(email, index) {
       <div class="email-body" id="${id}">${escapeHtml(email.body)}</div>
       <button class="copy-btn" onclick="copyEmail('${id}', this)">Copy</button>
     </div>`;
+}
+
+// ══════════════════════════════════════════
+// PROPOSALS VIEW
+// ══════════════════════════════════════════
+
+function renderProposals() {
+  const container = document.getElementById("view-proposals");
+
+  container.innerHTML = `
+    <div class="home-section">
+      <div class="hero" style="padding: 40px 20px 32px;">
+        <div class="hero-title" style="font-size: 32px;">Proposal Engine</div>
+        <div class="hero-subtitle" style="max-width: 640px;">
+          AI-assisted proposal writing trained on McChrystal Group\u2019s voice, structure, and winning patterns.
+        </div>
+        <div style="margin-top: 16px; display: inline-block; padding: 4px 14px; border-radius: 20px; border: 1px solid var(--amber); color: var(--amber); font-size: 11px; text-transform: uppercase; letter-spacing: 1px;">Coming Soon</div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div class="home-section-title">What This Will Become</div>
+      <p style="color:var(--text-secondary); font-size:14px; line-height:1.7; margin-bottom:24px;">
+        The Proposal Engine will learn from every proposal McChrystal Group has written \u2014 wins and losses \u2014 to generate first drafts that match your voice, pricing patterns, and scope structures. It bridges the gap between outreach and signed engagement.
+      </p>
+      <div class="method-grid">
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--green);">1</div>
+          <h3>Learn from History</h3>
+          <p>Ingest past proposals, SOWs, and pricing sheets. The agent learns McChrystal\u2019s language, scope structures, staffing models, and how engagements are framed for different industries and problem types.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--amber);">2</div>
+          <h3>Draft from Dossier</h3>
+          <p>Pull directly from the research dossier to generate a tailored proposal. Maps the prospect\u2019s specific challenge to the right capability, scoping approach, team composition, and pricing tier \u2014 no blank page.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--purple);">3</div>
+          <h3>Refine & Iterate</h3>
+          <p>Senior Partners review and edit. The agent learns from corrections \u2014 adjusting tone, scope, pricing, and structure over time. Each iteration makes the next draft sharper.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div class="home-section-title">Pipeline Integration</div>
+      <p style="color:var(--text-secondary); font-size:14px; line-height:1.7; margin-bottom:24px;">
+        Proposals become Phase 4 of the BD pipeline. The full flow:
+      </p>
+      <div class="pipeline-grid">
+        <div class="pipeline-card" onclick="switchTab('pipeline')">
+          <div class="pipeline-card-step">Phase 1</div>
+          <div class="pipeline-card-title">Discover</div>
+          <div class="pipeline-card-desc">Identify high-fit prospects</div>
+        </div>
+        <div class="pipeline-card" onclick="switchTab('research')">
+          <div class="pipeline-card-step">Phase 2</div>
+          <div class="pipeline-card-title">Research</div>
+          <div class="pipeline-card-desc">Build 7-section dossiers</div>
+        </div>
+        <div class="pipeline-card" onclick="switchTab('outreach')">
+          <div class="pipeline-card-step">Phase 3</div>
+          <div class="pipeline-card-title">Outreach</div>
+          <div class="pipeline-card-desc">3-email sequences</div>
+        </div>
+        <div class="pipeline-card" style="border-color: var(--amber);">
+          <div class="pipeline-card-step" style="color: var(--amber);">Phase 4</div>
+          <div class="pipeline-card-title">Propose</div>
+          <div class="pipeline-card-desc">AI-drafted proposals from dossier data + historical patterns</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div class="home-section-title">What the Agent Will Need</div>
+      <div class="method-grid">
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--ui-bright);">\u2197</div>
+          <h3>Past Proposals</h3>
+          <p>PDFs, Word docs, or text of previous proposals \u2014 both wins and losses. The more examples, the better the agent learns voice, structure, and pricing norms.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--ui-bright);">\u2696</div>
+          <h3>Pricing Guidelines</h3>
+          <p>Rate cards, engagement tier structures, staffing models, and any pricing guardrails. The agent won\u2019t guess \u2014 it needs boundaries.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--ui-bright);">\u2713</div>
+          <h3>Win/Loss Context</h3>
+          <p>What made winning proposals work? Why did losses fall short? This feedback loop is what separates a template filler from a proposal engine that improves.</p>
+        </div>
+      </div>
+    </div>
+  `;
 }
 
 // ══════════════════════════════════════════

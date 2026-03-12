@@ -160,6 +160,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - **Pipeline** — All discovered prospects as expandable cards, sorted by score
 - **Research** — Dossier cards with full 7-section detail on expand; "View Outreach" link if outreach exists
 - **Outreach** — Email sequence cards with target contacts, fit rating badge, copy-to-clipboard per email
+- **Proposals** — Phase 4 (coming soon): AI-assisted proposal writing trained on McChrystal Group's historical proposals, SOWs, and pricing. Will draft from dossier data + learned patterns
 - **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase
 
 **UI features:**
