@@ -46,6 +46,9 @@ class Prospect(BaseModel):
     signals: list[Signal] = Field(default_factory=list)
     score: float = 0.0
     source_urls: list[str] = Field(default_factory=list)
+    company_overview: Union[str, None] = Field(
+        default=None, description="Brief overview of what the company does (2-3 sentences)"
+    )
     summary: Union[str, None] = Field(
         default=None, description="Brief summary of why this prospect fits the ICP"
     )

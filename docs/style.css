@@ -539,6 +539,21 @@ body {
   gap: 6px 16px;
 }
 
+.overview-details {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+.overview-detail-item {
+  line-height: 1.5;
+}
+.overview-detail-item strong {
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
 .priority-targets {
   margin-bottom: 16px;
 }

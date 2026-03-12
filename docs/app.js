@@ -398,6 +398,11 @@ function prospectCard(p) {
       </div>
       ${blurb ? `<div class="card-blurb">${escapeHtml(blurb)}</div>` : ""}
       <div class="card-detail">
+        ${p.company_overview ? `
+          <div class="detail-section">
+            <div class="detail-section-label">Company Overview</div>
+            <div class="detail-section-text">${escapeHtml(p.company_overview)}</div>
+          </div>` : ""}
         ${p.entry_point ? `
           <div class="detail-section">
             <div class="detail-section-label">Entry Point</div>
@@ -496,6 +501,7 @@ function dossierCard(d) {
       ${blurb ? `<div class="card-blurb">${escapeHtml(blurb)}</div>` : ""}
       <div class="dossier-detail">
         ${orgSnapshotSection(d)}
+        ${companyOverviewSection(d)}
         ${d.financial_health ? textSection("Financial Health", d.financial_health) : ""}
         ${contacts.length ? contactsSection(contacts) : ""}
         ${(d.org_structure || d.culture_signals) ? cultureSection(d) : ""}
@@ -523,6 +529,28 @@ function orgSnapshotSection(d) {
       <h4>Organization Snapshot</h4>
       <div class="snapshot-meta">${parts.join(" &middot; ")}</div>
     </div>`;
+}
+
+function companyOverviewSection(d) {
+  const p = d.prospect || {};
+  // Build an in-depth overview from the dossier's prospect company_overview field
+  // plus ownership, geographic footprint, and industry context
+  const overview = p.company_overview;
+  if (!overview && !d.ownership_structure && !d.geographic_footprint) return "";
+
+  let html = '<div class="dossier-section"><h4>Company Overview</h4>';
+  if (overview) {
+    html += `<div class="detail-section-text" style="margin-bottom:8px;">${escapeHtml(overview)}</div>`;
+  }
+  const details = [];
+  if (d.ownership_structure) details.push(`<strong>Ownership:</strong> ${escapeHtml(d.ownership_structure)}`);
+  if (d.geographic_footprint) details.push(`<strong>Footprint:</strong> ${escapeHtml(d.geographic_footprint)}`);
+  if (p.industry) details.push(`<strong>Industry:</strong> ${escapeHtml(p.industry)}`);
+  if (details.length) {
+    html += `<div class="overview-details">${details.map(d => `<div class="overview-detail-item">${d}</div>`).join("")}</div>`;
+  }
+  html += '</div>';
+  return html;
 }
 
 function contactsSection(contacts) {
