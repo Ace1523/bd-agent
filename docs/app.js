@@ -35,9 +35,8 @@ function switchTab(view) {
   document
     .querySelectorAll(".view")
     .forEach((v) => v.classList.remove("active"));
-  document
-    .querySelector(`.nav-tab[data-view="${view}"]`)
-    .classList.add("active");
+  const navTab = document.querySelector(`.nav-tab[data-view="${view}"]`);
+  if (navTab) navTab.classList.add("active");
   document.getElementById(`view-${view}`).classList.add("active");
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -54,7 +53,7 @@ function setupScrollTop() {
 }
 
 async function loadData() {
-  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works", "future"];
+  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works", "future", "markets"];
   views.forEach((v) => {
     document.getElementById(`view-${v}`).innerHTML =
       '<div class="loading">Loading data...</div>';
@@ -86,6 +85,7 @@ function renderAll() {
   renderResearch();
   renderOutreach();
   renderMarketsSidebar();
+  renderMarkets();
   renderProposals();
   renderHowItWorks();
   renderFuture();
@@ -1110,13 +1110,77 @@ function renderMarketsSidebar() {
     return;
   }
 
+  // Flatten all articles across sectors, attach sector name
+  const allArticles = [];
+  for (const sector of sectors) {
+    for (const article of sector.articles || []) {
+      allArticles.push({ ...article, _sectorName: sector.name, _sectorCategory: sector.category });
+    }
+  }
+
+  // Sort by date (newest first), articles without dates go to bottom
+  allArticles.sort((a, b) => {
+    if (!a.date && !b.date) return 0;
+    if (!a.date) return 1;
+    if (!b.date) return -1;
+    return new Date(b.date) - new Date(a.date);
+  });
+
+  const top10 = allArticles.slice(0, 10);
+  const hasMore = allArticles.length > 10;
+
+  let html = `<a href="#" class="sidebar-view-all" onclick="event.preventDefault(); switchTab('markets'); closeSidebarGlobal();">Explore All Markets &rsaquo;</a>`;
+
+  if (!top10.length) {
+    html += '<div style="color:var(--text-muted); font-size:12px; text-align:center; padding:20px 0;">No articles yet.</div>';
+  } else {
+    html += top10.map(a => `
+      <div class="sidebar-news-item">
+        <a class="article-link" href="${escapeHtml(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
+        <div class="article-meta">
+          <span>${escapeHtml(a.source)}${a.date ? ' &middot; ' + a.date : ''}</span>
+          <span class="sidebar-section-label">${escapeHtml(a._sectorName)}</span>
+        </div>
+        <div class="article-summary">${escapeHtml(a.summary)}</div>
+      </div>
+    `).join("");
+  }
+
+  if (hasMore) {
+    html += `<a href="#" class="sidebar-bottom-link" onclick="event.preventDefault(); switchTab('markets'); closeSidebarGlobal();">View all ${allArticles.length} articles in Markets &rsaquo;</a>`;
+  }
+
+  container.innerHTML = html;
+}
+
+// ══════════════════════════════════════════
+// FULL MARKETS PAGE
+// ══════════════════════════════════════════
+
+function renderMarkets() {
+  const container = document.getElementById("view-markets");
+  const sectors = dashboardData.market_intelligence || [];
+
+  if (!sectors.length) {
+    container.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-state-icon">&#127758;</div>
+        <div class="empty-state-text">No market intelligence yet. Run a market research scan to populate.</div>
+      </div>`;
+    return;
+  }
+
   container.innerHTML = `
-    <div style="font-size:12px; color:var(--text-muted); margin-bottom:12px;">${sectors.length} sectors &middot; click to expand</div>
-    <div class="filter-bar" id="market-filter-bar"></div>
-    <div class="card-grid" id="market-card-grid"></div>`;
+    <div class="section-header">
+      <h2 class="section-title">Market Intelligence</h2>
+      <span class="expand-hint">click a sector to expand</span>
+      <span class="section-count">${sectors.length} sectors</span>
+    </div>
+    <div class="filter-bar" id="markets-page-filter-bar"></div>
+    <div class="card-grid" id="markets-page-card-grid"></div>`;
 
   // Build filter pills
-  const filterBar = document.getElementById("market-filter-bar");
+  const filterBar = document.getElementById("markets-page-filter-bar");
   filterBar.innerHTML = MARKET_CATEGORIES.map((cat, i) =>
     `<button class="filter-pill${i === 0 ? " active" : ""}" data-category="${cat}">${cat}</button>`
   ).join("");
@@ -1124,11 +1188,34 @@ function renderMarketsSidebar() {
     pill.addEventListener("click", () => {
       filterBar.querySelectorAll(".filter-pill").forEach(p => p.classList.remove("active"));
       pill.classList.add("active");
-      renderMarketCards(sectors, pill.dataset.category);
+      renderMarketsPageCards(sectors, pill.dataset.category);
     });
   });
 
-  renderMarketCards(sectors, "All");
+  renderMarketsPageCards(sectors, "All");
+}
+
+function renderMarketsPageCards(sectors, category) {
+  const grid = document.getElementById("markets-page-card-grid");
+  if (category === "All") {
+    const niche = sectors.filter(s => s.category === "niche");
+    const general = sectors.filter(s => s.category === "general");
+    let html = "";
+    if (niche.length) {
+      html += '<div class="category-header">Niche Sectors</div>';
+      html += niche.map(s => marketCard(s)).join("");
+    }
+    if (general.length) {
+      html += '<div class="category-header">General Sectors</div>';
+      html += general.map(s => marketCard(s)).join("");
+    }
+    grid.innerHTML = html;
+  } else {
+    const catKey = category.toLowerCase();
+    const filtered = sectors.filter(s => s.category === catKey);
+    grid.innerHTML = filtered.map(s => marketCard(s)).join("");
+  }
+  attachCardToggle(document.getElementById("view-markets"));
 }
 
 function renderMarketCards(sectors, category) {
@@ -1255,8 +1342,9 @@ function setupMarketsSidebar() {
     if (e.key === "Escape" && sidebar.classList.contains("open")) closeSidebar();
   });
 
-  // Expose for search integration
+  // Expose for search integration and sidebar news feed links
   window.openMarketsSidebar = openSidebar;
+  window.closeSidebarGlobal = closeSidebar;
 }
 
 // ══════════════════════════════════════════
@@ -2027,20 +2115,21 @@ function updateMeta() {
         resultsDiv.innerHTML = "";
         resultsDiv.classList.remove("show");
 
-        // If it's a market sector, open sidebar instead of switching tab
+        // If it's a market sector, open the full Markets page and expand matching card
         if (views.includes("markets")) {
-          if (window.openMarketsSidebar) window.openMarketsSidebar();
+          closeSidebarGlobal();
+          switchTab("markets");
           setTimeout(() => {
-            const sidebarContent = document.getElementById("markets-sidebar-content");
-            if (!sidebarContent) return;
-            sidebarContent.querySelectorAll(".card").forEach(card => {
+            const marketsContainer = document.getElementById("view-markets");
+            if (!marketsContainer) return;
+            marketsContainer.querySelectorAll(".card").forEach(card => {
               const nameEl = card.querySelector(".card-company");
               if (nameEl && nameEl.textContent.trim() === company) {
                 card.classList.add("expanded");
                 card.scrollIntoView({ behavior: "smooth", block: "center" });
               }
             });
-          }, 350);
+          }, 100);
           return;
         }
 
