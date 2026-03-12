@@ -1064,6 +1064,24 @@ body {
   .scoring-bars .score-bar-row > div:last-child { min-width: 100% !important; margin-left: 0 !important; margin-top: 4px; }
 }
 
+/* ── Deep dive link ── */
+.deep-dive-link {
+  display: inline-block;
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 8px 20px;
+  border: 1px solid var(--accent);
+  border-radius: 20px;
+  transition: all var(--transition);
+}
+
+.deep-dive-link:hover {
+  background: var(--accent);
+  color: white;
+}
+
 /* ── Prompt blocks (How It Works) ── */
 
 .prompt-block {

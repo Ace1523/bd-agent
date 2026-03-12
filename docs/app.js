@@ -284,24 +284,31 @@ function renderHome() {
     </div>
 
     <div class="home-section">
-      <div class="home-section-title">Who We Target</div>
-      <div class="icp-grid">
-        <div class="icp-card">
-          <div class="icp-value">$500M\u2013$10B</div>
-          <div class="icp-label">Annual Revenue</div>
+      <div class="home-section-title">How It Works</div>
+      <div class="method-grid">
+        <div class="method-card">
+          <div class="method-card-icon">&#9670;</div>
+          <h3>Autonomous Discovery</h3>
+          <p>Claude Code searches the web for organizations showing transformation signals. Each prospect is scored against a 100-point ICP model across 4 dimensions. No human input required \u2014 the agent identifies, validates, and ranks prospects independently.</p>
         </div>
-        <div class="icp-card">
-          <div class="icp-value">2,000+</div>
-          <div class="icp-label">Employees</div>
+        <div class="method-card">
+          <div class="method-card-icon">&#9650;</div>
+          <h3>Parallel Research Subagents</h3>
+          <p>Prospects are split into batches and delegated to parallel subagents, each performing deep web research. Every subagent builds a complete 8-section dossier \u2014 from org snapshot and financials to leadership profiles and fit assessment. Multiple agents run simultaneously to cover 20 companies in minutes.</p>
         </div>
-        <div class="icp-card">
-          <div class="icp-value">$500K\u2013$5M+</div>
-          <div class="icp-label">Engagement Size</div>
+        <div class="method-card">
+          <div class="method-card-icon">&#9724;</div>
+          <h3>AI-Drafted Outreach</h3>
+          <p>Subagents generate 3-email sequences per prospect, each tailored to specific trigger events and leadership contacts from the dossier. Written in Senior Partner voice \u2014 peer-to-peer, not sales copy.</p>
         </div>
-        <div class="icp-card">
-          <div class="icp-value">C-Suite</div>
-          <div class="icp-label">Decision Makers</div>
+        <div class="method-card">
+          <div class="method-card-icon">&#9675;</div>
+          <h3>Single-Command Pipeline</h3>
+          <p>The entire flow (discover \u2192 research \u2192 outreach) runs from a single instruction. Pipeline orchestration tracks completeness, verifies quality gates, and deploys to a live dashboard automatically.</p>
         </div>
+      </div>
+      <div style="margin-top:16px; text-align:center;">
+        <a href="#" class="deep-dive-link" onclick="event.preventDefault(); switchTab('how-it-works');">See the deep dive \u2192</a>
       </div>
     </div>
 
@@ -1027,133 +1034,56 @@ function renderHowItWorks() {
           <div class="pipeline-card-step">Phase 2</div>
           <div class="pipeline-card-title">Research</div>
           <div class="pipeline-card-desc">
-            For each scored prospect, AI builds a 7-section dossier: org snapshot, financials, leadership profiles, culture signals, trigger events, fit assessment, and conversation entry points. Designed to be read by a Senior Partner in under 10 minutes.
+            Parallel subagents build 8-section dossiers: org snapshot, company overview, financials, leadership profiles, culture signals, trigger events, fit assessment, and conversation entry points. Designed to be read by a Senior Partner in under 10 minutes.
           </div>
         </div>
         <div class="pipeline-card">
           <div class="pipeline-card-step">Phase 3</div>
           <div class="pipeline-card-title">Outreach</div>
           <div class="pipeline-card-desc">
-            AI drafts a 3-email sequence per prospect, each tailored to the specific situation surfaced in the dossier. Tone is peer-to-peer Senior Partner voice \u2014 not sales copy.
+            Parallel subagents draft 3-email sequences per prospect, each tailored to the specific situation surfaced in the dossier. Tone is peer-to-peer Senior Partner voice \u2014 not sales copy.
           </div>
         </div>
-      </div>
-
-      <div style="margin-top:32px;">
-        <details class="prompt-block">
-          <summary>View Discover Prompt</summary>
-          <div class="prompt-content">
-<strong>Firmographics</strong>
-\u2022 Revenue: $500M\u2013$10B (sweet spot); premium boutique engagements ($500K\u2013$5M+)
-\u2022 Employees: 500+ required, 2,000+ preferred
-
-<strong>Fit Signals \u2014 what tells us they need McChrystal Group</strong>
-\u2022 Navigating rapid scale, transformation, or disruption
-\u2022 Leadership or culture problems masquerading as strategy problems
-\u2022 Hierarchical or siloed structures failing in fast-moving markets
-\u2022 High-stakes operating environments where failure has real consequences
-\u2022 Leaders who respect mission-driven, no-BS advisory relationships
-\u2022 C-suite changes, activist investor pressure, mergers/acquisitions, public organizational failures
-\u2022 Earnings misses or strategic pivots
-\u2022 Digital/operational transformation initiatives
-
-<strong>Industry Aperture \u2014 Three Tiers</strong>
-
-<span style="color:#7ab8f5;">Tier 1 \u2014 Conventional (proven hunting ground)</span>
-Defense &amp; aerospace, federal agencies, financial services, healthcare systems, large industrials &amp; manufacturing
-
-<span style="color:var(--purple);">Tier 2 \u2014 Adjacent (natural expansion)</span>
-Tech companies losing agility at scale, PE portfolio companies post-acquisition, energy transition, logistics &amp; supply chain, professional services
-
-<span style="color:var(--amber);">Tier 3 \u2014 Unconventional (high-upside bets)</span>
-Sports organizations, trauma centers, media &amp; entertainment, NGOs, first responders, Series C+ startups, universities, infrastructure projects
-
-<strong>Workflow</strong>
-1. Search the web for organizations showing ICP signals across all three industry tiers
-2. For each prospect, capture: organization name &amp; industry, why they fit, entry point (who to target), conversation hook, fit tier
-3. Build Prospect objects with Signal entries, assign tier, score for ICP fit (0\u2013100)
-4. Generate report grouped by tier (Tier 1 \u2192 Tier 2 \u2192 Tier 3)
-
-<strong>Quality Standards</strong>
-\u2022 Prioritize orgs with publicly visible leadership challenges, transitions, or transformation initiatives
-\u2022 Flag recent C-suite changes, activist investor pressure, M&amp;A, or public organizational failures as high-priority
-\u2022 For each Tier 3 prospect, include a one-sentence \u201Cwhy this is worth the unconventional bet\u201D rationale
-\u2022 Do NOT target organizations already known to be McChrystal Group clients
-          </div>
-        </details>
-
-        <details class="prompt-block">
-          <summary>View Research Prompt</summary>
-          <div class="prompt-content">
-<strong>Objective</strong>
-Comprehensive dossiers a Senior Partner can read in under 10 minutes. Seven sections:
-
-<strong>1. Organization Snapshot</strong>
-Legal name, HQ, founding year, ownership, geographic footprint
-
-<strong>2. Financial Health &amp; Growth Stage</strong>
-Revenue trajectory, profitability, analyst sentiment, key pressures/tailwinds
-
-<strong>3. Leadership Team Profiles</strong>
-C-suite + board with tenure, background (flag military/gov service), public persona, LinkedIn activity, known McChrystal connections. Identify 1\u20132 priority targets (economic buyer or champion) with rationale.
-
-<strong>4. Organizational Culture &amp; Structure Signals</strong>
-Hierarchy vs. flat, Glassdoor patterns, known transformation programs, culture fit/problems
-
-<strong>5. Recent News &amp; Trigger Events</strong>
-5\u20137 most relevant developments (last 18 months) with date, event, and why it matters for McChrystal
-
-<strong>6. McChrystal Fit Assessment</strong>
-Primary problem, best capability fit, likely objections, competitive landscape (McKinsey OrgDesign, Korn Ferry, etc.), rating (Strong / Moderate / Speculative)
-
-<strong>7. Conversation Entry Points</strong>
-2\u20133 opening questions for a Senior Partner, mutual connections, recommended first meeting framing
-
-<strong>Quality Standards</strong>
-\u2022 Be specific \u2014 no generic filler
-\u2022 Flag [INFERRED] vs. confirmed facts
-\u2022 Say \u201Cunavailable\u201D rather than fabricate
-\u2022 Prioritize recency (24 months)
-          </div>
-        </details>
-
-        <details class="prompt-block">
-          <summary>View Outreach Prompt</summary>
-          <div class="prompt-content">
-<strong>Sequence Structure</strong>
-3-email sequences per prospect, built from dossier data. Each sequence escalates from insight to ask.
-
-1. <span style="color:var(--green);">Email 1 \u2014 Trigger-based opener</span> (Day 0): Reference a specific, recent trigger event from the dossier. Connect it to one McChrystal capability. Demonstrate homework \u2014 no generic \u201CI\u2019d love to connect.\u201D
-
-2. <span style="color:var(--amber);">Email 2 \u2014 Value-add follow-up</span> (Day 5): Share a relevant framework, insight, or parallel example. Position McChrystal as a thought partner, not a vendor. No hard ask yet.
-
-3. <span style="color:#7ab8f5;">Email 3 \u2014 Direct ask</span> (Day 10): Propose a specific, low-commitment next step (30-min call, diagnostic conversation, introduce to a relevant Senior Partner). Create urgency tied to their timeline.
-
-<strong>Tone &amp; Voice</strong>
-\u2022 Write as a Senior Partner, not a sales rep \u2014 peer-to-peer, not vendor-to-buyer
-\u2022 Confident but not pushy; direct but respectful of their time
-\u2022 Reference McChrystal Group\u2019s military/special operations DNA only when it maps naturally (veteran contacts, crisis situations, Team of Teams)
-\u2022 No jargon-stuffing \u2014 use McChrystal concepts sparingly and only when they genuinely fit
-
-<strong>Email Quality Standards</strong>
-\u2022 Address the primary priority contact by first name
-\u2022 150\u2013250 words per email body \u2014 busy executives won\u2019t read more
-\u2022 Every email must reference something specific to THIS prospect \u2014 never generic
-\u2022 Subject lines: short (&lt;60 chars), specific, no clickbait
-\u2022 Do NOT mention competitors by name
-\u2022 Do NOT promise specific ROI or outcomes
-
-<strong>Targeting Logic</strong>
-\u2022 Default to the #1 priority contact from the dossier (economic buyer or internal champion)
-\u2022 If the priority contact is a veteran, lean into the military connection
-\u2022 If the prospect has a Chief Transformation Officer, consider them as primary target over the CEO
-          </div>
-        </details>
       </div>
     </div>
 
     <div class="home-section">
-      <div class="home-section-title">Scoring Model (100 points)</div>
+      <div class="home-section-title">Discovery Engine</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        Discovery runs sequentially in a single context window \u2014 NOT delegated to subagents. Prospect selection requires judgment, cross-referencing, and deduplication that benefits from unified context.
+      </p>
+
+      <div class="method-grid" style="margin-bottom:20px;">
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#7ab8f5;">&#9906;</div>
+          <h3>Search Strategy</h3>
+          <p>Web search across all 3 industry tiers \u2014 Conventional, Adjacent, and Unconventional. Multiple sources cross-referenced per prospect. Prioritizes non-obvious, creative companies over household names.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--green);">&#10003;</div>
+          <h3>Validation</h3>
+          <p>Revenue and employee data confirmed or marked [INFERRED]. Specific trigger events with dates (month/year minimum). Named leadership contacts identified for each prospect.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--purple);">&#9851;</div>
+          <h3>Deduplication</h3>
+          <p>Every new prospect checked against existing dashboard.json to avoid re-discovering known companies. Ensures the pipeline only surfaces net-new opportunities.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--amber);">&#9888;</div>
+          <h3>Quality Gates</h3>
+          <p>No generic Fortune 500s. Every prospect needs a current, specific reason to reach out NOW. Model knowledge used to frame and contextualize, not as a primary source of facts.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Why Sequential?</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          Discovery is NOT delegated to subagents. Prospect selection requires judgment and cross-referencing that benefits from a single context window \u2014 the agent needs to see all candidates at once to avoid duplicates, balance industry mix, and ensure each pick has a compelling, differentiated reason for outreach.
+        </div>
+      </div>
+
+      <div class="home-section-title" style="margin-top:24px;">Scoring Model (100 points)</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
         Every prospect is scored across four dimensions. The weights reflect McChrystal Group\u2019s value drivers \u2014 signals matter most because they indicate timing and urgency.
       </p>
@@ -1190,6 +1120,229 @@ Primary problem, best capability fit, likely objections, competitive landscape (
     </div>
 
     <div class="home-section">
+      <div class="home-section-title">Research Subagent Architecture</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        Prospects are split into batches and delegated to parallel subagents. Each subagent performs deep web research and builds complete dossiers autonomously.
+      </p>
+
+      <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">3\u20134</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Companies per batch</div>
+        </div>
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">2\u20133</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Parallel subagents</div>
+        </div>
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">8</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Dossier sections each</div>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:20px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Subagent Prompt Construction</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          Each subagent receives: company name, industry, revenue, employee count, tier, signals, and the full 8-section dossier requirements. Per-company research includes: recent news (last 6 months), leadership bios &amp; LinkedIn presence, Glassdoor/culture signals, financial data &amp; analyst sentiment, competitor presence, and McChrystal-specific fit angles.
+        </div>
+      </div>
+
+      <div class="home-section-title" style="margin-top:24px;">Dossier Sections</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        Each dossier follows a standardized 8-section format. The goal: a Senior Partner can read it in under 10 minutes and walk into a meeting prepared.
+      </p>
+      <div class="method-grid">
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#7ab8f5;">1</div>
+          <h3>Organization Snapshot</h3>
+          <p>Legal name, HQ, founding year, ownership structure, geographic footprint. The basics a partner needs before the first call.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#7ab8f5;">1b</div>
+          <h3>Company Overview</h3>
+          <p>In-depth narrative (3\u20135 sentences) covering what the company does, how it makes money, ownership history, major recent events, and current strategic direction. Stands alone as a complete introduction.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--green);">2</div>
+          <h3>Financial Health</h3>
+          <p>Revenue trajectory, profitability, analyst sentiment. Key pressures and tailwinds that shape the conversation.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--purple);">3</div>
+          <h3>Leadership Profiles</h3>
+          <p>C-suite and board with tenure, background, and public persona. 1\u20132 priority targets identified (economic buyer or champion) with rationale.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--amber);">4</div>
+          <h3>Culture &amp; Structure</h3>
+          <p>Hierarchy vs. flat, Glassdoor patterns, known transformation programs. Where the org\u2019s structure is helping or hurting.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--red);">5</div>
+          <h3>Trigger Events</h3>
+          <p>5\u20137 most relevant developments from the last 18 months. Each event includes date, description, and why it matters for McChrystal.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#db4c9c;">6</div>
+          <h3>Fit Assessment</h3>
+          <p>Primary problem, best capability fit, likely objections, competitive landscape. Rated Strong, Moderate, or Speculative.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--text-secondary);">7</div>
+          <h3>Conversation Entry Points</h3>
+          <p>2\u20133 opening questions for a Senior Partner, mutual connections, recommended first meeting framing.</p>
+        </div>
+      </div>
+
+      <div class="home-section-title" style="margin-top:24px;">Fit Rating Criteria</div>
+      <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
+        <div class="method-card" style="border-left: 3px solid var(--green);">
+          <h3 style="color: var(--green);">Strong</h3>
+          <p>Problem directly maps to a McChrystal capability AND at least 2 of: active trigger event (last 6 months), clear economic buyer identified, budget likely exists (revenue >$1B or known transformation spend), low competitive barrier, organizational urgency.</p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid var(--amber);">
+          <h3 style="color: var(--amber);">Moderate</h3>
+          <p>Clear McChrystal fit but engagement uncertain due to at least 1 of: financial distress limiting advisory spend, no clear entry point, trigger event >12 months old or speculative, strong incumbent competitor, cultural resistance to external advisory.</p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid var(--text-muted);">
+          <h3 style="color: var(--text-muted);">Speculative</h3>
+          <p>Plausible fit but significant unknowns: problem is inferred not confirmed, Tier 3 industry with no prior McChrystal track record, org size/budget may be below threshold, would require significant education on McChrystal\u2019s model.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Quality Standards</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          Flag [INFERRED] vs. confirmed facts. Say \u201Cunavailable\u201D rather than fabricate. Prioritize recency (24 months). Every fact should come from a web search, not model knowledge.
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div class="home-section-title">Outreach Subagent Architecture</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        Prospects are split into batches of 5 and delegated to 2 parallel subagents. Each subagent performs additional web searches for the freshest hooks before drafting.
+      </p>
+
+      <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">5</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Companies per batch</div>
+        </div>
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">2</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Parallel subagents</div>
+        </div>
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">3</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Emails per sequence</div>
+        </div>
+      </div>
+
+      <div class="home-section-title" style="margin-top:24px;">Sequence Structure</div>
+      <div class="method-grid" style="margin-bottom:20px;">
+        <div class="method-card" style="border-left: 3px solid var(--green);">
+          <h3 style="color: var(--green);">Email 1 \u2014 Trigger Opener</h3>
+          <p><strong>Day 0.</strong> References a specific recent event from the dossier (CEO departure, restructuring announcement, earnings miss). Connects it to one McChrystal capability. Demonstrates homework \u2014 no generic \u201CI\u2019d love to connect.\u201D</p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid var(--amber);">
+          <h3 style="color: var(--amber);">Email 2 \u2014 Value-Add</h3>
+          <p><strong>Day 5.</strong> Shares a relevant framework, insight, or parallel example. Positions McChrystal as a thought partner, not a vendor. No hard ask \u2014 builds credibility and keeps the thread warm.</p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid #7ab8f5;">
+          <h3 style="color: #7ab8f5;">Email 3 \u2014 Direct Ask</h3>
+          <p><strong>Day 10.</strong> Proposes a specific, low-commitment next step: 30-minute call, diagnostic conversation, or introduction to a relevant Senior Partner. Creates urgency tied to the prospect\u2019s own timeline.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Targeting Logic</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          Default to the #1 priority contact from the dossier (economic buyer or internal champion). If the priority contact is a veteran, lean into the military connection. If the prospect has a Chief Transformation Officer or similar role, consider them as primary target over the CEO.
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Tone &amp; Quality Standards</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          150\u2013250 words per email. Address the priority contact by first name. Every email must reference something specific to THIS prospect \u2014 never generic. Subject lines: short (<60 chars), specific, no clickbait. Reference McChrystal\u2019s military DNA only when it maps naturally (veteran contacts, crisis situations). No competitor mentions. No promised ROI. Hook field on each email names the specific signal or pain point that email leverages.
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div class="home-section-title">Proposal Engine <span style="background:var(--amber-bg); color:var(--amber-text); font-size:11px; font-weight:700; padding:3px 10px; border-radius:20px; margin-left:12px; text-transform:none; letter-spacing:0;">Coming Soon</span></div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        Phase 4 of the BD pipeline \u2014 bridges outreach to signed engagement. AI-drafted proposals using McChrystal Group\u2019s historical proposals as reference material.
+      </p>
+
+      <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#7ab8f5;">1</div>
+          <h3>Reference Library</h3>
+          <p>Past proposals, SOWs, pricing sheets, and contracts stored in <code style="background:var(--bg); padding:2px 6px; border-radius:4px; font-size:12px;">data/proposals/</code>. Both wins and losses, with context on what worked.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--green);">2</div>
+          <h3>AI Draft Generation</h3>
+          <p>Claude Code reads relevant reference proposals + the prospect\u2019s dossier, then generates a first draft matching McChrystal\u2019s voice, scope structure, staffing models, and pricing patterns.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--purple);">3</div>
+          <h3>Review & Learn</h3>
+          <p>Senior Partners review and correct. Claude Code learns from the feedback over time, improving draft quality with each iteration.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">What\u2019s Needed to Activate</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          Past proposals dropped into <code style="background:var(--bg); padding:2px 6px; border-radius:4px; font-size:12px;">data/proposals/</code> \u2014 both wins and losses. Pricing guidelines and rate cards. Win/loss context (what worked, what didn\u2019t).
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div class="home-section-title">Pipeline Orchestration</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        The entire BD pipeline runs from a single instruction. Orchestration helpers track state, verify completeness, and deploy results.
+      </p>
+
+      <div class="method-grid" style="margin-bottom:20px;">
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--accent);">&#9654;</div>
+          <h3>Single-Command Flow</h3>
+          <p>Discover \u2192 Research \u2192 Outreach from one instruction. No manual handoffs between phases \u2014 the agent orchestrates the full pipeline end-to-end.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--green);">&#9881;</div>
+          <h3>Orchestration Helpers</h3>
+          <p><code style="background:var(--bg); padding:2px 6px; border-radius:4px; font-size:12px;">get_existing_prospects()</code> loads current state. <code style="background:var(--bg); padding:2px 6px; border-radius:4px; font-size:12px;">pipeline_status()</code> shows counts by phase. <code style="background:var(--bg); padding:2px 6px; border-radius:4px; font-size:12px;">clear_phase()</code> resets a phase before regenerating.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:var(--purple);">&#10003;</div>
+          <h3>Verification</h3>
+          <p><code style="background:var(--bg); padding:2px 6px; border-radius:4px; font-size:12px;">pipeline_status()</code> confirms all prospects have dossiers and outreach. Gaps are flagged before deployment.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#7ab8f5;">&#9729;</div>
+          <h3>Deployment</h3>
+          <p>Push to GitHub \u2192 auto-deploys to live dashboard via GitHub Pages. Data flows from Markdown reports \u2192 dashboard.json \u2192 static site.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Quality Gates (applied at every step)</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
+          \u2022 Every fact should come from a web search, not model knowledge<br>
+          \u2022 Dates must be specific (month/year minimum), not \u201Crecently\u201D or \u201Cin recent years\u201D<br>
+          \u2022 Revenue and employee figures must be sourced or marked [INFERRED]<br>
+          \u2022 If a prospect has no compelling current signal upon deeper research, drop it and find a replacement
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
       <div class="home-section-title">Signal Types</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
         Signals are the primary scoring driver. Each indicates a specific organizational moment where McChrystal Group\u2019s capabilities are most relevant.
@@ -1218,77 +1371,6 @@ Primary problem, best capability fit, likely objections, competitive landscape (
         <div class="signal-card">
           <div class="signal-card-name" style="color: var(--purple);">Transformation</div>
           <div class="signal-card-desc">Digital, operational, or strategic pivots. New operating models that require organization-wide change \u2014 not just new technology.</div>
-        </div>
-      </div>
-    </div>
-
-    <div class="home-section">
-      <div class="home-section-title">Research Dossier Structure</div>
-      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Each dossier follows a standardized 7-section format. The goal: a Senior Partner can read it in under 10 minutes and walk into a meeting prepared.
-      </p>
-      <div class="method-grid">
-        <div class="method-card">
-          <div class="method-card-icon" style="color:#7ab8f5;">1</div>
-          <h3>Organization Snapshot</h3>
-          <p>Legal name, HQ, founding year, ownership structure, geographic footprint. The basics a partner needs before the first call.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:var(--green);">2</div>
-          <h3>Financial Health</h3>
-          <p>Revenue trajectory, profitability, analyst sentiment. Key pressures and tailwinds that shape the conversation.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:var(--purple);">3</div>
-          <h3>Leadership Profiles</h3>
-          <p>C-suite and board with tenure, background, and public persona. Priority targets identified with rationale for why they\u2019re the right entry point.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:var(--amber);">4</div>
-          <h3>Culture & Structure</h3>
-          <p>Hierarchy vs. flat, Glassdoor patterns, known transformation programs. Where the org\u2019s structure is helping or hurting.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:var(--red);">5</div>
-          <h3>Trigger Events</h3>
-          <p>5\u20137 most relevant developments from the last 18 months. Each event includes date, description, and why it matters for McChrystal.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:#db4c9c;">6</div>
-          <h3>Fit Assessment</h3>
-          <p>Primary problem, best capability fit, likely objections, competitive landscape. Rated Strong, Moderate, or Speculative with rationale.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:var(--text-secondary);">7</div>
-          <h3>Conversation Entry Points</h3>
-          <p>2\u20133 opening questions for a Senior Partner, mutual connections, recommended first meeting framing.</p>
-        </div>
-      </div>
-    </div>
-
-    <div class="home-section">
-      <div class="home-section-title">Outreach Sequence Logic</div>
-      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Each prospect gets a 3-email sequence that escalates from insight to ask. Written in Senior Partner voice \u2014 peer-to-peer, not vendor-to-buyer. Every email references something specific to that prospect.
-      </p>
-      <div class="method-grid">
-        <div class="method-card" style="border-left: 3px solid var(--green);">
-          <h3 style="color: var(--green);">Email 1 \u2014 Trigger Opener</h3>
-          <p><strong>Day 0.</strong> References a specific recent event from the dossier (CEO departure, restructuring announcement, earnings miss). Connects it to one McChrystal capability. Demonstrates homework \u2014 no generic \u201CI\u2019d love to connect.\u201D</p>
-        </div>
-        <div class="method-card" style="border-left: 3px solid var(--amber);">
-          <h3 style="color: var(--amber);">Email 2 \u2014 Value-Add</h3>
-          <p><strong>Day 5.</strong> Shares a relevant framework, insight, or parallel example. Positions McChrystal as a thought partner, not a vendor. No hard ask \u2014 builds credibility and keeps the thread warm.</p>
-        </div>
-        <div class="method-card" style="border-left: 3px solid #7ab8f5;">
-          <h3 style="color: #7ab8f5;">Email 3 \u2014 Direct Ask</h3>
-          <p><strong>Day 10.</strong> Proposes a specific, low-commitment next step: 30-minute call, diagnostic conversation, or introduction to a relevant Senior Partner. Creates urgency tied to the prospect\u2019s own timeline.</p>
-        </div>
-      </div>
-      <div style="margin-top:20px; padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
-        <div style="color:var(--text-secondary); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px;">Tone Guidelines</div>
-        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
-          150\u2013250 words per email. Address the priority contact by first name. Reference McChrystal\u2019s military DNA only when it maps naturally (veteran contacts, crisis situations). No competitor mentions. No promised ROI. Every sentence must earn its place.
         </div>
       </div>
     </div>
