@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bd-agent"
+version = "0.1.0"
+description = "Business development automation for McChrystal Group"
+requires-python = ">=3.11"
+dependencies = [
+    "rich>=13.7",
+    "pydantic>=2.5",
+]
+
+[tool.setuptools.packages.find]
+include = ["bd*"]
