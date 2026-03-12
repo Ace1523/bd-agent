@@ -41,7 +41,7 @@ function switchTab(view) {
 }
 
 async function loadData() {
-  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works"];
+  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works", "future"];
   views.forEach((v) => {
     document.getElementById(`view-${v}`).innerHTML =
       '<div class="loading">Loading data...</div>';
@@ -74,6 +74,7 @@ function renderAll() {
   renderOutreach();
   renderProposals();
   renderHowItWorks();
+  renderFuture();
   updateMeta();
 }
 
@@ -1544,6 +1545,134 @@ function renderHowItWorks() {
         <div class="signal-card">
           <div class="signal-card-name" style="color: var(--accent);">Partnership</div>
           <div class="signal-card-desc">Strategic partnerships, joint ventures, platform alliances. New external relationships that force internal operating model changes \u2014 coordination challenges multiply with each partner.</div>
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function renderFuture() {
+  const container = document.getElementById("view-future");
+
+  container.innerHTML = `
+    <div class="home-section">
+      <div class="hero" style="padding: 40px 20px 32px;">
+        <div class="hero-title" style="font-size: 32px;">Future Possibilities</div>
+        <div class="hero-subtitle" style="max-width: 660px;">
+          Where this platform is headed \u2014 from structured research and outreach toward a proactive, always-on decision-support system.
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
+      <div style="border-left: 4px solid var(--accent); padding: 16px 20px; background: rgba(218,97,35,0.06); border-radius: 0 8px 8px 0; margin-bottom: 32px;">
+        <p style="color:var(--text-secondary); font-size:14px; line-height:1.7; margin:0;">
+          Today the BD Agent runs when you tell it to \u2014 discover, research, draft outreach. The next evolution is a system that watches the market continuously, surfaces opportunities before anyone asks, and learns from every win and loss to get sharper over time. The features below represent the path from a powerful tool to an intelligent partner.
+        </p>
+      </div>
+
+      <div class="method-grid">
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #6bc9a0;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/>
+              <path d="M12 2a15 15 0 0 1 4 10 15 15 0 0 1-4 10"/>
+              <path d="M2 12h20"/>
+              <path d="M12 2v20"/>
+            </svg>
+          </div>
+          <h3>Signal-Triggered Opportunity Discovery</h3>
+          <p>Continuous monitoring of news feeds, SEC filings, funding announcements, and leadership changes. When a signal fires \u2014 a CEO departure, a PE recapitalization, a major reorg \u2014 the system auto-surfaces the company, scores it against the ICP, and initiates the research workflow without waiting for a human prompt.</p>
+        </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #a78bdb;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 2v6h-6"/>
+              <path d="M3 12a9 9 0 0 1 15-6.7L21 8"/>
+              <path d="M3 22v-6h6"/>
+              <path d="M21 12a9 9 0 0 1-15 6.7L3 16"/>
+            </svg>
+          </div>
+          <h3>Automated Dossier Enrichment</h3>
+          <p>Dossiers go stale fast. This capability periodically refreshes every company profile \u2014 checking for new leadership appointments, earnings reports, funding events, hiring surges, and strategic announcements. Stale sections get flagged, updated data gets merged, and the fit rating adjusts automatically.</p>
+        </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #7ab8f5;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/>
+              <circle cx="12" cy="7" r="4"/>
+              <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+              <path d="M21 21v-2a4 4 0 0 0-3-3.87"/>
+            </svg>
+          </div>
+          <h3>Contact Discovery & Identification</h3>
+          <p>Analyzing public sources \u2014 LinkedIn, conference speakers, published articles, board filings \u2014 to identify the right decision-makers at each prospect. Contacts are prioritized by role relevance to the opportunity thesis: transformation leads, strategy chiefs, and operational leaders who feel the pain daily.</p>
+          <p style="margin-top:10px; font-size:12px; color:var(--text-tertiary); border-top:1px solid var(--border); padding-top:8px;">
+            <strong>Planned integration:</strong> Apollo.io for contact database enrichment \u2014 verified emails, direct dials, and org chart mapping at scale.
+          </p>
+        </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #e8c547;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M3 3v18h18"/>
+              <path d="M7 16l4-8 4 4 4-8"/>
+            </svg>
+          </div>
+          <h3>Adaptive Opportunity Scoring</h3>
+          <p>The current scoring model uses fixed weights. The next version learns from historical outcomes \u2014 which signal combinations actually converted, which revenue bands closed fastest, which industries had the highest engagement rates \u2014 and continuously refines the scoring criteria to surface better prospects.</p>
+        </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #da6123;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2v4"/>
+              <path d="M12 18v4"/>
+              <path d="M4.93 4.93l2.83 2.83"/>
+              <path d="M16.24 16.24l2.83 2.83"/>
+              <path d="M2 12h4"/>
+              <path d="M18 12h4"/>
+              <path d="M4.93 19.07l2.83-2.83"/>
+              <path d="M16.24 7.76l2.83-2.83"/>
+            </svg>
+          </div>
+          <h3>Pipeline Learning & Feedback Integration</h3>
+          <p>Closing the loop. When a prospect converts (or doesn\u2019t), that outcome feeds back into the system. Over time, the agent learns which dossier patterns predict success, which outreach angles get responses, and which fit assessments were right \u2014 making every future recommendation sharper.</p>
+        </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #5b9bd5;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M12 2a7 7 0 0 1 7 7c0 2.5-1.5 4.5-3 6l-4 5-4-5c-1.5-1.5-3-3.5-3-6a7 7 0 0 1 7-7z"/>
+              <circle cx="12" cy="9" r="2.5"/>
+              <path d="M4.5 16.5L2 22h20l-2.5-5.5"/>
+            </svg>
+          </div>
+          <h3>Strategic BD Intelligence Layer</h3>
+          <p>The synthesis layer. Instead of individual prospect reports, the system generates portfolio-level insights: market trends across the pipeline, emerging industry clusters, competitive advisor movements, and strategic recommendations for where McChrystal Group should focus BD resources. Reduces manual overhead and supports informed, high-level decisions.</p>
+        </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #c9a06b;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="5" cy="6" r="2"/>
+              <circle cx="19" cy="6" r="2"/>
+              <circle cx="12" cy="18" r="2"/>
+              <circle cx="12" cy="6" r="2"/>
+              <circle cx="5" cy="18" r="2"/>
+              <circle cx="19" cy="18" r="2"/>
+              <line x1="7" y1="6" x2="10" y2="6"/>
+              <line x1="14" y1="6" x2="17" y2="6"/>
+              <line x1="6.5" y1="7.5" x2="10.5" y2="16.5"/>
+              <line x1="17.5" y1="7.5" x2="13.5" y2="16.5"/>
+              <line x1="5" y1="16" x2="5" y2="8"/>
+              <line x1="19" y1="16" x2="19" y2="8"/>
+            </svg>
+          </div>
+          <h3>Opportunity Network Mapping</h3>
+          <p>Visualizing the hidden connections between companies, executives, investors, board members, and partners across the pipeline. Surface warm introduction paths \u2014 shared board members, PE firms with multiple portfolio companies in the pipeline, executives who\u2019ve moved between prospects \u2014 turning cold outreach into warm conversations.</p>
         </div>
       </div>
     </div>
