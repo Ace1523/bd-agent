@@ -10,8 +10,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function setupTabs() {
   document.querySelectorAll(".nav-tab").forEach((tab) => {
-    tab.addEventListener("click", () => switchTab(tab.dataset.view));
+    tab.addEventListener("click", () => {
+      switchTab(tab.dataset.view);
+      // Close hamburger menu on mobile after selection
+      document.getElementById("nav-tabs").classList.remove("open");
+    });
   });
+
+  // Hamburger toggle
+  const hamburger = document.getElementById("hamburger");
+  if (hamburger) {
+    hamburger.addEventListener("click", () => {
+      document.getElementById("nav-tabs").classList.toggle("open");
+    });
+  }
 }
 
 function switchTab(view) {
