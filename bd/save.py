@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from typing import Union
 
-from bd.models import Dossier, OutreachSequence, Prospect
+from bd.models import Dossier, OutreachPackage, OutreachSequence, Prospect
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
@@ -31,7 +31,7 @@ def _load_dashboard_json() -> dict:
     """Load existing dashboard.json or return empty structure."""
     if DASHBOARD_JSON.exists():
         return json.loads(DASHBOARD_JSON.read_text())
-    return {"discovery_runs": [], "dossiers": [], "outreach_sequences": []}
+    return {"discovery_runs": [], "dossiers": [], "outreach_packages": []}
 
 
 def _save_dashboard_json(data: dict) -> None:
@@ -68,12 +68,14 @@ def save_research(report: str, dossier: Union[Dossier, None] = None) -> Path:
     return path
 
 
-def save_outreach(report: str, sequence: Union[OutreachSequence, None] = None) -> Path:
+def save_outreach(report: str, package: Union[OutreachPackage, None] = None) -> Path:
     """Append an outreach report to data/outreach.md and update JSON."""
     path = _append(OUTREACH_FILE, report)
-    if sequence:
+    if package:
         data = _load_dashboard_json()
-        data["outreach_sequences"].append(sequence.model_dump(mode="json"))
+        if "outreach_packages" not in data:
+            data["outreach_packages"] = []
+        data["outreach_packages"].append(package.model_dump(mode="json"))
         _save_dashboard_json(data)
     return path
 
@@ -83,5 +85,7 @@ def clear_outreach() -> None:
     if OUTREACH_FILE.exists():
         OUTREACH_FILE.write_text("")
     data = _load_dashboard_json()
-    data["outreach_sequences"] = []
+    data["outreach_packages"] = []
+    # Also clear legacy key if present
+    data.pop("outreach_sequences", None)
     _save_dashboard_json(data)

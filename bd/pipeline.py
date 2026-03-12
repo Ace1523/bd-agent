@@ -44,11 +44,16 @@ def pipeline_status() -> dict:
         if d.get("prospect")
     }
 
-    outreach_names = {
-        s["dossier"]["prospect"]["company_name"]
-        for s in data.get("outreach_sequences", [])
-        if s.get("dossier", {}).get("prospect")
-    }
+    # Support both new outreach_packages and legacy outreach_sequences
+    outreach_names: set[str] = set()
+    for pkg in data.get("outreach_packages", []):
+        name = pkg.get("dossier", {}).get("prospect", {}).get("company_name")
+        if name:
+            outreach_names.add(name)
+    for seq in data.get("outreach_sequences", []):
+        name = seq.get("dossier", {}).get("prospect", {}).get("company_name")
+        if name:
+            outreach_names.add(name)
 
     missing_dossiers = prospect_names - dossier_names
     missing_outreach = dossier_names - outreach_names
@@ -56,7 +61,7 @@ def pipeline_status() -> dict:
     return {
         "prospects": len(prospect_names),
         "dossiers": len(dossier_names),
-        "outreach_sequences": len(outreach_names),
+        "outreach_packages": len(outreach_names),
         "missing_dossiers": sorted(missing_dossiers),
         "missing_outreach": sorted(missing_outreach),
     }
@@ -75,7 +80,8 @@ def clear_phase(phase: str) -> None:
         if RESEARCH_FILE.exists():
             RESEARCH_FILE.write_text("")
     elif phase == "outreach":
-        data["outreach_sequences"] = []
+        data["outreach_packages"] = []
+        data.pop("outreach_sequences", None)
         if OUTREACH_FILE.exists():
             OUTREACH_FILE.write_text("")
     else:

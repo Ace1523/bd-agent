@@ -7,12 +7,14 @@ from pathlib import Path
 from typing import Union
 
 from bd.models import (
+    ColdEmail,
     Contact,
     Dossier,
     Email,
     FitAssessment,
     FitRating,
     FitTier,
+    OutreachPackage,
     OutreachSequence,
     Prospect,
     Signal,
@@ -29,7 +31,7 @@ def _load_dashboard() -> dict:
     """Load existing dashboard.json or return empty structure."""
     if DASHBOARD_JSON.exists():
         return json.loads(DASHBOARD_JSON.read_text())
-    return {"discovery_runs": [], "dossiers": [], "outreach_sequences": []}
+    return {"discovery_runs": [], "dossiers": [], "outreach_packages": []}
 
 
 def _save_dashboard(data: dict) -> Path:
@@ -46,7 +48,7 @@ def _save_dashboard(data: dict) -> Path:
 def export_dashboard_json(
     prospects: Union[list[Prospect], None] = None,
     dossiers: Union[list[Dossier], None] = None,
-    outreach_sequences: Union[list[OutreachSequence], None] = None,
+    outreach_packages: Union[list[OutreachPackage], None] = None,
 ) -> Path:
     """Export all data to dashboard.json, merging with existing data."""
     data = _load_dashboard()
@@ -62,9 +64,11 @@ def export_dashboard_json(
         for d in dossiers:
             data["dossiers"].append(d.model_dump(mode="json"))
 
-    if outreach_sequences:
-        for seq in outreach_sequences:
-            data["outreach_sequences"].append(seq.model_dump(mode="json"))
+    if outreach_packages:
+        if "outreach_packages" not in data:
+            data["outreach_packages"] = []
+        for pkg in outreach_packages:
+            data["outreach_packages"].append(pkg.model_dump(mode="json"))
 
     return _save_dashboard(data)
 
@@ -352,86 +356,115 @@ def parse_research_markdown(md: str) -> list[Dossier]:
     return dossiers
 
 
-def parse_outreach_markdown(md: str) -> list[OutreachSequence]:
-    """Parse outreach.md into OutreachSequence objects (needs dossiers for linking)."""
-    seq_blocks = re.split(r"^# Outreach Sequence", md, flags=re.MULTILINE)
-    sequences = []
+def parse_outreach_markdown(md: str) -> list[OutreachPackage]:
+    """Parse outreach.md into OutreachPackage objects."""
+    pkg_blocks = re.split(r"^# Outreach Package", md, flags=re.MULTILINE)
+    packages = []
 
-    for block in seq_blocks:
+    for block in pkg_blocks:
         if not block.strip():
             continue
 
-        # Company name
+        # Company name from first line: " — CompanyName"
         first_line = block.strip().split("\n")[0]
         name_match = re.match(r"\s*—\s*(.+)", first_line)
         company_name = name_match.group(1).strip() if name_match else "Unknown"
 
-        # Parse overview
-        revenue = None
+        # Parse target contact
+        target_name = ""
+        target_title = ""
+        target_rationale = ""
         score = 0.0
+        rating = ""
+
         for line in block.split("\n")[:10]:
-            if "Revenue" in line:
-                revenue = _parse_revenue(line)
-            elif "ICP Score" in line:
-                m = re.search(r"(\d+)", line)
+            stripped = line.strip()
+            if stripped.startswith("**Target**:"):
+                parts = stripped.replace("**Target**:", "").strip()
+                if "," in parts:
+                    target_name, target_title = parts.split(",", 1)
+                    target_name = target_name.strip()
+                    target_title = target_title.strip()
+            elif stripped.startswith("**Why this contact**:"):
+                target_rationale = stripped.replace("**Why this contact**:", "").strip()
+            elif "**Score**:" in stripped:
+                m = re.search(r"\*\*Score\*\*:\s*(\d+)", stripped)
                 if m:
                     score = float(m.group(1))
+                m2 = re.search(r"\*\*Fit\*\*:\s*(\w+)", stripped)
+                if m2:
+                    rating = m2.group(1).lower()
 
-        # Parse emails
-        emails = []
-        email_blocks = re.split(r"^## Email \d+", block, flags=re.MULTILINE)
+        # Parse cold email versions
+        cold_emails = []
+        version_blocks = re.split(r"^## Version ([ABC])\s*—\s*(.+)$", block, flags=re.MULTILINE)
 
-        for email_block in email_blocks[1:]:
+        # version_blocks: [preamble, "A", "Trigger-based", content, "B", "Insight-based", content, ...]
+        i = 1
+        while i + 2 < len(version_blocks):
+            version = version_blocks[i]
+            label = version_blocks[i + 1].strip()
+            content = version_blocks[i + 2]
+
             subject = ""
-            timing = 0
             hook = ""
             body_lines = []
 
-            lines = email_block.strip().split("\n")
+            lines = content.strip().split("\n")
             in_body = False
 
             for line in lines:
                 stripped = line.strip()
-                if stripped.startswith("- **Subject**"):
-                    subject = stripped.split(":", 1)[1].strip() if ":" in stripped else ""
-                elif stripped.startswith("- **Timing**"):
-                    m = re.search(r"\+(\d+)", stripped)
-                    timing = int(m.group(1)) if m else 0
-                elif stripped.startswith("- **Hook**"):
-                    hook = stripped.split(":", 1)[1].strip() if ":" in stripped else ""
+                if stripped.startswith("**Subject**:"):
+                    subject = stripped.replace("**Subject**:", "").strip()
+                elif stripped.startswith("**Hook**:"):
+                    hook = stripped.replace("**Hook**:", "").strip()
                 elif stripped == "---":
                     break
-                elif not stripped.startswith("- **") and stripped:
+                elif not stripped.startswith("**") and stripped:
                     in_body = True
+                    body_lines.append(line)
+                elif in_body:
                     body_lines.append(line)
 
             if subject:
-                emails.append(
-                    Email(
-                        sequence_number=len(emails) + 1,
+                cold_emails.append(
+                    ColdEmail(
+                        version=version,
+                        label=label,
                         subject=subject,
                         body="\n".join(body_lines).strip(),
-                        send_delay_days=timing,
                         hook=hook,
                     )
                 )
 
-        # Create a minimal prospect/dossier for the sequence
-        prospect = Prospect(
-            company_name=company_name,
-            revenue_estimate=revenue,
-            score=score,
-        )
+            i += 3
+
+        # Create minimal prospect/dossier
+        prospect = Prospect(company_name=company_name, score=score)
         dossier = Dossier(prospect=prospect)
 
-        sequences.append(OutreachSequence(dossier=dossier, emails=emails))
+        target_contact = Contact(
+            name=target_name or "Unknown",
+            title=target_title or "Unknown",
+            priority_rationale=target_rationale or None,
+            is_priority_target=True,
+        )
 
-    return sequences
+        packages.append(
+            OutreachPackage(
+                dossier=dossier,
+                target_contact=target_contact,
+                cold_emails=cold_emails,
+            )
+        )
+
+    return packages
 
 
 def bootstrap_from_markdown() -> Path:
     """Parse existing Markdown reports and export to dashboard.json."""
-    data = {"discovery_runs": [], "dossiers": [], "outreach_sequences": []}
+    data = {"discovery_runs": [], "dossiers": [], "outreach_packages": []}
 
     # Parse discovery
     discovery_path = DATA_DIR / "discovery.md"
@@ -456,9 +489,9 @@ def bootstrap_from_markdown() -> Path:
     outreach_path = DATA_DIR / "outreach.md"
     if outreach_path.exists():
         md = outreach_path.read_text()
-        sequences = parse_outreach_markdown(md)
-        for seq in sequences:
-            data["outreach_sequences"].append(seq.model_dump(mode="json"))
+        packages = parse_outreach_markdown(md)
+        for pkg in packages:
+            data["outreach_packages"].append(pkg.model_dump(mode="json"))
 
     return _save_dashboard(data)
 

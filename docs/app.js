@@ -206,7 +206,7 @@ function renderHome() {
   }
   const prospectCount = prospectMap.size;
   const dossierCount = (dashboardData.dossiers || []).length;
-  const sequenceCount = (dashboardData.outreach_sequences || []).length;
+  const sequenceCount = (dashboardData.outreach_packages || dashboardData.outreach_sequences || []).length;
 
   // Compute KPI stats
   const allProspects = [...prospectMap.values()];
@@ -252,7 +252,7 @@ function renderHome() {
         </div>
         <div class="icp-card">
           <div class="icp-value">${sequenceCount}</div>
-          <div class="icp-label">Outreach Sequences</div>
+          <div class="icp-label">Outreach Packages</div>
         </div>
       </div>
     </div>
@@ -568,7 +568,7 @@ function dossierCard(d) {
   const triggers = d.trigger_events || [];
   const fa = d.fit_assessment;
   const convos = d.conversation_entries || [];
-  const hasOutreach = (dashboardData.outreach_sequences || []).some(
+  const hasOutreach = (dashboardData.outreach_packages || dashboardData.outreach_sequences || []).some(
     (s) => s.dossier?.prospect?.company_name === p.company_name
   );
 
@@ -811,51 +811,111 @@ function textSection(title, content) {
 
 function renderOutreach() {
   const container = document.getElementById("view-outreach");
-  const sequences = dashboardData.outreach_sequences || [];
+  // Support new outreach_packages with fallback to legacy outreach_sequences
+  const packages = dashboardData.outreach_packages || [];
+  const legacySequences = dashboardData.outreach_sequences || [];
+  const allItems = packages.length ? packages : legacySequences;
+  const isLegacy = !packages.length && legacySequences.length > 0;
 
-  if (!sequences.length) {
+  if (!allItems.length) {
     container.innerHTML = `
       <div class="empty-state">
         <div class="empty-state-icon">&#9993;</div>
-        <div class="empty-state-text">No outreach sequences yet.</div>
+        <div class="empty-state-text">No outreach packages yet.</div>
       </div>`;
     return;
   }
 
-  // Sort sequences by score descending
-  const sorted = [...sequences].sort((a, b) => (b.dossier?.prospect?.score || 0) - (a.dossier?.prospect?.score || 0));
+  const sorted = [...allItems].sort((a, b) => (b.dossier?.prospect?.score || 0) - (a.dossier?.prospect?.score || 0));
 
   container.innerHTML = `
     <div class="section-header">
-      <h2 class="section-title">Outreach Sequences</h2>
+      <h2 class="section-title">Outreach Packages</h2>
       <span class="expand-hint">click a tile to expand</span>
-      <span class="section-count">${sorted.length} sequences</span>
+      <span class="section-count">${sorted.length} packages</span>
     </div>
     <div class="card-grid"></div>`;
 
-  renderFilterBar("view-outreach", (cat) => renderOutreachCards(sorted, cat));
-  renderOutreachCards(sorted, "All");
+  renderFilterBar("view-outreach", (cat) => renderOutreachCards(sorted, cat, isLegacy));
+  renderOutreachCards(sorted, "All", isLegacy);
 }
 
-function renderOutreachCards(sequences, category) {
+function renderOutreachCards(items, category, isLegacy) {
   const container = document.querySelector("#view-outreach .card-grid");
+  const cardFn = isLegacy ? legacyOutreachCard : outreachCard;
   if (category === "All") {
-    const groups = groupByCategory(sequences, (s) => s.dossier?.prospect?.industry);
+    const groups = groupByCategory(items, (s) => s.dossier?.prospect?.industry);
     let html = "";
     for (const cat of CATEGORIES) {
       if (!groups[cat].length) continue;
       html += `<div class="category-header">${cat}</div>`;
-      html += groups[cat].map((s) => outreachCard(s)).join("");
+      html += groups[cat].map((s) => cardFn(s)).join("");
     }
     container.innerHTML = html;
   } else {
-    const filtered = sequences.filter((s) => categoryOf(s.dossier?.prospect?.industry) === category);
-    container.innerHTML = filtered.map((s) => outreachCard(s)).join("");
+    const filtered = items.filter((s) => categoryOf(s.dossier?.prospect?.industry) === category);
+    container.innerHTML = filtered.map((s) => cardFn(s)).join("");
   }
   attachCardToggle(document.getElementById("view-outreach"), true);
 }
 
-function outreachCard(seq) {
+function outreachCard(pkg) {
+  const p = pkg.dossier?.prospect || {};
+  const tc = pkg.target_contact || {};
+  const coldEmails = pkg.cold_emails || [];
+  const fa = pkg.dossier?.fit_assessment;
+  const ratingClass = fa
+    ? fa.rating === "strong" ? "score-green" : fa.rating === "moderate" ? "score-amber" : "score-gray"
+    : "";
+  const ratingLabel = fa ? fa.rating.charAt(0).toUpperCase() + fa.rating.slice(1) : "";
+
+  return `
+    <div class="card">
+      <div class="card-header">
+        <div class="card-company">${escapeHtml(p.company_name || "Unknown")}</div>
+        <div class="card-badges">
+          ${fa ? `<span class="tier-badge ${ratingClass}" style="font-size:11px;">${ratingLabel}</span>` : ""}
+          <span class="score-badge ${scoreClass(p.score || 0)}">${Math.round(p.score || 0)}</span>
+        </div>
+      </div>
+      <div class="card-meta">
+        <span>${formatRevenue(p.revenue_estimate)}</span>
+        <span>${coldEmails.length} versions</span>
+      </div>
+      ${tc.name ? `
+        <div style="margin-top:10px; padding:10px 12px; background:var(--bg-surface); border-radius:var(--radius-sm); border-left:3px solid var(--accent);">
+          <div style="font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--ui-bright); margin-bottom:6px;">Target Contact</div>
+          <div style="margin-bottom:4px;">
+            <strong style="color:var(--text); font-size:14px;">${escapeHtml(tc.name)}</strong>
+            <span style="color:var(--text-secondary); font-size:13px;"> \u2014 ${escapeHtml(tc.title || "")}</span>
+          </div>
+          ${tc.priority_rationale ? `<div style="font-size:12px; color:var(--text-muted); margin-top:4px; font-style:italic;">Why: ${escapeHtml(tc.priority_rationale)}</div>` : ""}
+        </div>
+      ` : ""}
+      <div class="email-sequence">
+        ${coldEmails.map((e, i) => coldEmailCard(e, i)).join("")}
+      </div>
+    </div>`;
+}
+
+function coldEmailCard(email, index) {
+  const id = `email-${Date.now()}-${Math.random().toString(36).slice(2, 6)}-${index}`;
+  const versionColors = { A: "var(--green)", B: "var(--amber)", C: "#7ab8f5" };
+  const color = versionColors[email.version] || "var(--ui-bright)";
+
+  return `
+    <div class="email-card">
+      <div class="email-header">
+        <span class="email-number" style="color:${color};">Version ${escapeHtml(email.version)} \u2014 ${escapeHtml(email.label)}</span>
+      </div>
+      <div class="email-subject">${escapeHtml(email.subject)}</div>
+      <div class="email-hook">Hook: ${escapeHtml(email.hook)}</div>
+      <div class="email-body" id="${id}">${escapeHtml(email.body)}</div>
+      <button class="copy-btn" onclick="copyEmail('${id}', this)">Copy</button>
+    </div>`;
+}
+
+function legacyOutreachCard(seq) {
   const p = seq.dossier?.prospect || {};
   const emails = seq.emails || [];
   const fa = seq.dossier?.fit_assessment;
@@ -883,19 +943,19 @@ function outreachCard(seq) {
           <div style="font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--ui-bright); margin-bottom:6px;">Target Contacts</div>
           ${contacts.map((c) => `
             <div style="margin-bottom:4px;">
-              <strong style="color:var(--text-primary); font-size:13px;">${escapeHtml(c.name)}</strong>
+              <strong style="color:var(--text); font-size:13px;">${escapeHtml(c.name)}</strong>
               <span style="color:var(--text-secondary); font-size:12px;"> \u2014 ${escapeHtml(c.title)}</span>
             </div>
           `).join("")}
         </div>
       ` : ""}
       <div class="email-sequence">
-        ${emails.map((e, i) => emailCard(e, i)).join("")}
+        ${emails.map((e, i) => legacyEmailCard(e, i)).join("")}
       </div>
     </div>`;
 }
 
-function emailCard(email, index) {
+function legacyEmailCard(email, index) {
   const id = `email-${Date.now()}-${Math.random().toString(36).slice(2, 6)}-${index}`;
   const timing =
     email.send_delay_days === 0
@@ -976,7 +1036,7 @@ function renderProposals() {
         <div class="pipeline-card" onclick="switchTab('outreach')">
           <div class="pipeline-card-step">Phase 3</div>
           <div class="pipeline-card-title">Outreach</div>
-          <div class="pipeline-card-desc">3-email sequences</div>
+          <div class="pipeline-card-desc">Cold email packages (A/B/C)</div>
         </div>
         <div class="pipeline-card" style="border-color: var(--amber);">
           <div class="pipeline-card-step" style="color: var(--amber);">Phase 4</div>
@@ -1041,7 +1101,7 @@ function renderHowItWorks() {
           <div class="pipeline-card-step">Phase 3</div>
           <div class="pipeline-card-title">Outreach</div>
           <div class="pipeline-card-desc">
-            Parallel subagents draft 3-email sequences per prospect, each tailored to the specific situation surfaced in the dossier. Tone is peer-to-peer Senior Partner voice \u2014 not sales copy.
+            Parallel subagents draft 3 independent cold email versions (A/B/C) per prospect, each with a genuinely different opening strategy. Targets champion-level contacts, not CEOs.
           </div>
         </div>
       </div>
@@ -1221,7 +1281,7 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Outreach Subagent Architecture</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Prospects are split into batches of 5 and delegated to 2 parallel subagents. Each subagent performs additional web searches for the freshest hooks before drafting.
+        Prospects are split into batches of 5 and delegated to 2 parallel subagents. Each subagent performs additional web searches for the freshest hooks before drafting 3 independent cold email versions.
       </p>
 
       <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
@@ -1235,37 +1295,51 @@ function renderHowItWorks() {
         </div>
         <div class="method-card" style="text-align:center;">
           <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">3</div>
-          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Emails per sequence</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Versions per package</div>
         </div>
       </div>
 
-      <div class="home-section-title" style="margin-top:24px;">Sequence Structure</div>
+      <div class="home-section-title" style="margin-top:24px;">Cold Email Versions (A/B/C)</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:16px;">
+        Each outreach package contains 3 independent cold email versions with genuinely different opening strategies. Pick whichever resonates most for each prospect.
+      </p>
       <div class="method-grid" style="margin-bottom:20px;">
         <div class="method-card" style="border-left: 3px solid var(--green);">
-          <h3 style="color: var(--green);">Email 1 \u2014 Trigger Opener</h3>
-          <p><strong>Day 0.</strong> References a specific recent event from the dossier (CEO departure, restructuring announcement, earnings miss). Connects it to one McChrystal capability. Demonstrates homework \u2014 no generic \u201CI\u2019d love to connect.\u201D</p>
+          <h3 style="color: var(--green);">Version A \u2014 Trigger-based</h3>
+          <p>Leads with a specific, recent event from the dossier (restructuring announcement, leadership change, earnings miss). Connects it directly to a McChrystal capability. Shows we\u2019ve done our homework.</p>
         </div>
         <div class="method-card" style="border-left: 3px solid var(--amber);">
-          <h3 style="color: var(--amber);">Email 2 \u2014 Value-Add</h3>
-          <p><strong>Day 5.</strong> Shares a relevant framework, insight, or parallel example. Positions McChrystal as a thought partner, not a vendor. No hard ask \u2014 builds credibility and keeps the thread warm.</p>
+          <h3 style="color: var(--amber);">Version B \u2014 Insight-based</h3>
+          <p>Opens with an industry trend or pattern, then pivots to how it maps to the prospect\u2019s situation. Positions McChrystal as someone who sees the landscape, not just the company.</p>
         </div>
         <div class="method-card" style="border-left: 3px solid #7ab8f5;">
-          <h3 style="color: #7ab8f5;">Email 3 \u2014 Direct Ask</h3>
-          <p><strong>Day 10.</strong> Proposes a specific, low-commitment next step: 30-minute call, diagnostic conversation, or introduction to a relevant Senior Partner. Creates urgency tied to the prospect\u2019s own timeline.</p>
+          <h3 style="color: #7ab8f5;">Version C \u2014 Warm angle</h3>
+          <p>Finds a human connection: shared network, military background, mutual board member, alma mater, conference appearance. Uses that warmth to earn the first read.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Email Structure (all versions)</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
+          1. <strong>Opening hook</strong> \u2014 specific, relevant, human (2\u20133 sentences)<br>
+          2. <strong>Bridge</strong> \u2014 why McChrystal Group is reaching out now (2\u20133 sentences)<br>
+          3. <strong>Credibility signal</strong> \u2014 one concrete proof point (1\u20132 sentences)<br>
+          4. <strong>Soft ask</strong> \u2014 20-minute call, low-friction (1\u20132 sentences)<br>
+          5. <strong>Signature block</strong>
         </div>
       </div>
 
       <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Targeting Logic</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
-          Default to the #1 priority contact from the dossier (economic buyer or internal champion). If the priority contact is a veteran, lean into the military connection. If the prospect has a Chief Transformation Officer or similar role, consider them as primary target over the CEO.
+          Target champion-level contacts (VP, SVP, Chief Transformation Officer, Head of Strategy) \u2014 NOT the CEO. These are the people who feel the pain daily and can champion McChrystal internally. CEO stays as a contact but is marked \u201Cexecutive sponsor,\u201D not outreach target.
         </div>
       </div>
 
       <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Tone &amp; Quality Standards</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
-          150\u2013250 words per email. Address the priority contact by first name. Every email must reference something specific to THIS prospect \u2014 never generic. Subject lines: short (<60 chars), specific, no clickbait. Reference McChrystal\u2019s military DNA only when it maps naturally (veteran contacts, crisis situations). No competitor mentions. No promised ROI. Hook field on each email names the specific signal or pain point that email leverages.
+          150\u2013200 words max per version. Warm but credible, peer-to-peer \u2014 not salesy. No buzzwords, no firm bragging in the first half. The 3 versions must be genuinely different \u2014 not the same email with swapped openers. Should not be detectable as AI-generated. Flag [GAP] if a version can\u2019t find a real angle.
         </div>
       </div>
     </div>
@@ -1458,7 +1532,7 @@ function updateMeta() {
         else { matches.push({ name, score: d.prospect?.score || 0, views: ["research"] }); }
       }
     }
-    for (const s of dashboardData.outreach_sequences || []) {
+    for (const s of dashboardData.outreach_packages || dashboardData.outreach_sequences || []) {
       const name = s.dossier?.prospect?.company_name;
       if (name?.toLowerCase().includes(q)) {
         const existing = matches.find(m => m.name === name);

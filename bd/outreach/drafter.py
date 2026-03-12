@@ -1,29 +1,31 @@
-"""Generate Markdown outreach reports from email sequences."""
+"""Generate Markdown outreach reports from outreach packages."""
 
 from bd.formatting import format_revenue
-from bd.models import OutreachSequence
+from bd.models import OutreachPackage
 from bd.save import save_outreach
 
 
-def generate_outreach_report(sequence: OutreachSequence) -> str:
-    """Render a Markdown report of a full outreach email sequence."""
-    p = sequence.dossier.prospect
+def generate_outreach_report(package: OutreachPackage) -> str:
+    """Render a Markdown report of an outreach package (3 cold email versions)."""
+    p = package.dossier.prospect
+    tc = package.target_contact
+    fa = package.dossier.fit_assessment
+    rating = fa.rating.value if fa else "N/A"
     lines: list[str] = []
 
-    lines.append(f"# Outreach Sequence — {p.company_name}")
+    lines.append(f"# Outreach Package — {p.company_name}")
     lines.append("")
-    lines.append(f"- **Target**: {p.company_name}")
-    lines.append(f"- **Revenue**: {format_revenue(p.revenue_estimate)}")
-    lines.append(f"- **ICP Score**: {p.score:.0f}")
-    lines.append(f"- **Emails in sequence**: {len(sequence.emails)}")
+    lines.append(f"**Target**: {tc.name}, {tc.title}")
+    lines.append(f"**Why this contact**: {tc.priority_rationale or 'N/A'}")
+    lines.append(f"**Company**: {p.company_name} | **Score**: {p.score:.0f} | **Fit**: {rating}")
+    lines.append("")
+    lines.append("---")
     lines.append("")
 
-    for email in sequence.emails:
-        lines.append(f"## Email {email.sequence_number}")
-        lines.append("")
-        lines.append(f"- **Subject**: {email.subject}")
-        lines.append(f"- **Timing**: +{email.send_delay_days} days")
-        lines.append(f"- **Hook**: {email.hook}")
+    for email in package.cold_emails:
+        lines.append(f"## Version {email.version} — {email.label}")
+        lines.append(f"**Subject**: {email.subject}")
+        lines.append(f"**Hook**: {email.hook}")
         lines.append("")
         lines.append(email.body)
         lines.append("")
@@ -31,5 +33,5 @@ def generate_outreach_report(sequence: OutreachSequence) -> str:
         lines.append("")
 
     report = "\n".join(lines)
-    save_outreach(report, sequence)
+    save_outreach(report, package)
     return report

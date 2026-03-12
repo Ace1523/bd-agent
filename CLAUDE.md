@@ -83,7 +83,7 @@ Comprehensive dossiers a Senior Partner can read in under 10 minutes. Eight sect
 1. **Organization Snapshot** — legal name, HQ, founding year, ownership, geographic footprint
 1b. **Company Overview** — in-depth narrative (3-5 sentences) covering what the company does, how it makes money, ownership history, major recent events (mergers, spinoffs, PE transactions), and current strategic direction. This is the first thing a reader sees after the snapshot — it must stand alone as a complete introduction for someone who has never heard of the company. Populates the `company_overview` field on the Prospect object embedded in the Dossier.
 2. **Financial Health & Growth Stage** — revenue trajectory, profitability, analyst sentiment, key pressures/tailwinds
-3. **Leadership Team Profiles** — C-suite + board with tenure, background (flag military/gov service), public persona, LinkedIn activity, known McChrystal connections. Identify 1-2 priority targets (economic buyer or champion) with rationale
+3. **Leadership Team Profiles** — C-suite + board with tenure, background (flag military/gov service), public persona, LinkedIn activity, known McChrystal connections. Identify 1-2 priority targets — target VP/SVP/Chief Transformation Officer/Head of Strategy (someone who feels the pain daily and can champion internally), NOT the CEO. CEO should be listed as a contact but marked as "executive sponsor" not "outreach target". The `is_priority_target` flag should go to the champion-level contact
 4. **Organizational Culture & Structure Signals** — hierarchy vs. flat, Glassdoor patterns, known transformation programs, culture fit/problems
 5. **Recent News & Trigger Events** — 5-7 most relevant developments (last 18 months) with date, event, and why it matters for McChrystal
 6. **McChrystal Fit Assessment** — primary problem, best capability fit, likely objections, competitive landscape (McKinsey OrgDesign, Korn Ferry, etc.), rating (Strong/Moderate/Speculative)
@@ -100,34 +100,45 @@ Quality standards: be specific (no generic filler), flag [INFERRED] vs. confirme
 - Report: `bd/research/report.py` — `generate_dossier_report()`
 
 ### Phase 3: Outreach (implemented)
-3-email sequences per prospect, built from dossier data. Each sequence escalates from insight to ask.
+3 independent cold email versions (A/B/C) per prospect, each with a genuinely different opening strategy. NOT sequential follow-ups — pick whichever version resonates most.
 
-**Sequence structure:**
-1. **Email 1 — Trigger-based opener** (send_delay_days=0): Reference a specific, recent trigger event from the dossier. Connect it to one McChrystal capability. Demonstrate that we've done our homework — no generic "I'd love to connect."
-2. **Email 2 — Value-add follow-up** (send_delay_days=5): Share a relevant framework, insight, or parallel example (e.g., "When we worked with a similar organization facing X..."). Position McChrystal as a thought partner, not a vendor. No hard ask yet.
-3. **Email 3 — Direct ask** (send_delay_days=10): Propose a specific, low-commitment next step (30-min call, diagnostic conversation, introduce to a relevant Senior Partner). Create urgency tied to their timeline.
+**Version structure:**
+1. **Version A — Trigger-based**: Lead with a specific, recent trigger event from the dossier. Connect it directly to a McChrystal capability. Show we've done our homework.
+2. **Version B — Insight-based**: Open with an industry trend or pattern, then pivot to how it maps to the prospect's specific situation. Position McChrystal as seeing the landscape, not just the company.
+3. **Version C — Warm angle**: Find a human connection — shared network, military background, mutual board member, alma mater, conference appearance. Use that warmth to earn the first read.
+
+**Email structure (all 3 versions follow this):**
+1. Opening hook — specific, relevant, human (2-3 sentences)
+2. Bridge — why McChrystal Group is reaching out now (2-3 sentences)
+3. Credibility signal — one concrete proof point (1-2 sentences)
+4. Soft ask — 20-minute call, low-friction (1-2 sentences)
+5. Signature block
 
 **Tone & voice:**
-- Write as a Senior Partner, not a sales rep — peer-to-peer, not vendor-to-buyer
-- Confident but not pushy; direct but respectful of their time
-- Reference McChrystal Group's military/special operations DNA only when it maps naturally (e.g., veteran contacts, crisis situations, Team of Teams)
-- No jargon-stuffing — use McChrystal concepts (shared consciousness, empowered execution, Team of Teams) sparingly and only when they genuinely fit the prospect's situation
+- Warm but credible, peer-to-peer — not salesy or vendor-to-buyer
+- No buzzwords, no firm bragging in the first half of the email
+- Reference McChrystal Group's military/special operations DNA only when it maps naturally (e.g., veteran contacts, crisis situations)
+- No jargon-stuffing — use McChrystal concepts sparingly and only when they genuinely fit
 
 **Email quality standards:**
-- Address the primary priority contact by first name
-- 150–250 words per email body — busy executives won't read more
-- Every email must reference something specific to THIS prospect (trigger event, leadership change, financial data, Glassdoor signal) — never generic
-- Subject lines: short (<60 chars), specific, no clickbait. Pattern: "[Company-specific thing] + [McChrystal angle]"
-- Hook field on each Email object should name the specific signal or pain point that email leverages
-- Do NOT mention competitors by name in outreach emails
-- Do NOT promise specific ROI or outcomes — McChrystal sells advisory relationships, not deliverables
+- Address the target contact by first name
+- 150–200 words max per version — busy executives won't read more
+- Every email must reference something specific to THIS prospect — never generic
+- Subject lines: short (<60 chars), specific, no clickbait
+- Hook field on each ColdEmail object should name the specific signal/angle that version leverages
+- The 3 versions must be genuinely different — not the same email with swapped openers
+- Should not be detectable as AI-generated
+- Flag [GAP] if a version can't find a real angle rather than forcing a weak one
+- Do NOT mention competitors by name
+- Do NOT promise specific ROI or outcomes
 
 **Targeting logic:**
-- Default to the #1 priority contact from the dossier (economic buyer or internal champion)
-- If the priority contact is a veteran, lean into the military connection
-- If the prospect has a Chief Transformation Officer or similar role, consider them as primary target over the CEO
+- Target champion-level contacts (VP, SVP, Chief Transformation Officer, Head of Strategy) — NOT the CEO
+- These are people who feel the pain daily and can champion McChrystal internally
+- CEO stays as a contact but is marked "executive sponsor," not outreach target
+- If the target contact is a veteran, lean into the military connection
 
-- Models: `Email`, `OutreachSequence` in `bd/models.py`
+- Models: `ColdEmail`, `OutreachPackage` in `bd/models.py`
 - Report: `bd/outreach/drafter.py` — `generate_outreach_report()`
 
 ### Phase 4: Proposals (coming soon)
@@ -151,7 +162,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 2. `pipeline_status()` — see counts by phase and which prospects are missing dossiers or outreach
 3. `clear_phase(phase)` — reset a phase ('discovery', 'research', or 'outreach') before regenerating
 
-**Single-command workflow**: Claude Code should discover prospects, score them, build dossiers for each, generate outreach sequences, and update the dashboard — all in one pass. Use `pipeline_status()` to verify completeness.
+**Single-command workflow**: Claude Code should discover prospects, score them, build dossiers for each, generate outreach packages, and update the dashboard — all in one pass. Use `pipeline_status()` to verify completeness.
 
 ### Execution Strategy
 
@@ -171,12 +182,13 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 **Step 3: Outreach (parallel subagents)**
 - Split prospects into batches of 5 companies
 - Launch 2 subagents in parallel, each responsible for its batch
-- Each subagent: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachSequence` objects with 3 emails each, calls `generate_outreach_report()`
-- Subagent prompt must include: the full outreach requirements from Phase 3 (sequence structure, tone, quality standards, targeting logic)
+- Each subagent: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachPackage` objects with 3 `ColdEmail` versions (A/B/C) each, calls `generate_outreach_report()`
+- Target contact must be a champion-level contact (VP/SVP/CTO/Head of Strategy), NOT the CEO
+- Subagent prompt must include: the full outreach requirements from Phase 3 (version structure, email structure, tone, quality standards, targeting logic)
 
 **Step 4: Verify & Deploy**
 - Run `pipeline_status()` to confirm all prospects have dossiers and outreach
-- Verify `dashboard.json` has the correct count of sequences
+- Verify `dashboard.json` has the correct count of outreach packages
 - Push to GitHub to update the live dashboard
 
 **Research quality gates (every step):**
@@ -186,13 +198,13 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - If a prospect turns out to have no compelling current signal upon deeper research, drop it and find a replacement — do not force-fit
 
 ## Key Modules
-- `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `Email`, `OutreachSequence`
+- `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `ColdEmail`, `OutreachPackage` (legacy: `Email`, `OutreachSequence`)
 - `bd/discover/scorer.py` — `score_prospect()` and component scoring functions
 - `bd/discover/report.py` — `generate_report()` produces Markdown reports (grouped by tier)
 - `bd/config.py` — ICP thresholds, scoring weights, signal types, industry tiers
 - `bd/formatting.py` — shared formatting helpers (revenue, employee counts)
 - `bd/research/report.py` — `generate_dossier_report()` produces Markdown dossiers
-- `bd/outreach/drafter.py` — `generate_outreach_report()` produces Markdown email sequences
+- `bd/outreach/drafter.py` — `generate_outreach_report()` produces Markdown outreach packages (3 cold email versions A/B/C)
 - `bd/dashboard.py` — JSON export for dashboard; `python -m bd.dashboard` bootstraps from Markdown
 - `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()` for orchestration
 - `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data
@@ -209,7 +221,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - **Home** — Pipeline Summary KPIs (prospect count, avg ICP score, fit rating breakdown, outreach count), core capabilities, who we target, industry tiers, fit signals, scoring model
 - **Pipeline** — Prospect cards grouped by industry category, with filter pills. Sorted by score within each group. Each card shows Company Overview on expand.
 - **Research** — Dossier cards grouped by industry category, with filter pills. Full 8-section detail on expand (including in-depth Company Overview); "View Outreach" link if outreach exists
-- **Outreach** — Email sequence cards grouped by industry category, with filter pills. Target contacts, fit rating badge, copy-to-clipboard per email
+- **Outreach** — Outreach package cards grouped by industry category, with filter pills. Target contact (champion-level, not CEO), fit rating badge, 3 cold email versions (A/B/C) with copy-to-clipboard
 - **Proposals** — Phase 4 (coming soon): AI-assisted proposal writing trained on McChrystal Group's historical proposals, SOWs, and pricing. Will draft from dossier data + learned patterns
 - **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase
 

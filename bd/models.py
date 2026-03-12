@@ -173,7 +173,7 @@ class Dossier(BaseModel):
 
 
 class Email(BaseModel):
-    """A single outreach email in a sequence."""
+    """A single outreach email in a sequence (legacy)."""
 
     sequence_number: int
     subject: str
@@ -187,7 +187,27 @@ class Email(BaseModel):
 
 
 class OutreachSequence(BaseModel):
-    """A multi-email outreach sequence tied to a research dossier."""
+    """A multi-email outreach sequence tied to a research dossier (legacy)."""
 
     dossier: Dossier
     emails: list[Email] = Field(default_factory=list)
+
+
+class ColdEmail(BaseModel):
+    """One of 3 independent cold email versions (A/B/C)."""
+
+    version: str  # "A", "B", or "C"
+    label: str  # "Trigger-based", "Insight-based", "Warm angle"
+    subject: str
+    body: str
+    hook: str = Field(
+        description="The specific signal/angle this version leverages"
+    )
+
+
+class OutreachPackage(BaseModel):
+    """3 independent cold email versions targeting a champion-level contact."""
+
+    dossier: Dossier
+    target_contact: Contact
+    cold_emails: list[ColdEmail] = Field(default_factory=list)
