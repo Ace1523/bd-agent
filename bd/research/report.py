@@ -160,6 +160,20 @@ def generate_dossier_report(dossier: Dossier) -> str:
             lines.append(f"**Recommended First Meeting Framing**: {dossier.recommended_meeting_framing}")
             lines.append("")
 
+    # Section 8: Brand Insights & Market Positioning
+    if dossier.brand_insights:
+        lines.append("## Brand Insights & Market Positioning")
+        lines.append("")
+        lines.append(dossier.brand_insights)
+        lines.append("")
+
+    # Section 9: Deep McChrystal Group Fit Analysis
+    if dossier.deep_fit_analysis:
+        lines.append("## Deep McChrystal Group Fit Analysis")
+        lines.append("")
+        lines.append(dossier.deep_fit_analysis)
+        lines.append("")
+
     # Legacy: Pain Points (if populated but no fit_assessment)
     if dossier.pain_points and not dossier.fit_assessment:
         lines.append("## Pain Points")
