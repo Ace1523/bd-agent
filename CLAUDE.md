@@ -63,6 +63,7 @@ Core offerings:
 1. **Research**: Claude Code searches the web for organizations showing ICP signals across all three industry tiers
 2. **Profile**: For each prospect, capture:
    - Organization name and industry
+   - **Company overview** — 2-3 sentence description of what the company does, its market position, and ownership structure (populates `company_overview` field on Prospect)
    - **Why they fit** — specific challenge or transformation signal mapping to McChrystal capabilities
    - **Entry point** — who to target (title/function) and why they're the right economic buyer or champion
    - **Conversation hook** — one compelling, non-generic reason to reach out NOW
@@ -78,8 +79,9 @@ Core offerings:
 - **Prioritize non-obvious, creative companies** — avoid household names (Boeing, Amazon, Google, etc.) that anyone would think of. The value is surfacing companies people wouldn't find on their own: PE-backed roll-ups, spinoffs, fresh mergers, niche industry leaders with strong transformation signals
 
 ### Phase 2: Research (implemented)
-Comprehensive dossiers a Senior Partner can read in under 10 minutes. Seven sections:
+Comprehensive dossiers a Senior Partner can read in under 10 minutes. Eight sections:
 1. **Organization Snapshot** — legal name, HQ, founding year, ownership, geographic footprint
+1b. **Company Overview** — in-depth narrative (3-5 sentences) covering what the company does, how it makes money, ownership history, major recent events (mergers, spinoffs, PE transactions), and current strategic direction. This is the first thing a reader sees after the snapshot — it must stand alone as a complete introduction for someone who has never heard of the company. Populates the `company_overview` field on the Prospect object embedded in the Dossier.
 2. **Financial Health & Growth Stage** — revenue trajectory, profitability, analyst sentiment, key pressures/tailwinds
 3. **Leadership Team Profiles** — C-suite + board with tenure, background (flag military/gov service), public persona, LinkedIn activity, known McChrystal connections. Identify 1-2 priority targets (economic buyer or champion) with rationale
 4. **Organizational Culture & Structure Signals** — hierarchy vs. flat, Glassdoor patterns, known transformation programs, culture fit/problems
@@ -205,8 +207,8 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 
 **Views:**
 - **Home** — Pipeline Summary KPIs (prospect count, avg ICP score, fit rating breakdown, outreach count), core capabilities, who we target, industry tiers, fit signals, scoring model
-- **Pipeline** — All discovered prospects as expandable cards, sorted by score
-- **Research** — Dossier cards with full 7-section detail on expand; "View Outreach" link if outreach exists
+- **Pipeline** — All discovered prospects as expandable cards, sorted by score. Each card shows Company Overview on expand.
+- **Research** — Dossier cards with full 8-section detail on expand (including in-depth Company Overview); "View Outreach" link if outreach exists
 - **Outreach** — Email sequence cards with target contacts, fit rating badge, copy-to-clipboard per email
 - **Proposals** — Phase 4 (coming soon): AI-assisted proposal writing trained on McChrystal Group's historical proposals, SOWs, and pricing. Will draft from dossier data + learned patterns
 - **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase
