@@ -1,734 +1,22 @@
-# Outreach Package — FleetPride
-
-**Target**: Chuck Broadus, President, TruckPro Division
-**Why this contact**: Champion-level contact who owns the integration from the TruckPro side. Reports directly to CEO Greco and is tasked with making two distinct cultures work as one — the exact problem McChrystal solves.
-**Company**: FleetPride | **Score**: 79 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: TruckPro integration — culture before synergies
-**Hook**: FleetPride-TruckPro merger integration and Greco's 'culture is not a light switch' philosophy
-
-Chuck,
-
-Tom Greco's comment that culture "is not a light switch" stuck with me — it's the right instinct, and it's rare from a new CEO inheriting a 450-location merger. Most PE-backed integrations default to org charts and cost synergies first. The ones that actually work start with the frontline.
-
-You're in a unique position leading the TruckPro side of this. Getting 150+ locations to trust that "Stronger Together" isn't just a tagline requires more than town halls — it requires a deliberate operating rhythm that connects branch managers to the broader mission without losing what made TruckPro work in the first place.
-
-McChrystal Group has helped PE-backed platforms navigate exactly this: building shared consciousness across acquired teams without stripping local identity. Our work grew out of integrating special operations units that had to trust each other fast under pressure.
-
-Would a 20-minute conversation be useful? I'd like to hear how the first few months of integration are landing at the branch level.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: The 450-location leadership challenge
-**Hook**: PE-backed roll-up integration pattern — frontline disconnection risk at scale
-
-Chuck,
-
-The pattern in PE-backed roll-ups is predictable: the deal thesis assumes integration synergies, but the real value creation depends on whether 6,500 employees across 450 locations actually operate as one company or just share a logo. The data says most fall short — not because of strategy, but because nobody builds the connective tissue between the corporate integration plan and the branch manager serving customers.
-
-With TruckPro's 150+ locations now folding into FleetPride's network, you're living this challenge in real time. The distribution centers can be consolidated on a spreadsheet. The question is whether the technician in Memphis trusts the parts supply from a new DC in Dallas.
-
-We've spent a decade helping distributed organizations solve this specific problem — building operating models where frontline teams share information and align on priorities without waiting for direction from headquarters.
-
-Happy to share what we've seen work in similar integrations over a short call — no pitch, just pattern recognition.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: One operator to another on post-merger reality
-**Hook**: Chuck's TruckPro operating background and hands-on leadership through multiple ownership transitions
-
-Chuck,
-
-You've led TruckPro through a Platinum Equity ownership cycle and now into one of the largest HD aftermarket mergers in the industry's history. That's a rare perspective — most executives experience one ownership transition in a career. You've navigated several, and each one demands something different from the leader on the ground.
-
-What I've noticed working with operators in your position: the hardest part isn't the systems integration or the logistics optimization. It's keeping your best branch managers engaged when everything around them is changing and the natural instinct is to protect their turf.
-
-McChrystal Group works with leadership teams navigating exactly this kind of inflection point. Our model was built for organizations where execution depends on distributed teams trusting each other under pressure — which sounds a lot like running 450 service locations through a merger.
-
-If you've got 20 minutes this month, I'd value hearing how you're thinking about the people side of this integration.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — GXO Logistics
-
-**Target**: Bart Beeks, Chief Operating Officer
-**Why this contact**: Newly appointed to a brand-new COO role with a mandate to standardize global execution across 1,200+ facilities and 130K employees — the exact mandate McChrystal's operating model was designed for.
-**Company**: GXO Logistics | **Score**: 82 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: Your first 90 days standardizing 1,200 sites
-**Hook**: Bart Beeks appointed as GXO's first-ever COO in December 2025, tasked with standardizing global execution
-
-Bart,
-
-Congratulations on the COO appointment — creating a new role to drive standardized execution across 1,200+ facilities tells me Patrick and the board see this as the strategic priority, not just an operational one. The timing is significant: Wincanton integration underway, 20,000 robots deploying, a CRO departure, and a new leadership team still forming.
-
-The challenge you're walking into is one we've seen across global operators: standardization at this scale doesn't fail because of process design. It fails because regional leaders in 27 countries interpret "standardized" differently, and without a shared operating rhythm, the gap between corporate intent and warehouse execution widens quietly.
-
-McChrystal Group built our model solving this problem at scale — connecting distributed teams across geographies into a shared operating picture without killing local responsiveness. Our roots are in military operations, but the principles have driven results for global logistics and supply chain organizations.
-
-Would 20 minutes be worthwhile? I'd like to understand how you're approaching the first phase of this work.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: Global ops standardization — the 27-country trap
-**Hook**: Pattern of global standardization initiatives that fail at the regional execution layer
-
-Bart,
-
-There's a pattern in global operations standardization that's worth naming: headquarters designs a brilliant operating model, rolls it out with training and dashboards, and within 18 months discovers that each region is running a local variation. Not because people are defiant — because the information flow between corporate strategy and site execution was never actually built.
-
-GXO's position is distinctive. You're integrating Wincanton, scaling automation across 1,200+ sites, and building a new global execution standard simultaneously. Each of those is a multi-year program. Running them in parallel with a new leadership team amplifies the coordination risk exponentially.
-
-We've spent a decade helping organizations build what we call "shared consciousness" — an operating rhythm that gives distributed leaders real-time visibility into each other's priorities and problems, so decisions happen faster at the edges without waiting for headquarters to arbitrate.
-
-I'd welcome a 20-minute conversation about how you're thinking about the sequencing challenge — no pitch, just perspective from similar situations.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: Intern to COO — a rare vantage point
-**Hook**: Bart's career trajectory from intern to COO at CEVA, and what that teaches about building execution culture
-
-Bart,
-
-Rising from intern to COO at CEVA — and then taking on the same title at GXO to build something from scratch — that's not a typical career arc. It tells me you understand operations from the warehouse floor up, which is exactly the perspective most standardization efforts lack.
-
-What I've seen working with global operators: the executives who've actually done the work on the ground build better systems than the ones who design from corporate. But the challenge shifts when you're no longer in one region — you need 27 countries' worth of local leaders to operate with the same judgment you would, without you being in the room.
-
-McChrystal Group's operating model was designed for exactly that problem. General McChrystal faced it commanding special operations teams across 15 countries — the question wasn't whether the teams were capable, but whether they could share context fast enough to act as one force.
-
-I'd enjoy hearing how you're approaching GXO's version of this challenge. Would a 20-minute call work this month?
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — WME Group (fka Endeavor)
-
-**Target**: Christian Muirhead, Co-Chairman, WME Group
-**Why this contact**: Deep institutional knowledge spanning 20+ years across every major Endeavor transformation. Now co-leading WME Group through its most significant restructuring — rebranding, leadership transition, and portfolio simplification simultaneously. Operational champion who understands both the legacy culture and what Silver Lake needs.
-**Company**: WME Group (fka Endeavor) | **Score**: 93 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: Building WME Group's identity from scratch
-**Hook**: Post-Silver Lake privatization: simultaneous CEO transition, rebrand from Endeavor, Patrick Whitesell departure, and portfolio simplification
-
-Christian,
-
-Losing Patrick Whitesell, rebranding from Endeavor, divesting IMG and On Location, and transitioning leadership to Mark Shapiro — all within the same quarter — is not a restructuring. It's a refounding. And you're one of the few people with enough institutional history to know what WME Group should become versus what it was.
-
-The challenge I'd flag: when you strip away the diversification strategy that defined Endeavor for a decade, the organization needs a new identity fast. And that identity has to resonate with agents and executives who built their careers under the old model — people who don't change because a PE firm wants them to.
-
-McChrystal Group helps organizations build operating models for exactly this kind of inflection — where the strategy is clear but the cultural alignment lags behind it. Our work started in environments where teams had to trust new leadership structures under real pressure.
-
-Would a 20-minute conversation be useful? I'd like to understand how you're thinking about the cultural rebuild alongside the structural one.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: Post-take-private identity — the 18-month window
-**Hook**: Pattern of PE-backed take-private companies that fail to build a new operating identity within the critical first 18 months
-
-Christian,
-
-There's a pattern in take-private transitions worth watching: the new owners simplify the portfolio, restructure leadership, and set financial targets — then assume the culture will follow the strategy. It rarely does. The organizations that succeed use the first 18 months to deliberately build a shared operating identity. The ones that don't spend years managing fragmentation.
-
-WME Group is in a distinctive position. You've gone from a publicly traded conglomerate with a dozen business units to a focused representation and brand platform under new ownership. The question isn't whether the strategy is right — Silver Lake's thesis is clear. The question is whether WME, IMG Licensing, 160over90, and Pantheon start operating as one entity or remain siloed businesses that share a holding company name.
-
-McChrystal Group has helped leadership teams navigate this exact transition — building cross-functional alignment and shared consciousness across business units that historically operated independently.
-
-I'd welcome 20 minutes to hear how you're approaching the integration challenge. No sales conversation — just pattern sharing.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: 30 acquisitions and an IPO — now the hard part
-**Hook**: Christian's unique career arc from CCO to Co-Chairman, orchestrating communications through 30+ acquisitions and an IPO
-
-Christian,
-
-You've orchestrated the communications strategy for 30+ acquisitions, an IPO, and a $25 billion take-private. Most executives see one of those in a career. What strikes me about your trajectory from CCO to Co-Chairman is that you've been the person who had to make each transformation make sense to the people inside the building — not just the investors outside it.
-
-That skill is exactly what WME Group needs right now. But there's a difference between explaining a transformation and building the operating infrastructure to sustain it. The agents, the brand teams, the content teams — they need more than a narrative. They need a way of working together that feels natural, not mandated.
-
-McChrystal Group's model was built for organizations navigating this kind of moment — where talented, autonomous operators need to start functioning as an integrated team without losing what makes them effective individually.
-
-If 20 minutes would be useful, I'd value hearing how you're thinking about WME Group's next chapter from the inside.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — Amentum
-
-**Target**: Steven Demetriou, Executive Chairman
-**Why this contact**: Designed the Jacobs CMS/C&I spinoff that created modern Amentum. Board-level champion for cultural integration with credibility on both sides of the merger. Positioned to influence advisory spend and has the strategic context to see why McChrystal fits.
-**Company**: Amentum | **Score**: 80 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: 53K employees, two cultures, classified work
-**Hook**: Amentum's Q1 FY2026 earnings beat and reaffirmed guidance amid ongoing Jacobs CMS cultural integration across 80 countries
-
-Steve,
-
-Beating Q1 estimates by 116% and driving leverage down to 3.2x tells the financial story well — the merger math is working. But you know better than anyone that the harder integration is the one that doesn't show up in earnings: getting 53,000 employees across 80 countries — many in classified environments — to operate as one company rather than "old Amentum" and "old Jacobs CMS."
-
-That cultural integration challenge is compounded by DOGE scrutiny and a government contracting environment that demands more speed and transparency from the workforce, not less. The teams maintaining Area 51 and the teams running nuclear support for EDF need to share a common operating identity even if they can never share details of their work.
-
-McChrystal Group was built for this exact problem — integrating cultures across classified, distributed teams. General McChrystal designed our model commanding JSOC, where units that couldn't share intelligence still had to trust each other.
-
-Would a 20-minute conversation be valuable? I'd like to hear how the cultural integration is progressing 18 months in.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: The hidden risk in defense mega-mergers
-**Hook**: Pattern of defense services mergers where financial integration succeeds but cultural integration stalls in classified environments
-
-Steve,
-
-The pattern in defense services mega-mergers is consistent: the first 12 months look great because cost synergies are mechanical and the backlog is contractually locked. The risk surfaces in months 18-36 when the organization has to bid and execute as one integrated entity — and discovers that program managers from the two legacy companies still operate in parallel, not in concert.
-
-Amentum's $47.2 billion backlog gives you runway. But converting that backlog into margin expansion requires cross-functional collaboration between teams that were competitors 18 months ago — and in many cases can't even discuss what they're working on due to classification barriers.
-
-McChrystal Group has deep experience building operating models for organizations that work in compartmented environments. Our approach creates shared consciousness at the leadership and operational level without requiring information sharing that violates security protocols.
-
-I'd welcome 20 minutes to share what we've seen work in comparable integrations — happy to keep it to pattern recognition, not a pitch.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: From Jacobs transformation to Amentum's next chapter
-**Hook**: Steve Demetriou's personal arc — transforming Jacobs, designing the spinoff, now guiding cultural integration as Executive Chairman
-
-Steve,
-
-What you did at Jacobs — transforming a construction and engineering firm into a technology-forward solutions company and then designing the spinoff that created modern Amentum — is one of the more ambitious strategic plays in the defense services sector this decade. Not many leaders architect a transformation and then stay to ensure the spun-off entity actually delivers on its promise.
-
-That's a distinctive vantage point. You understand both sides of this merger better than anyone at the board table. The question is whether that understanding can be translated into an operating model that 53,000 employees actually experience — not just a strategy they read about in an all-hands presentation.
-
-McChrystal Group works with leaders navigating this kind of inflection. Our roots are in military leadership — John Heller's West Point background means the language translates naturally — and our model is built for organizations where execution depends on trust across organizational boundaries.
-
-Would 20 minutes be useful? I'd like to hear how you're thinking about the next phase of integration.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — Apex Service Partners
-
-**Target**: Alpine Investors Operating Partner, Board Representative / Operating Partner
-**Why this contact**: Alpine's operating partners control advisory spend across portfolio companies. Their PeopleFirst thesis is a direct on-ramp for McChrystal's leadership and team effectiveness model — selling to Alpine means potential access to the entire portfolio, not just Apex.
-**Company**: Apex Service Partners | **Score**: 77 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: 107 acquisitions — connecting the teams
-**Hook**: Apex surpassing 107 acquisitions and $2B+ revenue while Alpine's $3.4B continuation fund signals long-term hold and scaling ambitions
-
-Hi,
-
-Crossing 107 acquisitions at a pace of 10-15 per year while scaling past $2 billion in revenue is a testament to Alpine's thesis. The $3.4 billion continuation fund signals this is a long-term platform build, not a flip — which means the leadership challenge only gets harder from here.
-
-Here's what we've seen in PE-backed roll-ups at this scale: the playbook that worked from 0 to 50 acquisitions starts breaking between 75 and 125. Each new HVAC or plumbing company brings a local leader who built something real — and their willingness to stay depends on whether "joining Apex" feels like an upgrade or a takeover. PeopleFirst gets the philosophy right. The question is whether the operating model scales at the same pace as the acquisitions.
-
-McChrystal Group helps distributed organizations build connective tissue between autonomous teams — shared operating rhythms that let local leaders retain ownership while aligning with the broader platform. Our model was designed for exactly this kind of structure.
-
-Would a 20-minute conversation be useful? I'd like to understand how you're thinking about leadership development at the 100+ acquisition mark.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: The roll-up leadership cliff at 100+ brands
-**Hook**: Industry pattern — PE roll-ups that hit 100+ acquisitions face a qualitative shift in leadership and coordination challenges
-
-Hi,
-
-There's a threshold in PE-backed roll-ups that doesn't get enough attention: somewhere between 75 and 125 acquisitions, the coordination challenge changes in kind, not just degree. Below that number, a strong headquarters team can maintain relationships with every local operator. Above it, you need systems that create alignment without requiring every decision to flow through the center.
-
-Apex is at that threshold right now. With 107+ acquisitions across HVAC, plumbing, and electrical, the frontline diversity is enormous — different trades, different local markets, different founding cultures. Alpine's PeopleFirst model and coaching infrastructure is a strong foundation, but the question at this scale is whether leadership development alone is sufficient or whether you also need a shared operating model that connects these teams horizontally.
-
-McChrystal Group's "Team of Teams" model was built for this exact challenge — enabling distributed, autonomous units to share context and coordinate without centralizing decision-making.
-
-I'd welcome a 20-minute conversation to share what we've seen in comparable platforms. No pitch — just practical observations.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: PeopleFirst meets Team of Teams
-**Hook**: Natural alignment between Alpine's PeopleFirst philosophy and McChrystal's Team of Teams operating model
-
-Hi,
-
-Alpine's PeopleFirst thesis — that talent drives returns, not financial engineering — is unusual in PE and something we respect deeply. It maps directly to how McChrystal Group thinks about organizational performance: the strategy is only as good as the leaders executing it, and the leaders are only as effective as the systems connecting them.
-
-What caught my attention about Apex specifically is the scale challenge. Your PeopleFirst coaches and Vision & Strategy workshops work brilliantly at the individual company level. But at 107+ acquisitions, there's a layer above individual leadership development that becomes critical: how do these companies learn from each other? How does the plumbing operator in Tampa share a best practice with the HVAC team in Denver without waiting for headquarters to facilitate it?
-
-McChrystal Group's Team of Teams model was designed to solve that horizontal connectivity problem. We've helped PE platforms and distributed organizations build operating rhythms that create "shared consciousness" across autonomous teams.
-
-Would 20 minutes be worth exploring whether PeopleFirst and Team of Teams are complementary? I think they might be.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — Heartland Dental
-
-**Target**: Alex Ward, KKR Healthcare Operating Partner & Heartland Dental Board Member
-**Why this contact**: KKR board representative who influences advisory spend across healthcare portfolio companies. Deep visibility into operational scaling challenges at Heartland and sister companies.
-**Company**: Heartland Dental | **Score**: 80 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: 1,900 offices and the leadership math
-**Hook**: 165 new offices in 2025 with accelerating 2026 growth creating leadership pipeline bottleneck
-
-Alex,
-
-Heartland added 165 offices last year and is projecting even faster growth in 2026. At that pace, the constraint isn't capital or real estate — it's producing enough leaders who can run autonomous practices while staying connected to the broader system.
-
-We've worked with organizations facing a version of this same tension: decentralized operations that need shared consciousness without centralizing control. Our Team of Teams framework was built for exactly this — maintaining quality and culture across hundreds of independent units operating in different markets.
-
-One of our healthcare engagements helped a multi-site operator cut leadership onboarding time by 40% while improving retention at newly acquired locations.
-
-Would a 20-minute conversation make sense? I'd be curious how your team is thinking about the leadership pipeline as office count climbs past 2,000.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: The DSO scaling paradox
-**Hook**: DSO industry paradox — decentralization that attracts dentists breaks down at scale without shared consciousness
-
-Alex,
-
-The largest DSOs are hitting a paradox we see across PE-backed healthcare platforms: the same decentralized model that attracts top providers starts breaking down at scale. Dentists join for autonomy, but 1,900+ offices need coordination systems that feel invisible to the practitioner.
-
-Most organizations try to solve this with more process — more SOPs, more reporting layers. The ones that scale well do the opposite: they build shared consciousness across the network so that local leaders make better decisions without being told what to do.
-
-That's the core of what we do at McChrystal Group. We helped a KKR portfolio company redesign its operating rhythm for a 200+ location network — improving cross-site collaboration without adding management layers.
-
-I'd welcome 20 minutes to hear how Heartland is navigating this. Your vantage point across KKR's healthcare portfolio would make for a great conversation.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: KKR healthcare portfolio + McChrystal
-**Hook**: KKR's cross-portfolio healthcare thesis — shared scaling challenge across Heartland, 123Dentist, Therapy Brands
-
-Alex,
-
-I've been following KKR's healthcare thesis — the Heartland investment, the 123Dentist strategic partnership, the Therapy Brands build. There's a common thread across these platforms: scaling a people-intensive business where the front-line professional is the product.
-
-That challenge sits squarely in our wheelhouse. McChrystal Group was built on the premise that large, distributed organizations can move with the speed and adaptability of small teams — if you design the right information-sharing and decision-making systems.
-
-We've worked with several PE-backed healthcare platforms on exactly this. The engagement that might resonate most: a multi-site operator where we redesigned the regional leadership model to support 3x growth without proportional management overhead.
-
-I'd enjoy a brief conversation about how Heartland is thinking about organizational design as it scales past 2,000 offices. Happy to work around your schedule.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — Caliber Collision
-
-**Target**: David Goldstein, Chief Operations Officer
-**Why this contact**: COO overseeing 1,800+ locations and 30,000 teammates through IPO transition. Owns the operational complexity of multi-site integration and technician retention.
-**Company**: Caliber Collision | **Score**: 80 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: Going public with 1,800 locations
-**Hook**: IPO filing — transition from PE growth mode to public company operational discipline
-
-David,
-
-The IPO filing changes the game for Caliber's operations. Public markets will scrutinize consistency across 1,800 locations in a way private ownership didn't. The question isn't whether Caliber can grow — you've proven that. It's whether the operating model can deliver predictable performance quarter after quarter across 41 states.
-
-We've worked with organizations navigating exactly this transition — from PE-backed growth machines to public companies where operational discipline becomes the story. The ones that succeed build alignment systems that scale without adding bureaucracy.
-
-One of our engagements with a multi-site operator during their IPO prep cut location-level performance variance by 30% in six months — without centralizing decision-making.
-
-Would 20 minutes make sense to compare notes? I'd be curious how you're thinking about the operating model as Caliber enters the public chapter.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: The 30,000-person alignment problem
-**Hook**: Multi-site operators hitting information flow bottlenecks past 1,000 locations
-
-David,
-
-Multi-site operators that cross the 1,000-location threshold face a specific challenge: the regional management model that worked at 500 locations creates bottlenecks at 1,800. Information flows slow down, best practices stay local, and the gap between top-performing and bottom-performing locations widens.
-
-You know this better than most — you scaled California from 36 to 175+ centers. But what worked in one state hits different physics across 41 states and 30,000 people.
-
-McChrystal Group was founded on solving this exact problem. We help large, distributed organizations build shared consciousness — the ability for thousands of people to operate with the speed and coordination of a small team. It's what General McChrystal built across 70,000 special operators in combat, and it translates directly to multi-site operations.
-
-I'd welcome 20 minutes to hear how your team is thinking about alignment as Caliber continues to scale.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: Technician to COO — rare perspective
-**Hook**: Goldstein's technician-to-COO career path — understands front-line experience and autonomy vs. standardization tension
-
-David,
-
-Your career path — body tech in '88, regional leader, chief talent officer, now COO of the largest collision repair company in the country — gives you something most C-suite executives don't have: you understand exactly what the front-line teammate experiences.
-
-That perspective is rare and valuable, especially now. As Caliber prepares for public markets, the pressure will be to standardize. But you know that collision repair is a craft — technicians stay because they feel ownership, not because they follow a playbook.
-
-That tension between consistency and autonomy is the core of what we work on at McChrystal Group. We've helped organizations with tens of thousands of front-line employees build operating systems that feel empowering locally while delivering the predictability that investors require.
-
-Would a 20-minute call be worthwhile? I think there's a natural fit between your operating philosophy and our approach.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — InvestCloud
-
-**Target**: John Googas, President
-**Why this contact**: President and operational leader closest to the integration and restructuring work. More likely internal champion than CEO Yabuki for organizational transformation advisory.
-**Company**: InvestCloud | **Score**: 79 | **Fit**: moderate
-
----
-
-## Version A — Trigger-based
-**Subject**: Restructuring while rebuilding trust
-**Hook**: 150+ layoffs in Digital Wealth division — retention risk for remaining talent during AI pivot
-
-John,
-
-The March layoffs in Digital Wealth — 150+ roles — put InvestCloud in a familiar but difficult position: you're asking the remaining team to do more with less while simultaneously pivoting to an AI-driven platform model. The people who stayed are watching closely to see whether this is a strategy or just a cost cut.
-
-We've worked with organizations mid-transformation where the narrative matters as much as the restructuring itself. The companies that retain their best talent through these transitions give people clarity on where they fit in the new model — fast.
-
-One of our engagements with a PE-backed tech firm going through a similar pivot helped reduce voluntary attrition by 25% during the restructuring window.
-
-Would 20 minutes be useful? I'd be interested in how your team is managing the cultural side of this transition alongside the structural changes.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: The post-merger identity problem
-**Hook**: Post-merger cultural integration lag — Tegra118/InvestCloud still running parallel cultures three years in
-
-John,
-
-Fintech mergers have a pattern: the product integration goes faster than the people integration. Three years after Tegra118 and InvestCloud combined, most companies are still running parallel cultures with different operating rhythms, different definitions of quality, and teams that default to their legacy identity.
-
-The AI pivot adds urgency. You can't build a productized platform with a workforce that's still organized around the old custom-solutions model. The org design has to change before the product strategy can fully execute.
-
-That's the work we do at McChrystal Group — helping leadership teams redesign how information flows and decisions get made so that strategy and structure align. We've seen this pattern in financial services several times, and the organizations that move fastest treat the org redesign as a strategic initiative, not an HR project.
-
-I'd welcome a brief conversation about how InvestCloud is approaching this. Happy to share what we've seen work.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: COO to President during a pivot
-**Hook**: Googas's COO-to-President transition — evolving operating rhythm during company-wide transformation
-
-John,
-
-Moving from COO to President during a company-wide transformation is a specific kind of challenge — you're responsible for both keeping the current business running and building the next version of the company. Every decision gets evaluated through both lenses.
-
-I've seen a few leaders navigate this transition well, and the common thread is that they invest early in redesigning their operating rhythm. The cadence that worked as COO — focused on execution and delivery — has to evolve to include strategy, talent decisions, and cross-functional alignment that a President role demands.
-
-McChrystal Group specializes in helping leadership teams build these operating systems. Our work is rooted in how high-performing teams operate under pressure — maintaining speed and adaptability as scope and complexity increase.
-
-Would a 20-minute conversation be valuable? No pitch — just curious how you're thinking about the organizational side of InvestCloud's next chapter.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — Kindeva Drug Delivery
-
-**Target**: Milton Boyer, Board Member & Former CEO
-**Why this contact**: Former CEO now serving as board-level strategic advisor. U.S. Army Captain — natural warm introduction vector through McChrystal's military network. Board influence over advisory engagements.
-**Company**: Kindeva Drug Delivery | **Score**: 78 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: New CEO, four acquisitions, one culture
-**Hook**: CEO transition — Stevens inheriting four acquisitions, new C-suite, and UK expansion simultaneously
-
-Milton,
-
-The leadership transition you architected — bringing David Stevens in as CEO while you move to the board — is a critical moment for Kindeva. Stevens inherits a company built from four acquisitions in four years, a near-complete C-suite turnover, and a new UK headquarters. That's a lot of organizational complexity for a leadership team that's still learning to work together.
-
-McChrystal Group has deep experience helping organizations in exactly this position — where a new leader needs to build cohesion across previously independent entities while maintaining operational tempo. The window for establishing the right operating rhythm is narrow, and it matters more than most people realize.
-
-We helped a PE-backed healthcare company with a similar profile — multiple acquisitions, new CEO, distributed operations — build a unified leadership cadence in under 90 days.
-
-Would a 20-minute call make sense? I'd value your perspective as someone who built this company and now guides it from the board.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: PE carve-outs and the culture gap
-**Hook**: PE carve-out cultural identity challenge — employees still identifying with legacy organizations years after separation
-
-Milton,
-
-CDMO carve-outs share a pattern: the operational separation from the parent company happens on schedule, but the cultural identity takes two to three times longer to form. Employees still think of themselves as "ex-3M" or "ex-Baxter" long after the legal entity has changed.
-
-With four acquisitions layered on top of the original carve-out, Kindeva has an even more complex version of this challenge. Each acquired team brought its own operating norms, leadership expectations, and definition of quality. The new C-suite has to build a unified Kindeva identity — not by mandate, but by designing systems that create shared context across sites.
-
-That's the core of McChrystal Group's work. We help leadership teams build shared consciousness — the ability for distributed organizations to operate with common purpose without centralizing control.
-
-I'd welcome a conversation about how Kindeva is approaching this. Your experience building the company from the carve-out gives you a perspective few others have.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: Army Captain to pharma CEO — a shared lens
-**Hook**: Milton Boyer's U.S. Army Captain background — shared military lens with McChrystal Group
-
-Milton,
-
-As a fellow veteran — General McChrystal founded our firm — I wanted to reach out directly. Your path from Army Captain to building Kindeva into a billion-dollar CDMO is the kind of leadership trajectory we see in the leaders who resonate most with our work.
-
-The military teaches you something that most business schools don't: how to build trust and coordination across units that have never worked together before, under pressure, with incomplete information. That's exactly what Kindeva faces right now — a new CEO, teams from four different acquisitions, operations spanning the U.S. and UK, and Altaris expecting continued growth.
-
-McChrystal Group's Team of Teams framework was built on these same principles. We've helped organizations translate military-grade coordination into corporate operating models — particularly during leadership transitions and post-acquisition integration.
-
-Would 20 minutes be worthwhile? I think there's a natural connection between how you've led and how we work.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
-# Outreach Package — The Ensign Group
-
-**Target**: Spencer Burton, President and Chief Operating Officer
-**Why this contact**: Owns the operational challenge of onboarding 50+ new facilities per year while maintaining quality standards and the Ensign Way culture. Direct buyer for leadership development and organizational scaling work.
-**Company**: The Ensign Group | **Score**: 87 | **Fit**: strong
-
----
-
-## Version A — Trigger-based
-**Subject**: 51 acquisitions and the leader factory
-**Hook**: 51 acquisitions in FY2025 — leader pipeline as the binding constraint on continued growth
-
-Spencer,
-
-Fifty-one acquisitions in 2025. Seventeen in Q4 alone. Revenue up 19% to $5.1 billion. Those numbers are impressive — but the number that matters most isn't public: how many facility-level leaders does Ensign need to produce in 2026 to sustain that pace?
-
-Every acquisition brings a building. The hard part is staffing it with someone who operates the Ensign Way — decentralized authority, servant leadership, local accountability. That leader pipeline is the real constraint on growth, and it gets harder as you expand into new states like Wisconsin and Iowa where the Ensign culture hasn't had time to take root.
-
-McChrystal Group specializes in helping organizations scale a leadership culture without diluting it. Our work with distributed, high-autonomy organizations has helped compress leader development timelines by 30-40%.
-
-Would a 20-minute call be useful? I'd be curious how your team is thinking about the leader production challenge as the acquisition pace accelerates.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version B — Insight-based
-**Subject**: Decentralization at 300+ facilities
-**Hook**: Decentralized model hitting knowledge-transfer limits at 300+ facilities — informal mentoring can't scale
-
-Spencer,
-
-Most healthcare operators centralize as they scale. Ensign does the opposite — and that's what makes the model powerful. But decentralization has a failure mode that shows up around the 250-300 facility mark: the network effect that made early acquisitions successful starts to weaken because there are too many nodes for informal knowledge-sharing to work.
-
-The operators who built the culture in the first 100 facilities can't personally mentor the leaders in facilities 200 through 350. The question becomes: how do you systematize the transfer of institutional knowledge without centralizing control?
-
-That's the exact problem McChrystal Group was built to solve. General McChrystal faced a version of this scaling 70,000 operators across 70 countries — maintaining unit-level autonomy while building shared consciousness across the network.
-
-I'd welcome 20 minutes to hear how Ensign is navigating this. Your decentralized model is rare and worth protecting as you scale.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-## Version C — Warm angle
-**Subject**: The Ensign Way and Team of Teams
-**Hook**: Ensign's decentralized model mirrors Team of Teams philosophy — validate and enhance, not replace
-
-Spencer,
-
-I've spent time studying Ensign's operating model, and frankly, it's one of the closest corporate parallels I've seen to what General McChrystal built in special operations — empowered local leaders, minimal bureaucracy, a culture that trusts people closest to the problem to make decisions.
-
-The difference is that McChrystal had to build that model under fire. You're building it under the pressure of $5.8 billion in revenue, 40,000 employees, and a market that expects 14% EPS growth. Different stakes, same organizational physics.
-
-What we've found is that organizations with your philosophy — genuine decentralization, not lip service — benefit most from structured approaches to shared consciousness. Not more control, but better information flow across the network.
-
-I'd enjoy a 20-minute conversation. Not to sell you on decentralization — you clearly don't need that. But to explore whether our framework could help the Ensign Way scale into the next 100 facilities.
-
-Best,
-[Senior Partner Name]
-McChrystal Group
-
----
-
-
----
-
 # Outreach Package — Ciena Corporation
 
 **Target**: Marc D. Graff, SVP & Chief Financial Officer
-**Why this contact**: Outsider CFO hired specifically as Ciena pivots from telecom to AI infrastructure — brings fresh perspective and mandate to scale the financial and operational architecture for a company whose revenue just jumped 33% in a single quarter
+**Why this contact**: As new CFO during Ciena's most explosive growth phase, Graff is scaling finance, ops, and talent infrastructure to match a company that just tripled its data center revenue and rejoined the S&P 500 — classic growing-pains inflection point
 **Company**: Ciena Corporation | **Score**: 85 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Scaling from $4B to $6B in one year
-**Hook**: Record Q1 revenue of $1.43B (+33% YoY) with backlog doubling to $7B — organizational scaling challenge
+**Subject**: Ciena's S&P 500 return — scaling what got you here
+**Hook**: S&P 500 reinclusion after 17 years + revenue tripling signals org model strain
 
 Marc,
 
-Record Q1 at $1.43 billion — 33% year-over-year growth — is the kind of number that makes Wall Street happy and makes internal operations sweat. When your backlog doubles to $7 billion and your customer mix shifts from telcos to hyperscalers, the organizational model that got you here won't get you there.
+Rejoining the S&P 500 after 17 years is a statement. Tripling data center revenue and guiding to $6B+ in fiscal 2026 is another. That kind of growth usually means the organizational scaffolding that worked at $3B starts cracking at $6B.
 
-That transition — from a telecom equipment company to an AI infrastructure platform — is exactly the kind of transformation McChrystal Group works on. We've helped organizations navigate the structural growing pains that come when the market moves faster than the org chart can keep up.
+At McChrystal Group, we work with leadership teams navigating exactly this inflection — when the company outgrows the operating model that built it. We helped a global technology firm redesign cross-functional coordination during a similar hyper-growth phase, cutting decision latency by 40% without adding management layers.
 
-One example: we worked with a defense technology firm that doubled revenue in 18 months and found their cross-functional coordination breaking down at scale. We helped them redesign decision-making authority so execution speed matched demand.
-
-Would a 20-minute conversation make sense? I'd be curious how your team is thinking about organizational readiness for the $6 billion run rate.
+Would 20 minutes make sense to compare notes on how other CFOs have approached the org-scaling challenge during rapid expansion? Happy to work around your schedule.
 
 Best,
 [Senior Partner Name]
@@ -737,18 +25,16 @@ McChrystal Group
 ---
 
 ## Version B — Insight-based
-**Subject**: The org design gap in AI infrastructure
-**Hook**: Industry-wide pattern of AI infrastructure companies hitting organizational coordination walls at 40%+ growth rates
+**Subject**: The org problem behind optical supply constraints
+**Hook**: Supply chain coordination strain during record demand — org design as the bottleneck
 
 Marc,
 
-Every networking company is chasing the AI infrastructure build-out. The ones that win won't just have the best optics — they'll have the internal operating model to deliver at the speed hyperscalers demand. We're seeing a pattern across the sector: companies with 40% revenue growth hitting a wall not on technology, but on coordination.
+The networking companies we talk to all say the same thing: the constraint isn't demand — it's the internal coordination required to deliver on it. When your earnings call flagged optical component supply tightness, it struck me as a symptom of a broader challenge: scaling execution across suppliers, engineering, and operations when every quarter sets a new record.
 
-Ciena's shift is striking — direct sales to non-telco customers at record levels, Blue Planet evolving into an AI-driven automation platform, and a customer base that expects delivery cycles measured in weeks, not quarters. That's a fundamentally different organizational challenge than serving carriers.
+McChrystal Group's operating model — what we call "shared consciousness" — was built for exactly this: getting large, complex organizations to move fast without losing alignment. It's the same framework that coordinated 7,000 special operators across 20 countries in real time.
 
-McChrystal Group specializes in helping leadership teams redesign how information flows and decisions get made when the old model can't keep pace. We call it shared consciousness — making sure the people closest to the problem have what they need to act.
-
-I'd welcome 20 minutes to compare notes on what we're seeing across the AI infrastructure space.
+I'd welcome a brief conversation about how Ciena is thinking about org design as the AI infrastructure buildout accelerates. Even 20 minutes would be valuable.
 
 Best,
 [Senior Partner Name]
@@ -757,20 +43,28 @@ McChrystal Group
 ---
 
 ## Version C — Warm angle
-**Subject**: Intel to Ciena — a fellow outsider's perspective
-**Hook**: Marc Graff's outsider perspective — Intel AI veteran navigating Ciena's 30-year telecom culture during a business model pivot
+**Subject**: Intel DCG to Ciena — a familiar scaling challenge
+**Hook**: Career arc from Intel DCG to Ciena CFO — same AI wave, new scaling challenge
 
 Marc,
 
-Coming into Ciena from Intel's Data Center and AI Group, you've got a vantage point most finance leaders don't — you've seen the AI infrastructure demand curve from the chip side, and now you're seeing it from the network side. That cross-pollination is valuable, but being the outsider CFO also means navigating an organization with 30+ years of telecom DNA while the business model shifts underneath it.
+Your move from Intel's Data Center & AI Group to Ciena's CFO seat is a fascinating arc — you're essentially sitting on the other side of the same AI infrastructure explosion you helped build at Intel, now with supply constraints and a backlog north of $5B to manage.
 
-McChrystal Group was built by people who understand what it's like to step into an organization mid-transformation and drive change without the luxury of time. General McChrystal did it in Iraq; our team has done it with technology companies navigating exactly the kind of identity shift Ciena is in — from established player to growth-stage disruptor.
+I mention it because several of the leaders we work with at McChrystal Group made similar transitions into high-growth environments and found that the hardest part wasn't the strategy — it was getting the organization to execute at the speed the market demands. The "Team of Teams" operating model we deploy has roots in military special operations, but the application is universal: how do you maintain agility as you scale?
 
-We've found that new leaders in transformation roles benefit from a structured approach to building shared consciousness across legacy and new teams. Would 20 minutes be worth it to compare notes?
+Would enjoy comparing perspectives over a quick call. No pitch — just a conversation about what you're seeing from the CFO seat.
 
 Best,
 [Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: S&P 500 reinclusion as conversation opener
+
+Marc — the Ciena S&P 500 return caught my eye. We work with leadership teams scaling through exactly this kind of inflection at McChrystal Group. Would enjoy connecting and comparing notes on the org challenges behind hyper-growth.
 
 ---
 
@@ -780,24 +74,22 @@ McChrystal Group
 # Outreach Package — DraftKings
 
 **Target**: Jason Park, Chief Transformation Officer
-**Why this contact**: Purpose-built transformation role — owns restructuring across 13 countries, Super App integration, Jackpocket acquisition integration, and AI deployment. Natural buyer for organizational alignment and cross-functional coordination services.
+**Why this contact**: Park was moved from CFO to a newly created Chief Transformation Officer role specifically to lead restructuring, cost optimization, and the prediction markets pivot — he owns the transformation mandate
 **Company**: DraftKings | **Score**: 82 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Restructuring across 13 countries at once
-**Hook**: Simultaneous restructuring across 13 countries + Super App launch + Jackpocket integration + prediction market pivot
+**Subject**: DraftKings restructuring — the org side of the pivot
+**Hook**: February 2026 restructuring + prediction markets pivot = org redesign challenge
 
 Jason,
 
-Restructuring a global workforce while simultaneously launching a Super App, integrating Jackpocket, and pivoting into prediction markets — that's not a transformation, that's four transformations running in parallel. And the market's watching: the gap between your $6.7B guidance and the $7.3B analysts expected means the efficiency gains need to land, not just get announced.
+The February restructuring and the pivot toward prediction markets signal something bigger than cost cuts — DraftKings is fundamentally rewiring how it operates. Moving from a sportsbook model to an exchange-based platform while managing 5,500 people across 13 countries is an organizational design challenge as much as a strategic one.
 
-That kind of multi-front execution challenge is where McChrystal Group lives. We work with leadership teams managing simultaneous, high-stakes initiatives where the biggest risk isn't strategy — it's coordination breakdown between workstreams.
+McChrystal Group specializes in exactly this: helping leadership teams redesign how their organizations coordinate, decide, and execute during high-stakes transformations. We've guided PE-backed companies through similar multi-country restructurings where the hardest part wasn't the plan — it was getting alignment across legacy teams and new capabilities.
 
-We helped a technology company integrate two acquisitions while restructuring their core business, cutting their coordination overhead by 40% and hitting their integration milestones two months early.
-
-You're clearly the right person driving this — would 20 minutes to compare notes on what we're seeing in multi-front transformations be useful?
+You're the right person building this. Would 20 minutes to trade perspectives on transformation execution be useful?
 
 Best,
 [Senior Partner Name]
@@ -806,18 +98,18 @@ McChrystal Group
 ---
 
 ## Version B — Insight-based
-**Subject**: When four initiatives compete for the same team
-**Hook**: Pattern of multi-initiative companies failing not on strategy but on coordination — DraftKings running four simultaneous strategic priorities
+**Subject**: Why most transformation officers get stuck at year two
+**Hook**: Year-two transformation stall pattern — insight from working with similar CTO roles
 
 Jason,
 
-Here's the pattern we keep seeing in high-growth tech companies: leadership announces three or four strategic priorities, each one critical, each one staffed by people who also work on the others. The initiatives don't fail because they're bad ideas — they fail because the organization can't sequence attention, resolve resource conflicts fast enough, or maintain alignment when priorities shift weekly.
+Having spent time at both McKinsey and Bain Capital, you know the pattern: a company creates a Chief Transformation Officer role, the first year is strategic clarity and quick wins, and the second year is where it either becomes embedded in how the organization operates — or stalls.
 
-DraftKings has the classic setup: a restructuring for efficiency, a Super App consolidating four product lines, an acquisition integration with $300M+ in revenue implications, and an AI deployment across operations. Each one is a full-time organizational challenge. Running them simultaneously requires a coordination architecture most companies don't have.
+DraftKings is entering that second year with your restructuring. The $30M in annual savings target is achievable, but the real prize — getting a 5,500-person company across 13 countries to operate like an integrated platform rather than a collection of verticals — requires a different kind of intervention.
 
-McChrystal Group builds exactly that — what we call a shared consciousness operating rhythm that gives transformation leaders real-time visibility and decision rights across workstreams without adding bureaucracy.
+McChrystal Group's "Team of Teams" model was designed for this: cross-functional alignment without bureaucracy. It's how we help organizations move fast at scale.
 
-I'd be glad to share what's working for other transformation leaders managing similar complexity. Worth 20 minutes?
+Would a 20-minute call to discuss what we're seeing in similar transformations be worthwhile?
 
 Best,
 [Senior Partner Name]
@@ -826,22 +118,30 @@ McChrystal Group
 ---
 
 ## Version C — Warm angle
-**Subject**: From PE ops to transformation — a rare skill set
-**Hook**: Jason Park's unusual PE-to-CFO-to-CTO career arc — respecting his journey while offering organizational coordination expertise
+**Subject**: McKinsey to operator — the hardest transition
+**Hook**: Shared consulting background (McKinsey/Bain) — strategy-to-execution gap
 
 Jason,
 
-Not many people move from 11 years as a PE Operating Partner to CFO of a public company, then willingly give up the CFO title to take on the hardest job in the building. The fact that Jason Robins created the Chief Transformation Officer role specifically for you says a lot about the scale of what DraftKings is trying to do — and about the trust you've earned.
+The McKinsey-to-Bain Capital-to-operator path you've taken is one we see a lot among the leaders we work with at McChrystal Group. The insight is always the same: the frameworks are necessary but insufficient. The gap between a transformation plan and organizational execution is where most companies lose.
 
-What I've noticed working with transformation leaders who came from PE: they bring the rigor and the financial discipline, but the organizational side — getting 5,000 people across 13 countries moving in the same direction during a restructuring — requires a different toolkit. That's the gap McChrystal Group fills.
+With DraftKings navigating layoffs, a prediction markets launch, and a multi-country restructuring simultaneously, that gap is real. The leaders who close it fastest are the ones who invest in operating model design — not just strategy.
 
-Our roots are in military special operations, where coordinating complex, time-sensitive operations across dispersed teams isn't optional — it's survival. The principles translate directly to what you're managing.
+We built McChrystal Group's practice around this exact problem. General McChrystal faced it in Iraq: how do you get a large, distributed organization to adapt faster than the environment is changing?
 
-Would a short call to compare approaches make sense? I'm genuinely curious how you're structuring the transformation office.
+Happy to share what we're seeing and hear how you're approaching it. Even a quick call would be valuable.
 
 Best,
 [Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Newly created CTO role during active restructuring
+
+Jason — the CTO role at DraftKings during this restructuring is fascinating. At McChrystal Group we work with transformation leaders navigating exactly this kind of multi-front change. Would enjoy connecting.
 
 ---
 
@@ -851,24 +151,24 @@ McChrystal Group
 # Outreach Package — Lululemon Athletica
 
 **Target**: Meghan Frank, Interim Co-CEO & CFO
-**Why this contact**: Operational anchor during a leadership vacuum — managing day-to-day while navigating Elliott activist pressure, a CEO search, product pipeline challenges, and tariff headwinds. Needs organizational alignment support now, not after a permanent CEO arrives.
+**Why this contact**: As interim co-CEO and CFO during CEO succession, Frank is the operational anchor — she controls budget, knows the organization deeply (10 years), and will influence who the next CEO is and what they inherit
 **Company**: Lululemon Athletica | **Score**: 81 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Leading through the interregnum
-**Hook**: CEO vacuum + Elliott's $1B activist stake + interim co-CEO structure creating organizational drift risk
+**Subject**: Leading lululemon through the in-between
+**Hook**: Dual interim co-CEO structure during CEO search + US revenue decline + tariff pressure
 
 Meghan,
 
-Stepping from CFO to Interim Co-CEO while Elliott Management holds a billion-dollar stake and the board searches for a permanent leader — that's one of the harder positions in corporate America right now. The risk isn't that the business stops; it's that the organization drifts. Teams wait for the new CEO to set direction, decisions get deferred, and competitors gain ground.
+The dual interim co-CEO structure you and André are navigating is one of the hardest leadership configurations in corporate life — maintaining operational momentum while the board searches for a permanent CEO, all while US revenue is under pressure and tariff headwinds are building.
 
-McChrystal Group works with leadership teams navigating exactly this kind of transition — where the organization needs to execute at full speed even though the top of the house is in flux. The goal isn't to fill the CEO role faster; it's to make sure the 30,000+ people across your stores, supply chain, and HQ aren't paralyzed by uncertainty.
+McChrystal Group works with leadership teams in exactly these high-stakes transitions. We've helped organizations maintain alignment and execution speed during CEO successions where the risk isn't just strategic drift — it's the cultural uncertainty that slows decision-making across the entire company.
 
-We helped a consumer brand through a similar dual-leadership transition and activist situation — keeping execution velocity high while the board completed its search. The key was building decision-making clarity that didn't depend on a single person at the top.
+You've been at lululemon for a decade. You know this organization better than anyone. The question is whether the operating rhythm you've built can hold through a prolonged transition. That's the conversation I'd welcome having.
 
-Would 20 minutes to compare notes be useful?
+Would 20 minutes work?
 
 Best,
 [Senior Partner Name]
@@ -877,18 +177,18 @@ McChrystal Group
 ---
 
 ## Version B — Insight-based
-**Subject**: What interim leaders get wrong (and right)
-**Hook**: Industry pattern: interim CEO periods cost organizations 6-12 months of execution velocity
+**Subject**: What CEO transitions actually cost (it's not what you think)
+**Hook**: Hidden organizational cost of CEO transitions — decision paralysis at middle management
 
 Meghan,
 
-Here's what we've seen across a dozen CEO transitions: the interim period is where organizations either maintain momentum or lose 6-12 months of execution. The pattern is predictable — senior leaders hedge, middle management freezes on strategic calls, and the incoming CEO inherits an organization that's been coasting.
+The visible cost of a CEO transition is the search and the announcement. The hidden cost — the one we see across the retail and consumer companies we work with — is the 6-12 months of organizational hesitation: middle managers deferring decisions, strategic initiatives losing sponsorship, cross-functional teams waiting for signals about the new direction.
 
-Lululemon can't afford that right now. Between tariff headwinds hitting margins, competitive pressure from Alo and Vuori, and a product pipeline that needs resetting after Breezethrough, the business requires decisive action during the transition — not despite it.
+With lululemon's US business already navigating headwinds (down 3% and facing a full year of tariff impact), that organizational hesitation is a risk multiplier. The companies that handle transitions best are the ones that explicitly design for continuity — not just at the top, but in how the organization makes decisions day to day.
 
-McChrystal Group specializes in building the organizational operating rhythm that keeps execution moving independent of who sits in the corner office. We call it empowered execution — pushing decision authority to the people closest to the problem, with clear boundaries and real-time information flow.
+McChrystal Group's "Team of Teams" model was built for this: maintaining execution speed when leadership is in flux.
 
-The best interim leaders we've worked with used the transition period to install operating discipline that outlasted them. I'd love to share what's worked. Worth 20 minutes?
+I'd love to share what we've seen work. Twenty minutes?
 
 Best,
 [Senior Partner Name]
@@ -897,22 +197,30 @@ McChrystal Group
 ---
 
 ## Version C — Warm angle
-**Subject**: The CFO who stepped up
-**Hook**: Meghan Frank's unusual CFO-to-Co-CEO step-up — connecting to McChrystal's own leadership transition experiences
+**Subject**: From CFO to co-CEO — a rare vantage point
+**Hook**: Rare CFO-to-co-CEO elevation — speaks to her organizational influence and the board's trust
 
 Meghan,
 
-Most CFOs in your position would be focused on managing the narrative for analysts — and you're doing that, too. But you also took on product merchandising and brand oversight as Interim Co-CEO, which tells me you see this as more than a caretaker role. That's the right instinct.
+Not many CFOs get asked to step into the co-CEO seat during a transition — and even fewer would want to. The fact that the board turned to you and André says something about how lululemon's leadership team actually works.
 
-I reach out because McChrystal Group has worked with several leaders who found themselves in unexpected operational roles during transitions. The ones who succeeded didn't just keep the lights on — they used the window to address structural issues the outgoing CEO couldn't or wouldn't. Decision rights, cross-functional alignment, speed of execution.
+I mention it because the leaders we work with at McChrystal Group often face a version of your challenge: how do you exercise authority in an ambiguous structure without overstepping, while keeping 30,000+ employees focused when the future leadership is uncertain?
 
-Our founder, General McChrystal, faced a version of this when he took command of JSOC — an organization with talent and resources but lacking the coordination architecture to match the speed of its environment. The parallels to retail in 2026 are closer than you'd think.
+We've worked with retail and consumer companies through similar moments — the organizations that come out stronger are the ones that use the transition as an opportunity to strengthen how teams coordinate, not just maintain the status quo.
 
-If the timing works, I'd welcome a brief call — even 15 minutes — to share what we've seen work during leadership transitions at consumer companies.
+Would enjoy hearing how you're thinking about this. Happy to keep it to 20 minutes and make it purely a conversation, not a pitch.
 
 Best,
 [Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CFO to co-CEO transition as personal connection point
+
+Meghan — stepping from CFO to interim co-CEO during a leadership transition is no small thing. At McChrystal Group we work with leaders navigating exactly these high-stakes moments. Would enjoy connecting.
 
 ---
 
@@ -922,24 +230,22 @@ McChrystal Group
 # Outreach Package — SAIC
 
 **Target**: John K. Tien Jr., Board Member
-**Why this contact**: Military background creates natural McChrystal connection — West Point, combat tours in Iraq, senior government service. As a board member, he influences strategic direction and can champion advisory engagements from the governance level.
+**Why this contact**: Military veteran with deep government and private sector experience — natural McChrystal Group connection. As a new board member during SAIC's CEO transition and 5-to-3 business unit consolidation, Tien has both influence and context on the transformation
 **Company**: SAIC | **Score**: 80 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: SAIC's five-to-three restructuring
-**Hook**: SAIC consolidating 5 business groups into 3 under new CEO Jim Reagan + $100M spend reallocation
+**Subject**: SAIC's 5-to-3 consolidation — the hard part starts now
+**Hook**: 5-to-3 business unit consolidation + 3 senior leader departures + new permanent CEO
 
 John,
 
-Consolidating five business groups into three while a new CEO finds his footing is exactly the kind of reorganization that looks clean on a slide deck and gets messy in execution. Jim Reagan's $100 million reallocation from indirect spend signals serious intent — but the harder question is whether the Army Navy Business Group and Air Force Space Intelligence group can actually operate as integrated units, not just renamed silos.
+SAIC's consolidation from five business groups to three — effective January 31 — is exactly the kind of structural change that looks clean on paper and gets complicated in execution. Three senior leaders departing, two new mega-groups forming, and an innovation office being restructured, all under a CEO who just moved from interim to permanent.
 
-McChrystal Group has deep experience in exactly this kind of defense sector restructuring. We've helped organizations consolidate business units while maintaining operational tempo with customers who can't afford a service disruption — including several companies in the GovCon space.
+McChrystal Group was built for these moments. Our "Team of Teams" model helps organizations integrate disparate units into a cohesive operating system without losing the specialized capabilities that made each unit valuable. General McChrystal developed this approach integrating joint special operations across agency boundaries — the parallels to SAIC's current challenge are direct.
 
-You know from your own experience — both in uniform and at DHS — that restructuring only works if the people two and three levels down understand the new operating model and have the authority to execute. That's what we build.
-
-Would a 20-minute call make sense to compare notes on what we're seeing in defense sector consolidations?
+Given your military background and your vantage point on the board, I think you'd find the conversation valuable. Would 20 minutes work?
 
 Best,
 [Senior Partner Name]
@@ -948,18 +254,18 @@ McChrystal Group
 ---
 
 ## Version B — Insight-based
-**Subject**: Why GovCon reorgs stall at the middle
-**Hook**: Industry pattern of GovCon restructurings stalling at middle management — SAIC's 5-to-3 consolidation at risk
+**Subject**: Why defense consolidations fail (and how to avoid it)
+**Hook**: Defense industry consolidation failure pattern — integration takes longer than planned
 
 John,
 
-Here's the pattern we see in defense and government services companies: the CEO announces a restructuring, the board approves it, the org chart changes — and 18 months later, the old business groups are still operating the way they always did, just with new names. The problem isn't at the top or the bottom. It's in the middle, where VP-level leaders protect their teams, their customer relationships, and their P&Ls.
+The pattern in defense services consolidations is well-documented: leadership announces the merger, org charts get redrawn, and then the real work begins — getting program managers, capture teams, and delivery organizations that operated independently to actually share intelligence, pipeline, and talent. Most companies underestimate this by 12-18 months.
 
-SAIC's consolidation from five to three business groups is ambitious and probably necessary. But Jim Reagan's "speed, focus, accountability" mandate will live or die on whether the middle management layer buys in or resists.
+SAIC's move from five groups to three puts it right at this inflection. The strategic logic is sound — Jim Reagan's focus on simplification makes sense. The question is whether the operating model changes fast enough to capture the growth opportunities before competitors do.
 
-McChrystal Group specializes in building the operating rhythms and decision architectures that make restructurings stick — not just at the executive level, but through the organization. We've done this work across the defense industrial base with companies navigating similar consolidations.
+McChrystal Group has worked with defense and government services organizations through similar integrations. The difference-maker is always the same: shared consciousness across the new structure, not just shared reporting lines.
 
-I'd welcome the chance to share what we've learned. Worth 20 minutes?
+I'd enjoy comparing perspectives. Twenty minutes?
 
 Best,
 [Senior Partner Name]
@@ -968,22 +274,28 @@ McChrystal Group
 ---
 
 ## Version C — Warm angle
-**Subject**: West Point to SAIC's boardroom
-**Hook**: John Tien's West Point/combat/DHS background — direct parallel to McChrystal Group's military origins
+**Subject**: Battalion command to the boardroom — a shared lens
+**Hook**: Shared military background — battalion commander, DHS, now governing a defense consolidation
 
 John,
 
-From First Captain at West Point to three combat tours in Iraq to Deputy Secretary of Homeland Security — your career is built on leading organizations through complexity under pressure. That's the same DNA McChrystal Group was built on.
+Your path — battalion command in Iraq, DHS Deputy Secretary, Citigroup COO, now SAIC's board — is exactly the kind of career that resonates with what we do at McChrystal Group. General McChrystal built our firm on the principle that the leadership challenges in combat and in the boardroom are structurally the same: how do you get large, distributed organizations to act with speed and coherence?
 
-General McChrystal transformed JSOC by breaking down the silos between intelligence, operations, and interagency partners — creating what he calls shared consciousness. The challenge SAIC faces right now, consolidating business groups while maintaining customer delivery and integrating a new CEO's vision, requires the same kind of structural rethinking.
+With SAIC navigating a CEO transition, a major structural consolidation, and the SilverEdge acquisition integration, the board's governance role is unusually active right now. The organizations that handle these moments well are the ones where board members with operational experience — like yours — help the executive team see around corners.
 
-We don't often get the chance to work with a board member who's lived the principles we teach. But that's also why I think you'd see the value immediately — and could help Jim Reagan's team understand how these ideas translate from the battlefield to a $7.5 billion government services company.
-
-I'd genuinely enjoy the conversation, regardless of whether it leads to an engagement. Would you have 20 minutes?
+Would welcome the chance to connect. Even an informal conversation over coffee or a quick call would be valuable.
 
 Best,
 [Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Military-to-boardroom career arc + active SAIC transformation
+
+John — your path from battalion command to DHS to the SAIC board is exactly the kind of leadership journey we study at McChrystal Group. With SAIC's consolidation underway, would enjoy connecting and comparing notes.
 
 ---
 
@@ -993,24 +305,22 @@ McChrystal Group
 # Outreach Package — Imperial Oil
 
 **Target**: Dan Lyons, SVP Finance & Administration
-**Why this contact**: U.S. Army veteran creates a natural McChrystal Group connection. As SVP Finance & Administration, he's at the center of the 20% workforce reduction, Calgary-to-Edmonton geographic consolidation, and $150M cost savings program.
+**Why this contact**: Army veteran with deep operational experience across global assignments — natural McChrystal connection. As SVP Finance & Admin, Lyons oversees the financial and administrative infrastructure being reshaped by the 20% workforce reduction and HQ relocation
 **Company**: Imperial Oil | **Score**: 78 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: 900 roles, three cities, one transformation
-**Hook**: 20% workforce reduction + HQ relocation from Calgary to Edmonton + Houston migration + ExxonMobil global capability center integration
+**Subject**: 900 positions, one shot to get the culture right
+**Hook**: 20% workforce reduction + HQ relocation — organizational cohesion risk during restructuring
 
 Dan,
 
-Cutting 20% of your workforce while relocating your headquarters from Calgary to Edmonton and migrating 200 positions to Houston — that's not a restructuring, that's a complete organizational rebuild. And the $330 million charge signals this isn't incremental change; it's a fundamental reset of how Imperial Oil operates.
+Cutting 20% of your workforce over two years while relocating your headquarters from Calgary to Strathcona is one of the most complex organizational changes in Canadian energy right now. The $330M restructuring cost tells you the financial commitment. What it doesn't tell you is whether the organization that emerges on the other side operates better — or just smaller.
 
-The hardest part won't be the headcount reduction. It'll be keeping the remaining 3,600 people aligned and executing while the ground shifts beneath them — new reporting lines, new locations, new ways of working with ExxonMobil's global capability centers.
+McChrystal Group works with leadership teams navigating exactly this: high-stakes restructurings where the risk isn't the plan itself, but whether the remaining organization maintains cohesion, trust, and execution speed through the transition.
 
-McChrystal Group works with energy companies navigating exactly this kind of multi-site transformation. We've helped leadership teams maintain operational tempo during restructurings where the risk of knowledge loss and cultural fragmentation is highest.
-
-You're living this every day. Would 20 minutes to compare notes on what we've seen work in similar situations be useful?
+You've managed operations across four continents. You know that organizational effectiveness isn't a spreadsheet exercise. Would 20 minutes to discuss how other energy companies have handled this kind of transformation be useful?
 
 Best,
 [Senior Partner Name]
@@ -1019,18 +329,16 @@ McChrystal Group
 ---
 
 ## Version B — Insight-based
-**Subject**: The hidden cost of energy restructurings
-**Hook**: Energy sector pattern: restructuring savings consumed by hidden coordination costs — Imperial's three simultaneous organizational challenges
+**Subject**: The hidden cost of energy workforce reductions
+**Hook**: Knowledge-loss paradox in energy restructurings — leaner doesn't mean faster
 
 Dan,
 
-Here's what we see in energy companies going through major restructurings: the financial savings get modeled precisely — $150 million by 2028 — but the organizational costs are harder to quantify. Key knowledge walks out the door with departing employees. The remaining team splits attention between doing their job and worrying about their future. Cross-site coordination between Edmonton, Houston, and global capability centers adds friction that nobody budgeted for.
+The energy companies we work with all face the same paradox during restructurings: the people who leave take institutional knowledge with them, and the people who stay are too busy absorbing extra work to redesign how they operate. The result is an organization that's leaner on headcount but heavier on friction — exactly the opposite of what the restructuring intended.
 
-Imperial's transformation is more complex than most because it's not just a cost play — you're simultaneously optimizing Kearl toward 300,000 barrels per day, winding down Norman Wells, and rebuilding your operating model around technology and global centers. That's three different organizational challenges competing for the same leadership bandwidth.
+Imperial's plan to reduce 900 positions by 2027 while moving the remaining team to Strathcona creates a two-year window where this risk is highest. The companies that avoid it are the ones that invest in operating model design alongside the headcount changes — rethinking how teams coordinate, not just who's on them.
 
-McChrystal Group helps leadership teams build the coordination architecture that prevents restructuring savings from being consumed by execution friction. The goal is making sure the $150 million actually lands.
-
-Would a brief call to share what's worked for other energy companies in similar transitions be worth your time?
+McChrystal Group's "Team of Teams" approach was built for organizations operating under exactly this kind of pressure. Would welcome a conversation about what we're seeing across the energy sector.
 
 Best,
 [Senior Partner Name]
@@ -1039,22 +347,28 @@ McChrystal Group
 ---
 
 ## Version C — Warm angle
-**Subject**: One veteran to another on leading through change
-**Hook**: Dan Lyons' U.S. Army service — veteran-to-veteran connection during a transformation testing organizational cohesion
+**Subject**: From the Army to energy ops — a shared perspective
+**Hook**: Shared military background — Army veteran leading through a major organizational transformation
 
 Dan,
 
-As a fellow veteran, I know you understand something most executives don't: the hardest part of any operation isn't the plan — it's maintaining unit cohesion when everything around you is changing. Imperial's workforce is going through that right now. Nine hundred people losing their roles, entire teams relocating, and the people who stay wondering if they're next.
+Your career path — from the U.S. Army to managing Esso Thailand to leading finance and administration at Imperial through this restructuring — gives you a lens that most executives in energy don't have. You understand that organizational effectiveness is about people, coordination, and trust, not just process redesign.
 
-McChrystal Group was founded by General Stanley McChrystal, who led the transformation of Joint Special Operations Command during some of the most intense operational pressure in modern military history. The core insight — that decentralized organizations bound by shared consciousness outperform hierarchies in volatile environments — is directly relevant to what Imperial is navigating.
+That's exactly what McChrystal Group was built on. General McChrystal founded the firm after transforming how Joint Special Operations Command operated in Iraq — taking a hierarchical, siloed organization and turning it into an adaptive network. The principles translate directly to what Imperial is navigating: how do you maintain organizational coherence when you're fundamentally reshaping the workforce and where it sits?
 
-You've served. You know the principles aren't theoretical. And you're in a position to apply them at a moment when Imperial's people need leadership that goes beyond the restructuring announcement.
-
-I'd be honored to connect — even informally. Would 20 minutes work?
+As a fellow veteran, I think you'd find the conversation genuinely interesting. Would 20 minutes work — no pitch, just a comparison of perspectives?
 
 Best,
 [Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Shared military veteran background during Imperial's restructuring
+
+Dan — as a fellow veteran navigating a major organizational transformation at Imperial, I think you'd find McChrystal Group's work interesting. We were built on the same principles you lived in the Army. Would enjoy connecting.
 
 ---
 
@@ -1064,68 +378,73 @@ McChrystal Group
 # Outreach Package — Wolfspeed
 
 **Target**: Anthony Abate, Board Chairman
-**Why this contact**: Air Force veteran with natural McChrystal affinity; creditor-appointed chairman steering post-bankruptcy transformation; oversees board-level strategic direction during most critical rebuild phase
+**Why this contact**: Air Force veteran and serial turnaround chairman — led GTT and Mitel through post-bankruptcy transformations. Uniquely positioned to champion organizational effectiveness work during Wolfspeed's post-Chapter 11 rebuild.
 **Company**: Wolfspeed | **Score**: 72 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Wolfspeed's post-Chapter 11 rebuild
-**Hook**: Post-bankruptcy emergence with $4.6B debt reduction, new leadership team, and mandate to rebuild organizational culture from the ground up
+**Subject**: Wolfspeed's 91-day emergence — what comes next
+**Hook**: Post-bankruptcy organizational transformation — financial restructuring complete, cultural/operational restructuring ahead
 
-Tony,
+Anthony,
 
-Wolfspeed's emergence from Chapter 11 last September — eliminating $4.6B in debt and cutting interest payments by 60% — was a masterclass in financial restructuring. But in my experience, the harder restructuring starts now: aligning a workforce that just lived through bankruptcy around a new operating identity.
+Wolfspeed's 91-day prepackaged Chapter 11 was surgically executed — $4.6B in debt eliminated, new board seated, Robert Feurle installed as CEO. The financial restructuring is done. The organizational one is just beginning.
 
-McChrystal Group has guided leadership teams through similar inflection points where the balance sheet is fixed but the organization hasn't caught up yet. We helped one post-restructuring manufacturer cut decision cycle times by 40% within six months by breaking down the defensive silos that form during existential crises.
+We work with leadership teams navigating exactly this inflection: new CEO, reconstituted board, workforce that survived a bankruptcy and needs a reason to believe in what's next. McChrystal Group helped organizations like yours build the cross-functional alignment and shared consciousness that turns a clean balance sheet into actual operational momentum.
 
-With Robert Feurle 10 months into his tenure and a reconstituted board, this is the window where organizational design choices compound — for better or worse.
+One of our clients — a technology company post-restructuring — closed a 14-month cultural integration in 7 months using our Team of Teams operating model.
 
-Would 20 minutes make sense to compare notes on what we've seen work in post-emergence transformations?
+Would a 20-minute conversation be useful? I'd welcome the chance to share what we've seen work in post-emergence environments.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version B — Insight-based
-**Subject**: The hidden risk after restructuring
-**Hook**: Semiconductor companies emerging from restructuring face a specific organizational trap: the survival mindset that saved them becomes the obstacle to growth
+**Subject**: The post-bankruptcy leadership gap in semiconductors
+**Hook**: Semiconductor industry pattern — balance sheet restructuring without organizational restructuring leads to repeated failure
 
-Tony,
+Anthony,
 
-There's a pattern we see repeatedly in companies that execute successful financial restructurings: the crisis mindset that saved the organization becomes the thing that holds it back. Teams that learned to hoard information, avoid risk, and wait for permission don't automatically start innovating again when the balance sheet clears.
+The semiconductor industry is littered with companies that restructured their balance sheets but never restructured how their people work together. The pattern is predictable: debt goes away, but the silos, risk aversion, and decision-making paralysis that led to the crisis remain.
 
-Wolfspeed's situation is textbook — $1.3B in cash, a self-funded business plan, a new CEO with an operational excellence mandate. The financial runway is there. The question is whether the organization can shift from "survive" to "compete" fast enough for the silicon carbide market window.
+Wolfspeed has the technical advantage — the world's first 200mm SiC fab, a Toyota partnership, $1.5B in CHIPS Act funding. What separates the companies that capitalize on that advantage from those that don't is whether the leadership team can build a culture of speed, accountability, and empowered execution across a newly reconstituted organization.
 
-We've worked with leadership teams navigating exactly this transition, helping them design operating models that push decision authority to the people closest to the customer and the technology.
+McChrystal Group specializes in helping leadership teams build exactly that operating model — particularly in high-stakes, technically complex environments where the margin for error is thin.
 
-Happy to share what we've learned over a brief call if it's useful.
+I'd value 20 minutes to share how we've approached similar inflection points. Worth a conversation?
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version C — Warm angle
-**Subject**: Fellow Air Force perspective on Wolfspeed
-**Hook**: Tony's Air Force background developing radar/analytics for stealth aircraft creates a natural connection to McChrystal Group's military-to-corporate leadership model
+**Subject**: Fellow Air Force veteran — Wolfspeed's next chapter
+**Hook**: Shared military background — Air Force veteran to veteran connection, McChrystal Group's military-rooted operating model
 
-Tony,
+Anthony,
 
-One Air Force veteran to another organization founded by one — General McChrystal built our firm on a principle he learned the hard way in Iraq: hierarchical command structures fail when the environment moves faster than the chain of command can process.
+One veteran to another — your career arc resonates. Four years as an Air Force officer, then decades building, restructuring, and leading technology companies through their hardest chapters. GTT, Mitel, now Wolfspeed. You know what it takes to rebuild.
 
-I suspect that lesson resonates as you chair Wolfspeed through its post-emergence phase. The semiconductor industry doesn't wait for committees to approve decisions. And a company rebuilding after Chapter 11 has even less margin for organizational friction.
+I work with McChrystal Group, founded by General Stan McChrystal. Our firm was built on the principle that transformed Joint Special Operations Command: in complex, high-stakes environments, hierarchical command structures break down. You need shared consciousness and empowered execution — the same shift Wolfspeed needs as it moves from bankruptcy survival to competitive offense.
 
-Your background — from radar systems engineering to scaling SaaS companies to chairing turnarounds — is exactly the kind of operator perspective we work best with. Leaders who've been in the arena, not just the boardroom.
+We've helped post-restructuring leadership teams align around a new operating model in months, not years.
 
-If you'd be open to a 20-minute conversation about how we've helped post-restructuring leadership teams accelerate alignment, I'd welcome the chance.
+Would 20 minutes be worthwhile? I think we'd find a lot of common ground on what Wolfspeed's leadership team needs right now.
 
-Respectfully,
-[Senior Partner Name]
+Semper Fi,
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Veteran-to-veteran connection plus serial turnaround chairman experience
+
+Anthony — fellow veteran here, working with McChrystal Group. Your track record leading post-restructuring boards (GTT, Mitel, now Wolfspeed) is exactly the kind of leadership challenge we specialize in. Would welcome connecting and sharing what we've seen work in these inflection points.
 
 ---
 
@@ -1135,68 +454,73 @@ McChrystal Group
 # Outreach Package — Haleon
 
 **Target**: Jonathan Workman, Chief Transformation Officer / President Europe
-**Why this contact**: Owns transformation execution as CTO; also runs Europe as President — dual mandate means he's accountable for both designing the new operating model and proving it works in a major region
+**Why this contact**: Owns the 'Win as One' transformation as CTO — the person accountable for reorganizing into six operating units, building a new operating model, and hitting the 1B new consumers by 2030 target. Economic buyer for transformation advisory.
 **Company**: Haleon | **Score**: 69 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Win as One — from strategy to execution
-**Hook**: Haleon's mid-2026 operating model overhaul: six new operating units, CTO and CGO roles created, Win as One strategy moving from vision to implementation
+**Subject**: Haleon's six-unit reorganization — the hardest part
+**Hook**: Six operating unit reorganization — structural change underway, cultural alignment is the gap
 
 Jonathan,
 
-Congratulations on the dual mandate — Chief Transformation Officer and President Europe is about as clear a signal as a board can send that Haleon is serious about Win as One moving from PowerPoint to practice.
+Haleon's reorganization into six operating units — splitting EMEA & LatAm, carving out India Subcontinent, standing up a new Chief Growth Officer role alongside your CTO function — is exactly the kind of structural change that looks clean on a slide deck and gets messy in execution.
 
-The challenge I'd imagine you're navigating: reorganizing into six operating units while simultaneously running one of them. Every transformation leader we've worked with hits the same wall — the people designing the new model can't also be the ones keeping the current one running without something giving way.
+The hardest part isn't the org chart. It's getting six unit leaders, a new Commercial Excellence team, and legacy GSK operating habits to actually work as one. Which is ironic, given "Win as One" is the stated strategy.
 
-McChrystal Group has helped organizations going through exactly this kind of structural overhaul build what we call "shared consciousness" — the connective tissue that lets new units operate independently without losing coherence. One consumer goods company we worked with cut their integration timeline by five months using this approach.
+McChrystal Group has deep experience helping organizations redesign how cross-functional teams actually collaborate — not just where the boxes sit. Our Team of Teams model was built for exactly this: maintaining speed and alignment as an organization decentralizes decision-making.
 
-Would a 20-minute call be worthwhile to swap perspectives on making operating model transitions stick?
+Would 20 minutes be valuable? I'd like to share what we've seen work when large consumer companies reorganize at this scale.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version B — Insight-based
-**Subject**: Why demerger operating models stall
-**Hook**: Post-demerger companies consistently underestimate the cultural and structural work required to operate independently — Haleon is 3+ years out from GSK and still redesigning
+**Subject**: Why consumer health demergers stall at year three
+**Hook**: Consumer health demerger stall pattern — Haleon entering the critical year-three window where culture must catch up to strategy
 
 Jonathan,
 
-Three years after demerging from GSK, Haleon is still building its independent operating identity — and honestly, that tracks with what we see across the board. Most demerged companies assume the separation itself is the hard part. The real challenge is building an operating model that reflects who you actually are, not who you were inside the parent.
+The pattern in consumer health spinoffs is well-documented: Year one is about survival and separation. Year two brings the new strategy. Year three is where most stall — the legacy parent's operating habits are still embedded, the new culture hasn't taken root, and the organization oscillates between the old way and the new way.
 
-Win as One is the right strategic frame. But in our experience, the gap between "one company" aspiration and actual cross-functional behavior is where transformations quietly stall. Teams default to the structures they know, especially under commercial pressure.
+Haleon is entering that critical window. Three percent organic growth in 2025 is respectable, but the 3-5% target for 2026 requires the "Win as One" operating model to actually function — not just exist on paper. That's a cultural transformation, not a structural one.
 
-We've helped leadership teams in similar post-separation transformations design operating rhythms and decision architectures that make "one company" the path of least resistance rather than the aspirational poster on the wall.
+McChrystal Group works with leadership teams at exactly this stage: when the strategy is clear but the organization's operating rhythm, decision rights, and information flow haven't caught up.
 
-If that's relevant to where you are in the journey, I'd welcome a brief conversation.
+I'd welcome 20 minutes to share frameworks we've used with organizations navigating similar post-demerger maturation. Worth a conversation?
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version C — Warm angle
-**Subject**: Transformation lessons from the field
-**Hook**: Jonathan's 15-year journey from regional GM to CTO parallels the kind of operator-leader McChrystal Group works best with — someone who's lived the organization, not parachuted in
+**Subject**: Durham grad leading Haleon's transformation
+**Hook**: Workman's unique cross-cultural GM background maps to the alignment challenge of unifying six operating units
 
 Jonathan,
 
-I've been following your career arc at Haleon — from GM roles across Asia and Africa to now owning the transformation agenda for the entire enterprise. Leaders who've run businesses across geographies before taking on enterprise-wide transformation bring something consultants never can: credibility with the people who have to change.
+Your career arc is unusual in the best way — 15 years at P&G, then another 15+ building GSK Consumer Healthcare into what became Haleon, with GM stints from Indochina to Southern Africa to Northern Europe. That breadth of operating experience across cultures and markets is rare in a CTO role.
 
-That matters because the biggest risk to Win as One isn't strategy — it's the middle layer. The GMs and regional leads who have to give up autonomy and local optimization for something that hasn't proven itself yet. You've been in their shoes. That's an advantage most CTOs don't have.
+It's also why "Win as One" is the right ambition but an incredibly hard execution challenge. You're asking six operating units across dozens of markets and cultures to adopt a shared operating model. That's not a process redesign — it's an alignment problem.
 
-McChrystal Group works almost exclusively with operator-leaders like you. Our model was built by someone who led transformation under conditions where failure meant something more than missed quarterly targets — and it translates directly to the kind of organizational rewiring you're leading.
+McChrystal Group was founded on solving exactly that problem. General McChrystal transformed a 25,000-person military organization from siloed commands into a networked team of teams. The principles translate directly to what Haleon is attempting.
 
-Would 20 minutes to compare approaches be useful?
+Would a 20-minute call be useful? I think your perspective on cross-market alignment and ours on organizational operating models would be a productive intersection.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Win as One transformation and six-unit reorganization
+
+Jonathan — Haleon's reorganization into six operating units under 'Win as One' is fascinating. McChrystal Group works with leadership teams navigating exactly this kind of structural-to-cultural transformation. Would welcome connecting to share perspectives.
 
 ---
 
@@ -1206,68 +530,73 @@ McChrystal Group
 # Outreach Package — Trinseo
 
 **Target**: Paula Cooney, SVP & Chief Human Resources Officer
-**Why this contact**: Managing workforce morale and retention through existential crisis — plant closures, workforce reductions, potential bankruptcy discussions; her specialty chemicals CHRO experience (H.B. Fuller) makes her uniquely attuned to the organizational impact
+**Why this contact**: As CHRO during a multi-year restructuring with workforce reductions, plant closures, and business consolidation, Cooney is the person responsible for maintaining organizational cohesion and rebuilding culture — the internal champion for transformation advisory.
 **Company**: Trinseo | **Score**: 68 | **Fit**: moderate
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Leading people through Trinseo's hardest chapter
-**Hook**: Trinseo's February 2026 bankruptcy discussions with creditors, on top of ongoing plant closures, workforce reductions, and dividend suspension
+**Subject**: Trinseo after the restructuring — rebuilding trust
+**Hook**: Post-restructuring trust deficit — workforce reductions, plant closures, and business consolidation create organizational trauma that needs deliberate repair
 
 Paula,
 
-The reports about Trinseo's creditor discussions come on top of what's already been an extraordinarily difficult stretch — plant closures in Italy, workforce consolidation across three business units, and a suspended dividend. In my experience, the CHRO becomes the most important person in the building during periods like this, because the people decisions made now determine whether the organization that emerges has any institutional capability left.
+Trinseo has been through an extraordinary amount of change in a short window: $1.1B refinancing, business consolidation combining Engineered Materials, Plastics Solutions, and Polystyrene under single management, workforce reductions targeting $30M in savings, and plant closures including the Stade facility.
 
-McChrystal Group has worked with leadership teams navigating similar existential moments. The pattern we see: organizations cut headcount but don't redesign how work actually flows, so the remaining people inherit impossible workloads and the best ones leave first.
+The financial logic is sound. The organizational cost is real. The people who remain are watching — wondering if they're next, whether leadership has a credible path forward, and if this company is worth their best effort.
 
-We've helped companies restructure not just the org chart but the operating rhythm — so fewer people can genuinely do the work, not just absorb it.
+McChrystal Group works with leadership teams in exactly this moment: after the restructuring decisions are made, when the harder work of rebuilding trust, alignment, and a culture of execution begins.
 
-If a 20-minute conversation about retaining capability through restructuring would be useful, I'm happy to make time.
+Would a 20-minute conversation be useful? I'd like to share what we've seen work with organizations rebuilding cohesion after significant restructuring.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version B — Insight-based
-**Subject**: The retention trap in restructuring
-**Hook**: Specialty chemicals companies going through deep restructuring face a talent paradox: workforce reductions intended to save the company accelerate departure of the people who could save it
+**Subject**: The hidden cost of restructuring in specialty chemicals
+**Hook**: Restructuring savings gap caused by organizational drag — talent flight, disengagement, and collaboration breakdown
 
 Paula,
 
-There's a pattern in industrial restructurings that HR leaders know intuitively but rarely get support to address: the first round of cuts creates survivor guilt, the second creates fear, and by the third, your highest-performers have already started interviewing. The people with the most options leave first.
+In specialty chemicals, restructuring programs typically deliver 70-80% of their projected cost savings. The gap isn't in the financial engineering — it's in the organizational drag: key talent departing, survivors disengaging, cross-functional collaboration breaking down as people protect their own positions.
 
-Trinseo's consolidation of three business units into one management structure is strategically sound. But the people now doing the work of three separate organizations need more than an updated org chart — they need clarity on decision authority, simplified reporting lines, and visible evidence that leadership has a plan beyond cost-cutting.
+Trinseo's $30M savings target from the October 2024 consolidation is achievable. But with TSR at $16 on an initial $100, the workforce is carrying the weight of sustained underperformance alongside restructuring anxiety. That combination erodes discretionary effort — the exactly what Trinseo needs from its remaining people to compete.
 
-We've worked with specialty materials companies through similar consolidations, helping leadership teams design operating models that make fewer people more effective rather than just more stretched.
+McChrystal Group specializes in helping organizations rebuild operating rhythm and alignment during turbulent transitions. Our model is built on creating shared consciousness across teams that have been disrupted.
 
-Happy to share what we've learned if a brief call would be helpful.
+I'd value 20 minutes to discuss how we've helped CHROs in similar situations preserve organizational capability while navigating necessary change. Interested?
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version C — Warm angle
-**Subject**: From one chemicals CHRO to a partner
-**Hook**: Paula's decade at H.B. Fuller (a $3B specialty chemicals company) means she's navigated industrial HR challenges before — shared context creates credibility
+**Subject**: The CHRO's hardest job — holding it together at Trinseo
+**Hook**: Empathy for the CHRO's impossible dual mandate — executing reductions while rebuilding culture
 
 Paula,
 
-Your path — a decade leading HR at H.B. Fuller through acquisitions and integrations, then FLIR Systems through its own transformation, and now Trinseo through what may be its most defining chapter — tells me you've seen this movie before. The difference this time is the stakes.
+The CHRO role during a multi-year restructuring is one of the loneliest in the C-suite. You're accountable for executing workforce reductions while simultaneously trying to retain and motivate the people who remain. You're asked to build culture while the organization is actively shrinking. And you're the person every employee looks to for honesty about what comes next.
 
-What I've noticed working with HR leaders who've been through multiple restructurings: they know exactly what needs to happen organizationally, but the urgency of the financial situation keeps pulling leadership's attention toward the balance sheet and away from the people architecture that will determine whether the turnaround actually works.
+You've been in this seat at Trinseo since 2021 — through the ARISTADA acquisition, the debt crisis, the business consolidation, the plant closures. That tenure through turbulence is itself a signal of resilience and commitment.
 
-McChrystal Group exists to bridge that gap — giving leadership teams the frameworks and operating discipline to make organizational decisions with the same rigor they apply to financial ones.
+McChrystal Group was founded by leaders who understand operating in sustained high-pressure environments. We help organizations build the trust and operating discipline that turns survivors into a cohesive team with shared purpose.
 
-If you'd be open to a 20-minute conversation, even just to compare notes on what you're seeing, I'd value the exchange.
+Would a 20-minute call be worthwhile? I'd welcome the chance to hear your perspective and share what we've seen work.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CHRO navigating multi-year restructuring — organizational cohesion challenge
+
+Paula — leading HR through Trinseo's restructuring, business consolidation, and debt exchange is an extraordinary challenge. McChrystal Group works with leadership teams rebuilding organizational cohesion after exactly this kind of turbulence. Would value connecting.
 
 ---
 
@@ -1276,69 +605,74 @@ McChrystal Group
 
 # Outreach Package — Block Inc
 
-**Target**: Amrita Ahuja, Chief Operating Officer & Chief Financial Officer
-**Why this contact**: Dual COO/CFO role makes her the operational decision-maker for Block's restructuring and AI transformation; personally drove the 40% workforce reduction analysis; owns both financial and operational execution
+**Target**: Amrita Ahuja, COO & CFO
+**Why this contact**: Architect and public spokesperson for Block's 40% workforce reduction and AI-driven operating model shift. Holds both COO and CFO titles — she owns both the strategy and the execution of Block's organizational transformation.
 **Company**: Block Inc | **Score**: 66 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: Block's 4,000-person reset — what comes next
-**Hook**: Block's February 2026 decision to cut 40% of workforce (4,000 people) while raising guidance — Amrita personally drove this decision based on 18 months of AI productivity data
+**Subject**: Block's bold bet — from 10,000 to 6,000
+**Hook**: 40% workforce reduction as AI-driven transformation — the organizational operating model must change, not just headcount
 
 Amrita,
 
-The conviction behind Block's workforce decision was striking — cutting 4,000 roles while simultaneously raising guidance takes a level of organizational clarity that most leadership teams never reach. The data-driven approach you described, building confidence over 18 months that AI tools could genuinely absorb the work, is rare.
+Your Fortune interview was candid: Block weighed a series of smaller, reactive cuts versus one bold restructuring that aligns the company with where you believe the world is heading. You chose bold. Going from 10,000 to under 6,000 — with $450-500M in severance costs — is a conviction bet on AI-augmented productivity.
 
-But here's what we've seen in organizations that make bold structural moves: the first 90 days after the announcement determine whether the remaining team operates with the speed and clarity the new model demands, or whether they retreat into self-preservation mode.
+The financial case is clear: 18% gross profit growth, 54% profit climb, 26% adjusted operating margin in 2026. The organizational question is harder. The 6,000 people who remain need to operate fundamentally differently — not just with better tools, but with different decision-making rhythms, information flow, and accountability structures.
 
-McChrystal Group has worked with leadership teams through exactly these inflection points — helping the organization that remains actually operate the way the restructuring intended, not just survive it.
+McChrystal Group works with leadership teams building exactly that kind of new operating model. Our experience is in organizations that need speed, alignment, and empowered execution with fewer people and higher stakes.
 
-Would 20 minutes be worthwhile to discuss what we've seen work in post-restructuring operating model design?
+Would 20 minutes be valuable? I'd like to share what we've seen work when organizations redesign how they operate, not just how many people they employ.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version B — Insight-based
-**Subject**: When AI replaces headcount, org design matters more
-**Hook**: Companies replacing humans with AI face an organizational design challenge few are solving: the remaining humans need entirely different coordination models
+**Subject**: The AI workforce paradox nobody talks about
+**Hook**: AI workforce paradox — headcount cuts without operating model redesign reduce decision-making speed, not just cost
 
 Amrita,
 
-Most companies using AI to reduce headcount are focused on the technology side — which tasks can be automated, what productivity gains look like, how to measure developer velocity. Block's 40% improvement since September is impressive. But the organizational question is harder: how do the remaining 6,000 people actually work together?
+Here's the paradox in AI-driven workforce transformations: you cut headcount to increase productivity, but the remaining team often becomes less productive — not because of the technology, but because the organizational model hasn't kept up. Decision rights are unclear. Information flow breaks down. The people who remain are doing more tasks but making slower decisions.
 
-When you remove 4,000 nodes from a network, the communication patterns, decision rights, and coordination mechanisms that evolved around those people don't automatically rewire. The informal knowledge networks that made things work disappear. New bottlenecks emerge in unexpected places.
+Block's bet on Goose and AI-augmented work is directionally right. But the companies that actually capture AI's productivity gains are the ones that simultaneously redesign their operating model — how teams coordinate, where decisions get made, how information flows across a much smaller organization.
 
-We've helped organizations redesign their operating models after significant structural changes — not by adding process, but by creating the transparency and decision architecture that lets smaller teams move faster. It's the same principle that let small special operations teams outperform large conventional forces.
+McChrystal Group built our practice on exactly this problem: helping organizations operate with speed and alignment in complex, high-stakes environments. The Team of Teams model was designed for situations where you need fewer people making faster, better decisions.
 
-If comparing notes on post-restructuring org design would be useful, I'd welcome a brief conversation.
+A 20-minute conversation might surface some useful parallels. Worth exploring?
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version C — Warm angle
-**Subject**: A Duke connection and a relevant question
-**Hook**: Amrita's Duke background and unique operator-financier profile create a natural peer connection; her Fortune interview revealed the disciplined decision-making McChrystal Group values
+**Subject**: One operator to another — Block's transformation
+**Hook**: Dual COO/CFO role during unprecedented transformation — operator-to-operator respect for the scope of the challenge
 
 Amrita,
 
-I've been following your trajectory since the Blizzard Entertainment days — there aren't many executives who've successfully held both the CFO and COO chair simultaneously, and even fewer who would use that vantage point to make a bet as bold as Block's AI-driven restructuring.
+Holding both the COO and CFO title at a company going through this scale of transformation is rare. Most companies split those functions precisely because the operational and financial demands conflict during restructuring. The fact that Jack trusts you with both says something about the kind of operator you are.
 
-What struck me in your Fortune interview wasn't the headcount decision itself — it was the 18-month deliberation behind it. That kind of disciplined analysis before a decisive action is exactly how we think about organizational transformation at McChrystal Group. General McChrystal's phrase for it: "disciplined initiative."
+What drew my attention is the intentionality behind Block's approach — this wasn't a cost-cutting exercise dressed up as strategy. You're fundamentally rethinking how a fintech company should be organized in an AI-native world. That's a genuinely novel organizational challenge.
 
-The question I'd love to explore with you: now that Block has made the structural move, how are you thinking about the operating rhythm and decision architecture for a fundamentally smaller, AI-augmented organization? It's a design problem very few companies have solved yet.
+McChrystal Group works with leaders navigating exactly this kind of transformation. General McChrystal faced a similar challenge — redesigning a 25,000-person organization to operate with the speed and precision of a much smaller team. The principles we developed translate directly to what Block is building.
 
-If 20 minutes to compare perspectives would be valuable, I'd enjoy the conversation.
+Would 20 minutes be worthwhile? I think your perspective on Block's transformation and ours on organizational operating models would be a productive exchange.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Block's AI-driven workforce transformation and operating model redesign
+
+Amrita — Block's decision to go from 10K to 6K people while raising profit guidance is one of the boldest organizational bets in fintech. McChrystal Group works with leaders redesigning how their organizations operate at these inflection points. Would welcome connecting.
 
 ---
 
@@ -1348,67 +682,72 @@ McChrystal Group
 # Outreach Package — Genuine Parts Company
 
 **Target**: Jenn Hulett, EVP & Chief People Officer
-**Why this contact**: Less than 2 years in role, facing most significant people challenge in GPC's history — separating a 97-year-old company into two independent entities while managing Elliott's activist pressure and chairman transition
+**Why this contact**: As CPO during a company-splitting separation driven by activist pressure, Hulett owns the people strategy for determining which leaders, teams, and cultures go to Automotive vs. Industrial — the defining organizational challenge of the next 12 months.
 **Company**: Genuine Parts Company | **Score**: 65 | **Fit**: strong
 
 ---
 
 ## Version A — Trigger-based
-**Subject**: GPC's separation — the people side
-**Hook**: GPC's February 2026 announcement to split into two public companies (NAPA and Motion) with Q1 2027 target — CPO must build two independent people organizations from one
+**Subject**: Splitting GPC into two — the people side
+**Hook**: NAPA/Motion separation — 12-month countdown to splitting a 98-year-old company into two independent entities
 
 Jenn,
 
-Splitting Genuine Parts Company into two public entities by Q1 2027 is ambitious under any circumstances. Doing it while Elliott is watching, the chairman is retiring, and you're less than two years into the CPO role makes it one of the more complex people challenges I've seen announced this year.
+The February announcement to separate GPC into Automotive (NAPA) and Industrial (Motion) as two independent public companies is a defining moment. The financial logic — unlocking value that Elliott argued the combined structure obscured — is straightforward. The organizational execution is anything but.
 
-The separation itself is structurally clear — automotive under NAPA, industrial under Motion. But the organizational question is harder: 10,000+ locations, decades of shared services, and a culture built on being one company now need to become two distinct operating identities with their own leadership pipelines, talent strategies, and decision frameworks.
+Over the next 12 months leading to the Q1 2027 separation, you're facing questions no org chart can answer: Which leaders go where? How do shared services split? What happens to a 98-year-old culture when it divides into two? How do you retain top talent through a period of maximum uncertainty?
 
-McChrystal Group has worked with leadership teams through separations where the people architecture was the difference between a clean split and years of drag. We focus on decision rights, leadership alignment, and operating rhythm — the stuff that makes two new companies actually function independently.
+McChrystal Group works with leadership teams navigating exactly these separation dynamics. We help organizations build alignment, decision-making clarity, and cultural identity during the most disorienting periods of organizational change.
 
-Would 20 minutes to compare notes on separation planning be useful?
+Would a 20-minute conversation be useful? I'd like to share what we've seen work in company separations at this scale.
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version B — Insight-based
 **Subject**: What separations get wrong about culture
-**Hook**: Companies splitting into two entities consistently underestimate the cultural challenge: you can't just divide a culture in half and expect two new ones to emerge
+**Hook**: Culture doesn't divide on a balance sheet — both NewCos need intentional cultural founding, not inherited habits
 
 Jenn,
 
-In every corporate separation I've studied, leadership teams spend 90% of their energy on the financial and legal architecture and 10% on the organizational and cultural architecture. Then they're surprised when Day 1 arrives and neither entity knows how to make decisions without calling the other one.
+Most company separations treat culture as something that gets allocated — like assets on a balance sheet. Automotive gets this culture, Industrial gets that one. In reality, the culture of the parent company doesn't divide cleanly. Both sides inherit the same habits, assumptions, and operating rhythms — and then struggle to differentiate.
 
-GPC's situation is particularly interesting because of its 97-year history as one company. The informal networks, the shared institutional knowledge, the cultural norms that made GPC work — those don't split along business unit lines. They fragment unpredictably.
+GPC has operated as one company for nearly a century. The NAPA and Motion businesses share more than a headquarters — they share an identity. The separation isn't just a structural exercise; it's a cultural founding moment for two new companies.
 
-The CPOs who navigate this well do something counterintuitive: instead of trying to preserve the old culture in two pieces, they use the separation as permission to intentionally design the cultures each entity actually needs. A $15B global automotive distribution company needs a different operating culture than a precision industrial parts business.
+McChrystal Group helps leadership teams build the intentional operating culture that new organizations need — particularly when the default is to replicate what they've always done. Our work focuses on decision rights, information flow, and cross-functional alignment: the infrastructure of culture.
 
-McChrystal Group helps leadership teams design these operating identities from first principles. If that perspective would be helpful as you plan the people side of the separation, I'd welcome a conversation.
+A 20-minute call to explore this might be timely, given the separation timeline. Worth a conversation?
 
 Best,
-[Senior Partner Name]
 McChrystal Group
 
 ---
 
 ## Version C — Warm angle
-**Subject**: From Dollar Tree to GPC — a rare vantage point
-**Hook**: Jenn's experience leading HR at Dollar Tree (200K+ employees, $28B) and Core-Mark gives her operator credibility; she joined GPC knowing transformation was coming
+**Subject**: The CPO's seat during a company separation
+**Hook**: Empathy for the CPO's unique position — managing separation logistics, board transition, activist dynamics, and employee uncertainty simultaneously
 
 Jenn,
 
-Leading HR for 200,000 people at Dollar Tree, then taking the CPO chair at GPC right before the most significant organizational change in the company's history — you clearly don't shy away from complexity.
+The Chief People Officer role during a major separation is uniquely consequential. You're simultaneously managing uncertainty for 60,000+ employees, designing talent strategies for two future companies, navigating board transition (Paul Donahue retiring, Will Stengel stepping into Chairman), and holding organizational cohesion while Elliott's involvement adds external pressure.
 
-What I find compelling about your background is that you've seen large-scale organizational challenges from multiple angles: retail at Dollar Tree, distribution at Core-Mark, global technology at Ericsson, and industrial conglomerate at GE. Very few CPOs bring that breadth to a separation this consequential.
+It's the kind of challenge where having an outside partner who understands high-stakes organizational dynamics — without the conflicts of a Big Four consulting engagement — can be genuinely valuable.
 
-McChrystal Group was built by leaders who operated in environments where organizational design wasn't academic — it was the difference between mission success and failure. We've found that operator-leaders like you, who've actually run things at scale, are the ones who get the most out of our approach.
+McChrystal Group was built by leaders who operated in the most complex, high-pressure environments imaginable. We bring that perspective to organizational transformations: clarity in ambiguity, alignment under pressure, and execution when the stakes are real.
 
-With the separation timeline running toward Q1 2027 and Paul Donahue's retirement approaching, the organizational design decisions being made in the next few months will echo for years. If 20 minutes to exchange perspectives would be valuable, I'd enjoy the conversation.
+I'd welcome 20 minutes to learn about your priorities and share how we've supported CPOs navigating similarly complex transitions. Interested?
 
 Best,
-[Senior Partner Name]
 McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Company separation people strategy — splitting culture, talent, and identity into two new organizations
+
+Jenn — separating a 98-year-old company into two public entities while managing the Elliott dynamic is an extraordinary organizational challenge. McChrystal Group works with people leaders navigating exactly this kind of high-stakes transition. Would welcome connecting.
 
 ---
