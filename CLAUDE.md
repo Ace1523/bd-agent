@@ -150,6 +150,38 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 
 **Single-command workflow**: Claude Code should discover prospects, score them, build dossiers for each, generate outreach sequences, and update the dashboard — all in one pass. Use `pipeline_status()` to verify completeness.
 
+### Execution Strategy
+
+**Step 1: Discover (sequential, thorough)**
+- Claude Code performs web research to identify prospects — this is NOT delegated to subagents because prospect selection requires judgment, cross-referencing, and deduplication against existing prospects in `dashboard.json`
+- For each prospect: verify with multiple sources, confirm revenue/employee data, identify specific trigger events with dates, find named leadership contacts
+- Do NOT select generic Fortune 500 companies — every prospect must have a specific, current reason McChrystal Group should reach out NOW
+- Build `Prospect` objects, score with `score_prospect()`, generate report with `generate_report()`
+
+**Step 2: Research (parallel subagents)**
+- Split prospects into batches of 3-4 companies
+- Launch 2-3 subagents in parallel, each responsible for its batch
+- Each subagent: performs deep web research on its companies, builds `Dossier` objects with all 7 sections populated, calls `generate_dossier_report()`
+- Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, and McChrystal-specific fit angles
+- Subagent prompt must include: company name, industry, revenue, employee count, tier, signals, and the full dossier section requirements from Phase 2
+
+**Step 3: Outreach (parallel subagents)**
+- Split prospects into batches of 5 companies
+- Launch 2 subagents in parallel, each responsible for its batch
+- Each subagent: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachSequence` objects with 3 emails each, calls `generate_outreach_report()`
+- Subagent prompt must include: the full outreach requirements from Phase 3 (sequence structure, tone, quality standards, targeting logic)
+
+**Step 4: Verify & Deploy**
+- Run `pipeline_status()` to confirm all prospects have dossiers and outreach
+- Verify `dashboard.json` has the correct count of sequences
+- Push to GitHub to update the live dashboard
+
+**Research quality gates (every step):**
+- Every fact should come from a web search, not from model knowledge — model knowledge is used to frame and contextualize, not as a primary source
+- Dates must be specific (month/year minimum), not "recently" or "in recent years"
+- Revenue and employee figures must be sourced or marked [INFERRED]
+- If a prospect turns out to have no compelling current signal upon deeper research, drop it and find a replacement — do not force-fit
+
 ## Key Modules
 - `bd/models.py` — `Prospect`, `Signal`, `SignalType`, `FitTier`, `Contact`, `Dossier`, `FitAssessment`, `FitRating`, `TriggerEvent`, `ConversationEntry`, `Email`, `OutreachSequence`
 - `bd/discover/scorer.py` — `score_prospect()` and component scoring functions
