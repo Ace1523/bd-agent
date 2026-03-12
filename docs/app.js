@@ -285,11 +285,19 @@ function renderHome() {
 
     <div class="home-section">
       <div class="home-section-title">How It Works</div>
+      <div style="border-left: 3px solid #da6123; padding: 12px 16px; margin-bottom: 20px; background: rgba(218,97,35,0.06); border-radius: 0 6px 6px 0; font-size: 0.95rem; line-height: 1.6; color: var(--text-secondary);">
+        <strong style="color: var(--text-primary);">This isn\u2019t PitchBook or Apollo.io.</strong> Those platforms pull from static databases of company data and generic lead scores. This agent searches the live web against McChrystal Group\u2019s specific Ideal Customer Profile \u2014 9 signal types, 3 industry tiers, revenue and employee thresholds, and organizational fit criteria purpose-built around how McChrystal sells. Every prospect, dossier, and outreach package is tailored to this firm, not generic lead gen.
+      </div>
       <div class="method-grid">
         <div class="method-card">
           <div class="method-card-icon" style="color:#6bc9a0;">&#9906;</div>
           <h3>Autonomous Discovery</h3>
-          <p>Claude Code searches the web for organizations showing transformation signals. Each prospect is scored against a 100-point ICP model across 4 dimensions. No human input required \u2014 the agent identifies, validates, and ranks prospects independently.</p>
+          <p>Claude Code searches the web for organizations showing transformation signals. No human input required \u2014 the agent identifies, validates, and ranks prospects independently across all three industry tiers.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#e8c547;">&#9878;</div>
+          <h3>ICP Scoring Engine</h3>
+          <p>Every prospect is scored on a 100-point model purpose-built for McChrystal Group. Four dimensions: signal count and recency (35 pts), revenue fit against the $500M\u2013$10B sweet spot (25 pts), employee scale (20 pts), and McChrystal-specific fit \u2014 high-value signal types like reorg, M&A, and transformation weighted higher (20 pts). Only companies that clear the threshold surface in the pipeline.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:#a78bdb;">&#9881;</div>
