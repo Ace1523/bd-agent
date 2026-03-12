@@ -6,6 +6,7 @@ let dashboardData = null;
 document.addEventListener("DOMContentLoaded", () => {
   setupTabs();
   setupScrollTop();
+  setupMarketsSidebar();
   loadData();
 });
 
@@ -53,7 +54,7 @@ function setupScrollTop() {
 }
 
 async function loadData() {
-  const views = ["home", "pipeline", "research", "outreach", "markets", "proposals", "how-it-works", "future"];
+  const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works", "future"];
   views.forEach((v) => {
     document.getElementById(`view-${v}`).innerHTML =
       '<div class="loading">Loading data...</div>';
@@ -84,7 +85,7 @@ function renderAll() {
   renderPipeline();
   renderResearch();
   renderOutreach();
-  renderMarkets();
+  renderMarketsSidebar();
   renderProposals();
   renderHowItWorks();
   renderFuture();
@@ -1096,13 +1097,13 @@ function freshnessBadge(lastRefreshed) {
   return `<span class="freshness-badge freshness-gray">${daysDiff}d ago</span>`;
 }
 
-function renderMarkets() {
-  const container = document.getElementById("view-markets");
+function renderMarketsSidebar() {
+  const container = document.getElementById("markets-sidebar-content");
   const sectors = dashboardData.market_intelligence || [];
 
   if (!sectors.length) {
     container.innerHTML = `
-      <div class="empty-state">
+      <div class="empty-state" style="padding:30px 10px;">
         <div class="empty-state-icon">&#127758;</div>
         <div class="empty-state-text">No market intelligence yet. Run a market research scan to populate.</div>
       </div>`;
@@ -1110,11 +1111,7 @@ function renderMarkets() {
   }
 
   container.innerHTML = `
-    <div class="section-header">
-      <h2 class="section-title">Market Intelligence</h2>
-      <span class="expand-hint">click a tile to expand</span>
-      <span class="section-count">${sectors.length} sectors</span>
-    </div>
+    <div style="font-size:12px; color:var(--text-muted); margin-bottom:12px;">${sectors.length} sectors &middot; click to expand</div>
     <div class="filter-bar" id="market-filter-bar"></div>
     <div class="card-grid" id="market-card-grid"></div>`;
 
@@ -1215,7 +1212,8 @@ function articleItem(article) {
 }
 
 function attachMarketCardToggle() {
-  const container = document.getElementById("view-markets");
+  const container = document.getElementById("markets-sidebar-content");
+  if (!container) return;
   container.querySelectorAll(".card").forEach(card => {
     card.addEventListener("click", (e) => {
       // Don't collapse when clicking article links
@@ -1225,6 +1223,40 @@ function attachMarketCardToggle() {
       if (!wasExpanded) card.classList.add("expanded");
     });
   });
+}
+
+function setupMarketsSidebar() {
+  const toggle = document.getElementById("markets-toggle");
+  const sidebar = document.getElementById("markets-sidebar");
+  const overlay = document.getElementById("markets-overlay");
+  const closeBtn = document.getElementById("markets-close");
+
+  function openSidebar() {
+    sidebar.classList.add("open");
+    overlay.classList.add("active");
+    toggle.classList.add("active");
+  }
+
+  function closeSidebar() {
+    sidebar.classList.remove("open");
+    overlay.classList.remove("active");
+    toggle.classList.remove("active");
+  }
+
+  toggle.addEventListener("click", () => {
+    if (sidebar.classList.contains("open")) closeSidebar();
+    else openSidebar();
+  });
+
+  closeBtn.addEventListener("click", closeSidebar);
+  overlay.addEventListener("click", closeSidebar);
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && sidebar.classList.contains("open")) closeSidebar();
+  });
+
+  // Expose for search integration
+  window.openMarketsSidebar = openSidebar;
 }
 
 // ══════════════════════════════════════════
@@ -1989,12 +2021,31 @@ function updateMeta() {
     resultsDiv.querySelectorAll(".search-result-item[data-company]").forEach(item => {
       item.addEventListener("click", () => {
         const company = item.dataset.company;
-        const views = matches.find(m => m.name === company)?.views || [];
-        const targetView = views.includes("research") ? "research" : views.includes("outreach") ? "outreach" : "pipeline";
-        switchTab(targetView);
+        const match = matches.find(m => m.name === company);
+        const views = match?.views || [];
         input.value = "";
         resultsDiv.innerHTML = "";
         resultsDiv.classList.remove("show");
+
+        // If it's a market sector, open sidebar instead of switching tab
+        if (views.includes("markets")) {
+          if (window.openMarketsSidebar) window.openMarketsSidebar();
+          setTimeout(() => {
+            const sidebarContent = document.getElementById("markets-sidebar-content");
+            if (!sidebarContent) return;
+            sidebarContent.querySelectorAll(".card").forEach(card => {
+              const nameEl = card.querySelector(".card-company");
+              if (nameEl && nameEl.textContent.trim() === company) {
+                card.classList.add("expanded");
+                card.scrollIntoView({ behavior: "smooth", block: "center" });
+              }
+            });
+          }, 350);
+          return;
+        }
+
+        const targetView = views.includes("research") ? "research" : views.includes("outreach") ? "outreach" : "pipeline";
+        switchTab(targetView);
 
         // Expand the matching card
         setTimeout(() => {
