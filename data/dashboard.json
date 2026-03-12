@@ -682,6 +682,50 @@
           "company_overview": "Apex Service Partners is one of the largest and fastest-growing home services platforms in the U.S., providing residential and commercial HVAC, plumbing, and electrical services. Backed by Alpine Investors, the company has acquired 107+ local service brands since its founding in 2019, building a nationwide network while preserving local brand identities in each market."
         }
       ]
+    },
+    {
+      "date": "2026-03-12",
+      "prospects": [
+        {
+          "company_name": "Visa Inc.",
+          "revenue_estimate": 40000000000.0,
+          "employee_count": 30000,
+          "industry": "Financial Services / Payments Technology",
+          "tier": "tier_1",
+          "signals": [
+            {
+              "type": "transformation",
+              "description": "'Network of networks' pivot \u2014 Visa-as-a-Service platform transformation unveiled at Feb 2025 Investor Day, targeting $520B addressable market in Value-Added Services",
+              "date": "2025-02-20",
+              "source": null
+            },
+            {
+              "type": "m_and_a",
+              "description": "Three major acquisitions requiring integration: Pismo ($929M, core banking infrastructure), Featurespace ($946M, AI fraud detection), and Prisma Medios de Pago (Argentina payments processor, Feb 2026)",
+              "date": "2026-02-01",
+              "source": null
+            },
+            {
+              "type": "reorg",
+              "description": "1,400-person layoff in Jan 2025 across departments, AI-driven restructuring eliminating scrum masters and agile coaches, teams mandated to increase capacity 25% via AI",
+              "date": "2025-01-15",
+              "source": null
+            },
+            {
+              "type": "partnership",
+              "description": "Ended 30-year NFL sponsorship (Mar 2026) to pivot to FIFA World Cup 2026 / LA28 Olympics; launched Trusted Agent Protocol with 10+ partners for agentic commerce (Oct 2025)",
+              "date": "2026-03-01",
+              "source": null
+            }
+          ],
+          "score": 95.0,
+          "source_urls": [],
+          "company_overview": "Visa is the world's largest electronic payments network, processing over $15 trillion in total volume annually across 200+ countries. With $40B in FY2025 net revenue, Visa is undergoing a fundamental strategic transformation from a traditional card network into a 'network of networks' payments hyperscaler \u2014 building Visa-as-a-Service to capture a $520B addressable market in Value-Added Services. Under CEO Ryan McInerney (since Feb 2023), Visa is aggressively acquiring (Pismo $929M, Featurespace $946M, Prisma), restructuring its workforce (1,400-person layoff Jan 2025), and navigating a DOJ antitrust lawsuit that threatens its core debit business.",
+          "summary": "Visa is attempting a once-in-a-generation platform transformation while simultaneously fighting an existential DOJ antitrust case, integrating 3 major acquisitions, and managing a demoralized workforce \u2014 a textbook VUCA environment requiring the cross-functional agility and shared consciousness that McChrystal Group delivers.",
+          "entry_point": "Jack Forestell, Chief Product & Strategy Officer \u2014 owns the platform transformation vision and feels the cross-functional coordination pain daily as product, engineering, and acquired entities (Pismo, Featurespace) need to operate as a unified team.",
+          "conversation_hook": "Visa's Jan 2025 layoff of 1,400 employees \u2014 including scrum masters and agile coaches \u2014 removed the connective tissue that enabled cross-team coordination, precisely when the 'network of networks' transformation demands more coordination, not less."
+        }
+      ]
     }
   ],
   "dossiers": [
@@ -4026,7 +4070,7 @@
             "source": null
           }
         ],
-        "score": 87.4,
+        "score": 95.0,
         "source_urls": [],
         "company_overview": "Visa is the world's largest electronic payments network, processing over $15 trillion in total volume annually across 200+ countries. With $40B in FY2025 net revenue, Visa is undergoing a fundamental strategic transformation from a traditional card network into a 'network of networks' payments hyperscaler \u2014 building Visa-as-a-Service to capture a $520B addressable market in Value-Added Services. Under CEO Ryan McInerney (since Feb 2023), Visa is aggressively acquiring (Pismo $929M, Featurespace $946M, Prisma), restructuring its workforce (1,400-person layoff Jan 2025), and navigating a DOJ antitrust lawsuit that threatens its core debit business.",
         "summary": "Visa is attempting a once-in-a-generation platform transformation while simultaneously fighting an existential DOJ antitrust case, integrating 3 major acquisitions, and managing a demoralized workforce \u2014 a textbook VUCA environment requiring the cross-functional agility and shared consciousness that McChrystal Group delivers.",
