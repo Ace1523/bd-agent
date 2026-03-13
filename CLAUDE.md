@@ -1,7 +1,7 @@
-# BD Agent — McChrystal Group Business Development Tool
+# McChrystal Overwatch Agent
 
 ## Project Overview
-Python library for scoring and reporting on business development prospects for McChrystal Group. Claude Code performs research via web search, then uses the library modules to score prospects against the ICP and generate reports.
+Overwatch is McChrystal Group's AI-powered business development platform. Claude Code performs research via web search, then uses the library modules to score prospects against the ICP, build dossiers, draft outreach, and track market intelligence.
 
 ## McChrystal Group Context
 McChrystal Group is a leadership advisory and organizational effectiveness firm founded by General Stanley McChrystal. Their differentiated POV: organizations today operate in VUCA (volatile, uncertain, complex, ambiguous) environments that require decentralized authority, shared consciousness, and empowered execution — the same principles that transformed Joint Special Operations Command in Iraq.

@@ -1,4 +1,4 @@
-"""Pydantic models for BD Agent data structures."""
+"""Pydantic models for Overwatch data structures."""
 
 import datetime
 from typing import Union

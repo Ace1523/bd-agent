@@ -1,4 +1,4 @@
-"""Shared formatting helpers for BD Agent reports."""
+"""Shared formatting helpers for Overwatch reports."""
 
 
 def format_revenue(rev: float | None) -> str:

@@ -1,4 +1,4 @@
-/* BD Agent Dashboard — Client-side SPA */
+/* McChrystal Overwatch Agent — Client-side SPA */
 
 let dashboardData = null;
 
@@ -238,7 +238,7 @@ function renderHome() {
 
   container.innerHTML = `
     <div class="hero">
-      <div class="hero-title">McChrystal Group BD Agent</div>
+      <div class="hero-title">McChrystal Overwatch Agent</div>
       <div class="hero-subtitle">
         AI-powered business development pipeline that identifies, researches, and crafts
         personalized outreach for high-fit prospects.
@@ -1455,7 +1455,7 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Pipeline Workflow</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        BD Agent runs a three-phase pipeline entirely through AI. No manual data entry, no CRM integrations \u2014 Claude Code researches, scores, and writes everything.
+        Overwatch runs a three-phase pipeline entirely through AI. No manual data entry, no CRM integrations \u2014 Claude Code researches, scores, and writes everything.
       </p>
       <div class="pipeline-grid">
         <div class="pipeline-card">
@@ -1939,7 +1939,7 @@ function renderFuture() {
     <div class="home-section">
       <div style="border-left: 4px solid var(--accent); padding: 16px 20px; background: rgba(218,97,35,0.06); border-radius: 0 8px 8px 0; margin-bottom: 32px;">
         <p style="color:var(--text-secondary); font-size:14px; line-height:1.7; margin:0;">
-          Today the BD Agent runs when you tell it to \u2014 discover, research, draft outreach. The next evolution is a system that watches the market continuously, surfaces opportunities before anyone asks, and learns from every win and loss to get sharper over time. The features below represent the path from a powerful tool to an intelligent partner.
+          Today Overwatch runs when you tell it to \u2014 discover, research, draft outreach. The next evolution is a system that watches the market continuously, surfaces opportunities before anyone asks, and learns from every win and loss to get sharper over time. The features below represent the path from a powerful tool to an intelligent partner.
         </p>
       </div>
 
