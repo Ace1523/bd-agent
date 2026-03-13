@@ -1511,14 +1511,19 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Discovery Engine</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Discovery runs sequentially in a single context window \u2014 NOT delegated to subagents. Prospect selection requires judgment, cross-referencing, and deduplication that benefits from unified context.
+        Discovery starts by mining 13 market sector feeds for companies showing ICP signals, then searches the web for additional targets. Runs sequentially in a single context window \u2014 NOT delegated to subagents. Prospect selection requires judgment, cross-referencing, and deduplication that benefits from unified context.
       </p>
 
       <div class="method-grid" style="margin-bottom:20px;">
         <div class="method-card">
+          <div class="method-card-icon" style="color:#da6123;">&#8635;</div>
+          <h3>Market Intel Mining</h3>
+          <p>Scans market intelligence for prospect candidates before web research. Each sector\u2019s \u201CCompanies to Watch\u201D is cross-referenced against existing pipeline. Best candidates become Source A; fresh web research becomes Source B.</p>
+        </div>
+        <div class="method-card">
           <div class="method-card-icon" style="color:#7ab8f5;">&#9906;</div>
-          <h3>Search Strategy</h3>
-          <p>Web search across all 3 industry tiers \u2014 Conventional, Adjacent, and Unconventional. Multiple sources cross-referenced per prospect. Prioritizes non-obvious, creative companies over household names.</p>
+          <h3>Web Research</h3>
+          <p>Searches across all 3 industry tiers \u2014 Conventional, Adjacent, and Unconventional. Multiple sources cross-referenced per prospect. Prioritizes non-obvious, creative companies over household names.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--green);">&#10003;</div>
@@ -1642,7 +1647,7 @@ function renderHowItWorks() {
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--purple);">3</div>
           <h3>Leadership Profiles</h3>
-          <p>C-suite and board with tenure, background, and public persona. 1\u20132 priority targets identified (economic buyer or champion) with rationale.</p>
+          <p>C-suite and board with tenure, background, and public persona. 1\u20132 priority targets at champion level (VP/SVP/CTO/Head of Strategy) \u2014 not the CEO. CEO listed as executive sponsor; champion-level contacts flagged as outreach targets.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--amber);">4</div>
@@ -1672,7 +1677,7 @@ function renderHowItWorks() {
         <div class="method-card">
           <div class="method-card-icon" style="color:#c75d5d;">9</div>
           <h3>Deep McChrystal Fit Analysis</h3>
-          <p>3\u20136 reinforcing fit dimensions with competitor displacement logic for each. Identifies the beachhead engagement, estimates deal sizing, and builds the cumulative strategic case a Senior Partner uses to decide whether to pursue.</p>
+          <p>The most critical section \u2014 6 subsections: fit dimensions with competitor displacement logic (9a), cumulative case with revenue estimate (9b), enterprise issues &amp; organizational challenges (9c), expected outcomes with measurable deliverables (9d), key stakeholders &amp; business unit map (9e), and opportunity thesis with phased engagement plan and multi-threaded pursuit map (9f).</p>
         </div>
       </div>
 
@@ -1877,7 +1882,7 @@ function renderHowItWorks() {
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--accent);">&#9654;</div>
           <h3>Single-Command Flow</h3>
-          <p>Discover \u2192 Research \u2192 Outreach from one instruction. No manual handoffs between phases \u2014 the agent orchestrates the full pipeline end-to-end.</p>
+          <p>Market Mining \u2192 Discover \u2192 Research \u2192 Outreach from one instruction. No manual handoffs between phases \u2014 the agent orchestrates the full pipeline end-to-end.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:var(--green);">&#9881;</div>
@@ -1899,7 +1904,7 @@ function renderHowItWorks() {
       <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">What \u201COne Command\u201D Actually Does</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
-          1. Mines market intelligence for prospect candidates (Step 0)<br>
+          1. Mines market intelligence for prospect candidates<br>
           2. Searches the web for additional companies showing ICP signals<br>
           3. Scores each prospect on the 100-point ICP model<br>
           4. Splits scored prospects into batches of 3\u20134<br>
