@@ -1903,3 +1903,1189 @@ Best,
 Managing TSA transition, Nova integration, and de novo expansion simultaneously across 770+ centers is a remarkable coordination challenge. McChrystal Group works on exactly this — operational excellence across distributed healthcare organizations during transformation. Would welcome connecting.
 
 ---
+
+
+---
+
+# Outreach Package — Baker Tilly US
+
+**Target**: Amy Ward, Principal and Chief People Officer
+**Why this contact**: As CPO, Amy owns the cultural integration challenge of combining 11,500 professionals from Baker Tilly and Moss Adams under PE expectations. She has done this before at MUFG and PNC — she knows what works and what doesn't, and she's the one feeling the pain of making two cultures into one.
+**Company**: Baker Tilly US | **Score**: 92 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Merging two cultures into one firm
+**Hook**: Baker Tilly + Moss Adams PE-backed merger, new CEO Eric Miles Jan 2026, dual-entity cultural integration of 11,500 professionals
+
+Amy,
+
+Combining Baker Tilly and Moss Adams into a single firm with 11,500 professionals is one of the most ambitious integrations in professional services right now. With Eric Miles stepping in as CEO in January and the new senior leadership team rolling out, the organizational design decisions being made in the next 6-9 months will define whether this becomes a growth platform or a talent retention problem.
+
+Having supported PE-backed integrations where the cultural work got deprioritized behind the financial targets, we've seen how quickly alignment breaks down when two legacy identities compete instead of converge. McChrystal Group helps leadership teams build the connective tissue — shared operating rhythms, decision rights, cross-functional trust — that turns a merger on paper into a unified firm in practice.
+
+We helped a global professional services firm cut integration timeline by 40% by redesigning how their leadership layers actually coordinated day-to-day.
+
+Would a 20-minute call make sense to compare notes on what you're seeing in the integration so far?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The hidden cost in professional services mergers
+**Hook**: PE-backed professional services merger pattern: financial integration succeeds while cultural integration stalls, leading to delayed talent attrition
+
+Amy,
+
+There's a pattern in PE-backed professional services mergers: the financial integration hits its marks, but 18 months in, the firm discovers it built one P&L and two cultures. Partner defections start slowly, then accelerate — not because the deal was wrong, but because nobody designed how the combined firm would actually operate together.
+
+Baker Tilly is at the inflection point where that pattern either takes hold or gets ahead of. With Hellman & Friedman's growth expectations and a newly assembled leadership team, the people strategy you're building right now is effectively the firm's operating system for the next decade.
+
+McChrystal Group works with organizations navigating exactly this moment — not the strategy piece, but the operating model that lets strategy execute across legacy boundaries. We focus on shared consciousness and empowered execution, which tends to resonate with firms trying to preserve entrepreneurial energy while building enterprise scale.
+
+Would 20 minutes be worthwhile to explore whether our approach maps to what you're working on?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Fellow Villanova alum — quick question
+**Hook**: Villanova University alumni connection; Amy Ward's direct experience with large-scale cultural integrations at MUFG and PNC
+
+Amy,
+
+I noticed we share a Villanova connection, which caught my eye as I was reading about Baker Tilly's integration journey. Your background navigating large-scale cultural transformations at MUFG and PNC is exactly the kind of experience that makes me think you'd have a sharp perspective on what's working and what's not in the current merger.
+
+The reason I'm reaching out: McChrystal Group has been doing a lot of work with PE-backed firms going through post-merger integration, specifically the organizational design and cross-functional alignment challenges that show up once the deal closes and two operating cultures need to become one.
+
+We recently helped a multi-billion-dollar firm redesign its leadership coordination model during a similar integration, cutting decision cycle times in half across legacy business lines.
+
+I'd love to hear how the Baker Tilly integration is shaping up from your seat. Would a brief call be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Baker Tilly PE-backed merger + Amy Ward's integration experience at MUFG/PNC
+
+Amy — following the Baker Tilly/Moss Adams integration closely. Your background leading cultural transformations at MUFG and PNC is exactly what this moment demands. We're doing related work with PE-backed firms on post-merger operating models. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Huntington Bancshares
+
+**Target**: Sarah, Senior Executive Vice President, Chief Human Resources Officer
+**Why this contact**: As CHRO, Sarah Pohmer owns the people side of the Cadence Bank integration — aligning cultures across 21 states, retaining key talent, and redesigning the organizational structure to deliver $365M in savings without closing branches. Her Columbia organizational psychology background means she'll be analytically rigorous about operating model design.
+**Company**: Huntington Bancshares | **Score**: 88 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: $365M in savings without closing branches
+**Hook**: Huntington's no-branch-closure pledge forces $365M in savings to come from organizational efficiency; mid-2026 system conversion creates urgency
+
+Sarah,
+
+The no-branch-closure commitment in the Cadence Bank merger is a bold move — it signals that Huntington is betting on people and operational efficiency over the easy cost cuts. But $365M in savings has to come from somewhere, and with the mid-2026 system conversion approaching, the organizational design decisions happening right now will determine whether that target is realistic or aspirational.
+
+That's the exact challenge McChrystal Group focuses on: how do you redesign operating rhythms, decision rights, and cross-functional coordination across a combined 21-state footprint so the organization naturally runs leaner — without the blunt instrument of headcount and branch reductions?
+
+We supported a top-10 U.S. bank through a similar post-merger integration, helping them achieve synergy targets three months ahead of schedule by redesigning how regional and functional leaders actually coordinated.
+
+Would 20 minutes make sense to compare notes on how the integration is tracking?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What bank mergers get wrong about integration
+**Hook**: Bank merger integration pattern: cost synergies hit on paper while organizational integration gets deferred, leaving value on the table
+
+Sarah,
+
+Most bank mergers hit their cost synergy targets on paper but leave 20-30% of the value on the table because the organizational integration — how people actually work together across legacy systems and cultures — gets treated as a Phase 2 problem. By the time Phase 2 starts, the habits are already set.
+
+With Huntington absorbing Cadence Bank across 21 states, you're in the window where the operating model gets defined, whether by design or by default. Your background leading large-scale organizational transformations at JPMorgan gives you the playbook, but the challenge is always execution speed — especially with a system conversion deadline creating a forcing function.
+
+McChrystal Group works with organizations in exactly this window. We don't do strategy; we design the operating model that lets strategy execute. Our approach — shared consciousness, empowered execution — was built for organizations that need to coordinate across geographic and functional boundaries under time pressure.
+
+Could 20 minutes be useful to explore whether our model maps to what you're building?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Columbia org psych to banking integration
+**Hook**: Sarah Pohmer's Columbia organizational psychology background and career trajectory from JPMorgan to Huntington's largest acquisition
+
+Sarah,
+
+Your path from Columbia's organizational psychology program to leading HR at JPMorgan's Consumer Bank and now running the people strategy for Huntington's biggest-ever acquisition is a career arc that tells me you think about organizational design differently than most CHROs.
+
+That's why I wanted to reach out. McChrystal Group's approach to post-merger integration is rooted in the behavioral and structural dimensions you studied — not just org charts and reporting lines, but decision rights, information flow, and how trust actually builds (or doesn't) across legacy boundaries.
+
+We've worked with several financial services organizations navigating mergers at scale, and the pattern we see is that the CHROs who think like organizational psychologists — not just HR administrators — are the ones who unlock the value the deal model promised.
+
+I'd genuinely value your perspective on how the Cadence integration is shaping up. Would a brief conversation be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Sarah Pohmer's JPMorgan background + Cadence Bank integration CHRO role
+
+Sarah — your move from JPMorgan to leading the people strategy for the Cadence Bank integration is a fascinating challenge. We work with banking organizations navigating exactly this kind of post-merger operating model redesign. Would love to connect and compare notes.
+
+---
+
+
+---
+
+# Outreach Package — Fifth Third Bancorp
+
+**Target**: Jamie, Chief Operating Officer
+**Why this contact**: As COO, Jamie Leonard is the operational owner of the Comerica integration. He's running the $850M synergy program, the Sept 8 system conversion, 63 branch closures, and the retention of Comerica's regional leadership. He's publicly staked his reputation on exceeding the MB Financial integration playbook.
+**Company**: Fifth Third Bancorp | **Score**: 82 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: From 9th largest bank to operating like one
+**Hook**: Fifth Third now 9th largest U.S. bank; accelerated Labor Day system conversion; $850M synergy target across 63 branch closures and multi-state integration
+
+Jamie,
+
+The Comerica close made Fifth Third the 9th largest U.S. bank overnight. You've publicly said you're meaningfully further ahead on integration than you were with MB Financial — and accelerating the system conversion to Labor Day backs that up. But $850M in synergies across 63 branch closures and a new multi-state footprint means the hardest work isn't the technology migration. It's getting thousands of people across legacy organizations to operate as one bank.
+
+McChrystal Group focuses specifically on that challenge: not the strategy or the systems, but the operating model that connects people across geographic and functional boundaries during high-stakes, time-compressed transformations.
+
+We helped a major financial institution redesign its regional coordination model during a similar merger, cutting cross-functional decision cycle times by 45% and hitting synergy milestones a quarter early.
+
+You've built the playbook once with MB Financial. Would 20 minutes be useful to compare notes on what's different at this scale?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The scale problem in bank integration
+**Hook**: Exponential coordination complexity as bank mergers scale; MB Financial playbook at 4x the size with Comerica's regional leaders joining Fifth Third
+
+Jamie,
+
+There's a well-documented pattern in banking M&A: the integration team that successfully merged a mid-size acquisition assumes the same playbook works at 3x the scale. It usually doesn't — not because the team isn't capable, but because the coordination complexity grows exponentially while the organizational infrastructure stays linear.
+
+Fifth Third's Comerica deal is roughly 4x the size of MB Financial by assets. You've got regional presidents from Comerica joining in Michigan, Southern California, and North Texas — leaders who need to operate within Fifth Third's culture while preserving the relationships that made their regions valuable in the first place. That balance between integration and autonomy is where most mergers lose value.
+
+McChrystal Group was built around this exact problem. Our model — originally designed for coordinating thousands of operators across geographic boundaries under extreme time pressure — maps directly to post-merger integration at scale.
+
+I'd value your perspective on what's translating from MB Financial and what's not. Would a brief conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: 25 years at Fifth Third — a quick thought
+**Hook**: Jamie Leonard's 25-year career at Fifth Third across multiple functions; operator identity; McChrystal's military-to-business coordination model
+
+Jamie,
+
+There aren't many executives who have spent 25 years building an institution and then get to lead its most transformative moment. Your path from finance to risk to treasury to COO means you've seen Fifth Third from every angle — and that's exactly the kind of deep institutional knowledge that makes an integration like Comerica possible.
+
+I'm reaching out because McChrystal Group works with operators — not strategists, not consultants who parachute in — but the people who actually have to make the organization function through a transformation. Our founder, General McChrystal, built our model after learning that the biggest barrier to mission success wasn't strategy or talent. It was how the organization coordinated across boundaries.
+
+With the Labor Day conversion deadline and $850M in synergies on the line, the coordination challenge across Fifth Third's expanded footprint is as complex as anything we've seen in financial services.
+
+Would 20 minutes be worth exploring whether our approach resonates?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Comerica integration progress vs. MB Financial benchmark; Jamie Leonard's public statements on being ahead of schedule
+
+Jamie — impressive to see the Comerica integration running ahead of the MB Financial timeline. The coordination challenge at this scale is something we work on with financial services organizations. Would love to connect and hear how it's going.
+
+---
+
+
+---
+
+# Outreach Package — Booz Allen Hamilton
+
+**Target**: Shannon, Chief Strategy Officer
+**Why this contact**: As CSO, Shannon Fitzgerald owns the strategic repositioning of Booz Allen — the pivot from civil consulting revenue to AI/outcome-based contracting. With the civil business declining in the low double digits and 2,500 positions being eliminated, the strategy she designs now determines whether Booz Allen's transformation succeeds or stalls.
+**Company**: Booz Allen Hamilton | **Score**: 80 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Resetting the civil business — from the inside
+**Hook**: Booz Allen civil business 'resetting and restructuring' — low double-digit revenue decline, 2,500 job cuts, pivot to AI/outcome-based contracting
+
+Shannon,
+
+Booz Allen is navigating one of the most consequential strategic pivots in government services: a civil business declining in the low double digits, 2,500 positions being eliminated, and a simultaneous bet on AI and outcome-based contracting. Horacio has publicly called it a "resetting and restructuring" — which means the strategy you're designing right now isn't incremental. It's foundational.
+
+The challenge with strategic pivots at this scale is that the organizational operating model — how 30,000+ people coordinate, make decisions, and allocate resources — was built for the old business mix. The strategy can be right and still fail if the organization can't execute it fast enough.
+
+McChrystal Group specializes in exactly this gap. We help organizations redesign their operating model to match a new strategic direction — particularly when speed, cross-functional coordination, and cultural change need to happen simultaneously.
+
+We've done this work with defense and intelligence organizations navigating similar inflection points. Would 20 minutes be useful to explore whether our model maps to what Booz Allen is working through?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When the mission changes but the org doesn't
+**Hook**: Government services industry structural shift from labor-hour consulting to outcome-based/AI delivery; Booz Allen's civil reset as a leading indicator
+
+Shannon,
+
+Government services firms face a structural challenge right now: the clients they built their organizations around are fundamentally changing what they buy and how they buy it. Agencies want outcomes, not labor hours. AI delivery, not traditional consulting. And the firms that win the next decade are the ones that can rewire their operating models — not just their offerings — to match.
+
+Booz Allen is better positioned than most, given the defense and intelligence backlog. But the civil business reset is a leading indicator of what the whole market is going to look like. The firms that treat this as a cost-cutting exercise will optimize for the wrong future. The ones that treat it as an organizational transformation will build something durable.
+
+McChrystal Group works with organizations in this exact moment — where the strategy is clear but the operating model hasn't caught up. Our approach was designed for environments where speed and coordination are existential, not just nice-to-have.
+
+Would a brief conversation be valuable as you work through the strategic planning process?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: McChrystal Group and Booz Allen — natural alignment
+**Hook**: McChrystal Group's military/intelligence community DNA and natural cultural alignment with Booz Allen's mission-driven workforce
+
+Shannon,
+
+I'll be direct about why I'm reaching out: McChrystal Group was founded by General Stanley McChrystal, and our team includes a significant number of special operations and intelligence community veterans. We've worked alongside Booz Allen professionals in operational environments, and we have deep respect for the firm's mission and the people who deliver it.
+
+The reason for the note now: Booz Allen's civil business restructuring is the kind of organizational transformation challenge that sits squarely in our wheelhouse. Not the strategy — you have that — but the operating model redesign that lets 30,000+ people pivot from one business mix to another while maintaining the cohesion and speed that clients expect.
+
+Our work with defense and national security organizations gives us a shared vocabulary and cultural alignment that most advisory firms can't offer. We understand mission-driven environments because we come from them.
+
+Would it make sense to have a conversation about where organizational operating model work might complement what Booz Allen is already doing internally?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: inmail
+**Subject**: Strategic pivot at Booz Allen
+**Hook**: Booz Allen civil business restructuring + McChrystal Group's military/intelligence cultural alignment
+
+Shannon — the civil business restructuring at Booz Allen is one of the most consequential pivots in government services right now. McChrystal Group works with organizations navigating exactly this kind of operating model transformation, and our military/intelligence community roots give us natural alignment with your culture. Would welcome a conversation.
+
+---
+
+
+---
+
+# Outreach Package — Ascension
+
+**Target**: Sally, Executive Vice President, Nursing and Operations Infrastructure
+**Why this contact**: As EVP overseeing ASCs, outpatient operations, and performance optimization, Sally Hurt-Deitch is the operational leader who must integrate 250+ AMSURG centers into Ascension's infrastructure. She sits at the intersection of the ambulatory pivot and the operational execution — the champion who feels the integration pain daily.
+**Company**: Ascension | **Score**: 80 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Integrating 250 ASCs into one operating model
+**Hook**: AMSURG $3.9B acquisition — 58 to 300+ ASCs across 34 states; physician-led autonomy vs. enterprise integration tension
+
+Sally,
+
+The AMSURG acquisition is one of the boldest moves in healthcare right now — taking Ascension from 58 ambulatory surgery centers to 300+ across 34 states overnight. With the deal closing and Eduardo stepping into the CEO role, the operational integration you're leading will define whether this becomes a competitive advantage or a coordination nightmare.
+
+The core challenge isn't clinical — AMSURG's physician-led model works. It's organizational: how do you connect 250+ independently operated centers into Ascension's infrastructure while preserving the local autonomy and physician governance that made them successful?
+
+McChrystal Group was built for exactly this problem. We help organizations create shared consciousness across distributed, semi-autonomous operating units — maintaining local empowerment while building the enterprise coordination that unlocks scale benefits.
+
+We recently supported a national healthcare system through a similar multi-state integration, reducing operational coordination gaps by 50% in the first six months.
+
+Given what's on your plate with the ambulatory expansion, would 20 minutes be worthwhile to compare approaches?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The ambulatory pivot every health system is watching
+**Hook**: Healthcare industry ambulatory pivot at unprecedented scale; autonomy vs. integration paradox in physician-led ASC governance
+
+Sally,
+
+Health systems across the country are racing to shift volume from inpatient to ambulatory — but most are doing it incrementally. Ascension just did it at a scale no one else has attempted: a $3.9B acquisition that quintuples your ASC footprint and puts you in 25 new markets simultaneously.
+
+The organizations that succeed with this kind of leap don't just integrate the facilities. They redesign the operating model that connects them. The physician-led governance that makes AMSURG's centers successful is precisely the thing that makes enterprise integration hard — because the value lives in local autonomy, not centralized control.
+
+McChrystal Group's entire model was designed for this paradox: how to build enterprise-wide coordination without destroying the decentralized execution that creates value. We call it "shared consciousness with empowered execution" — and it maps directly to what a Catholic health system managing 300+ physician-led ASCs needs to get right.
+
+Would a brief conversation be useful as you design the integration operating model?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Your $2.6B turnaround — and what comes next
+**Hook**: Ascension's $2.6B operational turnaround track record; Sally Hurt-Deitch's role in that success; AMSURG as the next-level coordination challenge
+
+Sally,
+
+The operational turnaround you've been part of at Ascension over the past few years — $2.6 billion in financial improvement, reducing contract labor dependency, modernizing infrastructure — is one of the most impressive execution stories in healthcare right now. It doesn't get enough credit outside the industry.
+
+What caught my attention is that the AMSURG acquisition is essentially doubling down on that operational discipline, but at a dramatically different scale. Going from managing optimization within your existing footprint to integrating 250+ ASCs with their own physician governance models is a qualitatively different coordination challenge.
+
+McChrystal Group works with operational leaders — not strategists, but the people who actually make complex organizations function across boundaries. Our model grew out of military special operations, where coordinating distributed, autonomous teams under time pressure was the core problem to solve.
+
+I'd genuinely value your perspective on how the ambulatory integration is shaping up. Would a brief call be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: AMSURG integration + Sally Hurt-Deitch's operational infrastructure portfolio at Ascension
+
+Sally — the AMSURG integration is one of the most ambitious operational plays in healthcare. Your work leading Ascension's ASC and outpatient infrastructure makes you the person who has to make 300+ centers work as one system. We help organizations solve exactly that coordination challenge. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Baker Tilly US
+
+**Target**: Chief People Officer, Chief People Officer, Baker Tilly US
+**Why this contact**: Cultural integration of 11,500 professionals from two legacy firms under PE expectations is the defining challenge — this role owns it.
+**Company**: Baker Tilly US | **Score**: 92 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Baker Tilly's critical first year
+**Hook**: CEO transition from acquired firm (Eric Miles, Jan 2026)
+
+Hi there,
+
+Eric Miles stepping into the CEO role from the Moss Adams side is a bold move — and the right one for a firm trying to build something genuinely new rather than just absorb an acquisition. But it also means the first year is make-or-break for cultural integration.
+
+We've worked with organizations navigating exactly this: merging two strong identities under PE pressure while a new leader establishes authority. The dual-entity structure (audit LLP + advisory LP) adds a coordination challenge that most professional services mergers don't face.
+
+McChrystal Group helped one organization reduce cross-functional decision-making time by 50% during a similar post-merger integration — without losing the autonomy that drives partner relationships.
+
+Would a 20-minute conversation about what we're seeing in PE-backed professional services mergers be useful? No pitch — just pattern recognition from organizations we've worked with.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: PE-backed accounting's integration challenge
+**Hook**: 900+ PE-driven transactions in accounting sector in 2025
+
+Hi there,
+
+The accounting profession saw 900+ PE-driven transactions last year. Most will struggle with the same problem: financial engineering got the deal done, but organizational integration determines whether the platform actually works.
+
+Baker Tilly + Moss Adams is the highest-profile example. Three billion in revenue, 11,500 people, a new CEO, and a dual-entity structure that creates a built-in coordination challenge between audit and advisory. Getting that operating model right in Year 1 determines everything that follows.
+
+We work with organizations where the integration challenge isn't strategy — it's making people across structural boundaries actually share information, coordinate decisions, and build trust. Our methodology was designed for exactly this: decentralized teams that need shared consciousness.
+
+If you're seeing the integration friction points emerge, I'd value 20 minutes to share what's working at similar firms. Completely informal.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: A thought on the Baker Tilly integration
+**Hook**: Professional services culture integration challenge [GAP - no specific warm connection identified; using professional empathy angle]
+
+Hi there,
+
+Integrating two professional services cultures is one of the hardest organizational challenges there is — because every partner is simultaneously a client relationship owner, a revenue generator, and a cultural ambassador. You can't mandate integration from the top.
+
+I've been watching the Baker Tilly + Moss Adams combination with interest because the dynamics are so rich: Midwest meets West Coast, audit meets advisory, partnership tradition meets PE ambition. And with a new CEO from the Moss Adams side, the authority dynamics add another layer.
+
+At McChrystal Group, we built our practice around organizations where the people doing the work need autonomy but the organization needs alignment. It's the tension every professional services firm lives in — and mergers amplify it.
+
+I'd enjoy an informal conversation about how Year 1 is unfolding — even just to compare notes on what we're seeing across PE-backed integrations.
+
+Warm regards,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Baker Tilly merger complexity
+
+Following Baker Tilly's integration journey with interest — the dual-entity structure and CEO transition make it one of the most complex professional services mergers in recent memory. Would value connecting and sharing perspectives on post-merger culture work.
+
+---
+
+
+---
+
+# Outreach Package — Huntington Bancshares
+
+**Target**: SVP of Integration, SVP of Integration, Huntington Bancshares
+**Why this contact**: Integration leader owns the $365M synergy target and no-branch-closure commitment across 21 states.
+**Company**: Huntington Bancshares | **Score**: 88 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: $365M without closing a single branch
+**Hook**: Huntington's no-branch-closure pledge constrains traditional M&A synergy levers
+
+Hi there,
+
+Huntington's commitment to keeping all 390 Cadence branches open is a statement about what kind of bank you're building. It's also an organizational challenge: every dollar of the $365M target has to come from how people work, not where they work.
+
+That constraint actually creates clarity. When you can't cut your way to synergies, you have to build your way there — through operational alignment, technology integration, and cultural coordination across 21 states.
+
+We've supported organizations through exactly this kind of constrained integration, where the traditional levers are off the table and organizational design becomes the primary synergy engine. One client achieved 60% of their synergy target within 18 months using our shared-consciousness methodology.
+
+Would 20 minutes to discuss what we've seen in constrained banking integrations be valuable? Happy to share patterns without any obligation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The new banking integration playbook
+**Hook**: 2026 mega-regional banking mergers require new integration approaches
+
+Hi there,
+
+The wave of mega-regional bank mergers in 2026 is rewriting the integration playbook. The old approach — close overlapping branches, consolidate back offices, standardize systems — doesn't work when the acquiring bank is expanding into culturally distinct markets it's never operated in.
+
+Huntington expanding from the Midwest into Texas and the Deep South through Cadence isn't a bolt-on — it's a cultural expansion. Ohio and Mississippi banking cultures have different customer expectations, competitive dynamics, and relationship norms.
+
+We specialize in helping organizations build coordination across geographically dispersed, culturally distinct operations — our methodology was designed for distributed teams that need to maintain local autonomy while operating with shared purpose.
+
+If the Cadence integration is surfacing friction between how things work in Columbus versus how they work in Houston, I'd enjoy comparing notes. Informal, 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Cadence employees' second merger in 4 years
+**Hook**: Merger fatigue — Cadence went through BancorpSouth merger in 2021
+
+Hi there,
+
+Something that doesn't show up in the deal model: many Cadence employees just went through a merger four years ago when BancorpSouth and Cadence combined. Now they're being asked to integrate again, with a different acquirer, into a different culture.
+
+Merger fatigue is real, and it shows up as quiet disengagement before it shows up as turnover. The best integration plans address the human element — not just systems and processes, but how people feel about going through this again.
+
+We've worked with organizations where retention during integration wasn't about compensation — it was about making people feel like they're joining something, not losing something. Our Team of Teams approach gives local leaders real authority while connecting them to a shared purpose.
+
+If you're thinking about the people side of the Cadence integration, I'd value 20 minutes to share what's worked in similar situations.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: No-branch-closure integration constraint
+
+The Huntington-Cadence integration is fascinating — $365M in synergies without closing branches means organizational design is the only lever. We help organizations solve exactly that challenge. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — Fifth Third Bancorp
+
+**Target**: Chief Integration Officer, Chief Integration Officer, Fifth Third Bancorp
+**Why this contact**: Owns Sept 8 system conversion, 63 branch closures, and $850M synergy program.
+**Company**: Fifth Third Bancorp | **Score**: 82 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: September 8 — making the big bang work
+**Hook**: Sept 8 system conversion is a high-stakes multi-team coordination event
+
+Hi there,
+
+September 8 isn't a technology event — it's an organizational coordination event. Moving millions of Comerica accounts to the Fifth Third platform in a single cutover requires IT, operations, customer service, branch staff, and regulatory teams across 12 states to execute with zero margin for error.
+
+We've supported organizations through exactly these kinds of high-stakes, time-pressured, multi-team operations. Our methodology was originally designed for military operations where coordination failure has real consequences — and the principles translate directly to a system conversion of this scale.
+
+One organization we worked with executed a similar cross-functional cutover with zero service disruption by building what we call shared consciousness across every team involved.
+
+The window to build that coordination is now — not August. Would 20 minutes to discuss the organizational architecture for Sept 8 be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Why mega-regional mergers fail at execution
+**Hook**: Pattern: bank mergers succeed or fail on organizational coordination, not strategy
+
+Hi there,
+
+Every mega-regional bank merger has a strong strategic rationale. The ones that struggle do so at execution — specifically, at the moment when strategy meets the operational reality of making two organizations work as one.
+
+For Fifth Third, that moment has several faces: the Sept 8 system conversion, the 63 branch closures starting in Q4, and the daily challenge of getting Cincinnati and Dallas teams to make decisions together. The $850M synergy target is a number. How people coordinate across 12 states is how it becomes real.
+
+We help organizations close the gap between strategy and execution — not by adding more project management, but by building the organizational operating model that enables cross-functional coordination under pressure.
+
+If you're finding that the integration plan is solid on paper but the coordination across teams and geographies is the hard part, I'd welcome 20 minutes to compare approaches.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Cincinnati + Dallas: building one team
+**Hook**: Dual-city cultural integration challenge
+
+Hi there,
+
+There's something about merging a Cincinnati-based bank with a Dallas-based bank that goes beyond systems and processes. These are different business cultures, different communities, different ways of building client relationships. And the people who made Comerica successful in Texas are watching closely to see whether 'integration' means partnership or absorption.
+
+I've spent my career in an organization that was built on bringing together different cultures, operating styles, and identities into high-performing teams — without erasing what makes each unit effective. It's hard, and it doesn't happen through org charts and process documents alone.
+
+McChrystal Group was founded to solve exactly this challenge. General McChrystal built unified teams from fundamentally different organizations in the most high-stakes environments.
+
+If the Cincinnati-Dallas dynamic is on your mind, I'd enjoy an informal conversation. Twenty minutes, no agenda beyond sharing perspectives.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Sept 8 system conversion
+
+The Sept 8 system conversion is a massive coordination challenge — the kind of multi-team, high-stakes event we specialize in. Would welcome the chance to connect and share our approach.
+
+---
+
+
+---
+
+# Outreach Package — Booz Allen Hamilton
+
+**Target**: Kristine Martin Anderson, Executive Vice President, Civil Group, Booz Allen Hamilton
+**Why this contact**: Civil Group is the epicenter of DOGE-driven disruption — managing layoffs, contract losses, and business model transformation simultaneously.
+**Company**: Booz Allen Hamilton | **Score**: 80 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Resetting the civil business
+**Hook**: CEO Rozanski's 'resetting and restructuring' announcement
+
+Kristine,
+
+When Horacio said the civil business was undergoing a 'resetting and restructuring,' that wasn't just a message to investors — it was a signal to your 34,000 people about what comes next. The challenge isn't the reset itself; it's maintaining organizational cohesion while one part of the firm shrinks and another grows.
+
+We've worked with organizations navigating exactly this bifurcation: how to redeploy talent, preserve institutional knowledge, and build new capabilities — simultaneously. Our methodology was born in environments where mission-critical organizations had to transform while operating.
+
+At McChrystal Group, several of our team members served alongside Booz Allen professionals in joint environments. We understand the mission-driven culture that makes your firm different.
+
+Would a brief conversation about organizational transformation in mission-driven environments be useful? No pitch — just shared perspective from someone who understands the stakes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When your customer rewrites the rules
+**Hook**: Federal contracting landscape transformation under DOGE
+
+Kristine,
+
+The federal contracting landscape is being rewritten faster than most organizations can adapt. The shift to outcome-based contracting, AI-augmented delivery, and reduced civilian budgets isn't a one-year disruption — it's a structural transformation of how government buys services.
+
+For the civil group specifically, this means the organizational model that worked for decades — cleared professionals billing labor hours on agency-specific contracts — needs to evolve into something fundamentally different. That's not a strategy challenge; it's an operating model challenge.
+
+We help organizations redesign how their teams are structured, how they coordinate, and how they deliver — especially when the old model is being disrupted by forces outside their control. Our approach comes from environments where adapting the operating model while performing the mission was the only option.
+
+If you're finding that the strategic direction is clear but making the organizational transformation happen is the hard part, I'd value 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Shared mission, different uniforms
+**Hook**: McChrystal military/intelligence community overlap with Booz Allen
+
+Kristine,
+
+General McChrystal spent his career working alongside Booz Allen professionals in some of the most consequential mission environments. Many of our team members did the same. We know the culture because we lived in it — and we know what it means when that culture faces existential pressure.
+
+What DOGE is doing to the civil business isn't just a contract problem. It's an identity challenge for people who built careers serving civilian agencies. Maintaining their sense of purpose while redirecting their capabilities is as much a leadership challenge as an operational one.
+
+We've helped mission-driven organizations navigate exactly this moment — where the mission changes but the people and their commitment remain. Our shared background in joint environments means we understand the nuances that outside advisors miss.
+
+If a conversation about organizational resilience in mission-driven contexts would be valuable, I'd welcome it. Informal, 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Military/mission community overlap with BAH
+
+Kristine — the civil business transformation you're navigating is one of the most significant in Booz Allen's history. We've worked alongside BAH professionals in joint environments and understand the culture. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Ascension
+
+**Target**: Eduardo Conrado, President, Ascension
+**Why this contact**: Driving operational transformation with outside-healthcare perspective (former Motorola CTO).
+**Company**: Ascension | **Score**: 80 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 250 ASCs + 90 hospitals = one team?
+**Hook**: $3.9B AMSURG acquisition integrating 250+ ASCs across 34 states
+
+Eduardo,
+
+The AMSURG acquisition gives Ascension something no other Catholic health system has: a 250-center ambulatory platform across 34 states. But integrating independently-operated surgery centers into a hospital system — without killing what makes ASCs profitable — is an organizational design challenge, not a transaction.
+
+ASC operators chose that model for its autonomy. Hospital systems run on hierarchy. Connecting these without homogenizing either is the challenge you're solving.
+
+We've built our entire practice around this exact problem: how autonomous units maintain their operational edge while sharing consciousness with a larger organization. General McChrystal designed this methodology for special operations teams that needed to coordinate with conventional forces without losing their agility.
+
+Your Motorola background tells me you appreciate operating model thinking from outside the healthcare echo chamber. Would 20 minutes to discuss how we approach autonomous-unit integration be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The hospital-to-ambulatory pivot
+**Hook**: Industry trend: health systems shifting from inpatient to ambulatory care delivery
+
+Eduardo,
+
+Every major health system is talking about the shift from inpatient to outpatient. But Ascension is actually doing it — simultaneously divesting hospitals and acquiring 250+ surgery centers. That two-directional transformation is rare and demands organizational capabilities that most health systems haven't built.
+
+The pattern we see in other industries: organizations execute either acquisition or divestiture well, but doing both simultaneously creates organizational whiplash. The people closing hospitals are grieving. The people onboarding ASCs are energized. Managing both emotional realities under one organizational identity requires deliberate design.
+
+We work with organizations where multiple transformation vectors are running in parallel. Our methodology creates the coordination mechanisms that prevent one initiative from undermining the other.
+
+If the simultaneous divestiture and acquisition is creating the cross-currents we'd expect, I'd welcome a 20-minute conversation to compare notes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From Motorola to Ascension — a thought
+**Hook**: Eduardo Conrado's non-healthcare background (former Motorola CTO)
+
+Eduardo,
+
+When you came from Motorola to lead Ascension's transformation, you brought something the healthcare industry needs more of: operating model thinking that doesn't start with 'that's not how healthcare works.'
+
+The AMSURG integration is a classic example. Healthcare advisors will tell you to integrate using the healthcare playbook. But connecting 250 autonomous surgery centers to a hospital system is fundamentally the same challenge as connecting distributed manufacturing operations to a corporate platform — a challenge you've seen from the technology side.
+
+McChrystal Group approaches organizational integration the same way: not from the industry playbook, but from the operating model principles that work across contexts. Our founder built high-performance teams from autonomous units in the most complex environments imaginable.
+
+I suspect you'd find our perspective refreshing precisely because it comes from outside healthcare. Twenty minutes?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Conrado's cross-industry background and AMSURG integration
+
+Eduardo — your move from Motorola to Ascension is fascinating. The AMSURG integration is the kind of autonomous-unit coordination challenge we specialize in. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — Constellation Energy
+
+**Target**: SVP of Integration, SVP of Integration, Constellation Energy
+**Why this contact**: Managing nuclear + gas/geothermal fleet integration across 60+ plants.
+**Company**: Constellation Energy | **Score**: 79 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Nuclear meets gas: two cultures, one fleet
+**Hook**: $16.4B Calpine acquisition merging fundamentally different operating cultures
+
+Hi there,
+
+Merging a nuclear fleet with a natural gas and geothermal portfolio isn't just an integration — it's a cultural challenge that goes deeper than most M&A. Nuclear operators make decisions slowly and deliberately because their safety culture demands it. Gas operators dispatch quickly and respond to markets because their business model demands it. Both are right. Both are necessary. Making them share consciousness is the challenge.
+
+We built our practice around exactly this: connecting organizations with fundamentally different operating tempos and risk paradigms into high-performing teams. General McChrystal designed this methodology for integrating conventional forces (procedure-driven, like nuclear) with special operations (agile, like gas trading).
+
+The parallel is striking, and the principles transfer directly. If the nuclear-gas cultural gap is showing up in integration decisions, I'd value 20 minutes to share our approach.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The AI power race needs organizational speed
+**Hook**: AI data center co-location strategy requires new cross-functional capabilities
+
+Hi there,
+
+The race to power AI data centers has a supply problem — and Constellation, with 60 GW post-Calpine, is uniquely positioned to solve it. But co-location partnerships require commercial, generation, and technology teams to coordinate at speeds your legacy organization wasn't designed for.
+
+The companies that win the AI power race won't be the ones with the most megawatts. They'll be the ones whose organizations can move fastest — coordinating across asset types, regulatory frameworks, and customer partnerships simultaneously.
+
+We help organizations build the cross-functional coordination capability that turns strategic positioning into executed deals. Our methodology creates shared awareness across teams that traditionally operate in silos.
+
+If you're finding that the strategic position is strong but the organizational speed to capitalize on AI demand isn't there yet, 20 minutes could be useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From military power grids to civilian ones
+**Hook**: Nuclear Navy veterans in Constellation's workforce
+
+Hi there,
+
+Constellation's nuclear fleet is almost certainly staffed with former Navy nuclear officers. General McChrystal served alongside Navy nuclear professionals throughout his career, and the respect for nuclear safety culture runs deep in our organization.
+
+That shared background is why we understand the integration challenge so well: nuclear operators have earned their culture through decades of zero-tolerance safety discipline. Gas operators have earned theirs through market responsiveness. Neither is wrong. The challenge is building one organization that honors both.
+
+McChrystal Group was founded to solve exactly this kind of cultural integration — and we approach nuclear-adjacent work with the respect the culture deserves.
+
+If a conversation about cross-culture fleet integration would be useful, I'd welcome it. Twenty minutes, informal.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Nuclear-gas cultural integration
+
+The Calpine integration is fascinating — merging nuclear safety culture with gas market agility is one of the most unique organizational challenges in the energy industry. We specialize in exactly this kind of cross-culture integration.
+
+---
+
+
+---
+
+# Outreach Package — NRG Energy
+
+**Target**: Head of CPower, Head of CPower / VPP Business, NRG Energy
+**Why this contact**: Leads the technology-enabled business unit — cultural bridge between traditional generation and software.
+**Company**: NRG Energy | **Score**: 77 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Making CPower thrive inside NRG
+**Hook**: $12B LS Power acquisition and CPower VPP platform integration
+
+Hi there,
+
+CPower's virtual power plant platform is NRG's strategic differentiator. But technology teams acquired by large utilities face a specific challenge: the speed, autonomy, and innovation culture that made CPower successful can get smothered by utility-scale processes and governance.
+
+The question isn't whether NRG will integrate CPower — it's whether the integration preserves CPower's edge. We've worked with organizations where the acquired technology team was the crown jewel, and the integration approach determined whether the acquirer got an asset or just a line item.
+
+Our methodology — decentralized execution within shared consciousness — was designed for exactly this: letting autonomous units maintain their operational identity while connecting them to a larger organization's resources and reach.
+
+If you're navigating the tension between NRG integration and CPower autonomy, I'd enjoy 20 minutes to share what's worked elsewhere.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When utilities acquire tech platforms
+**Hook**: Pattern: utility-tech acquisitions often destroy the tech team's value
+
+Hi there,
+
+There's a pattern in utility-technology acquisitions: the utility buys the tech platform for its innovation and agility, then integrates it using utility-speed processes that destroy exactly what they paid for. CPower's 2,000+ C&I customers chose CPower for its responsiveness, not NRG's generation fleet.
+
+The organizations that get this right maintain structural separation where it matters (team culture, decision speed, customer responsiveness) while building connection where it creates value (generation dispatch, market intelligence, capital access).
+
+We help organizations design this balance — what to integrate and what to protect. Our approach comes from military environments where autonomous units had to connect with larger organizations without losing their specialized capability.
+
+If the balance between integration and autonomy is the question you're wrestling with, 20 minutes could be useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Technology teams inside industrial companies
+**Hook**: Cross-industry pattern of tech-industrial integration [GAP - no specific warm connection]
+
+Hi there,
+
+Running a technology platform inside an industrial company is a specific kind of organizational challenge. The metrics are different, the pace is different, the talent market is different. And the people around you — power plant operators, dispatch teams, traders — think about risk and speed in fundamentally different ways.
+
+I've spent time with leaders in exactly your position: technology executives brought into industrial organizations to be the future, while the present still runs on a completely different operating model. The ones who succeed don't just integrate — they build bridges between two worlds while protecting what makes each one valuable.
+
+McChrystal Group was built to solve this. General McChrystal connected organizations with fundamentally different cultures and operating speeds — and the principles apply whether the context is military, energy, or technology.
+
+If a 20-minute conversation about technology leadership inside industrial companies would be useful, I'd welcome it.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CPower technology-utility integration
+
+The CPower integration into NRG is a fascinating challenge — preserving a tech platform's agility inside a utility is one of the hardest organizational design problems. Would enjoy connecting to share perspectives.
+
+---
+
+
+---
+
+# Outreach Package — Devon Energy
+
+**Target**: Trey Lowe, SVP and CTO, Integration Co-Lead, Devon Energy
+**Why this contact**: Devon's integration co-lead managing the organizational merger alongside Coterra counterpart Blake Sirgo.
+**Company**: Devon Energy | **Score**: 79 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Making Devon + Coterra more than a deal
+**Hook**: $58B merger of near-equals with $300M workforce reduction
+
+Trey,
+
+Co-leading a $58B merger of near-equals with your Coterra counterpart is a unique challenge: neither side can simply absorb the other, the board is split 6/5, and $300M in workforce reductions will test every relationship you're building.
+
+You've got strong strategic advisors designing the integration plan. The question is: who makes it work at the basin level, across the rig crews and engineering teams, between OKC and Houston?
+
+That's where we come in. McChrystal Group specializes in the execution layer — building shared consciousness and coordination across organizations where the strategy is sound but the cultural and operational integration determines success or failure.
+
+We position ourselves as complementary to strategic advisors, not competitive. If you're finding that the integration plan is solid but making two proud organizations develop shared identity is the hard part, I'd value 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The 'merger of equals' problem
+**Hook**: Pattern: mergers of near-equals have higher failure rates than acquisitions
+
+Trey,
+
+Mergers of near-equals fail at higher rates than traditional acquisitions, and it's always for the same reason: nobody wants to admit it's not actually equal. Every decision — from which systems to use to which city hosts the leadership meeting — becomes a proxy war for whose company this really is.
+
+Devon and Coterra have all the right ingredients for a successful combination: complementary basins, strong operations, experienced leadership. The risk isn't strategic; it's organizational. The 54/46 ownership split and 6/5 board create dynamics that good intentions alone won't resolve.
+
+We've helped organizations design decision-making frameworks that acknowledge this tension and resolve it — without pretending the power dynamics don't exist.
+
+If you're seeing the 'merger of equals' dynamics emerge, 20 minutes to discuss what works would be informal and useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: OKC to Houston: more than an address change
+**Hook**: Oklahoma City identity loss for Devon employees
+
+Trey,
+
+Moving the headquarters to Houston makes strategic sense. But for Devon employees who've built careers and communities in Oklahoma City, it's more than a business decision. It's personal.
+
+The organizations that navigate this best don't minimize the loss — they acknowledge it while building something worth being part of. They give OKC a real role in the combined entity, not a consolation prize. And they do it visibly enough that the people watching from OKC believe it.
+
+We've worked with organizations going through exactly this: combining distributed operations where one location's identity is being disrupted. General McChrystal built teams where no single base was dominant — where shared purpose mattered more than geography.
+
+If the OKC-Houston dynamic is something you're thinking about, I'd welcome an informal conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Integration co-lead role in merger of equals
+
+Trey — co-leading a $58B merger of near-equals is a unique organizational challenge. We specialize in the execution layer — making integration plans work across cultures and geographies. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — Atlanta Falcons
+
+**Target**: Greg Beadles, President and CEO, Atlanta Falcons
+**Why this contact**: Sole holdover executive managing business operations while the entire football operation rebuilds around him.
+**Company**: Atlanta Falcons | **Score**: 58 | **Fit**: speculative
+
+---
+
+## Version A — Trigger-based
+**Subject**: Building a winning organization from scratch
+**Hook**: Wholesale restructuring: HC, GM, and CEO replaced simultaneously
+
+Greg,
+
+Replacing the head coach, GM, and CEO simultaneously is the boldest organizational reset in the NFL this year. You're not tweaking — you're rebuilding from the foundation. And as the one holdover executive, you're the bridge between the business operation you know and the football operation being built from scratch.
+
+General McChrystal spent his career building high-performing teams from scratch in weeks, not years. The principles are universal: shared consciousness, trust-building under pressure, clear authority structures, and empowered execution.
+
+We've applied these principles to sports organizations and high-performance teams where time pressure doesn't allow for normal organizational development timelines. The 2026 season starts in September — that's your deadline for making this work.
+
+Would a 20-minute conversation about building organizational alignment under time pressure be useful? No pitch — just insight from someone who's done it.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The Matt Ryan question
+**Hook**: Unprecedented 'President of Football' role needs organizational design
+
+Greg,
+
+The Matt Ryan appointment as President of Football has generated enormous attention. But the question nobody's addressing publicly is the hardest one: what authority does the role actually carry, and how does it interact with the GM and head coach?
+
+This isn't a criticism — it's an observation that unprecedented roles need deliberate design. Without clear decision rights, the role becomes either a figurehead (wasting Ryan's potential) or a source of friction (undermining Cunningham and Stefanski).
+
+We design authority structures for organizations with novel leadership configurations. The military does this constantly — creating new coordination roles between existing command structures and making them work under pressure.
+
+If the Matt Ryan role is still being defined, a 20-minute conversation about how to design it for success could be genuinely useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Arthur Blank's organizational bet
+**Hook**: Blank's Home Depot CEO background — thinks like a business builder
+
+Greg,
+
+Arthur Blank didn't become a billionaire by making incremental changes. What he's doing with the Falcons — replacing three leaders simultaneously, creating a new role for Matt Ryan, and betting on a complete organizational reset — is the same bold thinking that built Home Depot.
+
+The difference is timeline. Home Depot had years to build its culture. The Falcons have months before the 2026 season. That compression makes organizational design decisions now — authority structures, communication flows, trust-building — disproportionately consequential.
+
+General McChrystal built organizations under exactly this kind of time pressure. The principles he developed are used by Fortune 500 companies, government agencies, and yes, sports organizations that need to perform at the highest level while building culture simultaneously.
+
+I'd enjoy an informal conversation about what we've learned. Twenty minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Wholesale organizational restructuring under time pressure
+
+Greg — the Falcons' organizational reset is one of the most ambitious in the NFL. Building a winning culture with all-new leadership under September's deadline is exactly what we help organizations do. Would enjoy connecting.
+
+---
+
+
+---
+
+# Outreach Package — Seattle Seahawks
+
+**Target**: Chuck Arnold, President, Seattle Seahawks
+**Why this contact**: Business-side leader navigating the most consequential ownership transition in franchise history.
+**Company**: Seattle Seahawks | **Score**: 55 | **Fit**: speculative
+
+---
+
+## Version A — Trigger-based
+**Subject**: Preserving a championship organization
+**Hook**: Super Bowl champion entering $7-10B ownership transition
+
+Chuck,
+
+You just won the Super Bowl. Now you're preparing to hand the organization to a new owner. The paradox is real: you need to preserve everything that just produced a championship while preparing for the inevitable changes new ownership will bring.
+
+Ownership transitions are organizational inflection points. New owners bring new mandates, new executives, and new expectations. The organizations that navigate this best prepare deliberately — codifying what works, building adaptability, and creating a clear picture of 'what you're buying' beyond the roster.
+
+We've helped organizations navigate leadership transitions where maintaining operational excellence during the handover was critical. General McChrystal managed these transitions in the most high-stakes environments, where continuity and adaptation had to happen simultaneously.
+
+Would a 20-minute conversation about organizational readiness during ownership transitions be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What the new owner is really buying
+**Hook**: Franchise value comes from organizational culture, not just roster
+
+Chuck,
+
+The Seahawks' $7-10B valuation includes a Super Bowl roster, a media rights portfolio, and a stadium. But the hardest thing to value — and the easiest thing to lose — is the organizational culture that produced the championship.
+
+The '12th Man' culture, the coaching philosophy, the scouting approach, the community relationships Paul Allen built — these are organizational assets that don't transfer automatically in a sale. They have to be understood, documented, and deliberately preserved.
+
+We help organizations capture and codify their operating model and culture — turning tacit knowledge into transferable organizational capability. The deliverable: a clear, honest organizational brief that tells the new owner what they're getting and what they need to protect.
+
+If creating that organizational readiness package is something you're thinking about, I'd welcome 20 minutes to discuss our approach.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Paul Allen's legacy in organizational terms
+**Hook**: Allen's ownership model (patience, investment, community) was organizational, not just financial
+
+Chuck,
+
+Paul Allen's ownership wasn't just about capital — it was an organizational philosophy: patience with development, investment in community, long-term thinking in a short-term industry. That philosophy is embedded in how the Seahawks operate, and it's part of what just produced a Super Bowl championship.
+
+The question for the transition is how much of that organizational DNA survives new ownership. Some elements are preserved through people (coaches, scouts, staff). Others exist in processes and norms that disappear if nobody captures them.
+
+General McChrystal's career was defined by organizational transitions — inheriting commands, building new ones, and preserving what worked while adapting to new realities. We bring that perspective to organizations facing their own leadership transitions.
+
+If preserving the organizational legacy during the sale process is something you'd like to discuss, I'd enjoy an informal 20-minute conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Championship culture preservation during ownership transition
+
+Chuck — navigating a $7-10B ownership transition while preserving a championship culture is a rare organizational challenge. We help organizations manage exactly these kinds of leadership transitions. Would enjoy connecting.
+
+---
