@@ -301,36 +301,41 @@ function renderHome() {
     <div class="home-section">
       <div class="home-section-title">How It Works</div>
       <div style="border-left: 3px solid #da6123; padding: 12px 16px; margin-bottom: 20px; background: rgba(218,97,35,0.06); border-radius: 0 6px 6px 0; font-size: 0.95rem; line-height: 1.6; color: var(--text-secondary);">
-        <strong style="color: var(--text-primary);">This isn\u2019t PitchBook or Apollo.io.</strong> Those platforms pull from static databases of company data and generic lead scores. This agent searches the live web against McChrystal Group\u2019s specific Ideal Customer Profile \u2014 9 signal types, 3 industry tiers, revenue and employee thresholds, and organizational fit criteria purpose-built around how McChrystal sells. Every prospect, dossier, and outreach package is tailored to this firm, not generic lead gen.
+        <strong style="color: var(--text-primary);">One command. Full pipeline.</strong> Say \u201Crun discovery for 10 new prospects\u201D and the agent mines market intelligence for leads, searches the web for transformation signals, scores every prospect against the ICP, spins up parallel subagents to build 10-section dossiers, drafts 3 cold email versions per prospect, and deploys everything to a live dashboard. No manual handoffs, no CRM, no data entry.
       </div>
       <div style="border-left: 3px solid #da6123; padding: 12px 16px; margin-bottom: 20px; background: rgba(218,97,35,0.06); border-radius: 0 6px 6px 0; font-size: 0.95rem; line-height: 1.6; color: var(--text-secondary);">
         <strong style="color: var(--text-primary);">Discovery is weighted toward unique opportunities.</strong> The algorithm prioritizes non-obvious companies \u2014 PE-backed roll-ups, fresh spinoffs, post-merger integrations, and niche industry leaders with strong transformation signals \u2014 over household-name Fortune 500s that any firm would think of. F500 companies still surface when signals are compelling, but the real value is in what others miss. Research parameters can always be refined to shift targeting.
       </div>
       <div class="method-grid">
         <div class="method-card">
+          <div class="method-card-icon" style="color:#7ab8f5;">&#9889;</div>
+          <h3>One-Command Execution</h3>
+          <p>\u201CRun discovery for 10\u201D fires the full pipeline: market mining \u2192 ICP scoring \u2192 parallel dossier research \u2192 outreach drafting \u2192 deployment. End-to-end with no human intervention between phases.</p>
+        </div>
+        <div class="method-card">
+          <div class="method-card-icon" style="color:#da6123;">&#8635;</div>
+          <h3>Market Intelligence \u2192 Discovery</h3>
+          <p>Market news feeds prospect discovery. 13 sector feeds are scanned for companies showing ICP signals, cross-referenced against the pipeline, and the best candidates surface alongside fresh web research.</p>
+        </div>
+        <div class="method-card">
           <div class="method-card-icon" style="color:#6bc9a0;">&#9906;</div>
           <h3>Autonomous Discovery</h3>
-          <p>Claude Code searches the web for organizations showing transformation signals. No human input required \u2014 the agent identifies, validates, and ranks prospects independently across all three industry tiers.</p>
+          <p>Searches the web for organizations showing transformation signals. Validates revenue, employees, trigger events. Deduplicates against existing pipeline. Only prospects with a specific, current reason to reach out advance.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:#e8c547;">&#9878;</div>
           <h3>ICP Scoring Engine</h3>
-          <p>Every prospect is scored on a 100-point model purpose-built for McChrystal Group. Four dimensions: signal count and recency (35 pts), revenue fit against the $500M\u2013$10B sweet spot (25 pts), employee scale (20 pts), and McChrystal-specific fit \u2014 high-value signal types like reorg, M&A, and transformation weighted higher (20 pts). Only companies that clear the threshold surface in the pipeline.</p>
+          <p>100-point model: signal count &amp; recency (35 pts), revenue fit (25 pts), employee scale (20 pts), McChrystal-specific fit (20 pts). Prospects below threshold are dropped and replaced.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:#a78bdb;">&#9881;</div>
-          <h3>Parallel Research Subagents</h3>
-          <p>Prospects are split into batches and delegated to parallel subagents, each performing deep web research. Every subagent builds a complete 10-section dossier \u2014 from org snapshot and financials to leadership profiles and fit assessment. Multiple agents run simultaneously to cover 20 companies in minutes.</p>
+          <h3>Parallel Subagent Research</h3>
+          <p>Prospects batched (3\u20134 per agent) and delegated to parallel subagents. Each builds a complete 10-section dossier simultaneously.</p>
         </div>
         <div class="method-card">
           <div class="method-card-icon" style="color:#da6123;">&#9993;</div>
-          <h3>AI-Drafted Outreach</h3>
-          <p>Subagents generate 3-email sequences per prospect, each tailored to specific trigger events and leadership contacts from the dossier. Written in Senior Partner voice \u2014 peer-to-peer, not sales copy.</p>
-        </div>
-        <div class="method-card">
-          <div class="method-card-icon" style="color:#7ab8f5;">&#9889;</div>
-          <h3>Single-Command Pipeline</h3>
-          <p>The entire flow (discover \u2192 research \u2192 outreach) runs from a single instruction. Pipeline orchestration tracks completeness, verifies quality gates, and deploys to a live dashboard automatically.</p>
+          <h3>Parallel Subagent Outreach</h3>
+          <p>Subagents draft 3 cold email versions (A/B/C) plus LinkedIn message per prospect. Each targets a champion-level contact with a genuinely different angle.</p>
         </div>
       </div>
       <div style="margin-top:16px; text-align:center;">
@@ -1462,9 +1467,16 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Pipeline Workflow</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Overwatch runs a three-phase pipeline entirely through AI. No manual data entry, no CRM integrations \u2014 Claude Code researches, scores, and writes everything.
+        Overwatch is a fully automated BD engine. One command \u2014 \u201Crun discovery for 10 new prospects\u201D \u2014 triggers the entire pipeline: market intelligence mining, web research, ICP scoring, parallel subagent dossier research, outreach drafting, and live dashboard deployment. No manual handoffs between phases.
       </p>
       <div class="pipeline-grid">
+        <div class="pipeline-card">
+          <div class="pipeline-card-step">Step 0</div>
+          <div class="pipeline-card-title">Mine Market Intel</div>
+          <div class="pipeline-card-desc">
+            Scans 13 sector feeds for companies showing ICP signals. Cross-references against existing pipeline. Best candidates become Source A for discovery; fresh web research becomes Source B.
+          </div>
+        </div>
         <div class="pipeline-card">
           <div class="pipeline-card-step">Phase 1</div>
           <div class="pipeline-card-title">Discover</div>
@@ -1575,7 +1587,7 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Research Subagent Architecture</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Prospects are split into batches and delegated to parallel subagents. Each subagent performs deep web research and builds complete dossiers autonomously.
+        Prospects are split into batches and delegated to parallel subagents. Each subagent performs deep web research and builds complete dossiers autonomously. If subagents can\u2019t execute the save pipeline directly, the main agent builds dossiers in sequential batches \u2014 same research depth, same output quality.
       </p>
 
       <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
@@ -1684,7 +1696,7 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Outreach Subagent Architecture</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Prospects are split into batches of 5 and delegated to 2 parallel subagents. Each subagent performs additional web searches for the freshest hooks before drafting 3 independent cold email versions.
+        Prospects are split into batches of 5 and delegated to 2 parallel subagents. Each loads dossier data and drafts 3 independent cold email versions. If subagents are unavailable, the main agent builds all outreach packages directly \u2014 dossier data is already in the pipeline, so no additional web research is needed.
       </p>
 
       <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
@@ -1802,12 +1814,17 @@ function renderHowItWorks() {
         </div>
       </div>
 
-      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Two Views, One Dataset</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
           <strong>Sidebar (quick scan):</strong> Click \u201CMarkets\u201D in the nav bar to open a sliding panel with the 10 most recent articles across all sectors. Compact feed with sector badges and one-line summaries.<br><br>
           <strong>Full Markets page (deep dive):</strong> All 13 sectors grouped by Niche/General with filter pills. Each sector card expands to show overview, key trends, McChrystal angle, all articles with clickable links, and freshness badges (green \u22647d, amber \u226430d, gray >30d).
         </div>
+      </div>
+
+      <div style="border-left: 3px solid #da6123; padding: 12px 16px; background: rgba(218,97,35,0.06); border-radius: 0 6px 6px 0; font-size: 0.95rem; line-height: 1.6; color: var(--text-secondary);">
+        <strong style="color: var(--text-primary);">Cross-Pollination Loop</strong><br>
+        Market intelligence isn\u2019t just a news feed \u2014 it feeds the discovery pipeline. Each sector\u2019s \u201CCompanies to Watch\u201D captures organizations showing ICP signals. Before a discovery cycle, the agent mines these candidates, cross-references against the existing pipeline, and includes the best alongside fresh web research targets.
       </div>
     </div>
 
@@ -1846,7 +1863,7 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">Pipeline Orchestration</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        The entire BD pipeline runs from a single instruction. Orchestration helpers track state, verify completeness, and deploy results.
+        One instruction runs the full pipeline. Say \u201Cexecute new discovery for 10\u201D and the agent handles market mining, web research, ICP scoring, subagent batching for dossiers and outreach, verification, and deployment \u2014 all without human intervention between phases.
       </p>
 
       <div class="method-grid" style="margin-bottom:20px;">
@@ -1869,6 +1886,21 @@ function renderHowItWorks() {
           <div class="method-card-icon" style="color:#7ab8f5;">&#9729;</div>
           <h3>Deployment</h3>
           <p>Push to GitHub \u2192 auto-deploys to live dashboard via GitHub Pages. Data flows from Markdown reports \u2192 dashboard.json \u2192 static site.</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">What \u201COne Command\u201D Actually Does</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
+          1. Mines market intelligence for prospect candidates (Step 0)<br>
+          2. Searches the web for additional companies showing ICP signals<br>
+          3. Scores each prospect on the 100-point ICP model<br>
+          4. Splits scored prospects into batches of 3\u20134<br>
+          5. Launches parallel subagents \u2014 each builds a full 10-section dossier<br>
+          6. Splits dossier\u2019d prospects into batches of 5<br>
+          7. Launches parallel subagents \u2014 each drafts 3 cold emails + LinkedIn message<br>
+          8. Runs pipeline_status() to verify completeness<br>
+          9. Pushes to GitHub \u2192 live dashboard updates automatically
         </div>
       </div>
 
