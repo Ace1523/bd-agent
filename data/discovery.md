@@ -615,3 +615,281 @@ Concentra's Transition Services Agreement with Select Medical expires November 2
 **Why They Fit**
 
 Concentra is simultaneously executing three high-complexity organizational challenges: (1) separating from parent Select Medical and building standalone corporate infrastructure before its TSA expires in November 2026, (2) integrating Nova Medical Centers (67 sites) and Pivot On-site Innovations acquisitions, and (3) scaling de novo expansion (7-9 new locations in 2026). McChrystal's operating model directly addresses the cross-functional coordination required to stand up independent operations while integrating acquisitions at the same time.
+
+
+---
+
+# Discovery Report — March 12, 2026 20:27
+
+- **Prospects found**: 10
+- **Score range**: 55–92
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | Baker Tilly US | Tier 3 | 92 | $3.0B | 11K+ | M And A, Leadership Change, Funding, Transformation |
+| 2 | Huntington Bancshares | Tier 1 | 88 | $7.4B | 20K+ | M And A, Transformation, Reorg |
+| 3 | Fifth Third Bancorp | Tier 1 | 82 | $12.9B | 20K+ | M And A, Transformation, Reorg |
+| 4 | Booz Allen Hamilton | Tier 2 | 80 | $12.0B | 34K+ | Reorg, Transformation, Earnings Miss |
+| 5 | Ascension | Tier 1 | 80 | $28.0B | 150K+ | M And A, Transformation, Rapid Growth |
+| 6 | Constellation Energy | Tier 2 | 79 | $25.0B | 15K+ | M And A, Rapid Growth, Transformation |
+| 7 | Devon Energy | Tier 1 | 79 | $15.0B | 5K+ | M And A, Reorg, Leadership Change |
+| 8 | NRG Energy | Tier 2 | 77 | $30.0B | 7K+ | M And A, Transformation, Rapid Growth |
+| 9 | Atlanta Falcons | Tier 3 | 58 | $550M | 500 | Leadership Change, Reorg |
+| 10 | Seattle Seahawks | Tier 3 | 55 | $620M | 350 | M And A, Leadership Change |
+
+## Tier 1 — Conventional
+
+### Huntington Bancshares — Score 88
+
+- **Revenue**: $7.4B
+- **Employees**: 20K+
+- **Industry**: Financial Services
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2026-02-02): Completed $7.4B acquisition of Cadence Bank in Feb 2026, expanding to 21 states with nearly 1,400 branches and $276B in assets. — [source](Huntington Bancshares IR)
+- **Transformation** (2026-02-02): Mid-2026 system conversion for all Cadence customers — integrating Texas and Southern banking culture into a Midwest-headquartered institution. — [source](PR Newswire)
+- **Reorg** (2026-02-02): $365M in pre-tax cost savings targeted; integrating Cadence's 390 branches under the Huntington brand while pledging no branch closures. — [source](Huntington IR)
+
+**Entry Point**
+
+SVP of Integration or Chief Operating Officer — whoever is leading the operational merger across 21 states while preserving the 'no branch closure' promise.
+
+**Conversation Hook**
+
+Achieving $365M in cost savings without closing a single branch is an organizational execution challenge, not a financial engineering problem.
+
+**Why They Fit**
+
+A different integration challenge from Fifth Third: Huntington promised no branch closures, meaning all $365M in synergies must come from operational efficiency and cultural integration — exactly the kind of problem where shared consciousness and empowered execution matter most.
+
+### Fifth Third Bancorp — Score 82
+
+- **Revenue**: $12.9B
+- **Employees**: 20K+
+- **Industry**: Financial Services
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2026-02-02): Completed $12.3B acquisition of Comerica in Feb 2026, creating the 9th largest US bank with $294B in assets. Full system conversion scheduled for Sept 8, 2026 — a high-stakes 'big bang' migration. — [source](Fifth Third Bancorp IR)
+- **Transformation** (2026-02-16): Transforming from regional Midwest bank to 'mega-regional' — 43% revenue surge projected for 2026, requiring complete organizational redesign across merged entities. — [source](Market Minute)
+- **Reorg** (2026-02-02): 180+ job cuts at Comerica's former Frisco TX facility; 63 overlapping branches slated for closure in late 2026. $850M in annual cost savings targeted. — [source](D CEO Magazine)
+
+**Entry Point**
+
+Chief Integration Officer or SVP of Organizational Transformation — the person managing the Comerica integration across technology, branches, and talent retention.
+
+**Conversation Hook**
+
+The Sept 8 system conversion is a 'big bang' moment that demands the kind of cross-functional coordination and decentralized execution McChrystal built its reputation on.
+
+**Why They Fit**
+
+Massive post-merger integration challenge — two distinct banking cultures (Midwest vs. Texas), high-stakes system conversion, 63 branch closures, and $850M synergy target create exactly the cross-functional alignment and shared consciousness problems McChrystal solves.
+
+### Ascension — Score 80
+
+- **Revenue**: $28.0B
+- **Employees**: 150K+
+- **Industry**: Healthcare Systems
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2025-06-01): Acquiring AMSURG for $3.9B, adding 250+ ambulatory surgery centers across 34 states — the largest outpatient expansion in Catholic healthcare history. — [source](Ascension)
+- **Transformation** (2026-02-01): Pivoting from inpatient-centric to ambulatory-first care model. President Eduardo Conrado stated 'The shift from inpatient to outpatient care is accelerating nationwide.' — [source](Ascension News)
+- **Rapid Growth** (2026-02-01): Net income more than doubled to $608M in first half of fiscal year, funding aggressive outpatient expansion including imaging centers and PT sites. — [source](Healthcare Dive)
+
+**Entry Point**
+
+SVP of Ambulatory Integration or Chief Transformation Officer — the executive managing the AMSURG integration and inpatient-to-outpatient operating model shift.
+
+**Conversation Hook**
+
+Connecting 250 independently-operated surgery centers to a 140-hospital system is the healthcare equivalent of building shared consciousness across autonomous units.
+
+**Why They Fit**
+
+Integrating 250+ ambulatory surgery centers into a 150,000-employee Catholic health system across 34 states is a massive organizational design challenge — connecting autonomous ASC operators to a hierarchical hospital system requires exactly McChrystal's Team of Teams model.
+
+### Devon Energy — Score 79
+
+- **Revenue**: $15.0B
+- **Employees**: 5K+
+- **Industry**: Oil & Gas
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2026-02-26): Announced $58B all-stock merger with Coterra Energy, creating a 'super-independent' shale powerhouse with 1.6M Boe/day production. Expected close Q2 2026. — [source](Devon Energy)
+- **Reorg** (2026-02-01): $1B in annual pre-tax synergies targeted, including $300M workforce reduction. Integration co-led by Devon CTO and Coterra EVP, with McKinsey supporting. — [source](Marcellus Drilling News)
+- **Leadership Change** (2026-02-26): New leadership structure: Clay Gaspar (Devon) as President/CEO, Tom Jorden (Coterra) as Non-Executive Chairman. 11-member board split 6/5 between the two companies. — [source](Devon Energy)
+
+**Entry Point**
+
+SVP of Integration or Chief People Officer — the leader managing the talent integration and culture merger between Oklahoma City and Houston operations.
+
+**Conversation Hook**
+
+McKinsey can design the integration plan, but executing a $300M workforce reduction while preserving operational excellence across two basins requires the kind of decentralized execution discipline McChrystal brings.
+
+**Why They Fit**
+
+A 'merger of near-equals' between two proud shale operators with distinct cultures (Oklahoma vs. Houston), $300M workforce reduction, dual-city operations, and McKinsey already advising on integration — the perfect moment for McChrystal to complement McKinsey's strategy work with operating model and culture execution.
+
+## Tier 2 — Adjacent
+
+### Booz Allen Hamilton — Score 80
+
+- **Revenue**: $12.0B
+- **Employees**: 34K+
+- **Industry**: Government IT & Consulting
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Reorg** (2026-01-26): CEO Rozanski announced 'resetting and restructuring' of the civil business, with large-scale layoffs as civil agency revenue expected to decline in low double digits for FY2026. — [source](Inc.)
+- **Transformation** (2026-02-01): Pivoting from traditional government consulting to AI-driven, outcome-based contracting model. Converting contracts from labor-hour to outcome-based as federal acquisition system transforms. — [source](Federal News Network)
+- **Earnings Miss** (2026-01-26): Treasury terminated $21M in contracts following data security failures. DOGE-driven contract cancellations creating revenue headwinds across civilian business. — [source](Market Minute)
+
+**Entry Point**
+
+Chief Strategy Officer or SVP of Civil Business — the leader managing the civil business restructuring while building the new AI-driven delivery model.
+
+**Conversation Hook**
+
+When your largest customer is simultaneously cutting your contracts and demanding you reinvent how you deliver — that's not a strategy problem, it's an operating model crisis.
+
+**Why They Fit**
+
+DOGE is forcing the most significant operating model transformation in Booz Allen's history — simultaneously restructuring the civil business, pivoting to AI/outcome-based delivery, and absorbing contract losses. The bifurcation between defense growth and civil decline creates exactly the cross-functional tension McChrystal specializes in.
+
+### Constellation Energy — Score 79
+
+- **Revenue**: $25.0B
+- **Employees**: 15K+
+- **Industry**: Energy & Utilities
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2026-01-07): Completed $16.4B acquisition of Calpine in Jan 2026, creating a 60 GW clean energy titan. Integrating 2,300 Calpine employees and 60+ power plants. — [source](Constellation Energy)
+- **Rapid Growth** (2026-03-10): Projecting 20% EPS boost from Calpine integration. AI data center co-location announcements expected throughout 2026 as demand surges. — [source](Market Minute)
+- **Transformation** (2026-01-07): Merging nuclear fleet expertise (Constellation) with natural gas and geothermal operations (Calpine) — fundamentally different operating cultures and safety paradigms. — [source](Constellation Energy)
+
+**Entry Point**
+
+SVP of Integration or Chief Operating Officer — the leader managing fleet integration while building the AI data center partnerships that will define the company's next decade.
+
+**Conversation Hook**
+
+Nuclear and gas operators have fundamentally different safety cultures, decision-making speeds, and risk tolerances — integrating them is an organizational design challenge, not a technology problem.
+
+**Why They Fit**
+
+Merging nuclear operators (highest safety culture in energy) with gas plant operators (fastest response culture) while simultaneously racing to build AI data center co-location partnerships is a cross-functional coordination challenge that demands shared consciousness across fundamentally different operating paradigms.
+
+### NRG Energy — Score 77
+
+- **Revenue**: $30.0B
+- **Employees**: 7K+
+- **Industry**: Energy & Utilities
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2026-01-30): Completed $12B acquisition of LS Power's 13 GW generation portfolio + CPower VPP platform in Jan 2026, doubling fleet to 25 GW. — [source](NRG Energy IR)
+- **Transformation** (2026-01-30): Transforming from pure-play power generator to integrated energy + technology platform with virtual power plant capabilities serving 2,000+ commercial customers. — [source](NRG Energy)
+- **Rapid Growth** (2026-01-30): Expects 18%+ EPS accretion from LS Power integration; raised long-term CAGR target to >14%. AI data center demand creating massive growth opportunity. — [source](NRG Energy IR)
+
+**Entry Point**
+
+SVP of Integration or Chief Strategy Officer — the leader managing the LS Power fleet integration while building the new tech-enabled business model.
+
+**Conversation Hook**
+
+Merging industrial power plant operators with a software-driven virtual power plant team is the energy industry's version of combining special operations with conventional forces.
+
+**Why They Fit**
+
+Doubling generation capacity overnight while simultaneously pivoting to a tech-enabled platform model requires integrating traditional power plant operators with software-driven VPP teams — a culture clash that McChrystal's shared consciousness model directly addresses.
+
+## Tier 3 — Unconventional
+
+### Baker Tilly US — Score 92
+
+- **Revenue**: $3.0B
+- **Employees**: 11K+
+- **Industry**: Professional Services
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **M And A** (2025-06-01): Completed merger with Moss Adams in June 2025, creating the 6th largest US accounting/advisory firm and the largest PE-backed CPA firm. Backed by Hellman & Friedman. — [source](Baker Tilly)
+- **Leadership Change** (2026-01-01): CEO transition: Jeff Ferro retired, Eric Miles (former Moss Adams CEO) became CEO on January 1, 2026 — leading the combined entity through its critical first year. — [source](Baker Tilly)
+- **Funding** (2025-04-21): Hellman & Friedman made 'meaningful additional strategic investment' alongside existing backer Valeas Capital Partners to fund the combined entity's growth. — [source](PR Newswire)
+- **Transformation** (2025-06-01): Restructured into two entities: Baker Tilly US LLP (audit) and Baker Tilly Advisory Group LP (advisory/tax) — a fundamental operating model change for a professional services firm. — [source](Baker Tilly)
+
+**Entry Point**
+
+Chief Operating Officer or Chief People Officer — whoever is managing the cultural integration of 11,500 professionals from two legacy firms under PE expectations.
+
+**Conversation Hook**
+
+New CEO from the acquired firm, dual-entity restructuring, and PE growth expectations create a rare moment where getting the operating model right determines whether this becomes the next great platform or another failed roll-up.
+
+**Why They Fit**
+
+Classic PE roll-up integration challenge: merging two distinct professional services cultures (Midwest vs. West Coast), new CEO from the acquired firm, dual-entity structure (audit + advisory), and PE pressure for growth — all the conditions where McChrystal's cross-functional alignment drives value.
+
+### Atlanta Falcons — Score 58
+
+- **Revenue**: $550M
+- **Employees**: 500
+- **Industry**: Professional Sports
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **Leadership Change** (2026-01-17): Wholesale leadership overhaul: fired head coach Raheem Morris, GM Terry Fontenot, and CEO Rich McKay simultaneously. Hired Kevin Stefanski as HC, Ian Cunningham as GM, elevated Greg Beadles to CEO. — [source](Atlanta Falcons)
+- **Reorg** (2026-01-17): Created new 'President of Football' role (Matt Ryan), restructuring the entire front office hierarchy. Owner Arthur Blank mandated organizational changes 'across the football operation.' — [source](The Falcoholic)
+
+**Entry Point**
+
+Greg Beadles, President & CEO — the one holdover executive managing the business side while the entire football operation is rebuilt around him.
+
+**Conversation Hook**
+
+Rebuilding an NFL franchise from the C-suite down mirrors building a unified command from scratch — something General McChrystal has done in the most high-stakes environments imaginable.
+
+**Why They Fit**
+
+Simultaneously replacing the HC, GM, and CEO is a once-in-a-decade organizational reset for a sports franchise. Building shared consciousness across a new coaching staff, front office, and business operations under intense public scrutiny is exactly McChrystal's domain.
+
+### Seattle Seahawks — Score 55
+
+- **Revenue**: $620M
+- **Employees**: 350
+- **Industry**: Professional Sports
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **M And A** (2026-02-18): Paul G. Allen estate formally began sale process in Feb 2026, with franchise expected to sell for $7-10B — potentially the largest North American sports transaction ever. — [source](Seattle Seahawks)
+- **Leadership Change** (2026-02-18): Ownership transition from legacy Paul Allen/Jody Allen stewardship to new owner(s). Allen & Company and Latham & Watkins leading the sale process, requiring NFL owner ratification (24 of 32 votes). — [source](ESPN)
+
+**Entry Point**
+
+Chuck Arnold, President — the business-side leader who will navigate the ownership transition and set the organization up for the new owner's vision.
+
+**Conversation Hook**
+
+A Super Bowl champion entering a $7-10B ownership transition needs to preserve what's working while preparing for inevitable organizational change — the exact tension McChrystal navigates.
+
+**Why They Fit**
+
+Ownership transitions in professional sports are organizational inflection points — new owners bring new mandates, new executives, and new operating philosophies. McChrystal's work with sports organizations and ownership groups in building aligned, high-performance cultures maps directly to this moment.
