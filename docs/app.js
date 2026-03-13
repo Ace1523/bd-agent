@@ -1471,31 +1471,38 @@ function renderHowItWorks() {
       </p>
       <div class="pipeline-grid">
         <div class="pipeline-card">
-          <div class="pipeline-card-step">Step 0</div>
-          <div class="pipeline-card-title">Mine Market Intel</div>
-          <div class="pipeline-card-desc">
-            Scans 13 sector feeds for companies showing ICP signals. Cross-references against existing pipeline. Best candidates become Source A for discovery; fresh web research becomes Source B.
-          </div>
-        </div>
-        <div class="pipeline-card">
           <div class="pipeline-card-step">Phase 1</div>
-          <div class="pipeline-card-title">Discover</div>
+          <div class="pipeline-card-title">Discovery</div>
           <div class="pipeline-card-desc">
-            AI searches the web for organizations showing transformation signals \u2014 leadership changes, M&A, restructuring, earnings pressure. Each prospect is scored against the Ideal Customer Profile on a 0\u2013100 scale.
+            Mines 13 market sector feeds for ICP signals, then searches the web for organizations showing transformation triggers. Each prospect is scored on a 100-point model and deduplicated against the existing pipeline.
           </div>
         </div>
         <div class="pipeline-card">
           <div class="pipeline-card-step">Phase 2</div>
           <div class="pipeline-card-title">Research</div>
           <div class="pipeline-card-desc">
-            Parallel subagents build 10-section dossiers: org snapshot, company overview, financials, leadership profiles, culture signals, trigger events, fit assessment, conversation entry points, brand insights &amp; market positioning, and deep McChrystal fit analysis. Designed to be read by a Senior Partner in under 10 minutes.
+            Parallel subagents build 10-section dossiers: org snapshot, company overview, financials, leadership profiles, culture signals, trigger events, fit assessment, conversation entry points, brand insights &amp; market positioning, and deep McChrystal fit analysis.
           </div>
         </div>
         <div class="pipeline-card">
           <div class="pipeline-card-step">Phase 3</div>
           <div class="pipeline-card-title">Outreach</div>
           <div class="pipeline-card-desc">
-            Parallel subagents draft 3 independent cold email versions (A/B/C) per prospect, each with a genuinely different opening strategy. Targets champion-level contacts, not CEOs.
+            Parallel subagents draft 3 independent cold email versions (A/B/C) plus LinkedIn messages per prospect, each with a genuinely different opening strategy. Targets champion-level contacts, not CEOs.
+          </div>
+        </div>
+        <div class="pipeline-card">
+          <div class="pipeline-card-step">Phase 4</div>
+          <div class="pipeline-card-title">Proposals</div>
+          <div class="pipeline-card-desc">
+            AI-drafted proposals using McChrystal Group\u2019s historical proposals, SOWs, and pricing as reference material. Matches voice, scope structure, staffing models, and pricing patterns. <span style="color:var(--amber-text); font-size:11px; font-weight:700;">Coming Soon</span>
+          </div>
+        </div>
+        <div class="pipeline-card">
+          <div class="pipeline-card-step">Phase 5</div>
+          <div class="pipeline-card-title">Future Enablement</div>
+          <div class="pipeline-card-desc">
+            Closed-loop learning, CRM integration, competitive intelligence monitoring, and automated pipeline nurturing. Outcomes feed back into scoring and outreach to sharpen every future recommendation. <span style="color:var(--amber-text); font-size:11px; font-weight:700;">Coming Soon</span>
           </div>
         </div>
       </div>
