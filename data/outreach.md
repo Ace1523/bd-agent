@@ -3089,3 +3089,82 @@ McChrystal Group
 Chuck — navigating a $7-10B ownership transition while preserving a championship culture is a rare organizational challenge. We help organizations manage exactly these kinds of leadership transitions. Would enjoy connecting.
 
 ---
+
+
+---
+
+# Outreach Package — Visa Inc.
+
+**Target**: Jack Forestell, Chief Product & Strategy Officer
+**Why this contact**: Owns the platform transformation that requires cross-functional agility across Consumer Payments, CMS, VAS, and 3 acquired entities. The #1 person who needs Team of Teams to succeed.
+**Company**: Visa Inc. | **Score**: 95 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Visa's network-of-networks vision
+**Hook**: Investor Day 'network of networks' vision + 1,400-person layoff creating operating model gap
+
+Jack,
+
+Visa's Investor Day laid out an ambitious pivot — card network to payments hyperscaler, with VAS already at 28% growth. That's a strategy that demands cross-functional speed across product, risk, and regional teams that your current structure wasn't built for.
+
+The 1,400-person restructuring last January created urgency, but restructuring headcount doesn't restructure how teams coordinate. We've helped organizations at similar inflection points — where the vision outpaces the operating model — close that gap without losing momentum.
+
+One example: a global financial services firm mid-transformation cut cross-functional decision cycles by 45% within six months by redesigning how information flows, not org charts.
+
+Would 20 minutes make sense to compare notes on what you're seeing inside the transformation?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The operating model gap in payments transformation
+**Hook**: Payments industry transformation pattern — strategy outpacing operating model capacity
+
+Jack,
+
+Every major payments company is racing toward platform plays — but the ones that win aren't the ones with the best strategy deck. They're the ones whose operating model can actually execute at the speed the strategy demands.
+
+Visa's in a fascinating position: $10.9B quarter, VAS growing 28%, three acquisitions integrating simultaneously, agentic commerce launching, and a FIFA/Olympics activation cycle that requires global coordination across teams that until recently operated as regional silos.
+
+That's a lot of vectors pulling on one org structure. The pattern we see in companies at this stage: the strategy is right, but the seams between teams become the bottleneck.
+
+Happy to share what we've seen work — 20 minutes, no pitch.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Cross-functional speed at scale
+**Hook**: Forestell's role transition from regional to enterprise-wide strategy — understands coordination challenge firsthand
+
+Jack,
+
+I noticed your move from running North America to Chief Product & Strategy Officer — that's a shift from running a region to connecting the whole machine. Having done both, you know better than most where the coordination tax shows up.
+
+With Visa simultaneously integrating Pismo, Prosa, and Prisma while launching agentic commerce and pivoting global sponsorship strategy from NFL to FIFA/Olympics, the cross-functional demands on your teams are compounding fast.
+
+McChrystal Group works with organizations navigating exactly this — multiple strategic bets running in parallel where the constraint isn't talent or capital, it's how fast teams can align and move together.
+
+Would a brief conversation be useful? I'd be curious to hear how you're thinking about it.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Network-of-networks transformation complexity
+
+Jack — Visa's pivot from card network to payments hyperscaler is one of the more ambitious transformations in financial services right now. We work with organizations navigating that kind of multi-front complexity. Would welcome connecting.
+
+---
