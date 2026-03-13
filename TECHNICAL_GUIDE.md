@@ -3,8 +3,19 @@
 > AI-powered business development automation built on Claude Code. One command triggers the full pipeline: discover prospects, build dossiers, draft outreach, track market intelligence — no API keys, no database, no CRM.
 
 - **Live Dashboard**: https://ace1523.github.io/bd-agent/
-- **Repository**: https://github.com/Ace1523/bd-agent
 - **Current Scale**: 35 prospects, 35 dossiers, 35 outreach packages, 13 market sectors
+
+---
+
+## Introduction
+
+Overwatch is McChrystal Group's AI-powered business development platform. It automates the full BD pipeline — from prospect discovery through dossier research, personalized outreach drafting, and ongoing market intelligence — producing Senior Partner-ready deliverables in a single pass.
+
+The key architectural insight: **Claude Code is the entire engine.** There are no API integrations, no database, no CRM, no training pipelines. Claude Code performs live web research, reasons about prospect fit against McChrystal Group's Ideal Customer Profile, builds structured Pydantic data models, generates Markdown reports, and pushes everything to a static dashboard hosted on GitHub Pages. The system is a Python library that Claude Code calls directly — every module is designed to be invoked conversationally, not through a CLI or scheduled jobs.
+
+End-to-end, the pipeline produces: scored prospect cards with ICP fit ratings, 10-section research dossiers deep enough for a Senior Partner to read in under 10 minutes, three independent cold email versions (A/B/C) plus LinkedIn messages per prospect, and a living market intelligence feed covering 13 industry sectors. All artifacts are persisted to JSON, rendered as Markdown reports, and surfaced through an interactive single-page dashboard.
+
+This guide is written for anyone evaluating, extending, or operating the platform — whether you're a developer onboarding to the codebase, a McChrystal Group partner understanding what the system produces, or an AI practitioner studying how Claude Code can replace traditional SaaS tooling for complex business workflows.
 
 ---
 
