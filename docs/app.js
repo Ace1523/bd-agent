@@ -1752,6 +1752,59 @@ function renderHowItWorks() {
     </div>
 
     <div class="home-section">
+      <div class="home-section-title">Market Intelligence</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
+        A living feed of curated market and sector intelligence across 13 sectors \u2014 8 niche and 5 general. AI searches the web for the latest developments, curates 5\u201310 articles per sector, and connects every story back to McChrystal Group\u2019s BD pipeline.
+      </p>
+
+      <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">13</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Tracked sectors</div>
+        </div>
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">5\u201310</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Articles per sector</div>
+        </div>
+        <div class="method-card" style="text-align:center;">
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">30d</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Rolling freshness window</div>
+        </div>
+      </div>
+
+      <div class="home-section-title" style="margin-top:24px;">Sector Coverage</div>
+      <div class="method-grid" style="margin-bottom:20px;">
+        <div class="method-card" style="border-left: 3px solid var(--accent);">
+          <h3 style="color: var(--accent);">Niche Sectors</h3>
+          <p>PE-Backed Roll-Ups, Post-Merger Integrations, Defense Consolidation, Healthcare M&A, Energy Transition, Tech Spinoffs & Carve-outs, Government Transformation, Sports & Entertainment Ownership</p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid var(--green);">
+          <h3 style="color: var(--green);">General Sectors</h3>
+          <p>Technology & AI, Financial Services, Industrial & Manufacturing, Healthcare Systems, Energy & Utilities</p>
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">How It Works</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
+          1. <strong>Research</strong> \u2014 AI performs web searches across all 13 sectors for news from the last 30 days<br>
+          2. <strong>Curate</strong> \u2014 5\u201310 articles selected per sector from diverse sources (WSJ, Reuters, Bloomberg, industry trades)<br>
+          3. <strong>Analyze</strong> \u2014 Each sector gets an overview thesis, key trends, and a McChrystal angle explaining why it matters for BD<br>
+          4. <strong>Connect</strong> \u2014 Every article gets a relevance note tying it back to McChrystal Group\u2019s capabilities and pipeline<br>
+          5. <strong>Deploy</strong> \u2014 Data flows to dashboard.json, powering both the sidebar news feed and full Markets page
+        </div>
+      </div>
+
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Two Views, One Dataset</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          <strong>Sidebar (quick scan):</strong> Click \u201CMarkets\u201D in the nav bar to open a sliding panel with the 10 most recent articles across all sectors. Compact feed with sector badges and one-line summaries.<br><br>
+          <strong>Full Markets page (deep dive):</strong> All 13 sectors grouped by Niche/General with filter pills. Each sector card expands to show overview, key trends, McChrystal angle, all articles with clickable links, and freshness badges (green \u22647d, amber \u226430d, gray >30d).
+        </div>
+      </div>
+    </div>
+
+    <div class="home-section">
       <div class="home-section-title">Proposal Engine <span style="background:var(--amber-bg); color:var(--amber-text); font-size:11px; font-weight:700; padding:3px 10px; border-radius:20px; margin-left:12px; text-transform:none; letter-spacing:0;">Coming Soon</span></div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
         Phase 4 of the BD pipeline \u2014 bridges outreach to signed engagement. AI-drafted proposals using McChrystal Group\u2019s historical proposals as reference material.
