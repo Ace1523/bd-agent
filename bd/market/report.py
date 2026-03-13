@@ -43,6 +43,12 @@ def generate_market_report(sectors: list[MarketSector]) -> str:
                     lines.append(f"  *McChrystal relevance: {article.relevance_note}*")
             lines.append("")
 
+        if sector.prospect_candidates:
+            lines.append("### Companies to Watch")
+            for candidate in sector.prospect_candidates:
+                lines.append(f"- {candidate}")
+            lines.append("")
+
         lines.append("---")
         lines.append("")
 

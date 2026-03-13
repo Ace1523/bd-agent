@@ -1521,3 +1521,37 @@ body {
 .sidebar-bottom-link:hover {
   color: var(--accent-hover);
 }
+
+/* ── Prospect Candidates (Companies to Watch) ── */
+.prospect-candidates-box {
+  margin-top: 16px;
+  padding: 12px 16px;
+  background: var(--accent-glow);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius-sm);
+}
+
+.prospect-candidates-box h5 {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+
+.prospect-candidates-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.prospect-candidate-tag {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: rgba(218, 97, 35, 0.18);
+  color: var(--accent-hover);
+  border: 1px solid rgba(218, 97, 35, 0.3);
+}

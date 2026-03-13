@@ -1279,6 +1279,13 @@ function marketCard(sector) {
             <h4>Top Articles</h4>
             ${sector.articles.map(a => articleItem(a)).join("")}
           </div>` : ""}
+        ${sector.prospect_candidates && sector.prospect_candidates.length ? `
+          <div class="prospect-candidates-box">
+            <h5>Companies to Watch</h5>
+            <div class="prospect-candidates-tags">
+              ${sector.prospect_candidates.map(c => `<span class="prospect-candidate-tag">${escapeHtml(c)}</span>`).join("")}
+            </div>
+          </div>` : ""}
         ${sector.last_refreshed ? `
           <div style="font-size:11px; color:var(--text-muted); margin-top:12px;">
             Last refreshed: ${sector.last_refreshed}

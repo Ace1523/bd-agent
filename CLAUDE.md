@@ -254,16 +254,20 @@ Market/sector intelligence reports with curated news articles. Covers niche mark
 *General:* Technology & AI, Financial Services, Industrial & Manufacturing, Healthcare Systems, Energy & Utilities
 
 **Refresh workflow:**
-1. Claude Code performs web searches for each sector (last 30 days of news)
-2. Builds `MarketSector` objects with 5-10 articles each, diverse sources
-3. Calls `generate_market_report(sectors)` — saves Markdown + replaces `market_intelligence` in dashboard.json
-4. Push to GitHub to deploy
+1. Run `python3 populate_markets.py --status` to check freshness of all sectors
+2. Claude Code performs web searches for each sector (last 30 days of news)
+3. Builds `MarketSector` objects with 5-10 articles each, diverse sources, and `prospect_candidates` listing companies showing ICP signals
+4. Calls `generate_market_report(sectors)` — saves Markdown + replaces `market_intelligence` in dashboard.json
+5. Push to GitHub to deploy
 
 Replace semantics ensure stale articles are removed on refresh.
+
+**Cross-pollination loop:** Market intelligence feeds discovery. Each sector's `prospect_candidates` field captures companies mentioned in articles that show ICP signals. Before running a discovery cycle, mine these candidates for high-fit prospects, cross-reference against existing pipeline to avoid duplicates, then include the best candidates alongside fresh web research targets.
 
 - Models: `SectorCategory`, `MarketArticle`, `MarketSector` in `bd/models.py`
 - Report: `bd/market/report.py` — `generate_market_report()`
 - Save: `bd/save.py` — `save_market_intelligence()`, `clear_market_intelligence()`
+- Status: `python3 populate_markets.py --status` — prints freshness table for all sectors
 
 ### Phase 4: Proposals (coming soon)
 AI-drafted proposals using McChrystal Group's historical proposals as reference material. Claude Code is the engine — no training pipeline, no APIs.
@@ -289,6 +293,12 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 **Single-command workflow**: Claude Code should discover prospects, score them, build dossiers for each, generate outreach packages, and update the dashboard — all in one pass. Use `pipeline_status()` to verify completeness.
 
 ### Execution Strategy
+
+**Step 0: Mine Market Intelligence**
+- Before discovery, scan `market_intelligence` in `dashboard.json` for companies mentioned in articles that show ICP signals
+- Cross-reference against existing prospects in `dashboard.json` to avoid duplicates
+- Populate `prospect_candidates` on each `MarketSector` with companies worth investigating
+- Best candidates become Source A in discovery; fresh web research becomes Source B
 
 **Step 1: Discover (sequential, thorough)**
 - Claude Code performs web research to identify prospects — this is NOT delegated to subagents because prospect selection requires judgment, cross-referencing, and deduplication against existing prospects in `dashboard.json`

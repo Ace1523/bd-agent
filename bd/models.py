@@ -269,3 +269,4 @@ class MarketSector(BaseModel):
     mcchrystal_angle: str  # why this sector maps to MG capabilities
     articles: list[MarketArticle] = Field(default_factory=list)
     last_refreshed: Union[datetime.date, None] = None
+    prospect_candidates: list[str] = Field(default_factory=list)

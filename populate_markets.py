@@ -1,6 +1,9 @@
-"""One-time script to populate market intelligence data for all 13 sectors."""
+"""Market intelligence refresh tool — seed data and freshness status for all 13 sectors."""
 
+import argparse
 import datetime
+import json
+import os
 from bd.models import SectorCategory, MarketArticle, MarketSector
 from bd.market.report import generate_market_report
 
@@ -897,7 +900,54 @@ sectors = [
     ),
 ]
 
+def print_status():
+    """Print freshness table for all sectors from dashboard.json."""
+    dashboard_path = os.path.join(os.path.dirname(__file__), "data", "dashboard.json")
+    if not os.path.exists(dashboard_path):
+        print("No dashboard.json found. Run without --status to populate.")
+        return
+
+    with open(dashboard_path) as f:
+        data = json.load(f)
+
+    mi = data.get("market_intelligence", [])
+    if not mi:
+        print("No market intelligence data in dashboard.json.")
+        return
+
+    today = datetime.date.today()
+    print(f"\n{'Sector':<40} {'Articles':>8}  {'Last Refreshed':>15}  {'Freshness':>10}")
+    print("-" * 80)
+    for sector in mi:
+        name = sector.get("name", "Unknown")
+        article_count = len(sector.get("articles", []))
+        last_refreshed = sector.get("last_refreshed")
+        if last_refreshed:
+            lr_date = datetime.date.fromisoformat(last_refreshed)
+            days_old = (today - lr_date).days
+            if days_old <= 7:
+                freshness = "\033[32mFresh\033[0m"
+            elif days_old <= 30:
+                freshness = "\033[33mAmber\033[0m"
+            else:
+                freshness = "\033[90mStale\033[0m"
+        else:
+            last_refreshed = "N/A"
+            freshness = "\033[90mUnknown\033[0m"
+        print(f"{name:<40} {article_count:>8}  {last_refreshed:>15}  {freshness:>19}")
+
+    total_articles = sum(len(s.get("articles", [])) for s in mi)
+    print(f"\nTotal: {len(mi)} sectors, {total_articles} articles")
+
+
 if __name__ == "__main__":
-    report = generate_market_report(sectors)
-    print(f"Generated market intelligence report for {len(sectors)} sectors")
-    print(f"Total articles: {sum(len(s.articles) for s in sectors)}")
+    parser = argparse.ArgumentParser(description="Market intelligence refresh tool")
+    parser.add_argument("--status", action="store_true", help="Print freshness table and exit")
+    args = parser.parse_args()
+
+    if args.status:
+        print_status()
+    else:
+        report = generate_market_report(sectors)
+        print(f"Generated market intelligence report for {len(sectors)} sectors")
+        print(f"Total articles: {sum(len(s.articles) for s in sectors)}")
