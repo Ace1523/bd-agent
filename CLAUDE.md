@@ -306,19 +306,21 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - Do NOT select generic Fortune 500 companies — every prospect must have a specific, current reason McChrystal Group should reach out NOW
 - Build `Prospect` objects, score with `score_prospect()`, generate report with `generate_report()`
 
-**Step 2: Research (parallel subagents)**
+**Step 2: Research (parallel subagents or direct)**
 - Split prospects into batches of 3-4 companies
-- Launch 2-3 subagents in parallel, each responsible for its batch
-- Each subagent: performs deep web research on its companies, builds `Dossier` objects with all 10 sections populated, calls `generate_dossier_report()`
+- **Preferred**: Launch 2-3 subagents in parallel, each responsible for its batch
+- **Fallback**: If subagents lack Bash permission (can't run Python to save), build dossiers directly in the main conversation in batches of 2-3 using inline Python scripts
+- Each batch: performs deep web research on its companies, builds `Dossier` objects with all 10 sections populated, calls `generate_dossier_report()`
 - Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, McChrystal-specific fit angles, brand value/rankings, CMO/marketing strategy, brand campaigns, sponsorships, and competitive brand positioning
 - Subagent prompt must include: company name, industry, revenue, employee count, tier, signals, and the full dossier section requirements from Phase 2
 - **Brand Insights (Sec 8)** — subagents must research the company's brand value (Kantar, Interbrand rankings if available), current brand strategy and campaigns, CMO vision, brand threats (competitive disintermediation, market perception gaps), and major brand investments (sponsorships, partnerships). Connect every insight back to an organizational coordination challenge McChrystal can address
 - **Deep McChrystal Fit Analysis (Sec 9)** — this is the most critical section and must match the depth of the Visa Inc. dossier. Subagents must produce ALL six subsections (9a–9f): fit dimensions with competitor displacement logic, cumulative case with revenue estimate, enterprise issues (5-8 detailed problems), expected outcomes (5-7 measurable deliverables), key stakeholders & business unit map (table format covering all major units), and full opportunity thesis (signal convergence, structural paradox, phased engagement with dollar ranges, competitive displacement strategy, multi-threaded pursuit map with 2-3 parallel outreach threads). This is the section a Senior Partner reads to decide whether to pursue — it must be specific, strategic, and non-generic. Every claim grounded in facts from earlier sections or web research
 
-**Step 3: Outreach (parallel subagents)**
+**Step 3: Outreach (parallel subagents or direct)**
 - Split prospects into batches of 5 companies
-- Launch 2 subagents in parallel, each responsible for its batch
-- Each subagent: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachPackage` objects with 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage` each, calls `generate_outreach_report()`
+- **Preferred**: Launch 2 subagents in parallel, each responsible for its batch
+- **Fallback**: If subagents lack Bash permission, build outreach packages directly in the main conversation — can handle all prospects in a single large Python script since outreach doesn't require web research per prospect (dossier data is already available)
+- Each batch: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachPackage` objects with 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage` each, calls `generate_outreach_report()`
 - Target contact must be a champion-level contact (VP/SVP/CTO/Head of Strategy), NOT the CEO
 - Subagent prompt must include: the full outreach requirements from Phase 3 (version structure, email structure, LinkedIn message, tone, quality standards, targeting logic)
 
@@ -361,7 +363,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - **Outreach** — Outreach package cards grouped by industry category, with filter pills. Target contact (champion-level, not CEO), fit rating badge, 3 cold email versions (A/B/C) with copy-to-clipboard
 - **Markets** — Two-level experience:
   - **Sidebar (news feed)**: Right-side sliding panel toggled via "Markets" button in nav bar. Shows the 10 most recent articles across all sectors as a compact feed (title, source, date, sector badge, 1-line summary). "Explore All Markets" link at top navigates to the full Markets page. Close via X button, overlay click, or Escape key
-  - **Full Markets page**: Dedicated view (no nav tab — accessed via sidebar links or search). Filter pills (All/Niche/General), expandable sector cards grouped by category. Each sector card shows overview, key trends, McChrystal angle, all articles with clickable links, freshness badge (green ≤7d, amber ≤30d, gray >30d), and last refreshed date. Search results for sectors open this page and expand the matching card
+  - **Full Markets page**: Dedicated view (no nav tab — accessed via sidebar links or search). Filter pills (All/Niche/General), expandable sector cards grouped by category. Each sector card shows overview, key trends, McChrystal angle, "Companies to Watch" callout with prospect candidate pills (when populated), all articles with clickable links, freshness badge (green ≤7d, amber ≤30d, gray >30d), and last refreshed date. Search results for sectors open this page and expand the matching card
 - **Proposals** — Phase 4 (coming soon): AI-assisted proposal writing trained on McChrystal Group's historical proposals, SOWs, and pricing. Will draft from dossier data + learned patterns
 - **How It Works** — Pipeline workflow, scoring model, signal types, dossier structure, outreach logic, plus collapsible prompt blocks showing the actual AI instructions for each phase
 
