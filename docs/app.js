@@ -2065,6 +2065,18 @@ function renderFuture() {
         </div>
 
         <div class="method-card">
+          <div class="method-card-icon" style="color: #0a66c2;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"/>
+              <rect x="2" y="9" width="4" height="12"/>
+              <circle cx="4" cy="4" r="2"/>
+            </svg>
+          </div>
+          <h3>LinkedIn Enrichment Integration</h3>
+          <p>Partner LinkedIn connections mapped against the pipeline automatically. For every prospect, the system identifies which MG partners have first-degree connections at the target company \u2014 turning cold outreach into warm introductions. Enrichment data flows into dossier pursuit maps, outreach version selection, and military affiliation flagging. Regional targeting lists (ATL, NYC, etc.) are cross-referenced so every warm path is surfaced before the first email is sent.</p>
+        </div>
+
+        <div class="method-card">
           <div class="method-card-icon" style="color: #5b9bd5;">
             <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M12 2a7 7 0 0 1 7 7c0 2.5-1.5 4.5-3 6l-4 5-4-5c-1.5-1.5-3-3.5-3-6a7 7 0 0 1 7-7z"/>
