@@ -240,8 +240,7 @@ function renderHome() {
     <div class="hero">
       <div class="hero-title">McChrystal Overwatch Agent</div>
       <div class="hero-subtitle">
-        AI-powered business development pipeline that identifies, researches, and crafts
-        personalized outreach for high-fit prospects.
+        One command. Market intelligence, prospect discovery, deep research, and tailored outreach — fully automated, end to end.
       </div>
       <div class="hero-org">McChrystal Group</div>
     </div>
