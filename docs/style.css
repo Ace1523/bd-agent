@@ -1405,8 +1405,8 @@ body {
 }
 
 .category-niche {
-  background: var(--purple-bg);
-  color: var(--purple);
+  background: rgba(139, 157, 194, 0.12);
+  color: #9aabcb;
 }
 
 .category-general {
@@ -1500,8 +1500,8 @@ body {
   border-radius: 4px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
-  background: var(--purple-bg);
-  color: var(--purple);
+  background: rgba(139, 157, 194, 0.12);
+  color: #9aabcb;
   white-space: nowrap;
 }
 
