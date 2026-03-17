@@ -893,3 +893,290 @@ A Super Bowl champion entering a $7-10B ownership transition needs to preserve w
 **Why They Fit**
 
 Ownership transitions in professional sports are organizational inflection points — new owners bring new mandates, new executives, and new operating philosophies. McChrystal's work with sports organizations and ownership groups in building aligned, high-performance cultures maps directly to this moment.
+
+
+---
+
+# Discovery Report — March 17, 2026 12:10
+
+- **Prospects found**: 10
+- **Score range**: 78–93
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | Solventum | Tier 1 | 91 | $8.4B | 22K+ | Reorg, Transformation, M And A, Leadership Change |
+| 2 | Sabre Corporation | Tier 2 | 92 | $3.0B | 8K+ | Transformation, Reorg, Leadership Change, Hiring Surge |
+| 3 | Harley-Davidson | Tier 1 | 91 | $4.5B | 5K+ | Leadership Change, Reorg, Transformation, Earnings Miss |
+| 4 | Convergint Technologies | Tier 2 | 91 | $2.7B | 11K+ | Funding, M And A, Rapid Growth, Hiring Surge |
+| 5 | Arcosa Inc | Tier 1 | 78 | $3.0B | 8K+ | M And A, Transformation, Rapid Growth |
+| 6 | Premier Inc | Tier 1 | 80 | $1.0B | 3K+ | M And A, Reorg, Transformation |
+| 7 | Driven Brands Holdings | Tier 2 | 87 | $2.4B | 10K+ | Leadership Change, Reorg, Earnings Miss, Funding |
+| 8 | Vertiv Holdings | Tier 2 | 88 | $10.2B | 34K+ | Rapid Growth, M And A, Transformation, Hiring Surge |
+| 9 | Allegiant Travel Company | Tier 3 | 91 | $2.8B | 7K+ | M And A, Reorg, Leadership Change, Partnership |
+| 10 | Transocean Ltd | Tier 2 | 93 | $3.9B | 7K+ | M And A, Leadership Change, Reorg, Funding |
+
+## Tier 1 — Conventional
+
+### Solventum — Score 91
+
+- **Revenue**: $8.4B
+- **Employees**: 22K+
+- **Industry**: Healthcare / Medical Technology
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Reorg** (2024-04-01): Spun off from 3M in April 2024; building standalone operating model, separating IT systems, rebranding products from 3M logo by 2027
+- **Transformation** (2025-01-01): 'Transform for the Future' initiative targeting $500M in annual cost savings by 2029; CEO Bryan Hanson recruited leadership team from Medtronic and GE HealthCare
+- **M And A** (2025-12-01): Acquired Acera Surgical (Dec 2025) and divested Purification & Filtration business, reducing debt from $8.3B to $4.2B
+- **Leadership Change** (2025-01-01): CEO Bryan Hanson building entirely new C-suite from external hires (Medtronic, GE HealthCare); activist investor Trian Partners (Nelson Peltz) pushing for faster transformation
+
+**Entry Point**
+
+Chief Transformation Officer or SVP of Operations — the person running the 'Transform for the Future' initiative who needs to align global manufacturing, IT separation from 3M, and cost reduction across 22,000 employees.
+
+**Conversation Hook**
+
+Trian Partners publicly called Solventum's post-spinoff performance 'alarming' in January 2025, yet the stock recovered 20%+ through the year. The gap between activist pressure and operational execution creates exactly the kind of high-stakes leadership challenge McChrystal specializes in.
+
+**Why They Fit**
+
+Post-spinoff from 3M, Solventum is simultaneously building a standalone operating model, executing a $500M cost transformation, fighting activist investor pressure from Trian Partners, rebrandhing thousands of products by 2027, and integrating an acquisition — a textbook McChrystal engagement combining organizational redesign, cross-functional alignment, and crisis leadership.
+
+### Harley-Davidson — Score 91
+
+- **Revenue**: $4.5B
+- **Employees**: 5K+
+- **Industry**: Manufacturing / Consumer Products
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Leadership Change** (2025-10-01): New CEO Artie Starrs (Oct 2025, from Topgolf), new COO Bryan Niketh (Jan 2026, 20-yr H-D veteran), new CMTO Matt Ryan (Dec 2025, from Boyd Gaming) — three C-suite changes in 3 months
+- **Reorg** (2026-01-01): End-to-end cost base and operating expense review underway; new strategic plan to be announced with Q1 2026 earnings; significant layoffs expected
+- **Transformation** (2025-12-01): Pivoting to electric motorcycles via LiveWire (lost $75M in 2025, 653 bikes shipped); doubling investment in electric; new strategic plan imminent
+- **Earnings Miss** (2025-06-01): Revenue declined to ~$4.5B; sold fewer bikes than 2024; activist shareholder pressure on prior CEO Jochen Zeitz forced his retirement
+
+**Entry Point**
+
+Bryan Niketh, COO (appointed Jan 2026) — 20-year H-D veteran now overseeing Product Management, Development, and Operations. He's the operational execution leader who needs to deliver on whatever strategic direction the new CEO sets.
+
+**Conversation Hook**
+
+Artie Starrs is presenting his new strategic plan with Q1 2026 earnings (imminent). A brand-new CEO revealing a brand-new strategy to 5,800 employees is the exact moment where McChrystal's 'shared consciousness' and aligned execution frameworks create the most value.
+
+**Why They Fit**
+
+Three C-suite executives replaced in three months, activist investor pressure, declining motorcycle sales, and an electric vehicle pivot that's burning $75M/year — Harley-Davidson is the definition of a high-stakes leadership transformation. McChrystal's operating model and crisis leadership capabilities map directly.
+
+### Arcosa Inc — Score 78
+
+- **Revenue**: $3.0B
+- **Employees**: 8K+
+- **Industry**: Infrastructure Products / Construction Materials
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2024-10-01): $1.2B Stavola acquisition (Oct 2024) adding aggregates/asphalt in NY-NJ; $450M barge business divestiture expected Q2 2026; also acquired Ameron
+- **Transformation** (2025-06-01): Fundamental portfolio reshape from diversified industrial to focused infrastructure platform; eliminated cyclicality by divesting barge business
+- **Rapid Growth** (2025-12-01): Double-digit revenue growth in 2025 ($2.88B); EBITDA surged 42%; 2026 guidance: $2.95-3.10B revenue, $590-640M EBITDA
+
+**Entry Point**
+
+SVP of Operations or Chief Integration Officer — the leader managing the Stavola integration, barge business divestiture, and portfolio realignment across 8,500 employees and multiple business segments.
+
+**Conversation Hook**
+
+Arcosa's CEO called 2025 'a year of tremendous growth resulting from strategic actions to transform the Company' — with the barge sale closing Q2 2026, they're in the final phase of portfolio transformation. This is when integration execution determines whether the strategy pays off.
+
+**Why They Fit**
+
+Arcosa is executing a portfolio transformation at speed — simultaneously integrating a $1.2B acquisition, divesting a legacy business unit, and reorienting around high-growth infrastructure markets. The organizational design challenge of rapidly reshaping a multi-billion-dollar industrial company while maintaining operational excellence is a core McChrystal capability.
+
+### Premier Inc — Score 80
+
+- **Revenue**: $1.0B
+- **Employees**: 3K+
+- **Industry**: Healthcare Technology / Group Purchasing
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2025-11-25): Taken private by Patient Square Capital for $2.6B (closed Nov 2025); delisted from Nasdaq; board resigned under purchase agreement
+- **Reorg** (2025-10-01): Divesting non-core operations: wound down Contigo Health, sold S2S Global; restructuring fee-share model (75% complete); leadership realignment with key executive promotions
+- **Transformation** (2026-01-01): Transitioning from public to PE-owned company; refocusing on core healthcare GPO and technology platform; 'reimagining the physician enterprise'
+
+**Entry Point**
+
+Chief Operating Officer or SVP of Strategic Transformation — the leader managing post-acquisition integration, fee restructure completion, and divestiture execution under PE ownership timelines.
+
+**Conversation Hook**
+
+Patient Square closed the $2.6B take-private in November 2025 — Premier is now in the critical first 6 months of PE ownership where organizational design decisions set the trajectory for the entire hold period. This is the highest-leverage moment for McChrystal to engage.
+
+**Why They Fit**
+
+A $2.6B take-private by healthcare-focused PE creates a textbook post-acquisition transformation: new ownership structure, leadership realignment, business unit divestitures, and fee model restructure — all while serving 4,400 hospitals that depend on uninterrupted service. McChrystal's organizational design and cross-functional alignment capabilities are a direct fit.
+
+## Tier 2 — Adjacent
+
+### Sabre Corporation — Score 92
+
+- **Revenue**: $3.0B
+- **Employees**: 8K+
+- **Industry**: Travel Technology
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Transformation** (2026-03-03): Once-in-a-generation rebuild to AI-native cloud platform (Sabre Mosaic); CEO describes company as 'in need of transformation'
+- **Reorg** (2026-02-19): $65M restructuring program with significant layoffs, relocation to offshore development centers; C-suite reshuffle including new CCO and CMO
+- **Leadership Change** (2026-03-10): New CCO Niklas Andréen (Mar 2026), new CMO Jennifer Catto; CEO Kurt Ekert leading transformation since 2023
+- **Hiring Surge** (2026-02-01): Rebuilding engineering organization around AI-native architecture; significant new technology leadership hires
+
+**Entry Point**
+
+Chief Operating Officer or SVP People & Culture — the leader managing the workforce transformation, offshore transition, and cultural shift from legacy GDS to AI-native organization.
+
+**Conversation Hook**
+
+Sabre's CEO Kurt Ekert publicly described it as 'a business in need of transformation' and just launched a $65M restructuring with C-suite reshuffle in February 2026 — this is the exact inflection point where McChrystal's operating model transformation capabilities would land.
+
+**Why They Fit**
+
+Sabre is executing a fundamental business model transformation from legacy global distribution system to AI-native platform, requiring massive organizational change across 8,000 employees — new C-suite leaders, workforce restructuring, offshore relocation, and cultural shift from decades-old technology stack to AI-first engineering.
+
+### Convergint Technologies — Score 91
+
+- **Revenue**: $2.7B
+- **Employees**: 11K+
+- **Industry**: Security Technology / Systems Integration
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Funding** (2026-03-02): $850M single-asset continuation vehicle closed March 2026, led by Leonard Green & Partners and Goldman Sachs Alternatives
+- **M And A** (2025-08-01): 40+ acquisitions since 2018; most recent: A+ Technology & Security Solutions (Aug 2025), Delco Security; continuous add-on strategy
+- **Rapid Growth** (2025-10-01): Revenue reached $2.7B with 10% YoY growth in 2024; EBITDA quadrupled since Ares' 2018 investment; new U.S. headquarters opened Oct 2025
+- **Hiring Surge** (2025-10-09): New U.S. headquarters in Hoffman Estates, IL houses 225+ professionals; 11,000+ employees globally as company scales
+
+**Entry Point**
+
+Chief Operating Officer or VP of Integration — the person responsible for standardizing operations across 40+ acquired companies while maintaining the entrepreneurial culture that made each acquisition successful.
+
+**Conversation Hook**
+
+The $850M continuation fund closed in March 2026 signals another phase of aggressive growth — but with 40+ acquisitions already in the system, the organizational integration debt compounds. This is the inflection point where operational excellence separates winners from roll-ups that collapse under their own complexity.
+
+**Why They Fit**
+
+A PE-backed roll-up that has quadrupled in size through 40+ acquisitions in 7 years now faces the classic integration challenge: standardizing operations, aligning culture, and building cross-functional systems across a rapidly assembled global organization. McChrystal's Team of Teams operating model is purpose-built for this.
+
+### Driven Brands Holdings — Score 87
+
+- **Revenue**: $2.4B
+- **Employees**: 10K+
+- **Industry**: Automotive Services / PE-backed Multi-brand
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Leadership Change** (2025-05-09): New CEO Daniel Rivera (May 2025); new COO Mo Khalid appointed; former CEO Jonathan Fitzpatrick moved to non-executive chair
+- **Reorg** (2025-01-01): Sold U.S. car wash business; simplified segment structure (Take 5 standalone + consolidated franchise segment) starting Q1 2025
+- **Earnings Miss** (2024-03-01): Financial reporting missteps in 2024 caused stock to slide 30%, wiping $1B in market value; rebuilding investor trust
+- **Funding** (2025-06-01): Using car wash sale proceeds to target 3x or less net leverage by end of 2026; aggressive debt reduction
+
+**Entry Point**
+
+Mo Khalid, COO (recently appointed) — the operational leader executing the simplified segment structure across 5,000+ locations while the new CEO sets strategic direction.
+
+**Conversation Hook**
+
+Daniel Rivera was brought in as CEO in May 2025 specifically to lead a turnaround after financial reporting problems destroyed $1B in market value. He's 10 months in — past the assessment phase, into execution. This is when a McChrystal operating model engagement has maximum impact.
+
+**Why They Fit**
+
+New CEO, business unit divestitures, segment restructuring, and aggressive debt reduction after a financial reporting crisis — Driven Brands is rebuilding trust, simplifying its operating model, and refocusing on high-margin franchise operations. McChrystal's organizational redesign and cross-functional alignment are direct fits.
+
+### Vertiv Holdings — Score 88
+
+- **Revenue**: $10.2B
+- **Employees**: 34K+
+- **Industry**: Data Center Infrastructure / Critical Power
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Rapid Growth** (2025-12-01): Revenue grew 28% to $10.2B in 2025; $15B backlog; orders up 252% YoY driven by AI data center demand
+- **M And A** (2025-12-01): Acquired PurgeRite for $1B (Dec 2025) and Great Lakes Data Racks for $200M (Aug 2025); integrating both while scaling core operations
+- **Transformation** (2025-06-01): Expanding manufacturing capacity globally; capex rising to 3-4% of sales; R&D spend $442M; product innovation in liquid cooling and AI infrastructure
+- **Hiring Surge** (2025-06-01): Scaling from ~28,000 to 34,000 employees to meet demand; new manufacturing facilities and engineering teams being built globally
+
+**Entry Point**
+
+SVP of Global Operations or Chief Transformation Officer — the leader trying to scale manufacturing capacity, integrate two major acquisitions, and maintain delivery quality while growing 28% annually.
+
+**Conversation Hook**
+
+Vertiv's capital expenditures are rising to 3-4% of sales (above historical norms) to expand manufacturing and technology capacity. When a company is simultaneously growing 28%, integrating $1.2B in acquisitions, and building new factories, the organizational coordination challenge eclipses the engineering challenge.
+
+**Why They Fit**
+
+Vertiv went from $7B to $10B+ in revenue in two years, with a $15B backlog and orders up 252% YoY. This explosive growth is forcing rapid manufacturing expansion, workforce scaling, and organizational redesign across 34,000 employees — the kind of hyper-scaling that breaks organizational structures. McChrystal's Team of Teams model is built for exactly this.
+
+### Transocean Ltd — Score 93
+
+- **Revenue**: $3.9B
+- **Employees**: 7K+
+- **Industry**: Offshore Drilling / Energy Services
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **M And A** (2026-02-01): $5.8B all-stock merger with Valaris announced early 2026; combined backlog ~$10B; creates 'disciplined duopoly' in deepwater drilling
+- **Leadership Change** (2025-12-01): New CEO Keelan Adamson (30-year veteran who started on drill floor) succeeding Jeremy Thigpen
+- **Reorg** (2025-10-01): Retiring 9 rigs by mid-2026; focusing on 24 contracted high-spec rigs and 3 cold-stacked 7th-gen drillships; fleet rationalization
+- **Funding** (2025-12-01): Retired $1.2B of debt in 2025 ($500M above scheduled maturities); free cash flow surged to $626M; still carrying $5.68B in total debt
+
+**Entry Point**
+
+Chief Integration Officer or SVP of Operations — the leader managing the Valaris merger integration, fleet rationalization, and offshore safety standards alignment across two global drilling operations.
+
+**Conversation Hook**
+
+The Transocean-Valaris merger creates a $10B combined backlog and will reshape deepwater drilling globally. Merging two safety-critical offshore operations — where organizational failure can mean environmental disaster — demands the kind of disciplined, decentralized execution McChrystal built in special operations.
+
+**Why They Fit**
+
+A $5.8B merger of the two largest offshore drillers, a CEO transition, retiring 9 rigs, and $5.68B in debt to manage — Transocean faces the kind of high-stakes, multi-dimensional organizational challenge where failure has real consequences (human safety on oil rigs). McChrystal's military-grade operating model for high-consequence environments is a natural fit.
+
+## Tier 3 — Unconventional
+
+### Allegiant Travel Company — Score 91
+
+- **Revenue**: $2.8B
+- **Employees**: 7K+
+- **Industry**: Airline / Leisure Travel
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **M And A** (2026-01-11): $1.5B acquisition of Sun Country Airlines announced Jan 2026; antitrust clearance received Mar 2026; closing expected mid-2026
+- **Reorg** (2026-03-01): Integration of two airlines: fleet merger (Airbus + Boeing), pilot union integration (ALPA + IBT), route optimization, cargo operations (Amazon contract)
+- **Leadership Change** (2026-01-11): CEO Greg Anderson will lead combined entity; Sun Country CEO Jude Bricker joins board as advisor; expanded board to 11 members
+- **Partnership** (2026-01-11): Sun Country's Amazon cargo operations (20 B737 cargo aircraft) add a major partnership relationship that must be preserved through the merger
+
+**Entry Point**
+
+SVP of Integration or Chief Operating Officer — the leader managing fleet integration, pilot seniority list merger, route network optimization, and cultural alignment between two distinct airline cultures.
+
+**Conversation Hook**
+
+Allegiant received antitrust clearance in March 2026 and targets mid-2026 closing — the integration planning window is NOW. Every airline merger in history has succeeded or failed based on operational integration and cultural alignment, not strategy. That's McChrystal's exact lane.
+
+**Why They Fit**
+
+The Allegiant-Sun Country merger creates a massive airline integration challenge: merging two distinct fleets (Airbus + Boeing), two pilot unions, two operational cultures, cargo operations (Sun Country's Amazon business), and multi-hub networks. Airlines are among the most operationally complex organizations — this merger demands exactly the cross-functional alignment and shared consciousness McChrystal delivers.

@@ -3168,3 +3168,764 @@ McChrystal Group
 Jack — Visa's pivot from card network to payments hyperscaler is one of the more ambitious transformations in financial services right now. We work with organizations navigating that kind of multi-front complexity. Would welcome connecting.
 
 ---
+
+
+---
+
+# Outreach Package — Solventum
+
+**Target**: Mojdeh Poul, Executive Vice President, MedSurg
+**Why this contact**: Leads the largest segment and is closest to the operational transformation — IT separation, manufacturing standardization, and 3M logo rebranding across thousands of products.
+**Company**: Solventum | **Score**: 91 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: The 3M logo removal coordination challenge
+**Hook**: 3M-to-Solventum rebranding as cross-functional coordination problem
+
+Mojdeh,
+
+The timeline to remove 3M from thousands of Solventum products by 2027 is one of the most complex cross-functional coordination challenges in medtech right now — manufacturing, regulatory, marketing, sales, and supply chain all executing in sync across 30+ countries.
+
+McChrystal Group works with organizations navigating exactly this kind of multi-front transformation under compressed timelines. We helped other post-spinoff companies build the operating rhythm that connects parallel workstreams without letting any one slip.
+
+General McChrystal led the organizational redesign of Joint Special Operations Command — transforming a 25,000-person organization while it was operating at full tempo. The parallels to Solventum's challenge are direct.
+
+Would a 20-minute conversation be useful? Happy to share what we've seen work in similar situations.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Post-spinoff operating models: what separates the winners
+**Hook**: Pattern from post-spinoff transformations — execution beats strategy
+
+Mojdeh,
+
+We've noticed a pattern across healthcare spinoffs: the ones that succeed aren't the ones with the best strategy — they're the ones that build the operating model first. The $500M cost programs, the rebranding, the IT separations — they all depend on cross-functional coordination that doesn't exist yet because the parent company used to provide it.
+
+McChrystal Group specializes in building that connective tissue — the operating rhythm, information flow, and decision architecture that makes a newly independent organization execute like it's been doing this for decades.
+
+Solventum's simultaneous transformation workstreams (cost program, rebranding, Acera integration, IT separation) are exactly the scenario where our approach creates the most value.
+
+Would 20 minutes to compare notes be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From one transformation leader to another
+**Hook**: Healthcare transformation leadership connection
+
+Mojdeh,
+
+Leading MedSurg through a spinoff, activist pressure, and a $500M transformation — simultaneously — is a challenge most executives never face once, let alone all at the same time.
+
+I'm reaching out because McChrystal Group has been working with organizations in similarly complex transformation situations, and your role at Solventum came up in our research as one of the most interesting leadership challenges in healthcare right now.
+
+General McChrystal often says the hardest part isn't knowing what to do — it's building the organization that can do six things at once without any of them failing. If that resonates, I'd value 20 minutes of your time to exchange perspectives.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Post-spinoff transformation leadership connection
+
+Mojdeh — your role leading MedSurg through the Solventum spinoff, rebranding, and transformation is one of the most complex operating challenges in medtech. McChrystal Group works with leaders navigating exactly this kind of multi-front change. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Sabre Corporation
+
+**Target**: Niklas Andréen, Chief Commercial Officer, Airline Tech
+**Why this contact**: Newly appointed to the most critical revenue role during the platform transition — must align sales, product, and engineering around Mosaic while managing legacy customers.
+**Company**: Sabre Corporation | **Score**: 92 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Building Mosaic while keeping the lights on
+**Hook**: Dual operating model — legacy GDS + AI-native platform
+
+Niklas,
+
+Congratulations on the CCO appointment. Stepping into the commercial leadership role during Sabre's platform rebuild means you're managing the hardest version of an organizational challenge: selling the future (Mosaic) while maintaining the present (legacy GDS).
+
+McChrystal Group works with organizations executing exactly this kind of dual operating model — where the teams building the new must coordinate with the teams running the old, and neither can fail.
+
+Our approach is rooted in General McChrystal's experience transforming JSOC — a 25,000-person operation that had to reinvent itself while missions continued daily. The structural parallel to Sabre's challenge is direct.
+
+Would a 20-minute call be useful as you build your commercial strategy? Happy to share patterns we've seen in similar platform transitions.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What AI-native actually requires organizationally
+**Hook**: AI transformation demands organizational change, not just technology change
+
+Niklas,
+
+Every travel technology company is talking about AI transformation. What separates the companies that actually deliver from those that just rebrand is the organizational change beneath the technology — new coordination rhythms, new decision-making speeds, new ways of connecting distributed teams.
+
+Sabre's $65M restructuring signals that leadership understands this. The question is whether the organizational transformation moves as fast as the technology transformation.
+
+McChrystal Group helps organizations build the operating architecture that makes technology investments translate into business results. We've found that the 'build new while running old' challenge is almost never a technology problem — it's a coordination problem.
+
+If that perspective is useful, I'd welcome 20 minutes to discuss.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Travel tech transformation — a shared interest
+**Hook**: Travel industry network connection
+
+Niklas,
+
+Your appointment at Sabre caught my attention — leading airline tech commercialization during the most significant platform rebuild in GDS history is a remarkable challenge.
+
+McChrystal Group has been studying how organizations execute once-in-a-generation technology transformations without losing their existing customers. The organizational coordination challenge is often harder than the technology itself.
+
+Would enjoy comparing notes over a brief call if you're open to it.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: New CCO role during platform transformation
+
+Niklas — congrats on the Sabre CCO role. Leading airline tech commercial strategy during the Mosaic platform transition is exactly the kind of dual operating model challenge McChrystal Group works on. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Harley-Davidson
+
+**Target**: Bryan Niketh, Chief Operating Officer
+**Why this contact**: 20-year H-D veteran bridging institutional knowledge with new CEO's vision. Oversees Product Management, Development, and Operations — the execution engine for the new strategy.
+**Company**: Harley-Davidson | **Score**: 91 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 120 years of heritage, 3 months of new leadership
+**Hook**: Three C-suite changes in 90 days — alignment challenge
+
+Bryan,
+
+Three new C-suite executives in three months — including yourself — is the kind of leadership transition that either accelerates transformation or creates organizational whiplash. Your 20 years at Harley give you something the other new leaders don't: institutional credibility.
+
+McChrystal Group works with organizations navigating exactly this inflection point — where new leadership must build trust, create shared operating norms, and launch a new strategy simultaneously.
+
+General McChrystal faced this challenge at JSOC: transforming a tradition-bound organization without destroying the culture that made it great. The parallel to Harley-Davidson — where the heritage IS the competitive advantage — is direct.
+
+Would 20 minutes be worthwhile to compare notes?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Why the third transformation attempt might be different
+**Hook**: Prior transformation failures make execution discipline the differentiator
+
+Bryan,
+
+Harley has been here before — new leadership, new strategy, new direction. What's different this time won't be the strategy (strategies are always good). It will be the execution discipline that carries 5,800 employees and 700 dealers through the change.
+
+McChrystal Group has studied why some heritage organizations successfully transform and others don't. The answer is almost never strategy. It's whether the organization builds the operating rhythm that turns strategic intent into coordinated execution — across functions, across geographies, and across a dealer network that has learned to wait out corporate initiatives.
+
+If execution discipline is on your mind as you prepare for the strategic plan rollout, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: A fellow operator reaching out
+**Hook**: Operational leadership connection — 20-year veteran
+
+Bryan,
+
+Twenty years at Harley, now COO during the biggest leadership transition in the company's modern history — you understand this organization better than anyone in the new C-suite.
+
+I'm reaching out because McChrystal Group works with operational leaders who are bridging institutional knowledge with new strategic direction. Your position — trusted insider, new authority, massive execution mandate — is exactly where our work creates the most impact.
+
+Happy to connect for a brief conversation if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Operational leader during heritage brand transformation
+
+Bryan — 20 years at H-D and now COO during the most significant leadership transition in recent memory. McChrystal Group helps operational leaders bridge heritage culture with new strategic direction. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Convergint Technologies
+
+**Target**: Tony Varco, Chief Operating Officer
+**Why this contact**: Owns operational integration across 40+ acquired companies — standardizing processes, systems, and culture while maintaining entrepreneurial energy.
+**Company**: Convergint Technologies | **Score**: 91 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: 40 acquisitions in, $850M more to go
+**Hook**: $850M continuation fund accelerating integration complexity
+
+Tony,
+
+Convergint's $850M continuation fund signals another growth phase — which means the integration challenge that's been building across 40+ acquisitions is about to accelerate.
+
+McChrystal Group works with PE-backed platforms at exactly this inflection point: when the acquisition playbook that worked for the first 20 deals needs to evolve for the next 40. What changes isn't the deal quality — it's the organizational coordination that turns acquired companies into one operating platform.
+
+General McChrystal built the operating model that connected hundreds of autonomous teams into a single force — while preserving the local expertise that made each team effective. The parallel to Convergint's decentralized model is direct.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When roll-up culture meets scaling limits
+**Hook**: PE roll-up integration complexity compounds non-linearly
+
+Tony,
+
+There's a moment in every roll-up where the informal coordination that worked at $500M breaks at $3B. The CEO still knows every leader. The culture still feels tight. But decisions take longer, duplicated efforts multiply, and the acquired companies that were supposed to cross-sell are still operating independently.
+
+McChrystal Group helps decentralized organizations build the coordination systems that maintain entrepreneurial speed at enterprise scale. We've seen this pattern across PE platforms: the organizational challenge isn't acquiring — it's integrating at pace.
+
+Convergint's values-based culture is a real competitive advantage. We'd love to discuss how to scale it without diluting it.
+
+20 minutes?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Convergint's culture at scale
+**Hook**: Values-based culture as competitive advantage needing protection
+
+Tony,
+
+What Convergint has built — #1 security integrator for 8 consecutive years, values-first culture, 40+ acquisitions without losing the founding DNA — is genuinely impressive and rare.
+
+I'm reaching out because McChrystal Group works with organizations that have built something special and want to protect it as they scale. The question isn't whether the next acquisitions will be good — it's whether the organizational fabric can absorb them without stretching thin.
+
+If that resonates, I'd value a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: PE roll-up culture scaling challenge
+
+Tony — Convergint's track record (40+ acquisitions, 8x #1 ranking, values culture intact) is remarkable. McChrystal Group helps PE platforms scale the coordination systems that made the first 40 work for the next 40. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Vertiv Holdings
+
+**Target**: Anand Sanghi, President, Americas
+**Why this contact**: Leads the largest and fastest-growing region — directly responsible for scaling operations, integrating acquisitions, and managing backlog conversion.
+**Company**: Vertiv Holdings | **Score**: 88 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: When 28% growth becomes an organizational challenge
+**Hook**: Hypergrowth backlog conversion as coordination problem
+
+Anand,
+
+Growing 28% with a $15B backlog sounds like a great problem to have — until the binding constraint shifts from demand to organizational coordination. When manufacturing expansion, acquisition integration, and workforce scaling all compete for leadership attention simultaneously, the bottleneck isn't capacity. It's coordination.
+
+McChrystal Group works with hyper-scaling organizations at exactly this moment. We help build the operating rhythm that ensures growth vectors reinforce rather than collide with each other.
+
+General McChrystal faced this challenge scaling JSOC operations during the Iraq surge — exponential demand growth that outpaced organizational capacity. The structural parallel is direct.
+
+Would 20 minutes be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What breaks at $10B that worked at $7B
+**Hook**: Organizational systems have scaling limits during hypergrowth
+
+Anand,
+
+We've noticed a pattern across companies experiencing Vertiv's kind of growth: the organizational systems designed for one scale systematically fail at the next. Meeting cadences. Decision authorities. Information flows. Cross-functional handoffs. They all worked at $7B — and they all strain at $10B+.
+
+McChrystal Group helps organizations anticipate and address these scaling breaks before they become delivery failures. In a mission-critical infrastructure business where a cooling system failure means someone's AI training run goes dark, organizational coordination isn't overhead — it's the product.
+
+If sustaining execution quality through hypergrowth is on your radar, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: AI infrastructure and organizational scaling
+**Hook**: Shared interest in scaling critical operations
+
+Anand,
+
+Vertiv's position at the center of the AI infrastructure build-out is remarkable — $15B backlog, 28% growth, new factories being built while existing ones run at capacity.
+
+I'm reaching out because McChrystal Group works with leaders managing this kind of operational scaling intensity. The question that keeps coming up: how do you maintain the coordination quality that got you to #1 when everything around you is growing faster than the organization can absorb?
+
+Happy to connect briefly if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Hypergrowth operational scaling
+
+Anand — Vertiv's growth (28%, $15B backlog, $1.2B acquisitions) is extraordinary. McChrystal Group helps leaders maintain coordination quality during hypergrowth. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Allegiant Travel Company
+
+**Target**: Robert Neal, President & Chief Financial Officer
+**Why this contact**: As President AND CFO, Neal is the operational execution leader for the integration — fleet decisions, route optimization, financial integration, and day-to-day operations.
+**Company**: Allegiant Travel Company | **Score**: 91 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Antitrust cleared — the integration clock starts now
+**Hook**: Allegiant-Sun Country antitrust clearance accelerates integration timeline
+
+Robert,
+
+With antitrust clearance in hand and closing expected mid-2026, the integration planning window for Allegiant-Sun Country is open — and every airline merger proves that operational integration, not strategy, determines whether the deal creates value or destroys it.
+
+McChrystal Group works with organizations executing high-stakes operational integrations where failure has real consequences. Merging two airlines — different fleets, different unions, different cultures, plus Amazon cargo — is exactly the multi-dimensional coordination challenge our approach was built for.
+
+General McChrystal's experience integrating military units with different equipment, cultures, and operating procedures under time pressure maps directly to airline integration. Would a 20-minute conversation be useful as you build the integration plan?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Why airline mergers fail (and how to avoid it)
+**Hook**: Airline merger integration failure patterns — coordination, not strategy
+
+Robert,
+
+Every airline merger starts with a compelling strategic thesis. Most struggle in execution — pilot seniority battles that drag on for years, mixed fleet costs that exceed projections, customer experience gaps during system integration, and cultural friction between two organizations that used to compete.
+
+McChrystal Group has studied what separates successful operational integrations from failed ones. The answer isn't better planning — it's better coordination architecture during execution. The operating rhythm that connects fleet planning, crew integration, route optimization, and customer experience into a single coordinated effort.
+
+With Sun Country's unique hybrid model (passenger + charter + cargo) adding complexity, the coordination challenge is even higher than typical airline mergers.
+
+If integration execution is on your planning agenda, I'd welcome 20 minutes to share patterns we've seen.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Aviation operations and organizational excellence
+**Hook**: Aviation industry operational leadership connection
+
+Robert,
+
+Leading both the financial and operational integration of the Allegiant-Sun Country merger — as President and CFO simultaneously — is one of the most demanding dual mandates in the airline industry right now.
+
+I'm reaching out because McChrystal Group works with leaders managing this kind of multi-dimensional responsibility. Our framework helps ensure that the financial integration goals and the operational integration reality stay aligned — rather than competing with each other.
+
+Happy to connect briefly if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Airline merger integration leadership
+
+Robert — leading both financial and operational integration for the Allegiant-Sun Country merger is a remarkable dual mandate. McChrystal Group helps with high-stakes operational integrations. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Driven Brands Holdings
+
+**Target**: Mo Khalid, Chief Operating Officer
+**Why this contact**: Owns operational execution across 5,000+ locations and multi-brand portfolio. The simplified segment structure must translate into actual operational changes.
+**Company**: Driven Brands Holdings | **Score**: 87 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: 5,000 locations, one turnaround
+**Hook**: New segment structure must reach 5,000 franchise locations
+
+Mo,
+
+The simplified segment structure at Driven Brands is the right strategic move. But the hardest part isn't the segment design — it's getting 5,000 independently operated locations to actually change how they work.
+
+McChrystal Group specializes in exactly this challenge: translating corporate strategy into coordinated execution across decentralized networks where you can't mandate — you have to align.
+
+General McChrystal built the operating model for decentralized forces across multiple theaters — autonomous units aligned on intent, empowered to execute. The franchise coordination challenge is the commercial version of the same problem.
+
+Would 20 minutes be worthwhile as you roll out the new operating model?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Rebuilding execution credibility after a crisis
+**Hook**: Post-financial-crisis turnarounds succeed through visible execution discipline
+
+Mo,
+
+After the financial reporting challenges, Driven Brands faces a trust deficit that only execution discipline can close. Franchisees, investors, and employees are all watching to see if this turnaround is real.
+
+McChrystal Group works with organizations rebuilding credibility through structured execution — operating rhythms that make progress visible, accountability that's consistent, and coordination that prevents the next surprise.
+
+We've seen this pattern across post-crisis turnarounds: the organizations that recover fastest aren't the ones with the best strategy. They're the ones that build the operating cadence that proves — week by week — that leadership is in control.
+
+If execution credibility is a priority, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Operational leadership in multi-brand portfolios
+**Hook**: Multi-brand franchise operational leadership
+
+Mo,
+
+Congratulations on the COO role. Managing operational execution across Take 5, Meineke, Maaco, and CARSTAR — each with its own culture, customer base, and operating model — is a uniquely complex challenge.
+
+I'm reaching out because McChrystal Group works with multi-brand operational leaders navigating this kind of portfolio complexity. The question that always comes up: how do you build shared capabilities across brands without flattening the differences that make each brand valuable?
+
+Happy to connect if that resonates.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Multi-brand franchise turnaround execution
+
+Mo — leading operations across 5,000+ locations during Driven Brands' turnaround is a remarkable challenge. McChrystal Group helps franchise networks align decentralized execution with strategic intent. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Premier Inc
+
+**Target**: Bruce Anderson, SVP, Supply Chain Services
+**Why this contact**: Leads core GPO differentiation strategy — committed buying programs, domestic manufacturing, supply chain resiliency — the value creation thesis Patient Square Capital is betting on.
+**Company**: Premier Inc | **Score**: 80 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: First 6 months of PE ownership — the trajectory window
+**Hook**: Post-take-private organizational design sets multi-year trajectory
+
+Bruce,
+
+The first 6 months of PE ownership determine the trajectory for Premier's entire hold period. Every organizational design decision — operating cadence, decision authorities, member communication rhythms — compounds over the next 3-5 years.
+
+McChrystal Group works with PE portfolio companies at exactly this inflection point. We help build the operating model that translates PE value creation targets into cross-functional execution across the organization.
+
+With 4,400 hospital members depending on uninterrupted service while Premier transforms internally, the coordination challenge between transformation speed and service continuity is significant.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: PE portfolio operating models that actually work
+**Hook**: Pattern: PE take-privates need operating model transformation, not just strategy
+
+Bruce,
+
+We've worked with enough PE portfolio companies to know the pattern: the investment thesis is always clear, the value creation plan is always logical, and the organizational execution gap is always where the plan meets reality.
+
+Premier's challenge is particularly nuanced — you're not just executing a cost plan. You're changing the economic relationship with 4,400 hospital members (fee restructure), divesting non-core businesses, and building a PE-ready operating rhythm — all while those members depend on you for supply chain continuity.
+
+McChrystal Group builds the operating architecture that makes PE value creation plans execute. Not the strategy — the organizational machinery.
+
+If that's a useful perspective, I'd welcome 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Healthcare supply chain leadership
+**Hook**: Healthcare supply chain transformation connection
+
+Bruce,
+
+Your role leading supply chain differentiation at Premier — committed buying, domestic manufacturing, supply chain resiliency — is at the center of what makes PE healthcare platforms succeed or fail.
+
+I'm reaching out because McChrystal Group works with healthcare leaders navigating the intersection of operational transformation and member service continuity. Your challenge of advancing the supply chain strategy while 4,400 hospitals depend on uninterrupted performance resonates with the high-stakes operational coordination work we do.
+
+Happy to connect briefly.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Healthcare PE portfolio supply chain transformation
+
+Bruce — leading Premier's supply chain differentiation under new PE ownership, serving 4,400 hospitals, is a high-stakes coordination challenge. McChrystal Group works at this intersection. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Arcosa Inc
+
+**Target**: Jesse Collins, President, Construction Products
+**Why this contact**: Directly responsible for integrating the $1.2B Stavola acquisition while driving organic growth in the largest segment.
+**Company**: Arcosa Inc | **Score**: 78 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Stavola's first year financials are great — now the harder work
+**Hook**: $1.2B Stavola acquisition — financial integration done, cultural integration ahead
+
+Jesse,
+
+Stavola's first full year — $90M revenue contribution at 28% EBITDA margins — validates the acquisition thesis. But everyone who's integrated a $1.2B deal knows: the financial integration is the easy part. The cultural integration — merging a family-owned NJ business with a Dallas-headquartered public company — is the harder, longer work.
+
+McChrystal Group works with industrial leaders at exactly this phase of post-acquisition integration. We help build the coordination mechanisms that turn two companies into one operating team — without losing the local expertise that made the acquisition valuable.
+
+Would 20 minutes be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Portfolio transformation in infrastructure — a playbook
+**Hook**: Industrial portfolio transformation — organizational execution as differentiator
+
+Jesse,
+
+Arcosa's portfolio transformation — from diversified industrial to focused infrastructure platform — is one of the cleanest strategic pivots in the sector. The $1.2B Stavola deal, the Ameron acquisition, the barge divestiture — all reinforce the same thesis.
+
+What determines whether this transformation creates full value isn't the deal-making. It's the organizational execution: can the Construction Products segment absorb Stavola's culture, coordinate across new geographies, and deliver growth while the rest of Arcosa transforms around it?
+
+McChrystal Group helps industrial organizations build the operating model that makes portfolio transformations execute at the speed the strategy requires.
+
+If that perspective is useful, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Infrastructure sector leadership
+**Hook**: Industrial infrastructure leadership connection
+
+Jesse,
+
+Arcosa's growth story — double-digit revenue, 42% EBITDA surge, successful Stavola integration — stands out in the infrastructure sector. Leading Construction Products through this transformation is a remarkable achievement.
+
+I'm reaching out because McChrystal Group works with industrial leaders navigating the organizational side of portfolio transformation. As the barge sale closes and Arcosa becomes a fundamentally different company, the operating model opportunity is significant.
+
+Happy to connect if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Infrastructure portfolio transformation leadership
+
+Jesse — Arcosa's portfolio transformation (Stavola, Ameron, barge divestiture) is one of the cleanest in infrastructure. McChrystal Group helps with the organizational execution side. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Transocean Ltd
+
+**Target**: Keelan Adamson, Chief Executive Officer
+**Why this contact**: 30-year Transocean veteran (started on drill floor) now leading the largest merger in offshore drilling history. Operational credibility + CEO mandate.
+**Company**: Transocean Ltd | **Score**: 93 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Merging two drilling fleets — where coordination saves lives
+**Hook**: $5.8B Valaris merger as safety-critical integration challenge
+
+Keelan,
+
+The Transocean-Valaris merger will create the world's largest offshore drilling company — operating 30+ rigs across every major deepwater basin. In most industries, integration missteps cost money. In offshore drilling, they can cost lives.
+
+McChrystal Group was built for exactly this kind of high-stakes operational integration. General McChrystal led the organizational transformation of Joint Special Operations Command — coordinating distributed, high-consequence operations across multiple theaters where integration failures had irreversible consequences.
+
+The structural parallel to merging two global drilling fleets — different safety cultures, different procedures, different crews — while maintaining operational performance is direct. This isn't a metaphor. It's a direct capability transfer.
+
+Would a 20-minute conversation be useful as you plan the integration?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What the 'disciplined duopoly' requires organizationally
+**Hook**: Disciplined duopoly requires organizational discipline to match market discipline
+
+Keelan,
+
+The 'disciplined duopoly' narrative positions Transocean-Valaris as a market structure that improves industry economics. But market discipline only works if organizational discipline matches it. Two companies that competed fiercely must now coordinate — on safety standards, fleet management, customer relationships, and operational procedures.
+
+McChrystal Group helps organizations make this transition: from competitors to one team. We've found that the organizational integration — particularly in safety-critical environments — determines whether the merger thesis holds.
+
+With a combined $10B backlog and 30+ rigs operating worldwide during integration, the coordination challenge is unprecedented in offshore drilling. If that challenge is on your planning radar, I'd welcome 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Drill floor to boardroom — a shared journey
+**Hook**: Military/operational leadership credibility with drill-floor-to-CEO veteran
+
+Keelan,
+
+Thirty years in drilling — starting on the rig floor, now leading the largest merger in the industry's history. General McChrystal's career followed a similar arc: starting as a young officer, eventually commanding 25,000 people across the most complex operational environment in military history.
+
+He'd say the hardest part wasn't the tactics or the strategy. It was building the organization that could execute at the scale and speed the mission demanded. I suspect your experience is similar.
+
+McChrystal Group was founded on that principle — building organizations that execute in high-stakes environments. If there's a fit, I'd value a conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: inmail
+**Subject**: From one operational leader to another
+**Hook**: Drill-floor-to-CEO leadership and high-stakes integration
+
+Keelan — 30 years from drill floor to leading the largest merger in offshore drilling history. General McChrystal took a similar journey in a different arena. McChrystal Group helps with high-stakes operational integration. Would value connecting.
+
+---
