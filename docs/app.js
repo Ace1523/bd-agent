@@ -1680,6 +1680,27 @@ function renderHowItWorks() {
         </div>
       </div>
 
+      <div class="home-section-title" style="margin-top:24px;">Score vs. Fit Rating</div>
+      <p style="color:var(--text-secondary); font-size:13px; margin-bottom:16px;">
+        Every prospect carries two metrics. They measure different things and can diverge \u2014 here\u2019s why.
+      </p>
+      <div class="method-grid" style="margin-bottom:16px;">
+        <div class="method-card" style="border-left: 3px solid var(--accent);">
+          <h3 style="color: var(--accent);">ICP Score (0\u2013100)</h3>
+          <p><strong>Formula-driven.</strong> Calculated from revenue fit (25 pts), employee count (20 pts), signal strength + recency (35 pts), and McChrystal fit signal types (20 pts). Measures <em>\u201Chow well does this company match the Ideal Customer Profile on paper?\u201D</em></p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid #7ab8f5;">
+          <h3 style="color: #7ab8f5;">Fit Rating (Strong / Moderate / Speculative)</h3>
+          <p><strong>Qualitative judgment.</strong> Considers real-world engagement factors: Is there a clear entry point? Is advisory budget realistic? Are incumbent consultants entrenched? Is there organizational urgency and receptivity? Measures <em>\u201Ccan we actually get in the door and deliver value?\u201D</em></p>
+        </div>
+      </div>
+      <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:24px;">
+        <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Why They Can Differ</div>
+        <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
+          A company can score 90+ (right size, lots of signals) but rate <strong>Moderate</strong> if there\u2019s a \u201Cwe don\u2019t need help\u201D culture, PE governance that complicates engagement, or McKinsey is deeply embedded. Conversely, a lower-scoring company with a named champion and an active crisis could rate <strong>Strong</strong>. The Score tells you <em>how well they fit the profile</em>; the Fit Rating tells you <em>how likely we are to win the engagement</em>.
+        </div>
+      </div>
+
       <div class="home-section-title" style="margin-top:24px;">Fit Rating Criteria</div>
       <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
         <div class="method-card" style="border-left: 3px solid var(--green);">
