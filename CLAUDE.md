@@ -306,23 +306,20 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - Do NOT select generic Fortune 500 companies — every prospect must have a specific, current reason McChrystal Group should reach out NOW
 - Build `Prospect` objects, score with `score_prospect()`, generate report with `generate_report()`
 
-**Step 2: Research (parallel subagents or direct)**
+**Step 2: Research (parallel subagents for research, main conversation saves)**
 - Split prospects into batches of 3-4 companies
-- **Preferred**: Launch 2-3 subagents in parallel, each responsible for its batch
-- **Fallback**: If subagents lack Bash permission (can't run Python to save), build dossiers directly in the main conversation in batches of 2-3 using inline Python scripts
-- Each batch: performs deep web research on its companies, builds `Dossier` objects with all 10 sections populated, calls `generate_dossier_report()`
+- Launch 2-3 subagents in parallel — each does web research and returns structured dossier data as text (subagents do NOT run Python or save files — they lack Bash permission)
+- Main conversation receives research results from subagents, then builds `Dossier` objects and calls `generate_dossier_report()` in batches of 2-3 using inline Python scripts
 - Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, McChrystal-specific fit angles, brand value/rankings, CMO/marketing strategy, brand campaigns, sponsorships, and competitive brand positioning
 - Subagent prompt must include: company name, industry, revenue, employee count, tier, signals, and the full dossier section requirements from Phase 2
 - **Brand Insights (Sec 8)** — subagents must research the company's brand value (Kantar, Interbrand rankings if available), current brand strategy and campaigns, CMO vision, brand threats (competitive disintermediation, market perception gaps), and major brand investments (sponsorships, partnerships). Connect every insight back to an organizational coordination challenge McChrystal can address
 - **Deep McChrystal Fit Analysis (Sec 9)** — this is the most critical section and must match the depth of the Visa Inc. dossier. Subagents must produce ALL six subsections (9a–9f): fit dimensions with competitor displacement logic, cumulative case with revenue estimate, enterprise issues (5-8 detailed problems), expected outcomes (5-7 measurable deliverables), key stakeholders & business unit map (table format covering all major units), and full opportunity thesis (signal convergence, structural paradox, phased engagement with dollar ranges, competitive displacement strategy, multi-threaded pursuit map with 2-3 parallel outreach threads). This is the section a Senior Partner reads to decide whether to pursue — it must be specific, strategic, and non-generic. Every claim grounded in facts from earlier sections or web research
 
-**Step 3: Outreach (parallel subagents or direct)**
-- Split prospects into batches of 5 companies
-- **Preferred**: Launch 2 subagents in parallel, each responsible for its batch
-- **Fallback**: If subagents lack Bash permission, build outreach packages directly in the main conversation — can handle all prospects in a single large Python script since outreach doesn't require web research per prospect (dossier data is already available)
-- Each batch: loads dossier data from `dashboard.json`, performs additional web research for freshest hooks, builds `OutreachPackage` objects with 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage` each, calls `generate_outreach_report()`
+**Step 3: Outreach (main conversation builds and saves)**
+- Outreach does not require web research per prospect — dossier data is already available in `dashboard.json`
+- Main conversation builds all `OutreachPackage` objects directly using inline Python scripts, in batches of 5 companies per script
+- Each package: loads dossier data from `dashboard.json`, builds `OutreachPackage` with 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage`, calls `generate_outreach_report()`
 - Target contact must be a champion-level contact (VP/SVP/CTO/Head of Strategy), NOT the CEO
-- Subagent prompt must include: the full outreach requirements from Phase 3 (version structure, email structure, LinkedIn message, tone, quality standards, targeting logic)
 
 **Step 4: Verify & Deploy**
 - Run `pipeline_status()` to confirm all prospects have dossiers and outreach
