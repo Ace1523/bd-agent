@@ -3929,3 +3929,745 @@ McChrystal Group
 Keelan — 30 years from drill floor to leading the largest merger in offshore drilling history. General McChrystal took a similar journey in a different arena. McChrystal Group helps with high-stakes operational integration. Would value connecting.
 
 ---
+
+
+---
+
+# Outreach Package — RTX Corporation
+
+**Target**: Shane Eddy, President, Pratt & Whitney
+**Why this contact**: Leads the largest RTX segment ($32.9B) navigating GTF engine remediation across 30+ global MRO facilities while ramping new engine production.
+**Company**: RTX Corporation | **Score**: 87 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Coordinating GTF remediation across 30+ facilities
+**Hook**: GTF engine inspection program as distributed operations challenge
+
+Shane,
+
+Coordinating the GTF engine inspection and replacement program across 30+ global MRO facilities — while simultaneously ramping new engine production — is one of the most complex distributed operations challenges in commercial aerospace right now.
+
+McChrystal Group was built for exactly this kind of multi-site, time-critical coordination. General McChrystal designed the operating model that connected hundreds of distributed units into a synchronized force — the structural parallel to Pratt & Whitney's global MRO network is direct.
+
+Collins Aerospace showed that organizational coordination drives both growth and efficiency (9% growth on 3% headcount reduction). The question is whether that model can extend to Pratt's very different operational challenge.
+
+Would a 20-minute conversation be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: What Collins proved, Pratt needs
+**Hook**: Collins Aerospace efficiency model as proof of concept for Pratt & Whitney
+
+Shane,
+
+Collins Aerospace proved something important inside RTX: organizational coordination drives simultaneous growth and efficiency — 9% organic growth on a 3% headcount reduction. That's not just cost-cutting; it's a fundamentally better operating model.
+
+The question for Pratt & Whitney is different but related: can distributed operations coordination across 30+ MRO facilities, a global supplier network, and new engine production deliver the same kind of organizational effectiveness — while managing the GTF remediation program?
+
+McChrystal Group helps organizations build the operating rhythm that makes distributed operations work at the speed the business demands. If that perspective resonates, I'd welcome 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Aerospace operations leadership
+**Hook**: Aerospace operational leadership connection
+
+Shane,
+
+Leading Pratt & Whitney through the GTF remediation while ramping next-gen engine production across a global network is one of the most demanding operational leadership challenges in aerospace.
+
+I'm reaching out because McChrystal Group works with leaders managing exactly this kind of multi-front, distributed operational complexity. Our approach is rooted in the same operational discipline that General McChrystal built for coordinating globally distributed operations under pressure.
+
+Happy to connect briefly if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: GTF distributed operations coordination
+
+Shane — leading Pratt & Whitney through GTF remediation across 30+ global MRO sites while ramping production is one of the most complex distributed operations challenges in aerospace. McChrystal Group was built for this. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Boeing
+
+**Target**: Stephanie Pope, EVP & COO, Boeing Commercial Airplanes
+**Why this contact**: Leads the commercial airplane recovery — safety culture, production rates, Spirit AeroSystems integration — the heart of Boeing's turnaround.
+**Company**: Boeing | **Score**: 88 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Spirit integration + safety culture + production recovery
+**Hook**: Spirit AeroSystems reintegration as quality culture inflection point
+
+Stephanie,
+
+Bringing Spirit AeroSystems back inside Boeing — and integrating 13,000 employees who spent 19 years developing their own culture — is the most consequential organizational decision in Boeing's commercial recovery. Every fuselage that comes from Spirit determines 737 quality.
+
+McChrystal Group specializes in organizational integration where quality and safety depend on cultural alignment, not just process compliance. General McChrystal rebuilt the operating model for organizations where execution failures have life-or-death consequences — the direct parallel to commercial aviation.
+
+Kelly Ortberg moved to Seattle because execution happens on the factory floor, not in the boardroom. McChrystal's operating model connects boardroom intent to factory-floor behavior at scale.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When safety culture is the turnaround
+**Hook**: Boeing's recovery = safety culture transformation, not production strategy
+
+Stephanie,
+
+Boeing's turnaround will succeed or fail based on one thing: whether safety culture actually changes on the factory floor — not in the policy manual, not in the training deck, but in the daily decisions of 182,000 employees.
+
+McChrystal Group has studied what makes safety culture transformations succeed in high-consequence environments. The answer is never better policies. It's better information flow — connecting the person who sees a quality issue to the person who can fix it, without barriers, without delay, without fear.
+
+If that perspective resonates with how you're thinking about BCA's recovery, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From one operational leader to another
+**Hook**: Operational leadership during crisis transformation
+
+Stephanie,
+
+Leading Boeing Commercial Airplanes through the most scrutinized recovery in aviation history — safety culture, 737 production, 787 expansion, Spirit integration — is a leadership challenge few executives ever face.
+
+I'm reaching out because McChrystal Group works with leaders navigating high-stakes operational transformations where the stakes go beyond business metrics to human safety. General McChrystal's experience is rooted in the same principle: organizational execution in environments where failure has irreversible consequences.
+
+Happy to connect if that resonates.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Safety-critical operational transformation leadership
+
+Stephanie — leading BCA through the most consequential safety and production recovery in aviation. McChrystal Group helps with high-stakes operational transformation where execution determines safety outcomes. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Lockheed Martin
+
+**Target**: Chauncey McIntosh, VP & GM, F-35 Lightning II Program
+**Why this contact**: New F-35 program leader (Dec 2024) managing the world's most expensive weapons program across 15 global production sites and 15+ allied nations.
+**Company**: Lockheed Martin | **Score**: 90 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: 15 sites, 15 nations, 191 deliveries — and accelerating
+**Hook**: F-35 global production coordination at record scale
+
+Chauncey,
+
+Congratulations on leading the F-35 program. Delivering 191 jets in 2025 — a record — while managing 15 global production sites and 15+ allied nations is an organizational coordination achievement that few programs in history have matched.
+
+McChrystal Group works with leaders managing this kind of multinational, multi-site operational complexity. General McChrystal literally coordinated military operations across 15+ allied nations under combat pressure — the structural parallel to F-35's production partnership is direct, not metaphorical.
+
+As production rates continue to climb and allied demand accelerates, the coordination challenge grows non-linearly. If a conversation about what we've learned from similar multi-national coordination would be useful, I'd welcome 20 minutes.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When coordination is the production constraint
+**Hook**: F-35 production rate limited by organizational coordination, not manufacturing capacity
+
+Chauncey,
+
+At 191 deliveries and climbing, the F-35 program has proven it can build jets at scale. The question for the next phase isn't whether Lockheed can manufacture more — it's whether the 15-nation production network can coordinate at higher rates without quality, schedule, or allied partnership friction increasing.
+
+McChrystal Group has seen this pattern across complex organizations: the manufacturing constraint gets solved, and the coordination constraint becomes the rate-limiter. The organizations that anticipate this and build coordination capacity before it becomes a bottleneck outperform those that react.
+
+If that perspective aligns with what you're seeing, I'd welcome a brief exchange.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Military-to-industrial production parallel
+**Hook**: McChrystal multinational coordination experience → F-35 production
+
+Chauncey,
+
+General McChrystal coordinated allied special operations across 15+ countries in combat — each with different capabilities, authorities, and cultural contexts. The F-35 production network is the industrial equivalent: 15 nations, different work-share requirements, different quality standards, different decision-making processes — all producing one aircraft.
+
+I'm reaching out because this isn't a marketing analogy. It's a genuine capability transfer from military multinational coordination to defense industrial production. If that connection is worth exploring, I'd value a conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: inmail
+**Subject**: Multinational defense production coordination
+**Hook**: F-35 multinational production coordination
+
+Chauncey — congrats on the F-35 program leadership. Coordinating 15 global production sites across 15 allied nations is the direct industrial equivalent of McChrystal's multinational military operations. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — General Dynamics
+
+**Target**: Kevin Graney, President, Electric Boat
+**Why this contact**: Leads submarine construction — Virginia-class and Columbia-class simultaneously — in a workforce-constrained shipyard with a $53B backlog.
+**Company**: General Dynamics | **Score**: 90 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Two nuclear submarine programs, one shipyard
+**Hook**: Virginia + Columbia dual-program coordination at Electric Boat
+
+Kevin,
+
+Running Virginia-class and Columbia-class simultaneously at Electric Boat — sharing trades workforce, facilities, and supply chain between two nuclear submarine programs — is the most complex production coordination challenge in U.S. defense manufacturing.
+
+McChrystal Group was built for multi-program coordination in high-consequence environments. General McChrystal coordinated simultaneous military operations that shared intelligence, logistics, and personnel — the structural parallel to Electric Boat's dual-program challenge is direct.
+
+With the Marine backlog at $53B and growing, the coordination demands will only increase. Would a 20-minute conversation about multi-program coordination approaches be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When the workforce is the weapon system
+**Hook**: Shipyard workforce development as organizational coordination challenge
+
+Kevin,
+
+The submarines are only as good as the people who build them. With veteran tradespeople retiring faster than apprentices can reach nuclear-grade qualification — and both Virginia-class and Columbia-class competing for the same skilled workers — the workforce pipeline isn't an HR problem. It's the central organizational coordination challenge at Electric Boat.
+
+McChrystal Group helps organizations where workforce development requires cross-functional coordination: recruiting, training, quality certification, production scheduling, and union partnership all moving in sync.
+
+If workforce coordination is on your radar, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Submarine leadership — a shared commitment
+**Hook**: Naval/submarine community connection
+
+Kevin,
+
+Electric Boat has been building America's submarines for over a century. The organizational challenge of delivering both Virginia and Columbia simultaneously — while developing a new generation of shipbuilders — is one that General McChrystal deeply respects.
+
+McChrystal Group works with leaders managing high-consequence operations where organizational coordination directly determines mission success. The submarine community shares that intensity with special operations — both environments where there's no margin for error.
+
+Happy to connect if a conversation would be useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Dual submarine program coordination
+
+Kevin — leading dual nuclear submarine programs (Virginia + Columbia) at Electric Boat with a $53B backlog and workforce challenges is among the most consequential coordination challenges in defense. McChrystal Group was built for this. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Northrop Grumman
+
+**Target**: Matt Bromberg, Corporate VP, Worldwide Operations
+**Why this contact**: Oversees enterprise operations, quality, supply chain, and technology — the cross-program coordination function managing B-21/Sentinel tension.
+**Company**: Northrop Grumman | **Score**: 87 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: B-21 accelerating, Sentinel restructuring — simultaneously
+**Hook**: B-21 vs Sentinel organizational tension as enterprise coordination challenge
+
+Matt,
+
+B-21 production is accelerating (25% capacity increase) while Sentinel restructures after the Nunn-McCurdy breach. Two programs that define U.S. nuclear deterrence for the next 50 years — pulling the organization in opposite directions.
+
+McChrystal Group was built for exactly this kind of multi-mission coordination under pressure. General McChrystal managed simultaneous operations with competing resource demands and different operational tempos — one accelerating, one rebuilding. The structural parallel to Northrop's B-21/Sentinel challenge is direct.
+
+As the person coordinating worldwide operations across these programs, you see the coordination gaps that others don't. Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Coordinating across classification boundaries
+**Hook**: Classified-environment enterprise coordination as unique McChrystal capability
+
+Matt,
+
+One of the hardest organizational challenges in defense is building enterprise cohesion when your programs can't share information with each other. Classification is essential for national security — but it creates structural silos that prevent resource optimization, cross-program learning, and enterprise coordination.
+
+McChrystal Group is the only advisory firm that has actually built operating models for classified-environment coordination. General McChrystal coordinated across intelligence compartments, allied nations, and military services — maintaining operational security while enabling the coordination that mission success required.
+
+If classified-environment enterprise coordination is a challenge you're working on, I'd welcome a conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Operations leadership in consequential environments
+**Hook**: Worldwide operations leadership connection
+
+Matt,
+
+Overseeing worldwide operations for Northrop Grumman — quality, supply chain, and technology across the most consequential classified programs in U.S. defense — is a responsibility that very few leaders in the world carry.
+
+McChrystal Group works with leaders managing operations at this level of consequence. Our approach is rooted in the same principle: when organizational coordination determines national security outcomes, the operating model must match the mission's importance.
+
+Happy to connect briefly.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Enterprise operations coordination in classified environments
+
+Matt — overseeing worldwide operations across B-21, Sentinel, and Northrop's $95.7B backlog is among the most consequential coordination roles in defense. McChrystal Group was built for classified-environment enterprise coordination. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — BAE Systems Inc
+
+**Target**: Mona Bates, SVP & Chief Information & Digital Officer
+**Why this contact**: Newly hired (Feb 2026, from Collins Aerospace/RTX) to drive digital transformation and IT integration across BAE's U.S. operations including Ball Aerospace systems.
+**Company**: BAE Systems Inc | **Score**: 87 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: Ball Aerospace integration — from consumer packaging to defense
+**Hook**: Ball Aerospace cultural integration as unique defense challenge
+
+Mona,
+
+Congratulations on the CIDO role at BAE. Integrating Ball Aerospace's IT systems and digital infrastructure into BAE's defense framework — after 5,200 employees spent their careers at Ball Corporation, a consumer packaging company — is one of the most unusual technology and cultural integration challenges in defense.
+
+McChrystal Group works with leaders navigating exactly this kind of cross-cultural organizational integration. The technology systems must converge — but the organizational culture behind those systems determines whether the integration creates value or friction.
+
+Your Collins Aerospace experience gives you a unique perspective on defense integration. Would a 20-minute conversation about what we've seen in similar situations be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Digital transformation in multi-sector defense
+**Hook**: Enterprise digital transformation across four defense sectors
+
+Mona,
+
+Driving digital transformation across four defense sectors (electronic systems, intelligence, platforms, space) — each with different technology stacks, classification requirements, and customer needs — is an enterprise coordination challenge that most CIDOs never face at this complexity.
+
+McChrystal Group helps leaders build the organizational coordination that makes technology investments translate into operational outcomes. We've found that the hardest part of defense digital transformation isn't the technology — it's connecting four sectors that operate independently into one digital enterprise.
+
+If that perspective resonates, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: A fellow RTX/Collins alum reaching out
+**Hook**: Collins Aerospace connection — shared organizational context
+
+Mona,
+
+Your move from Collins Aerospace to BAE caught my attention — you've seen defense integration at scale from the RTX side, and now you're driving it at BAE with the Ball Aerospace dimension adding unique complexity.
+
+McChrystal Group works with technology leaders navigating multi-division defense organizations. Your fresh perspective (coming from outside BAE) combined with your defense integration experience (Collins) makes you exactly the kind of leader we partner with.
+
+Happy to connect briefly if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Defense digital transformation and Ball integration
+
+Mona — congrats on the BAE CIDO role. Driving digital transformation across 4 sectors + Ball Aerospace integration is a unique challenge. Would value connecting — our defense integration experience may be useful.
+
+---
+
+
+---
+
+# Outreach Package — L3Harris Technologies
+
+**Target**: Heidi Wood, SVP, LHX NeXt Transformation
+**Why this contact**: THE enterprise transformation leader at L3Harris — elevated to report directly to CEO Kubasik. Former Wall Street defense analyst turned Chief Transformation Officer.
+**Company**: L3Harris Technologies | **Score**: 90 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: $1.2B and counting — what comes after LHX NeXt?
+**Hook**: LHX NeXt success creates demand for enterprise operating model
+
+Heidi,
+
+LHX NeXt delivering $1.2B in cost savings — exceeding every target — is one of the most impressive transformation results in defense. But cost savings programs have natural endpoints. What sustains the gains isn't another round of cuts — it's the enterprise operating model that embeds coordination discipline into how the organization works every day.
+
+McChrystal Group specializes in building that next layer: from transformation program to enterprise operating model. We help organizations transition from 'savings achieved' to 'operating model transformed' — making the improvements permanent rather than a program that eventually winds down.
+
+With the segment reorganization, Aerojet divestiture, Missile Solutions IPO, and Sam Mehta's dual-segment role all happening simultaneously, the enterprise coordination challenge is growing faster than LHX NeXt alone can address.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Six initiatives, one enterprise — the coordination challenge
+**Hook**: Multi-initiative portfolio transformation as enterprise coordination problem
+
+Heidi,
+
+We count at least six major change initiatives running simultaneously at L3Harris: LHX NeXt cost savings, four→three segment reorganization, Aerojet Space Propulsion divestiture, Missile Solutions IPO, new CFO onboarding, and Sam Mehta's dual-segment structure. Each has its own team, timeline, and dependencies.
+
+McChrystal Group's core capability is connecting parallel transformation workstreams into a coherent enterprise operating rhythm — preventing them from colliding while ensuring each reinforces the others.
+
+If managing six simultaneous change initiatives is creating coordination challenges that LHX NeXt wasn't designed to address, I'd welcome a conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From analyst to transformation leader — an impressive pivot
+**Hook**: Heidi Wood's Wall Street → transformation leader career path
+
+Heidi,
+
+Your career trajectory — Morgan Stanley defense analyst to L3Harris SVP of Enterprise Transformation reporting directly to the CEO — is one of the most interesting leadership stories in defense. Bringing analytical rigor to organizational transformation is rare and valuable.
+
+McChrystal Group works with transformation leaders who think in systems, not just projects. Your analytical approach to organizational effectiveness aligns with how we work — measurable outcomes, structured cadences, and evidence-based decision-making.
+
+If a conversation would be useful as you think about the next phase of L3Harris's transformation, I'd value the opportunity.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Enterprise transformation operating model
+
+Heidi — LHX NeXt delivering $1.2B in savings is remarkable. McChrystal Group helps transformation leaders build the enterprise operating model that makes those gains permanent. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Huntington Ingalls Industries
+
+**Target**: Kari Wilkinson, President, Newport News Shipbuilding
+**Why this contact**: New president (Jan 2025) of 26,000 employees at America's sole aircraft carrier builder — inherited faulty welds investigation, workforce experience gap, and nuclear submarine production demands.
+**Company**: Huntington Ingalls Industries | **Score**: 86 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 26 ships, faulty welds, and a 140-year reputation
+**Hook**: Faulty welds investigation as quality culture transformation moment
+
+Kari,
+
+The faulty welds investigation expanding to 26 ships — at the shipyard that is America's sole aircraft carrier builder — is more than a quality issue. It's an organizational signal that production pressure, supervision, and reporting culture need systemic attention.
+
+McChrystal Group specializes in quality culture transformation in high-consequence environments. General McChrystal rebuilt organizational discipline in environments where execution failures had irreversible consequences — the direct parallel to nuclear submarine and carrier construction.
+
+As a new president who moved from Ingalls (11,000) to Newport News (26,000), you're navigating a leadership transition, a quality crisis, and a workforce experience gap simultaneously.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Building tomorrow's shipbuilders while building today's ships
+**Hook**: Workforce development as the strategic constraint on naval power
+
+Kari,
+
+America's naval power depends on one thing most people don't think about: whether Newport News can recruit, train, and qualify enough welders, pipefitters, and electricians to build nuclear submarines and carriers at the pace the Navy needs.
+
+This isn't an HR problem — it's the strategic constraint on U.S. naval capability. And solving it requires organizational coordination between recruiting, apprenticeship programs, production scheduling, quality certification, and union partnership — all moving in sync.
+
+McChrystal Group helps organizations build the cross-functional coordination that turns workforce development from a staffing challenge into a strategic capability. If that perspective resonates, I'd welcome a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: 140 years of shipbuilding — and the next chapter
+**Hook**: Newport News heritage meets new leadership
+
+Kari,
+
+Becoming the 21st president of Newport News Shipbuilding — 140 years of heritage, 26,000 shipbuilders, America's sole carrier builder — is a leadership moment that carries both tremendous pride and tremendous responsibility.
+
+McChrystal Group works with leaders at this kind of inflection point: honoring institutional heritage while building the organizational capability for the next chapter. General McChrystal's experience transforming tradition-bound military organizations without destroying their culture is genuinely relevant to shipbuilding.
+
+Happy to connect if a conversation would be valuable.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: inmail
+**Subject**: Naval shipbuilding leadership
+**Hook**: Shipyard quality culture and workforce transformation
+
+Kari — leading 26,000 shipbuilders at America's sole carrier builder through a quality investigation and workforce transition is one of the most consequential leadership challenges in defense. McChrystal Group was built for this. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Oshkosh Corporation
+
+**Target**: John Bryant, EVP & President, Oshkosh Defense
+**Why this contact**: Leads the defense segment through JLTV transition and NGDV production ramp — the two biggest execution challenges at Oshkosh.
+**Company**: Oshkosh Corporation | **Score**: 85 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: From 24,000 JLTVs to what's next
+**Hook**: Post-JLTV 2 loss strategic pivot as organizational challenge
+
+John,
+
+Building 24,000 combat-proven JLTVs — then losing the follow-on contract — is a punch that the defense segment has to absorb and respond to organizationally. The question isn't just what programs replace JLTV 2 revenue; it's how the organization pivots from a known program to an uncertain future.
+
+McChrystal Group works with defense leaders managing program transitions — maintaining organizational capability and morale while the next mission takes shape. General McChrystal navigated these transitions throughout his military career: maintaining readiness between operations while preparing for whatever comes next.
+
+With NGDV production behind schedule and international JLTV opportunities ahead, the organizational coordination between these programs determines whether the defense segment recovers or contracts.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When the NGDV production ramp is the mission
+**Hook**: NGDV production coordination as cross-functional organizational challenge
+
+John,
+
+The NGDV production ramp — from 2,500 delivered to 50,000+ ordered, shifting from Wisconsin to South Carolina, transitioning to all-BEV by 2026 — is a cross-functional coordination challenge that goes far beyond manufacturing.
+
+Engineering (BEV design), manufacturing (new facility ramp), supply chain (component scaling for electric), USPS customer management (delivery commitments), and workforce development (new site, new skills) must all coordinate. If any one function falls behind, the entire ramp stalls.
+
+McChrystal Group builds the cross-functional operating rhythm that keeps all five functions synchronized. If NGDV coordination is on your radar, I'd welcome a conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Defense industrial leadership — a shared mission
+**Hook**: Military-connected defense leadership
+
+John,
+
+Leading Oshkosh Defense through the JLTV-to-next-gen transition — while ramping NGDV production — puts you at the center of one of the most complex defense industrial pivots underway.
+
+McChrystal Group works with defense leaders managing this kind of program transition. Oshkosh's Military Friendly culture and JLTV combat heritage create a natural alignment with how we work — mission-focused, execution-disciplined, no-BS.
+
+Happy to connect briefly if useful.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Defense program transition leadership
+
+John — leading Oshkosh Defense through the JLTV transition while ramping NGDV production is a complex cross-functional challenge. McChrystal Group helps defense leaders manage program transitions. Would value connecting.
+
+---
+
+
+---
+
+# Outreach Package — Leonardo DRS
+
+**Target**: Sally Wallace, EVP & Chief Operating Officer
+**Why this contact**: 20-year DRS veteran newly elevated to COO (Jan 2026) — managing growth execution, Charleston facility stand-up, and Italian parent coordination.
+**Company**: Leonardo DRS | **Score**: 90 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: New COO, new facility, double-digit growth — and counting
+**Hook**: New COO leadership moment as operating model design opportunity
+
+Sally,
+
+Congratulations on the COO appointment. After 20 years at DRS — from business operations through C4ISR Group president to EVP Operations to COO — you know this organization better than anyone. The question for the next phase: what does the operating model look like at $4B+ that's different from what worked at $2B?
+
+McChrystal Group works with operational leaders at exactly this inflection point — when the organization needs to intentionally design the next operating model rather than let it evolve organically from the current one.
+
+With a new CEO, new Charleston facility, $3B+ Columbia-class contracts, and double-digit growth, the organizational design decisions you make in the next 6 months will compound for years.
+
+Would a 20-minute conversation be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Building a factory culture from scratch — Charleston
+**Hook**: Greenfield facility as organizational design opportunity
+
+Sally,
+
+The Charleston naval power facility represents the rarest opportunity in organizational design: building manufacturing culture from scratch. Every hire, every training program, every quality standard you establish at Charleston will shape that facility's DNA for decades.
+
+McChrystal Group has helped organizations build new operational cultures — from military base stand-ups to manufacturing greenfields. The key insight: the first 100 hires set the cultural foundation. Get the organizational design right now, and it self-reinforces; get it wrong, and it takes years to fix.
+
+If Charleston's organizational stand-up is on your priority list, I'd welcome a conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: 20 years of building DRS — now shaping its future
+**Hook**: Insider COO with institutional knowledge
+
+Sally,
+
+Twenty years at DRS — watching it grow, contributing to its success, now leading its operations as COO — gives you a perspective that no external hire could match. The challenge of the COO role is different: you know everything about how DRS works today, and now you're responsible for making it work differently at $4B+.
+
+McChrystal Group works with operational leaders who are bridging institutional knowledge with future-state organizational design. Your combination of insider expertise and COO authority is exactly where our partnership creates the most value.
+
+Happy to connect briefly.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: COO leadership moment for growth-phase operating model
+
+Sally — congrats on the COO role after 20 years building DRS. With a new CEO, Charleston facility, and double-digit growth, the next operating model needs to be intentionally designed. McChrystal Group helps with exactly this. Would value connecting.
+
+---
