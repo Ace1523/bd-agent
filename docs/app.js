@@ -2129,6 +2129,19 @@ function renderFuture() {
           <h3>Opportunity Network Mapping</h3>
           <p>Visualizing the hidden connections between companies, executives, investors, board members, and partners across the pipeline. Surface warm introduction paths \u2014 shared board members, PE firms with multiple portfolio companies in the pipeline, executives who\u2019ve moved between prospects \u2014 turning cold outreach into warm conversations.</p>
         </div>
+
+        <div class="method-card">
+          <div class="method-card-icon" style="color: #4ec9b0;">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"/>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+              <line x1="11" y1="8" x2="11" y2="14"/>
+              <line x1="8" y1="11" x2="14" y2="11"/>
+            </svg>
+          </div>
+          <h3>On-Demand Company Lookup</h3>
+          <p>Type a company name and get the full pipeline in minutes. The system auto-researches the company, scores it against the ICP, builds a complete dossier, and drafts outreach \u2014 all on the spot. Partners no longer wait for batch runs; any company can be evaluated in real time. Requires a backend API layer wrapping the existing research and scoring engine.</p>
+        </div>
       </div>
     </div>
   `;
