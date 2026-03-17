@@ -1180,3 +1180,288 @@ Allegiant received antitrust clearance in March 2026 and targets mid-2026 closin
 **Why They Fit**
 
 The Allegiant-Sun Country merger creates a massive airline integration challenge: merging two distinct fleets (Airbus + Boeing), two pilot unions, two operational cultures, cargo operations (Sun Country's Amazon business), and multi-hub networks. Airlines are among the most operationally complex organizations — this merger demands exactly the cross-functional alignment and shared consciousness McChrystal delivers.
+
+
+---
+
+# Discovery Report — March 17, 2026 13:55
+
+- **Prospects found**: 10
+- **Score range**: 85–90
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | RTX Corporation | Tier 1 | 87 | $88.6B | 180K+ | Leadership Change, Reorg, Transformation, Rapid Growth |
+| 2 | Lockheed Martin | Tier 1 | 90 | $73.0B | 122K+ | Rapid Growth, Transformation, Hiring Surge, Partnership |
+| 3 | Boeing | Tier 1 | 88 | $89.5B | 182K+ | Leadership Change, Reorg, Transformation, Earnings Miss |
+| 4 | General Dynamics | Tier 1 | 90 | $54.5B | 115K+ | Rapid Growth, Hiring Surge, Partnership, Transformation |
+| 5 | Northrop Grumman | Tier 1 | 87 | $42.0B | 100K+ | Rapid Growth, Earnings Miss, Transformation, Hiring Surge |
+| 6 | BAE Systems Inc | Tier 1 | 87 | $13.6B | 35K+ | M And A, Transformation, Rapid Growth, Hiring Surge |
+| 7 | L3Harris Technologies | Tier 1 | 90 | $21.9B | 50K+ | Transformation, Reorg, M And A, Rapid Growth |
+| 8 | Huntington Ingalls Industries | Tier 1 | 86 | $12.5B | 44K+ | Leadership Change, Hiring Surge, Rapid Growth, Transformation |
+| 9 | Oshkosh Corporation | Tier 1 | 85 | $10.4B | 14K+ | Earnings Miss, Reorg, Transformation, Funding |
+| 10 | Leonardo DRS | Tier 1 | 90 | $3.6B | 7K+ | Leadership Change, Rapid Growth, Transformation, M And A |
+
+## Tier 1 — Conventional
+
+### RTX Corporation — Score 87
+
+- **Revenue**: $88.6B
+- **Employees**: 180K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Leadership Change** (2024-05-01): Chris Calio became CEO May 2024, elected Chairman 2025; new leadership driving post-merger transformation
+- **Reorg** (2025-01-01): Reorganized into three segments (Pratt & Whitney, Collins Aerospace, Raytheon); Collins Aerospace achieving 9% growth on 3% headcount reduction
+- **Transformation** (2025-06-01): Structural cost reduction program across all three segments; Collins Aerospace streamlining post-acquisition integration
+- **Rapid Growth** (2025-12-01): Revenue grew 10% to $88.6B in 2025; record defense backlog; commercial aerospace recovery accelerating
+
+**Entry Point**
+
+SVP of Enterprise Transformation or segment-level COO — the leaders managing post-merger integration, structural cost reduction, and cross-segment coordination across 180,000 employees.
+
+**Conversation Hook**
+
+Chris Calio reorganized RTX into three clean segments and is driving structural cost reduction while Collins Aerospace achieved 9% organic growth on a 3% headcount reduction — the organizational execution behind that efficiency story is exactly McChrystal's lane.
+
+**Why They Fit**
+
+The world's largest A&D company still integrating a mega-merger under a new CEO, with record backlog, structural cost reduction, and the complexity of coordinating 180,000 employees across three massive segments.
+
+### Lockheed Martin — Score 90
+
+- **Revenue**: $73.0B
+- **Employees**: 122K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Rapid Growth** (2025-12-01): Record 191 F-35 deliveries in 2025; Q4 sales $20.3B up from $18.6B; $3.5B invested in production capacity
+- **Transformation** (2025-06-01): Transforming Fort Worth facility from F-16 to F-35 production; establishing 15 global production sites; investing in next-gen technologies
+- **Hiring Surge** (2025-12-01): Fort Worth facility alone has 19,000 employees; scaling workforce across global production network to meet record demand
+- **Partnership** (2026-01-12): Secretary of War visited F-35 facility Jan 2026; deepening government partnership amid global security expansion
+
+**Entry Point**
+
+SVP of Enterprise Operations or VP of F-35 Program Integration — the leaders coordinating production across 15 global sites, managing supplier networks, and scaling workforce to meet record delivery demands.
+
+**Conversation Hook**
+
+Delivering 191 F-35s in 2025 (a record) while investing $3.5B in next-gen production capacity means Lockheed is simultaneously running at peak output and building for a different future — the organizational coordination challenge that separates good defense companies from great ones.
+
+**Why They Fit**
+
+The world's largest defense contractor managing record F-35 production (191 deliveries), $3.5B in capacity investment, and program execution challenges across 15 global production sites — organizational coordination at defense-industrial scale.
+
+### Boeing — Score 88
+
+- **Revenue**: $89.5B
+- **Employees**: 182K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Leadership Change** (2024-08-08): CEO Kelly Ortberg appointed Aug 2024; relocated to Seattle; prioritizing engineering culture and manufacturing excellence
+- **Reorg** (2025-10-01): 17,000 layoffs (10% of workforce); restructuring executive/manager ranks; Spirit AeroSystems acquisition (Dec 2025) adding $4B in 2026 integration costs
+- **Transformation** (2025-06-01): Safety culture rebuilding after 737 MAX door plug incident; production recovery for 737 (targeting 38/month) and 787 (targeting 10/month); commercial division targeting return to profit in 2026
+- **Earnings Miss** (2025-12-01): FY2024 net loss of $11.8B; FY2025 recovered to $2.2B profit but still below historical levels; Defense segment ongoing program losses
+
+**Entry Point**
+
+SVP of Enterprise Operations or Chief Transformation Officer — the leader coordinating safety culture rebuilding, production recovery, Spirit AeroSystems integration, and workforce restructuring across 182,000 employees.
+
+**Conversation Hook**
+
+Kelly Ortberg moved Boeing's CEO office back to Seattle to be closer to manufacturing — a symbolic and operational signal that execution, not strategy, is the priority. McChrystal's operating model is built for exactly this: connecting leadership intent to factory-floor execution in a safety-critical environment.
+
+**Why They Fit**
+
+The highest-profile corporate turnaround in aerospace: new CEO, 17,000 layoffs, safety culture crisis, production recovery, Spirit AeroSystems integration, and a defense business with $85B backlog but ongoing program losses — all requiring organizational transformation at massive scale.
+
+### General Dynamics — Score 90
+
+- **Revenue**: $54.5B
+- **Employees**: 115K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Rapid Growth** (2025-12-01): Record $118B backlog (+30% YoY); book-to-bill 1.5x; revenue guidance $54.3-54.8B for 2026; Marine backlog +38% to $53B
+- **Hiring Surge** (2026-01-01): Shipyard workforce expansion needed to convert $53B Marine backlog; competing for skilled tradespeople in tight labor market
+- **Partnership** (2025-10-01): Virginia-class Block V contract for two submarines including special mission variant; deepening Navy partnership
+- **Transformation** (2025-06-01): Gulfstream transitioning to G700/G800 production while retiring older models; Marine Systems expanding capacity for submarine and destroyer programs
+
+**Entry Point**
+
+SVP Marine Systems Operations or VP of Enterprise Integration — the leaders managing the $53B Marine backlog (submarines, destroyers, auxiliary ships) while coordinating with Combat Systems and Technologies divisions.
+
+**Conversation Hook**
+
+General Dynamics' Marine backlog grew 38% to $53B with the Virginia-class Block V contract — but shipyards are already capacity-constrained and facing workforce shortages. Converting that backlog into delivered ships requires organizational coordination that goes beyond production planning.
+
+**Why They Fit**
+
+Record $118B backlog and 1.5x book-to-bill creating unprecedented scaling demands across submarines, Gulfstream, and combat vehicles — the organizational challenge of delivering on the largest defense backlog in company history with 115,000 employees across four distinct business segments.
+
+### Northrop Grumman — Score 87
+
+- **Revenue**: $42.0B
+- **Employees**: 100K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Rapid Growth** (2025-12-01): Revenue $42B; record backlog $95.7B; B-21 production accelerating with Air Force contract; stock up 28% YTD
+- **Earnings Miss** (2025-09-01): Sentinel ICBM Nunn-McCurdy cost breach; initial operating capability slipped to 2033; Air Force restructuring program milestones
+- **Transformation** (2025-06-01): Scaling B-21 stealth bomber from development to production — requires organizational transformation from R&D to manufacturing discipline
+- **Hiring Surge** (2025-06-01): 100,000 employees scaling across classified programs; competing for cleared aerospace engineers and production workers
+
+**Entry Point**
+
+VP of Enterprise Operations or SVP Sentinel Program — the leaders managing the tension between accelerating B-21 production and fixing Sentinel ICBM execution while maintaining classified program security across 100,000 employees.
+
+**Conversation Hook**
+
+Northrop signed a contract to accelerate B-21 production while simultaneously managing a Nunn-McCurdy cost breach on Sentinel ICBM — two of the most consequential defense programs in U.S. history pulling the organization in opposite directions. That's the exact organizational coordination challenge McChrystal built JSOC to solve.
+
+**Why They Fit**
+
+Record $95.7B backlog driven by B-21 bomber and Sentinel ICBM — but Sentinel's Nunn-McCurdy cost breach and schedule slip to 2033 creates organizational tension between scaling production and fixing execution on the nation's highest-priority nuclear deterrent program.
+
+### BAE Systems Inc — Score 87
+
+- **Revenue**: $13.6B
+- **Employees**: 35K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2024-02-01): $5.5B Ball Aerospace acquisition completed Feb 2024; 5,200 employees transferred; created Space & Mission Systems segment
+- **Transformation** (2025-01-01): Transforming from ground/electronics defense contractor to full-spectrum platform including space capabilities; organizational redesign underway
+- **Rapid Growth** (2025-12-01): U.S. revenue ~$13.6B contributing nearly half of parent's global revenue; surging demand across all defense segments
+- **Hiring Surge** (2025-06-01): Scaling across 38 states; Ball Aerospace integration adding space talent pipeline; competing for cleared workforce
+
+**Entry Point**
+
+President of Space & Mission Systems or VP of Integration — the leader merging Ball Aerospace's space engineering culture with BAE's combat/electronics DNA while scaling to meet surging defense demand.
+
+**Conversation Hook**
+
+Integrating Ball Aerospace's 5,200 space engineers — who spent their careers at Ball Corporation, a consumer packaging company — into BAE's defense culture is one of the most unusual cultural integration challenges in the defense sector. The cultures couldn't be more different.
+
+**Why They Fit**
+
+Ball Aerospace acquisition ($5.5B, 5,200 employees) transforming BAE Systems Inc. from a ground/electronics defense contractor into a space-capable platform — massive cultural and organizational integration challenge across 35,000 employees in 38 states.
+
+### L3Harris Technologies — Score 90
+
+- **Revenue**: $21.9B
+- **Employees**: 50K+
+- **Industry**: Defense & Aerospace
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Transformation** (2025-12-01): LHX NeXt program achieved $1.2B in cost savings (exceeded $800M target); Heidi Wood elevated to report directly to CEO
+- **Reorg** (2026-01-01): Reorganized from four to three segments; selling Aerojet Rocketdyne Space Propulsion to AE Industrial Partners; Missile Solutions planned IPO
+- **M And A** (2026-01-15): Divesting Aerojet Space Propulsion (majority stake to AE Industrial Partners); Missile Solutions IPO with $1B government investment; Ken Bedingfield dual-hatting as CFO + Aerojet President
+- **Rapid Growth** (2025-12-01): Revenue $21.9B (+3%, +5% organic); orders $27.5B; book-to-bill 1.3x; record backlog
+
+**Entry Point**
+
+Heidi Wood, SVP LHX NeXt Transformation — directly leads the enterprise transformation initiative, elevated to report to CEO Kubasik. The person building the next-generation L3Harris operating model.
+
+**Conversation Hook**
+
+L3Harris elevated its transformation leader (Heidi Wood) to report directly to the CEO — signaling that organizational transformation is the #1 strategic priority. She's building the operating model for a company that's simultaneously restructuring segments, divesting businesses, and exceeding cost savings targets.
+
+**Why They Fit**
+
+LHX NeXt transformation delivering $1.2B in cost savings while simultaneously divesting Aerojet Rocketdyne units, reorganizing from four to three segments, and maintaining $27.5B in annual orders — a multi-front organizational transformation in defense technology.
+
+### Huntington Ingalls Industries — Score 86
+
+- **Revenue**: $12.5B
+- **Employees**: 44K+
+- **Industry**: Defense & Shipbuilding
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Leadership Change** (2025-01-01): Two new shipyard presidents appointed Jan 2025: Kari Wilkinson (Newport News) and Brian Blanchette (Ingalls); new operational leadership during peak demand
+- **Hiring Surge** (2025-06-01): Critical shipyard workforce shortage; 44,000 employees but need thousands more; competing for welders, pipefitters, electricians in tight trades labor market
+- **Rapid Growth** (2025-12-01): Revenue $12.5B; growing demand for submarines (Virginia-class, Columbia-class), carriers, and destroyers; Navy expanding fleet requirements
+- **Transformation** (2025-06-01): Modernizing century-old shipyard operations; implementing digital shipbuilding technologies; workforce training at scale for nuclear-qualified workers
+
+**Entry Point**
+
+Kari Wilkinson, President of Newport News Shipbuilding or Brian Blanchette, President of Ingalls Shipbuilding — newly appointed (Jan 2025) shipyard leaders managing the workforce crisis and production execution challenges at the operational level.
+
+**Conversation Hook**
+
+HII has the only shipyards in America that can build aircraft carriers and the Virginia-class submarines the Navy desperately needs — but workforce shortages mean they can't hire and train fast enough. This isn't a strategy problem; it's an organizational execution problem.
+
+**Why They Fit**
+
+America's sole aircraft carrier builder and primary submarine constructor — facing critical shipyard workforce shortages while delivering the most complex naval programs in history. Two new shipyard presidents (both Jan 2025) managing 44,000 employees across safety-critical manufacturing.
+
+### Oshkosh Corporation — Score 85
+
+- **Revenue**: $10.4B
+- **Employees**: 14K+
+- **Industry**: Defense & Industrial Vehicles
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Earnings Miss** (2025-06-01): Lost JLTV 2 follow-on contract (2025); NGDV production behind schedule (2,500 of 50,000+ delivered); Access segment margin pressure from tariffs
+- **Reorg** (2026-01-05): Production line layoffs (160 workers Jan 2026); shifting NGDV production from Wisconsin to South Carolina; workforce realignment across segments
+- **Transformation** (2025-12-01): Transitioning NGDV to all-BEV production by 2026; investing in next-gen defense vehicles; targeting $18-22 EPS by 2028
+- **Funding** (2025-06-01): $6B USPS NGDV contract (up to 165,000 vehicles over 10 years); $200M tariff headwind requiring cost mitigation
+
+**Entry Point**
+
+SVP of Defense Segment or VP of NGDV Program — the leaders managing the JLTV-to-next-gen transition and NGDV production ramp-up, where organizational execution determines whether Oshkosh captures or loses the defense vehicle market.
+
+**Conversation Hook**
+
+Oshkosh lost the JLTV 2 contract and is behind on NGDV deliveries — two program execution challenges that threaten the defense segment's future. The organizational question: how does a company that built its reputation on tactical vehicle excellence rebuild credibility while managing production transitions?
+
+**Why They Fit**
+
+Lost the JLTV 2 follow-on contract, NGDV production behind schedule, $200M tariff headwind, and production layoffs — while simultaneously targeting ambitious 2028 growth goals. Classic transformation challenge: managing declining legacy programs while building new growth engines.
+
+### Leonardo DRS — Score 90
+
+- **Revenue**: $3.6B
+- **Employees**: 7K+
+- **Industry**: Defense Electronics
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Leadership Change** (2026-01-01): New CEO John Baylouny (Jan 2026, 35-year defense veteran); new COO Sally Wallace; leadership transition during peak growth
+- **Rapid Growth** (2025-12-01): Revenue $3.65B with double-digit growth; bookings $4.25B (1.2x book-to-bill); backlog $8.73B; 2026 guidance $3.85-3.95B
+- **Transformation** (2026-03-03): CTO named 2026 Defense News Technology Disrupter; scaling production for Columbia-class submarine electric propulsion, AEGIS, Bradley sensors
+- **M And A** (2025-06-01): Multiple acquisitions (RADA Electronic Industries, Ascendant Engineering, Daylight Solutions) requiring integration while scaling
+
+**Entry Point**
+
+Sally Wallace, EVP & Chief Operating Officer — newly appointed operational leader managing growth execution, production scaling, and coordination between Leonardo DRS's U.S. operations and Leonardo S.p.A.'s global strategy.
+
+**Conversation Hook**
+
+Leonardo DRS's CTO was just named a 2026 Defense News 'Technology Disrupter' — but translating technology disruption into production-scale delivery with a new CEO and COO requires organizational execution that matches the innovation ambition.
+
+**Why They Fit**
+
+New CEO, new COO, double-digit growth, $8.73B backlog, and critical roles on Columbia-class submarine and AEGIS systems — a mid-market defense electronics company scaling rapidly under new leadership within a European parent company's governance structure.
