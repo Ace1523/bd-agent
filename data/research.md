@@ -7587,3 +7587,551 @@ Boeing is the highest-profile organizational transformation in global business. 
 - **Thread 2**: Ted Colbert (CEO, BDS) — defense program discipline. Angle: "With $85B in backlog and ongoing fixed-price losses, how is BDS balancing growth and execution discipline?" McChrystal's military credibility opens this door instantly.
 - **Thread 3**: Kelly Ortberg (CEO) — executive sponsor via military/aerospace network. Ortberg's Rockwell Collins background connects to the defense community. McChrystal's personal network likely intersects through defense advisory boards, retired flag officers, or government relations channels.
 - **Warm Introduction Vectors**: Military/defense community (highest-probability); aerospace industry conferences; Boeing's defense advisory board members; former military leaders now at Boeing; Department of Defense relationships (Boeing's largest customer).
+
+
+---
+
+# Research Dossier — Lockheed Martin
+
+## Organization Snapshot
+
+- **Legal Name**: Lockheed Martin Corporation
+- **Headquarters**: Bethesda, Maryland
+- **Founded**: 1995
+- **Industry**: Defense & Aerospace
+- **Revenue**: $73.0B
+- **Employees**: 122K+
+- **Ownership**: Public (NYSE: LMT); widely held institutional ownership. No controlling shareholder.
+- **Geographic Footprint**: Operations across U.S. (Fort Worth TX, Marietta GA, Palmdale CA, Camden AR, Moorestown NJ, Denver CO, Sunnyvale CA) and 15 global F-35 production sites. International operations in UK, Australia, Japan, Italy, and 20+ allied nations. 122,000 employees.
+- **ICP Score**: 90
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue**: ~$73B annually (Q4 2025: $20.3B, up from $18.6B). FY2025 net earnings $5.0B ($21.49/share). Free cash flow $6.9B.
+
+**Profitability**: Strong margins across all four segments. Aeronautics (F-35, F-16) is the largest and most visible. Missiles and Fire Control benefits from global demand for precision munitions.
+
+**Backlog**: Massive multi-year backlog driven by F-35, hypersonic weapons, space systems, and missile defense. International demand accelerating as NATO allies increase defense spending.
+
+**Capital Allocation**: $3.5B invested in production capacity and next-gen technologies in 2025. Strong share buyback and dividend program.
+
+**Key Pressures**: F-35 sustainment costs criticized by DoD; supply chain constraints limiting production rate increases; skilled labor shortages in aerospace manufacturing; international sales complexity (ITAR, FMS).
+
+**Key Tailwinds**: Record global defense spending; F-35 production rate increasing; international orders accelerating; hypersonic/missile defense demand surging; 21st Century Security initiative.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Chauncey McIntosh** — VP & GM, F-35 Lightning II Program
+- Tenure: Since December 2024
+- Background: New F-35 program leader; managing the world's most expensive weapons program across 15 global production sites
+- Why target: The F-35 program is Lockheed's organizational coordination centerpiece — 15 global production sites, thousands of suppliers, dozen+ allied nation partnerships, and the most complex supply chain in defense. A new program leader (Dec 2024) is establishing operating norms. McChrystal's Team of Teams model directly addresses multi-site, multinational production coordination.
+
+**Frank St. John** — COO
+- Tenure: Since 2022 [INFERRED]
+- Background: Operational leadership across four business segments
+- Why target: Oversees operational execution across all four segments — the enterprise coordination challenge of ensuring Aeronautics, MFC, RMS, and Space don't compete for shared resources while each scales to meet record demand.
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Jim Taiclet | Chairman, President & CEO | Since June 2020 | Former CEO of American Tower; brought commercial scale-up experience to defense | Executive sponsor |
+| Chauncey McIntosh | VP & GM, F-35 Lightning II Program | Since December 2024 | New F-35 program leader; managing the world's most expensive weapons program across 15 global production sites | — |
+| Jesus 'Jay' Malave | CFO | Since 2023 | Financial leadership; capital allocation across massive program portfolio | — |
+| Frank St. John | COO | Since 2022 [INFERRED] | Operational leadership across four business segments | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Four business segments: Aeronautics (F-35, F-16, C-130, classified), Missiles & Fire Control (THAAD, PAC-3, Javelin, hypersonics), Rotary & Mission Systems (Black Hawk, AEGIS, cyber), Space (Orion, GPS III, missile warning). Strong matrix with program managers crossing segment boundaries. F-35 program is the organizational spine — touching all four segments and 15 global sites.
+
+**Mission-Driven Culture**: Lockheed's culture centers on national security mission — employees believe their work protects lives. This creates intrinsic motivation but also resistance to anything perceived as bureaucratic overhead.
+
+**Program-Centric Organization**: Culture is organized around programs (F-35, THAAD, Orion) rather than functions. Program managers have significant authority — creating strong execution on individual programs but weaker cross-program coordination.
+
+**International Complexity**: F-35's 15-nation partnership creates cultural complexity — each ally has different requirements, work-share demands, and decision-making processes. The organizational challenge of managing 15 nations' industrial participation is unprecedented.
+
+**Talent Competition**: Aerospace engineers and cleared personnel are in extreme demand. SpaceX, Northrop, RTX, and tech companies compete aggressively for Lockheed's talent.
+
+## Recent News & Trigger Events
+
+- [2025-12-01] — **Record 191 F-35 deliveries in 2025; $3.5B invested in production capacity and next-gen technologies** — Peak production + capacity investment = simultaneous operational scaling and future preparation. The coordination challenge between current delivery and future capability is where McChrystal creates value.
+- [2024-12-01] — **Chauncey McIntosh appointed VP & GM of F-35 program — new leader for the world's most expensive weapons program** — New program leader establishing operating norms for a 15-site, multi-nation production system. First 12 months are the highest-leverage moment for McChrystal engagement.
+- [2026-01-12] — **Secretary of War visited F-35 production facility in Fort Worth** — Government visibility signals increased political/defense attention on F-35 production execution — raising the organizational stakes.
+- [2025-06-01] — **Fort Worth facility transformation from F-16 to F-35 production continuing; 19,000 employees at single site** — Single-site transformation of 19,000 employees from one platform to another — a massive organizational change management challenge.
+- [2025-06-01] — **International F-35 demand accelerating as NATO allies increase defense spending post-Ukraine/Iran** — International demand growth = more complexity in 15-nation production sharing — the organizational coordination challenge multiplies.
+
+## McChrystal Fit Assessment
+
+**Rating**: Moderate
+ — Moderate: Enormous organizational complexity and genuine coordination challenges across F-35's global production network. New F-35 program leader creates an entry window. However, Lockheed's internal program management culture is strong, and the company has managed this complexity for 20+ years. Rating moves to Strong if: the new F-35 leader signals interest in external operating model support, OR if production rate acceleration creates coordination gaps that existing systems can't handle.
+
+**Primary Problem**: Scaling the world's largest defense program (F-35) across 15 global production sites and 15+ allied nations while simultaneously investing $3.5B in next-generation capabilities — requiring organizational coordination at a scale and complexity no defense company has ever managed.
+
+**Best Capability Fit**: Multi-site, multinational production coordination — the F-35 program is the largest Team of Teams challenge in defense. 15 production sites, 15+ nations, thousands of suppliers, and 122,000 employees must coordinate to deliver 200+ aircraft per year while maintaining quality, security, and allied partnership. McChrystal's military experience coordinating multinational forces is the direct analog.
+
+**Likely Objections**
+
+- Lockheed has managed F-35 production for 20+ years — why change now?
+- McKinsey/BCG already advise on production strategy
+- Defense program management is a specialized domain
+- Government oversight (DCMA, DCAA) adds complexity to external advisory
+
+**Competitive Landscape**
+
+- McKinsey Aerospace & Defense — production strategy, supply chain
+- BCG — operational transformation
+- Booz Allen Hamilton — defense-specific advisory
+- Internal: Lockheed has deep program management capability
+
+## Conversation Entry Points
+
+- **Q**: With 191 F-35 deliveries and 15 global production sites, what's the coordination mechanism that keeps all 15 sites synchronized — and where does it strain as production rates increase?
+  *Framing*: Specific, technical question showing deep understanding of F-35's organizational challenge.
+- **Q**: As NATO allies accelerate orders post-Ukraine/Iran, how is the 15-nation industrial participation model adapting — and where does cross-national coordination create the most friction?
+  *Framing*: Surface the international coordination challenge that gets harder with every new nation and every production rate increase.
+
+**Recommended First Meeting Framing**: Frame as a conversation about multinational force coordination — McChrystal's experience coordinating allied special operations across 15+ countries maps directly to F-35's 15-nation production partnership. The parallel is genuine and resonant with Lockheed's defense culture.
+
+## Brand Insights & Market Positioning
+
+**Brand Value**: Lockheed Martin is the most recognized name in global defense — synonymous with advanced military technology. The F-35 is the brand's flagship, representing the most expensive and complex weapons system in history. Brand equity extends to missile defense (THAAD, PAC-3), space (Orion), and classified programs (skunk works legacy).
+
+**Brand Threats**: F-35 sustainment cost criticism from DoD; production quality concerns if rate increases outpace coordination capability; competitor programs (NGAD) that could shift organizational focus.
+
+**McChrystal Connection**: Lockheed's brand promise of "delivering advanced defense capability" requires flawless coordination across the most complex production network in defense history. McChrystal's multi-site coordination model ensures the brand promise of technology leadership translates to production execution.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+#### Fit Dimension 1: F-35 Global Production Coordination
+15 production sites across 15+ allied nations, each with different regulatory requirements, work-share obligations, and cultural contexts. This is the most complex production coordination challenge in defense — and it's getting harder as production rates increase and nations add requirements. McChrystal's multinational force coordination experience is uniquely relevant.
+
+#### Fit Dimension 2: Cross-Segment Resource Coordination
+Four segments competing for shared resources (engineering talent, cleared personnel, manufacturing capacity, test facilities). Program managers optimize their own programs; enterprise leadership must optimize the portfolio. McChrystal's operating model balances segment autonomy with enterprise coordination.
+
+#### Fit Dimension 3: Current Production + Future Investment
+Delivering 191+ F-35s while investing $3.5B in next-gen capabilities requires organizational ambidexterity — running the current business at peak performance while building the future. McChrystal's dual-operating model expertise addresses this tension.
+
+### 9b. Cumulative Case
+
+Lockheed is the organizational coordination challenge at defense-industrial scale. Signal chain: Record demand → 15 global production sites → 15+ allied nations → new F-35 program leader → $3.5B capacity investment → workforce scaling → supply chain constraints. Revenue potential: $500K initial (F-35 coordination pilot), $1.5M-$2M deployment, $500K ongoing. Total: $2.5M-$3M.
+
+### 9c. Enterprise Issues
+
+**1. F-35 15-Nation Coordination**: Each nation has different industrial participation requirements, quality standards, and decision-making processes. Coordination overhead grows non-linearly with each new partner.
+**2. Production Rate vs. Quality**: Increasing production from 156 to 191 (and targeting higher) strains quality systems. Any quality escape in an advanced fighter aircraft has severe consequences.
+**3. Sustainment Cost Pressure**: DoD criticism of F-35 sustainment costs creates organizational tension between production focus and lifecycle cost reduction.
+**4. Talent Retention**: 122,000 employees in extreme demand from competitors. Critical engineering talent is the scarcest resource.
+**5. Supply Chain Brittleness**: Thousands of suppliers, many sole-source, create fragility at higher production rates.
+
+### 9d. Expected Outcomes
+
+**1. F-35 Production Coordination Enhancement**: Operating rhythm connecting 15 global sites. Measurable: production milestone variance reduced.
+**2. Cross-Segment Resource Optimization**: Enterprise coordination for shared resources. Measurable: resource allocation conflicts reduced by 40%.
+**3. New Program Leader Effectiveness**: Operating model for new F-35 leader. Measurable: leader effectiveness metrics established within 90 days.
+**4. Supplier Coordination**: Cross-site supply chain operating cadence. Measurable: supplier delivery performance improving.
+
+### 9e. Key Stakeholders
+
+| Function | Leader | Role | McChrystal Relevance |
+|---|---|---|---|
+| CEO | Jim Taiclet, Chairman/CEO | Enterprise leadership | Executive sponsor |
+| COO | Frank St. John [INFERRED] | Cross-segment operations | **Priority**: Enterprise coordination |
+| F-35 Program | Chauncey McIntosh, VP & GM | World's largest weapons program | **Priority**: Multi-site coordination |
+| CFO | Jay Malave | Capital allocation | Budget gatekeeper |
+| Aeronautics | [President] | F-35, F-16, classified | Largest segment |
+
+### 9f. Opportunity Thesis
+
+**Why Now**: New F-35 program leader (Dec 2024) + production rates increasing + international demand accelerating + $3.5B capacity investment. The organizational coordination demands are growing faster than the existing systems can handle.
+
+**Why McChrystal, Not McKinsey**: McKinsey advises on production strategy. But coordinating 15 global production sites across 15 allied nations is a military coalition management challenge, not a consulting challenge. McChrystal literally commanded multinational forces — the credibility is unchallengeable.
+
+**Phased Engagement**: Phase 1 ($400K-$500K): F-35 production coordination assessment. Phase 2 ($1M-$1.5M): Multi-site operating model deployment. Phase 3 ($500K retainer): Ongoing coordination management. Total: $2M-$2.5M.
+
+**Multi-Threaded Pursuit**: Chauncey McIntosh (F-35 program), Frank St. John (COO), Jim Taiclet (CEO via defense network). McChrystal's military connections with F-35 user commands (USAF, USMC, allied air forces). Defense conferences (AFA, Paris Air Show).
+
+
+---
+
+# Research Dossier — General Dynamics
+
+## Organization Snapshot
+
+- **Legal Name**: General Dynamics Corporation
+- **Headquarters**: Reston, Virginia
+- **Founded**: 1952
+- **Industry**: Defense & Aerospace
+- **Revenue**: $54.5B
+- **Employees**: 115K+
+- **Ownership**: Public (NYSE: GD); widely held institutional ownership. CEO Phebe Novakovic has led since 2013.
+- **Geographic Footprint**: Shipyards: Groton CT (Electric Boat — submarines), Bath ME (Bath Iron Works — destroyers), San Diego CA (NASSCO — auxiliary ships). Gulfstream: Savannah GA. Combat Systems: Sterling Heights MI, Lima OH, multiple international. GDIT: Falls Church VA, nationwide. 115,000 employees across U.S. and international operations.
+- **ICP Score**: 90
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue**: 2026 guidance $54.3-54.8B. FY2025 grew strongly with 1.5x book-to-bill. Record $118B backlog (+30% YoY); total estimated contract value $179B (+24%).
+
+**Profitability**: Operating margins guided to 10.4% for 2026 (+20bps). Aerospace margins ~14%. Marine margins improving but constrained by labor costs and program complexity. EPS guidance $16.10-16.20 for 2026.
+
+**Segment Outlook**: Aerospace (Gulfstream) $13.6B revenue; Marine Systems $17.3-17.7B; Combat Systems $9.6-9.7B; Technologies ~$13.5B.
+
+**Key Pressures**: Shipyard workforce shortage (can't hire fast enough for $53B Marine backlog); Bath Iron Works labor challenges; Virginia-class submarine production delays; Gulfstream G700/G800 certification timeline.
+
+**Key Tailwinds**: Record defense backlog; Virginia-class submarine demand (national priority); Gulfstream demand from ultra-high-net-worth individuals; GDIT federal IT demand; NATO allies increasing defense spending.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Kevin Graney** — President, Electric Boat [INFERRED]
+- Tenure: [INFERRED]
+- Background: Leads submarine construction — Virginia-class and Columbia-class — at the Groton CT shipyard
+- Why target: Electric Boat is ground zero for the $53B Marine backlog — building both Virginia-class and Columbia-class submarines simultaneously in a workforce-constrained shipyard. The organizational coordination between two nuclear submarine programs sharing the same facilities, trades workforce, and supply chain is the most complex industrial challenge in defense. McChrystal's operating model directly addresses this dual-program coordination.
+
+**Chuck Krugh** — President, Bath Iron Works [INFERRED]
+- Tenure: [INFERRED]
+- Background: Leads DDG-51 destroyer production at Bath, Maine; managing labor relations and production efficiency
+- Why target: Bath Iron Works faces acute workforce and production challenges — destroyer program execution under labor constraints. The shipyard's organizational culture, union dynamics, and production coordination needs align with McChrystal's operating model for safety-critical manufacturing environments.
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Phebe Novakovic | Chairman & Chief Executive Officer | Since 2013 | Former CIA officer; 12+ years as GD CEO; ranked among Fortune's Most Powerful Women; deep strategic and operational leader | Executive sponsor — longest-tenured defense CEO |
+| Jason Aiken | EVP & Chief Financial Officer | Since 2014 | Long-tenured CFO; manages capital allocation across diverse portfolio | — |
+| Kevin Graney | President, Electric Boat [INFERRED] | [INFERRED] | Leads submarine construction — Virginia-class and Columbia-class — at the Groton CT shipyard | — |
+| Chuck Krugh | President, Bath Iron Works [INFERRED] | [INFERRED] | Leads DDG-51 destroyer production at Bath, Maine; managing labor relations and production efficiency | — |
+| Mark Burns | EVP & President, Gulfstream | Since 2023 | Leads Gulfstream through G700/G800 certification and production transition | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Four business segments with significant autonomy: Aerospace (Gulfstream), Marine Systems (Electric Boat + BIW + NASSCO), Combat Systems, Technologies (GDIT). Corporate center in Reston, VA provides financial oversight and strategic direction. Novakovic's leadership style emphasizes segment accountability — each president runs their business with significant independence. The organizational challenge: coordinating across segments when Marine Systems needs shared corporate resources (talent, capital, executive attention) that other segments also demand.
+
+**Operational Discipline Culture**: Under Novakovic (former CIA), GD has a culture of quiet execution — no flashy announcements, just results. This creates strong program discipline but can limit cross-segment information sharing.
+
+**Shipyard Heritage Culture**: Electric Boat and Bath Iron Works have century-old shipbuilding cultures. These are craft-based organizations where skills pass through apprenticeships and institutional knowledge resides in veteran tradespeople. The workforce crisis threatens this knowledge transfer.
+
+**Segment Independence**: Each segment operates with significant autonomy — which drives accountability but creates silos. Marine Systems' $53B backlog demands enterprise-level attention that the segment-autonomous model may not support.
+
+**Labor Relations Complexity**: Bath Iron Works has a history of contentious labor relations (machinists' union). Electric Boat's workforce challenges are more about recruitment than relations. Each shipyard has distinct labor dynamics.
+
+## Recent News & Trigger Events
+
+- [2025-12-01] — **Record $118B backlog achieved; Marine backlog surged 38% to $53B with Virginia-class Block V contract** — Largest backlog in GD history creates organizational scaling demands that existing systems may not support — particularly in capacity-constrained shipyards
+- [2025-10-01] — **Virginia-class Block V contract awarded for two submarines including special mission variant** — Most complex submarine variant yet — adds technical and organizational complexity to an already strained shipyard production system
+- [2026-01-01] — **Shipyard workforce shortage identified as binding constraint on Marine backlog conversion** — The organizational challenge: recruiting, training, and retaining skilled tradespeople (welders, pipefitters, electricians) in a competitive labor market while maintaining nuclear-quality standards
+- [2025-06-01] — **Gulfstream G700/G800 production transition underway; targeting 160+ deliveries in 2026** — Aircraft model transition requires organizational coordination between design, production, certification, and customer delivery
+- [2026-01-28] — **FY2025 results beat forecasts; 2026 guidance: $54.3-54.8B revenue, 10.4% margins, $16.10-16.20 EPS** — Strong financial performance creates investment capacity for organizational improvements; shareholders expect continued execution on record backlog
+
+## McChrystal Fit Assessment
+
+**Rating**: Moderate
+ — Moderate: Massive organizational complexity (115,000 employees, $118B backlog, safety-critical shipbuilding). The shipyard workforce challenge is the clearest entry point — it's an organizational coordination problem (recruiting, training, retention, quality) not just an HR problem. Novakovic's long tenure and successful track record create a 'if it ain't broke' barrier. Rating moves to Strong if: shipyard production delays become visible, or if the dual-program coordination at Electric Boat (Virginia + Columbia) creates execution gaps. McChrystal's military credibility resonates strongly in submarine/naval culture.
+
+**Primary Problem**: Converting the largest backlog in company history ($118B, including $53B in Marine Systems) into delivered platforms — while shipyard workforce shortages, dual submarine program execution (Virginia + Columbia at Electric Boat), and Bath Iron Works labor challenges constrain capacity. The organizational coordination between workforce development, nuclear-qualified production, supply chain management, and quality assurance across three shipyards is the binding constraint.
+
+**Best Capability Fit**: Safety-critical production coordination in constrained environments — GD's shipyards build nuclear submarines and warships where organizational failure has national security and safety consequences. McChrystal's military experience in high-consequence operational environments provides unique credibility. The Team of Teams model connects autonomous shipyard operations (Electric Boat, BIW, NASSCO) into a coordinated Marine Systems enterprise. Novakovic's CIA background creates cultural affinity with McChrystal's military leadership approach.
+
+**Likely Objections**
+
+- Novakovic has run GD successfully for 12+ years — she doesn't need external help
+- Shipyard challenges are labor/workforce issues, not organizational design
+- GD's segment-autonomous model is intentional and successful
+- Defense shipbuilding is a highly specialized domain
+
+**Competitive Landscape**
+
+- McKinsey — defense strategy, production optimization
+- BCG — operational transformation
+- Internal: GD has deep program management capability built over decades
+- Specialized: shipbuilding-specific consultants
+
+## Conversation Entry Points
+
+- **Q**: With Electric Boat running Virginia-class and Columbia-class simultaneously in the same shipyard, how are you coordinating two nuclear submarine programs that share trades workforce, facilities, and supply chain?
+  *Framing*: Specific question about the most complex production coordination challenge in U.S. defense. Shows deep understanding that dual-program execution is an organizational challenge, not just a scheduling challenge.
+- **Q**: The Marine backlog grew 38% to $53B — but converting that into delivered ships requires workforce that doesn't exist yet. How is the organization approaching the workforce development pipeline at the speed the backlog demands?
+  *Framing*: Frame workforce as an organizational coordination challenge (recruiting + training + retention + quality + production) rather than an HR problem.
+
+**Recommended First Meeting Framing**: Frame as a conversation about coordinating complex operations in constrained environments — McChrystal's experience managing multi-unit military operations where resources were scarce and stakes were highest. The submarine/naval connection is genuine: McChrystal coordinated operations with Navy special warfare units throughout his career.
+
+## Brand Insights & Market Positioning
+
+**Brand Value**: General Dynamics carries a premium brand in defense (Electric Boat submarines, Abrams tanks) and luxury aviation (Gulfstream). The Gulfstream brand is the gold standard in business aviation. The defense brand stands for quiet, reliable execution — unlike flashier competitors.
+
+**Brand Threats**: Submarine production delays would damage the most important customer relationship in defense (U.S. Navy). Bath Iron Works labor challenges are publicly visible. Any quality incident in nuclear submarine construction would be catastrophic.
+
+**McChrystal Connection**: GD's brand promise of reliable defense delivery depends on shipyard execution — welders, pipefitters, and electricians building nuclear submarines to impossible tolerances. McChrystal's operating model ensures the organizational coordination between workforce development, production planning, quality assurance, and supply chain delivers on the brand promise.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+#### Fit Dimension 1: Dual Nuclear Submarine Program Coordination
+Electric Boat is simultaneously building Virginia-class and Columbia-class submarines in the same shipyard. These programs share trades workforce, facilities, supply chain, and quality inspection resources. Coordinating two nuclear programs without either degrading the other requires the exact operational coordination methodology McChrystal pioneered for multi-mission military operations.
+
+#### Fit Dimension 2: Shipyard Workforce Development as Organizational Challenge
+Recruiting, training, and retaining nuclear-qualified tradespeople is a multi-year, multi-function coordination challenge spanning HR, training, operations, quality, and union relations. It's not an HR problem — it's an enterprise organizational problem that determines whether the $53B backlog converts to delivered ships.
+
+#### Fit Dimension 3: Multi-Shipyard Coordination
+Three shipyards (Electric Boat, Bath Iron Works, NASSCO) with different programs, cultures, and labor dynamics must coordinate on shared resources, best practices, and enterprise-level priorities. McChrystal's Team of Teams connects autonomous units without destroying their operational independence.
+
+### 9b. Cumulative Case
+
+General Dynamics represents the defense-industrial coordination challenge at its most consequential: nuclear submarine programs where execution determines national security. Signal chain: Record $118B backlog → $53B Marine backlog → dual submarine programs → workforce shortage → shipyard capacity constraints → national priority status. Revenue potential: $400K-$500K initial (shipyard coordination assessment), $1M-$1.5M deployment, $400K ongoing. Total: $1.8M-$2.5M.
+
+### 9c. Enterprise Issues
+
+**1. Dual Nuclear Program Resource Competition**: Virginia-class and Columbia-class compete for the same skilled trades workers, facilities, and supply chain at Electric Boat. Every resource allocated to one program is unavailable for the other.
+**2. Workforce Pipeline Bottleneck**: Nuclear-qualified welders take 3-5 years to develop. Current training pipeline doesn't match backlog growth rate. Knowledge transfer from veteran to apprentice tradespeople is the critical path.
+**3. Bath Iron Works Labor Dynamics**: History of contentious union relations complicates workforce expansion and production improvement initiatives.
+**4. Multi-Shipyard Best Practice Sharing**: Three shipyards with different cultures and capabilities operate relatively independently. Cross-shipyard learning is limited by geography, culture, and organizational silos.
+**5. Enterprise Attention Allocation**: Marine's $53B backlog demands disproportionate corporate attention relative to other segments — creating organizational tension in the segment-autonomous model.
+
+### 9d. Expected Outcomes
+
+**1. Dual-Program Coordination Framework**: Operating rhythm for Virginia/Columbia resource sharing at Electric Boat. Measurable: resource allocation conflicts resolved without program schedule impact.
+**2. Workforce Development Acceleration**: Cross-functional coordination connecting recruiting, training, quality, and production. Measurable: time-to-qualified-welder reduced by 15%.
+**3. Multi-Shipyard Operating Rhythm**: Cross-shipyard coordination cadence for best practices and shared resources. Measurable: cross-shipyard best practice adoption increasing.
+**4. Production Execution Discipline**: Operating cadence for managing complex naval construction programs. Measurable: program milestones on-track with <10% variance.
+
+### 9e. Key Stakeholders
+
+| Function | Leader | Role | McChrystal Relevance |
+|---|---|---|---|
+| CEO | Phebe Novakovic, Chairman & CEO | Enterprise leadership (CIA background) | Executive sponsor — military/intel cultural affinity |
+| CFO | Jason Aiken, EVP & CFO | Capital allocation | Budget gatekeeper |
+| Electric Boat | Kevin Graney [INFERRED], President | Submarines (Virginia + Columbia) | **Priority**: Dual-program coordination |
+| Bath Iron Works | Chuck Krugh [INFERRED], President | Destroyers (DDG-51) | **Priority**: Labor/production coordination |
+| NASSCO | [President] | Auxiliary ships | Multi-shipyard coordination |
+| Gulfstream | Mark Burns, EVP & President | Business aviation | Model transition |
+| Technologies | [President, GDIT] | Federal IT/cybersecurity | Cross-segment coordination |
+
+### 9f. Opportunity Thesis
+
+**Why Now**: Record $118B backlog → $53B Marine backlog → dual submarine programs → workforce crisis → national priority. The organizational demands are growing faster than the existing systems can handle.
+
+**Why McChrystal, Not McKinsey**: Submarine construction is safety-critical, classified, and steeped in naval culture. McChrystal's military credentials provide access that no civilian consulting firm can match. Novakovic's CIA background creates leadership-level cultural affinity with McChrystal's military/intelligence community roots.
+
+**Phased Engagement**: Phase 1 ($400K-$500K): Electric Boat dual-program coordination assessment. Phase 2 ($700K-$1M): Multi-shipyard deployment + workforce development coordination. Phase 3 ($400K retainer): Ongoing production cadence management. Total: $1.5M-$2M.
+
+**Multi-Threaded Pursuit**: Electric Boat President (submarine coordination), BIW President (labor/production), Phebe Novakovic (CEO, CIA/military cultural bridge). Navy connections (submarine community); defense industrial events; Connecticut/Maine defense community.
+
+
+---
+
+# Research Dossier — Northrop Grumman
+
+## Organization Snapshot
+
+- **Legal Name**: Northrop Grumman Corporation
+- **Headquarters**: Falls Church, Virginia
+- **Founded**: 1994
+- **Industry**: Defense & Aerospace
+- **Revenue**: $42.0B
+- **Employees**: 100K+
+- **Ownership**: Public (NYSE: NOC); widely held institutional ownership.
+- **Geographic Footprint**: Major operations: Palmdale CA (B-21 final assembly), Redondo Beach CA (Space), Northrop Grumman Innovation Systems locations, Roy UT (Sentinel). 100,000 employees across U.S. and select international locations.
+- **ICP Score**: 87
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue**: $42.0B in FY2025 (up from prior year). Q4 2025: $11.7B (+9.6% YoY). Free cash flow $3.235B (+84%).
+
+**Profitability**: Net earnings $4.2B ($29.08/share). Adjusted 2026 guidance: $27.40-$27.90/share.
+
+**Backlog**: Record $95.7B — representing ~2.3 years of revenue. B-21 contract for accelerated production not yet fully reflected.
+
+**Capital Allocation**: $4.5B Air Force capacity expansion for B-21; Northrop investing additional $2-3B. Stock up 28% YTD in 2026.
+
+**Key Pressures**: Sentinel ICBM cost breach ($160B, up 81%); Sentinel IOC slipped to early 2030s; fixed-price risk on Sentinel; B-21 production ramp execution risk; cleared workforce competition.
+
+**Key Tailwinds**: B-21 production acceleration (25% capacity increase); record backlog; strong space and defense electronics portfolio; bipartisan support for nuclear modernization; global defense spending increase.
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Ann Addison** — Chief Human Resources Officer & Corporate VP
+- Tenure: [INFERRED since 2020]
+- Background: Leading talent strategy for 100,000 employees across classified programs
+- Why target: Owns the organizational challenge of scaling 100,000 employees across classified programs while competing for cleared engineers in the tightest aerospace labor market in decades. The workforce coordination across B-21 ramp-up, Sentinel restructuring, and space programs is the enterprise HR challenge that connects to McChrystal's operating model.
+
+**Matt Bromberg** — Corporate VP, Worldwide Operations
+- Tenure: [INFERRED]
+- Background: Oversees enterprise-wide programs, processes, quality, supply chain, and technology
+- Why target: Owns worldwide operations including the coordination between B-21 production ramp, Sentinel restructuring, and space programs across 100,000 employees. The operational tension between accelerating B-21 and fixing Sentinel is his daily challenge — and exactly where McChrystal's multi-program coordination methodology creates value.
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Kathy Warden | Chair, CEO & President | CEO since Jan 2019; Chair since 2019 | Named 2025 CNBC Changemaker; led Northrop through B-21 development and record backlog growth; engineering background | Executive sponsor — 7 years leading Northrop through its most consequential era |
+| Kenneth B. Crews | CFO & Corporate VP | Since October 2024 | New CFO managing $42B enterprise financial operations and $95.7B backlog conversion | — |
+| Ann Addison | Chief Human Resources Officer & Corporate VP | [INFERRED since 2020] | Leading talent strategy for 100,000 employees across classified programs | — |
+| Patrick M. Antkowiak | Chief Technology Officer & Corporate VP | [INFERRED] | Leading technology innovation across classified defense programs | — |
+| Lesley Kalan | Chief Strategy & Development Officer | [INFERRED] | Growth strategy, M&A, portfolio alignment | — |
+| Matt Bromberg | Corporate VP, Worldwide Operations | [INFERRED] | Oversees enterprise-wide programs, processes, quality, supply chain, and technology | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Four operating sectors: Aeronautics Systems (B-21, autonomous systems — Palmdale, CA), Defense Systems (Sentinel ICBM, battle management — multiple locations), Mission Systems (radar, sensors, electronic warfare), Space Systems (satellites, launch vehicles, James Webb). CEO Kathy Warden has built a strong leadership team but faces the structural challenge of managing programs that define national security for decades while organizational systems were built for a smaller, less complex enterprise.
+
+**Mission-Critical Identity**: Northrop employees deeply identify with the national security mission — building the B-21 and replacing the nation's ICBM fleet are generational programs. This creates intrinsic motivation but also intense pressure.
+
+**Glassdoor (3.9/5, 76% recommend)**: Generally positive for defense. Strengths: work-life balance (4.1), mission-driven culture. Weaknesses: micromanagement in some locations, frequent reorganization causing chaos, staffing imbalances creating mandatory overtime (50+ hours/week in some areas), facility deterioration. Some employees describe toxic cultures at specific sites.
+
+**Classified Program Silos**: Much of Northrop's work is classified, creating structural information barriers. Employees on different programs can't share what they're working on — limiting cross-program learning and organizational cohesion.
+
+**Talent Retention Challenge**: Employees report a 'revolving door' with many leaving for 20%+ pay raises at competitors. Young engineer retention is a particular concern — experienced people retiring faster than replacements can be trained on classified programs.
+
+## Recent News & Trigger Events
+
+- [2026-02-24] — **Air Force signed contract to accelerate B-21 Raider production — 25% capacity increase** — B-21 production acceleration means scaling manufacturing workforce, supply chain, and quality systems at a pace the organization hasn't attempted. Cross-functional coordination between Palmdale production, supplier network, and Air Force customer is critical.
+- [2025-09-01] — **Sentinel ICBM Nunn-McCurdy cost breach — costs doubled to ~$160B; Air Force restructuring program** — Most significant program management failure in Northrop's recent history. Organizational root causes — Army Corps of Engineers coordination, civil engineering scope underestimation, software delays — require systemic fixes.
+- [2026-02-01] — **Air Force expects to complete Sentinel restructure and achieve Milestone B by end of 2026** — Sentinel restructuring deadline creates organizational urgency — the program must demonstrate it can execute the revised plan within 2026 or face congressional intervention.
+- [2026-02-18] — **GAO reports Sentinel hit by software delays; first flight test now expected March 2028 (previously 2027)** — Software delays compound the cost breach — suggesting organizational coordination issues between hardware development, software integration, and testing teams.
+- [2025-12-01] — **Record $95.7B backlog achieved; 2026 revenue guidance $43.5-44B (mid-single-digit growth)** — Record backlog creates organizational scaling demands across every function — engineering, production, testing, and customer delivery must all scale while maintaining quality on classified programs.
+- [2025-06-01] — **$4.5B Air Force capacity expansion + $2-3B Northrop investment for B-21 production infrastructure** — $6.5-7.5B combined infrastructure investment requires massive cross-functional coordination between construction, equipment procurement, workforce hiring/training, and production planning.
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Strong: The B-21/Sentinel tension is the clearest organizational coordination challenge in defense — two programs of national consequence competing for resources, management attention, and organizational capacity. The Sentinel Nunn-McCurdy breach demonstrates that Northrop's existing organizational systems are inadequate for the current complexity. McChrystal's classified-environment coordination experience is uniquely differentiated. Revenue $42B and the national security stakes justify premium advisory. Kathy Warden is a strong, receptive leader who has demonstrated willingness to invest in organizational capability.
+
+**Primary Problem**: Managing the organizational tension between accelerating the B-21 bomber program (25% production capacity increase, $6.5-7.5B infrastructure investment) and fixing the Sentinel ICBM program ($160B cost breach, software delays, IOC slipped to early 2030s) — while maintaining execution on space systems and defense electronics across 100,000 employees working on the nation's most consequential classified programs.
+
+**Best Capability Fit**: Multi-program coordination in classified defense environments — Northrop's challenge is coordinating across programs that can't share information (classification barriers), competing for the same scarce resources (cleared engineers, test facilities), and operating under different cadences (B-21 accelerating, Sentinel restructuring). McChrystal's experience coordinating military operations across classification boundaries and security compartments is the direct analog — no consulting firm can match this capability.
+
+**Likely Objections**
+
+- Our programs are classified — external advisors create security complications
+- Kathy Warden has led successfully for 7 years — we don't need external organizational help
+- McKinsey/Booz Allen already advise on program strategy
+- Sentinel issues are technical/civil engineering, not organizational
+- B-21 is on track — why fix what isn't broken?
+
+**Competitive Landscape**
+
+- McKinsey Aerospace & Defense — program strategy, production optimization
+- Booz Allen Hamilton — defense-specific advisory (close competitor/collaborator)
+- BCG — operational transformation
+- Internal: Northrop has strong program management, but enterprise coordination across classified programs is the gap
+
+## Conversation Entry Points
+
+- **Q**: With B-21 production accelerating (25% capacity increase) while Sentinel restructures after the Nunn-McCurdy breach, how is the organization managing two programs of national consequence that are pulling in opposite directions — one speeding up, one being rebuilt?
+  *Framing*: Lead with the most compelling organizational tension in defense. Show understanding that this isn't about either program individually — it's about the enterprise coordinating both simultaneously.
+- **Q**: The $6.5-7.5B infrastructure investment for B-21 production means building new facilities, hiring thousands of cleared workers, and scaling quality systems — all while the Palmdale team maintains development discipline. How is that transition from development to production being managed organizationally?
+  *Framing*: Surface the development-to-production transition as an organizational transformation, not just a program milestone.
+- **Q**: With much of Northrop's work classified, how do you build enterprise-level organizational cohesion when employees on different programs literally can't share what they're working on?
+  *Framing*: Address the unique challenge of classified-environment organizations directly. McChrystal's JSOC experience — coordinating across classification compartments — is the credibility anchor.
+
+**Recommended First Meeting Framing**: Frame as a conversation about coordinating across classified programs — McChrystal literally built the operating model for this at JSOC, where compartmented intelligence programs had to coordinate operationally without breaching classification boundaries. This is the single strongest credibility claim McChrystal can make in defense: 'We coordinated classified operations across security compartments in combat. That's Northrop's enterprise challenge at a different scale.'
+
+## Brand Insights & Market Positioning
+
+**Brand Value**: Northrop Grumman is the brand of stealth, nuclear deterrence, and classified programs — the 'silent architect' of U.S. national security. The B-21 is the most visible brand asset; Sentinel (when it works) will be the most consequential. The James Webb Space Telescope is a brand halo effect.
+
+**Brand Evolution**: Northrop is evolving from 'prime contractor' to 'full-spectrum deterrence company' — a brand positioning that encompasses air (B-21), land (Sentinel), space (satellites), and cyber/electronic warfare. This brand elevation requires organizational coordination across traditionally separate program cultures.
+
+**Brand Threats**: Sentinel cost breach is the most significant brand threat — congressional scrutiny, DoD concern, and public perception of cost overruns erode the brand of execution excellence. Any B-21 production quality issues would compound the damage.
+
+**McChrystal Connection**: Northrop's brand promise of 'silent, reliable deterrence' depends on organizational execution across the most complex classified programs in defense history. When Sentinel's costs double and software delays accumulate, the brand of execution excellence erodes. McChrystal's operating model ensures the organizational coordination matches the technology ambition.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+#### Fit Dimension 1: B-21 vs. Sentinel Organizational Tension
+Two programs of national consequence competing for the same organization's resources, management attention, and cleared workforce. B-21 is accelerating (success mode); Sentinel is restructuring (recovery mode). These require fundamentally different organizational rhythms — speed vs. deliberation, expansion vs. remediation. McChrystal's multi-mission coordination model manages this tension without one program cannibalizing the other. McKinsey can advise on each program's strategy; McChrystal connects them into an enterprise that serves both.
+
+#### Fit Dimension 2: Classified-Environment Enterprise Coordination
+Much of Northrop's work is compartmented — employees on B-21 can't talk to Sentinel employees about technical details. Yet both programs share workforce, facilities, suppliers, and executive attention. McChrystal built the operating model for this exact challenge at JSOC — coordinating across classification boundaries while maintaining operational security. No consulting firm can credibly claim this capability.
+
+#### Fit Dimension 3: Development-to-Production Transition (B-21)
+B-21 is transitioning from development to low-rate production, with accelerated full-rate production ahead. This organizational transformation — from R&D culture to manufacturing discipline — is one of the hardest transitions in aerospace. The Palmdale facility must transform while maintaining the engineering rigor that made B-21 successful. McChrystal's transformation methodology preserves what works while building what's needed.
+
+#### Fit Dimension 4: Sentinel Restructuring Execution
+The Sentinel Nunn-McCurdy breach exposed organizational coordination failures — between Northrop, Army Corps of Engineers, telecommunications contractors, and the Air Force. Restructuring the program requires restructuring the organizational coordination model, not just the program plan. McChrystal's multi-stakeholder coordination model addresses this directly.
+
+### 9b. Cumulative Case — Why Northrop Grumman Is a Top Pipeline Opportunity
+
+Northrop is the most consequential defense prospect in the pipeline — two programs that define U.S. nuclear deterrence for 50 years, pulling the organization in opposite directions. Signal chain: B-21 success → acceleration contract → 25% capacity increase → $6.5-7.5B investment → WHILE → Sentinel cost breach → $160B → software delays → IOC slip to 2030s → restructuring. Revenue potential: $600K-$750K initial (enterprise coordination for B-21/Sentinel tension), $2M-$2.5M deployment, $750K ongoing. Total: $3.5M-$4M over 24 months. The national security stakes make this McChrystal's most meaningful potential engagement.
+
+### 9c. Enterprise Issues & Organizational Challenges
+
+**1. B-21/Sentinel Resource Competition**: Both programs need cleared aerospace engineers, test facilities, and executive attention. Every resource allocated to accelerating B-21 is unavailable for restructuring Sentinel. The enterprise lacks a formal mechanism for cross-program resource optimization.
+
+**2. Sentinel Coordination Failure Root Causes**: The Nunn-McCurdy breach was caused by civil engineering scope underestimation (silo infrastructure), cross-organizational coordination failures (Northrop → Army Corps of Engineers → telecom contractors), and software integration delays. These are organizational problems requiring organizational solutions.
+
+**3. Classification Barriers to Enterprise Cohesion**: Employees on classified programs can't share what they're working on with colleagues on other programs. This creates structural silos that prevent enterprise-level learning, resource sharing, and cultural cohesion.
+
+**4. Development-to-Production Culture Shift (B-21)**: The Palmdale team that developed B-21 must transform into a production organization — different skills, different processes, different quality systems, different mindset. This cultural transition determines whether B-21 delivers on its production promise.
+
+**5. Workforce Scaling Under Classification Constraints**: Hiring for classified programs requires security clearances that take 12-18 months. The B-21 production ramp needs thousands of new cleared workers — creating a multi-year pipeline challenge that must start now.
+
+**6. Facility Deterioration and Morale**: Glassdoor reviews cite run-down facilities, mandatory overtime, and constant reorganization. These morale factors affect the workforce executing the nation's most important defense programs.
+
+**7. Talent Retention**: The 'revolving door' problem — employees leaving for 20%+ raises at competitors — creates institutional knowledge loss on programs where knowledge transfer takes years due to classification restrictions.
+
+### 9d. Expected Outcomes from McChrystal Group Engagement
+
+**1. Enterprise B-21/Sentinel Coordination Framework**: Operating rhythm that manages the tension between accelerating B-21 and restructuring Sentinel without either cannibalizing the other. Measurable: zero unplanned resource conflicts between programs.
+
+**2. Sentinel Restructuring Execution Cadence**: Multi-stakeholder coordination system connecting Northrop, Army Corps of Engineers, telecom contractors, and Air Force. Measurable: Sentinel restructuring milestones on-track for Milestone B by end of 2026.
+
+**3. B-21 Production Transition Architecture**: Organizational design for Palmdale's transition from development to production culture. Measurable: production quality metrics established and on-target from first delivery.
+
+**4. Classified-Environment Enterprise Cohesion**: Cross-program coordination mechanisms that respect classification boundaries while enabling resource optimization. Measurable: enterprise-level resource allocation efficiency improving.
+
+**5. Workforce Pipeline Acceleration**: Cross-functional coordination between HR, security, training, and program management for cleared workforce scaling. Measurable: time-to-cleared-hire reduced; retention rates improving.
+
+**6. Facility and Morale Investment**: Organizational discipline connecting leadership attention to workforce conditions. Measurable: employee engagement scores improving at key sites.
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Business Unit / Function | Leader | Function | McChrystal Relevance |
+|---|---|---|---|
+| CEO | Kathy Warden, Chair/CEO/President | Enterprise leadership, national security mission | Executive sponsor — 7-year tenure, CNBC Changemaker |
+| CFO | Kenneth B. Crews, CFO & VP | Financial management, backlog conversion | Budget gatekeeper |
+| Worldwide Operations | Matt Bromberg, VP | Enterprise operations, quality, supply chain | **Priority**: Cross-program coordination |
+| CHRO | Ann Addison, CHRO & VP | 100,000 employee talent strategy | **Priority**: Workforce scaling and retention |
+| CTO | Patrick Antkowiak, CTO & VP | Technology innovation across classified programs | Technology coordination |
+| Strategy | Lesley Kalan, Chief Strategy Officer | Growth strategy, portfolio alignment | Strategic context |
+| Aeronautics (B-21) | [Sector VP] | B-21 production, autonomous systems | B-21 production transition |
+| Defense Systems (Sentinel) | [Sector VP] | Sentinel ICBM, battle management | Sentinel restructuring execution |
+| Mission Systems | [Sector VP] | Radar, sensors, electronic warfare | Cross-program coordination |
+| Space Systems | [Sector VP] | Satellites, launch vehicles, space sensors | Space program management |
+
+**Engagement Priority**:
+1. **Matt Bromberg (VP Worldwide Operations)** — enterprise coordination across programs
+2. **Ann Addison (CHRO)** — workforce scaling and retention challenge
+3. **Kathy Warden (CEO)** — executive sponsor via military/defense network
+4. **Sector VP, Aeronautics** — B-21 production transition
+
+### 9f. Opportunity Thesis
+
+**Strategic Signal Convergence — Why Now**: B-21 acceleration contract (Feb 2026) → $6.5-7.5B production investment → Sentinel Nunn-McCurdy breach ($160B) → software delays → IOC slip → restructuring deadline (end of 2026) → record $95.7B backlog → 100,000 employees at capacity. The convergence of B-21 acceleration and Sentinel restructuring in 2026 creates the highest-stakes organizational coordination challenge in U.S. defense. Every month without improved coordination increases national security risk.
+
+**The Structural Paradox — Why McChrystal, Not McKinsey**: McKinsey advises on program strategy. Booz Allen supports classified program execution. But neither has built operating models for classified-environment enterprise coordination where programs can't share information but must share resources. McChrystal did this at JSOC — coordinating across intelligence compartments, allied nations, and military services under combat pressure. The credibility transfer is direct and unchallengeable.
+
+**Phased Engagement Hypothesis — Land and Expand**:
+- **Phase 1 (Months 1-4, $500K-$750K)**: Enterprise B-21/Sentinel Coordination Framework — map the resource competition and coordination gaps between programs; design the operating cadence that manages both simultaneously. Include Sentinel restructuring execution support if timing aligns with Milestone B preparation.
+- **Phase 2 (Months 5-12, $1.5M-$2M)**: Enterprise deployment — B-21 production transition, workforce pipeline acceleration, cross-sector coordination.
+- **Phase 3 (Months 13-24, $750K retainer)**: Ongoing enterprise coordination, Sentinel execution monitoring, B-21 full-rate production support.
+
+**Competitive Displacement Strategy**: Don't compete with McKinsey on program strategy or Booz Allen on classified execution support. Own the enterprise coordination layer — the part where program boundaries, classification barriers, and resource competition create organizational friction that individual program advisors can't solve. Position: "Each program has advisors. Nobody is advising the enterprise on how to coordinate across them."
+
+**Multi-Threaded Pursuit Map**:
+- **Thread 1**: Matt Bromberg (VP Worldwide Operations) — enterprise coordination. Angle: "When B-21 is accelerating and Sentinel is restructuring simultaneously, where does the enterprise coordination system strain?"
+- **Thread 2**: Ann Addison (CHRO) — workforce scaling. Angle: "How are you building the cleared workforce pipeline fast enough for B-21's 25% production increase while retaining experienced people on Sentinel?"
+- **Thread 3**: Kathy Warden (CEO) via military/defense network — executive sponsor. McChrystal's personal network intersects with Northrop's government advisory relationships, board members, and Air Force leadership. A personal introduction carries weight.
+- **Warm Introduction Vectors**: Air Force/nuclear enterprise leadership (B-21 and Sentinel customer commands); McChrystal personal network with flag officers and defense leaders; AUSA/AFA conferences; Strategic Command relationships; Northrop government advisory board connections.
