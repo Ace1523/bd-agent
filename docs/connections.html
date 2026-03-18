@@ -386,6 +386,8 @@
     let sortCol = null;
     let sortDir = 'asc';
     let seniorityFilter = 'all'; // 'all' | 'senior'
+    let companyFilter = ''; // '' = all companies, or specific company name
+    let leaderFilter = ''; // '' = all leaders, or specific leader name
     const SENIOR_REGEX = /\b(CEO|CFO|COO|CTO|CIO|CISO|CMO|CHRO|CRO|Chief|President|Vice President|VP|SVP|EVP|AVP|Director|Managing Director|General Manager|Partner|Head of|General Counsel|Board|Senior Vice|Sr\.? Director|Senior Director|Executive)\b/i;
 
     const isEmbed = new URLSearchParams(window.location.search).has('embed');
@@ -484,7 +486,7 @@
         currentRegion = data.regions.find(r => r.name === key);
       }
       activePartner = null;
-      seniorityFilter = 'all';
+      seniorityFilter = 'all'; companyFilter = ''; leaderFilter = '';
       sortCol = null; sortDir = 'asc';
       currentTab = 'leaders';
       renderNavRegions();
@@ -653,9 +655,24 @@
           return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
         });
       }
-      if (!rows.length) return '<div class="empty-state">No leaders match the current filter.</div>';
+      const allCompanyNames = [...new Set(rows.map(r => r.company_name))].sort();
+      const allLeaderNames = [...new Set(rows.map(r => r.name))].sort();
+      if (companyFilter) rows = rows.filter(r => r.company_name === companyFilter);
+      if (leaderFilter) rows = rows.filter(r => r.name === leaderFilter);
+      if (!rows.length && !allCompanyNames.length) return '<div class="empty-state">No leaders match the current filter.</div>';
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
-      return `<table class="data-table"><thead><tr>
+      return `<div class="seniority-bar">
+        <select class="seniority-select" id="company-select">
+          <option value="">All Companies (${allCompanyNames.length})</option>
+          ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
+        </select>
+        <select class="seniority-select" id="leader-select">
+          <option value="">All Leaders (${allLeaderNames.length})</option>
+          ${allLeaderNames.map(n => `<option value="${esc(n)}"${leaderFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
+        </select>
+        <span class="seniority-count">${rows.length} executive connections</span>
+      </div>
+      <table class="data-table"><thead><tr>
         <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Company ${arrow('company_name')}</th>
         <th data-sort="name" class="${sortCol === 'name' ? 'sorted' : ''}">Leader ${arrow('name')}</th>
         <th data-sort="role" class="${sortCol === 'role' ? 'sorted' : ''}">Role ${arrow('role')}</th>
@@ -687,12 +704,22 @@
           return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
         });
       }
-      if (!rows.length) return '<div class="empty-state">No connections match the current filters.</div>';
+      // Build unique company list for dropdown (before company filter is applied)
+      const allCompanyNames = [...new Set(rows.map(r => r.company_name))].sort();
+      // Now apply company filter
+      if (companyFilter) {
+        rows = rows.filter(r => r.company_name === companyFilter);
+      }
+      if (!rows.length && !allCompanyNames.length) return '<div class="empty-state">No connections match the current filters.</div>';
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
       return `<div class="seniority-bar">
         <select class="seniority-select" id="seniority-select">
           <option value="all"${seniorityFilter === 'all' ? ' selected' : ''}>All Levels</option>
           <option value="senior"${seniorityFilter === 'senior' ? ' selected' : ''}>Senior Leadership</option>
+        </select>
+        <select class="seniority-select" id="company-select">
+          <option value="">All Companies (${allCompanyNames.length})</option>
+          ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <span class="seniority-count">${rows.length} connections</span>
       </div>
@@ -753,7 +780,7 @@
       document.querySelectorAll('.list-tab').forEach(tab => {
         tab.addEventListener('click', () => {
           currentTab = tab.dataset.tab;
-          sortCol = null; sortDir = 'asc'; seniorityFilter = 'all';
+          sortCol = null; sortDir = 'asc'; seniorityFilter = 'all'; companyFilter = '';
           document.querySelectorAll('.list-tab').forEach(t => t.classList.remove('active'));
           tab.classList.add('active');
           document.getElementById('list-content').innerHTML = renderTabContent();
@@ -788,13 +815,32 @@
 
     function bindSeniorityFilter() {
       const sel = document.getElementById('seniority-select');
-      if (!sel) return;
-      sel.addEventListener('change', () => {
-        seniorityFilter = sel.value;
-        sortCol = null; sortDir = 'asc';
-        document.getElementById('list-content').innerHTML = renderTabContent();
-        bindTableSort();
-      });
+      if (sel) {
+        sel.addEventListener('change', () => {
+          seniorityFilter = sel.value;
+          sortCol = null; sortDir = 'asc';
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
+        });
+      }
+      const coSel = document.getElementById('company-select');
+      if (coSel) {
+        coSel.addEventListener('change', () => {
+          companyFilter = coSel.value;
+          sortCol = null; sortDir = 'asc';
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
+        });
+      }
+      const ldSel = document.getElementById('leader-select');
+      if (ldSel) {
+        ldSel.addEventListener('change', () => {
+          leaderFilter = ldSel.value;
+          sortCol = null; sortDir = 'asc';
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
+        });
+      }
     }
 
     // ── Search ──
