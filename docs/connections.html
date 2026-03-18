@@ -412,12 +412,36 @@
         const resp = await fetch("connections.json");
         if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
         data = await resp.json();
-        // Default to All Regions
-        currentRegion = null;
-        currentRegionKey = 'all';
+        // Check for deep link params
+        const params = new URLSearchParams(window.location.search);
+        const linkedRegion = params.get('region');
+        const linkedCompany = params.get('company');
+        if (linkedRegion && data.regions.find(r => r.name === linkedRegion)) {
+          currentRegionKey = linkedRegion;
+          currentRegion = data.regions.find(r => r.name === linkedRegion);
+        } else {
+          currentRegion = null;
+          currentRegionKey = 'all';
+        }
         renderNavRegions();
         render();
         setupSearch();
+
+        // If deep-linked to a company, highlight it in the table
+        if (linkedCompany) {
+          setTimeout(() => {
+            const decoded = decodeURIComponent(linkedCompany);
+            const rows = document.querySelectorAll('.data-table tbody tr');
+            for (const row of rows) {
+              const nameCell = row.querySelector('.company-name');
+              if (nameCell && nameCell.textContent.trim().toLowerCase().includes(decoded.toLowerCase())) {
+                row.style.background = 'rgba(196, 90, 28, 0.08)';
+                row.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                break;
+              }
+            }
+          }, 100);
+        }
       } catch (err) {
         document.getElementById("main-content").innerHTML =
           '<div class="empty-state">Could not load connections.json.<br>Run <code>python3 import_linkedin.py</code></div>';

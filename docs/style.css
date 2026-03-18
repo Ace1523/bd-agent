@@ -1586,6 +1586,81 @@ body {
   border: 1px solid rgba(218, 97, 35, 0.25);
 }
 
+/* ── Warm Path Badges ── */
+.warm-path-badge {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: rgba(74, 158, 255, 0.08);
+  color: #5aafff;
+  border: 1px solid rgba(74, 158, 255, 0.25);
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+.warm-path-badge:hover {
+  background: rgba(74, 158, 255, 0.15);
+  box-shadow: 0 0 8px rgba(74, 158, 255, 0.15);
+}
+
+.warm-path-detail {
+  margin-bottom: 14px;
+  padding: 10px 14px;
+  background: rgba(74, 158, 255, 0.04);
+  border-radius: var(--radius-sm);
+  border-left: 3px solid #5aafff;
+}
+.warm-path-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #5aafff;
+  margin-bottom: 6px;
+}
+.warm-path-exec {
+  font-size: 9px;
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: rgba(218, 97, 35, 0.12);
+  color: var(--accent);
+  margin-left: 6px;
+  letter-spacing: 0.5px;
+}
+.warm-path-partners {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+.warm-path-partner {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 4px;
+  background: rgba(168, 138, 240, 0.08);
+  color: var(--purple);
+  border: 1px solid rgba(168, 138, 240, 0.15);
+}
+.warm-path-count {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-left: 4px;
+}
+.warm-path-link {
+  font-size: 12px;
+  color: #5aafff;
+  text-decoration: none;
+  font-weight: 500;
+}
+.warm-path-link:hover {
+  text-decoration: underline;
+}
+
 /* ── Connections iframe ── */
 #view-connections {
   padding: 0 !important;

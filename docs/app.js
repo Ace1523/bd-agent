@@ -1,6 +1,8 @@
 /* McChrystal Overwatch Agent — Client-side SPA */
 
 let dashboardData = null;
+let connectionsData = null;
+let warmPathsMap = {}; // company_name_lower -> { partners: [{name, count}], region, hasExecutive }
 
 // ── Init ──
 document.addEventListener("DOMContentLoaded", () => {
@@ -61,9 +63,16 @@ async function loadData() {
   });
 
   try {
-    const resp = await fetch("dashboard.json");
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    dashboardData = await resp.json();
+    const [dashResp, connResp] = await Promise.all([
+      fetch("dashboard.json"),
+      fetch("connections.json").catch(() => null)
+    ]);
+    if (!dashResp.ok) throw new Error(`HTTP ${dashResp.status}`);
+    dashboardData = await dashResp.json();
+    if (connResp && connResp.ok) {
+      connectionsData = await connResp.json();
+      buildWarmPathsMap();
+    }
     renderAll();
   } catch (err) {
     views.forEach((v) => {
@@ -77,6 +86,72 @@ async function loadData() {
         </div>`;
     });
     console.error("Failed to load dashboard data:", err);
+  }
+}
+
+function buildWarmPathsMap() {
+  if (!connectionsData) return;
+  warmPathsMap = {};
+  for (const region of connectionsData.regions || []) {
+    for (const co of region.companies || []) {
+      const key = co.company_name.trim().toLowerCase();
+      const partnerCounts = {};
+      for (const conn of co.company_connections || []) {
+        const p = conn.mg_partner;
+        if (p) partnerCounts[p] = (partnerCounts[p] || 0) + 1;
+      }
+      const hasExec = co.leaders.some(l => l.mg_point_of_contact);
+      warmPathsMap[key] = {
+        company_name: co.company_name,
+        region: region.name,
+        partners: Object.entries(partnerCounts)
+          .map(([name, count]) => ({ name, count }))
+          .sort((a, b) => b.count - a.count),
+        hasExecutive: hasExec,
+        connectionCount: co.connection_count,
+      };
+    }
+  }
+}
+
+function getWarmPaths(companyName) {
+  if (!companyName) return null;
+  const key = companyName.trim().toLowerCase();
+  // Exact match first
+  if (warmPathsMap[key]) return warmPathsMap[key];
+  // Fuzzy: check if either contains the other
+  for (const [k, v] of Object.entries(warmPathsMap)) {
+    if (key.includes(k) || k.includes(key)) return v;
+  }
+  return null;
+}
+
+function warmPathBadgeHTML(companyName) {
+  const wp = getWarmPaths(companyName);
+  if (!wp) return '';
+  const partnerList = wp.partners.slice(0, 3).map(p => p.name.split(' ')[1] || p.name.split(' ')[0]).join(', ');
+  return `<a href="#" class="warm-path-badge" onclick="event.stopPropagation(); navigateToConnections('${encodeURIComponent(wp.company_name)}', '${wp.region}'); return false;" title="${wp.partners.map(p => p.name + ' (' + p.count + ')').join(', ')}">&#128279; Warm Path${wp.hasExecutive ? ' ★' : ''}</a>`;
+}
+
+function warmPathDetailHTML(companyName) {
+  const wp = getWarmPaths(companyName);
+  if (!wp) return '';
+  const pills = wp.partners.map(p =>
+    `<span class="warm-path-partner">${p.name} <span class="warm-path-count">${p.count}</span></span>`
+  ).join('');
+  return `<div class="warm-path-detail">
+    <div class="warm-path-label">Warm Paths${wp.hasExecutive ? ' <span class="warm-path-exec">Executive</span>' : ''}</div>
+    <div class="warm-path-partners">${pills}</div>
+    <a href="#" class="warm-path-link" onclick="event.stopPropagation(); navigateToConnections('${encodeURIComponent(wp.company_name)}', '${wp.region}'); return false;">View in Connections &#8594;</a>
+  </div>`;
+}
+
+function navigateToConnections(companyName, region) {
+  // Switch to connections tab and pass company to iframe
+  switchTab('connections');
+  const iframe = document.querySelector('.connections-frame');
+  if (iframe) {
+    iframe.src = 'connections.html?embed=1&region=' + encodeURIComponent(region) + '&company=' + companyName;
   }
 }
 
@@ -517,6 +592,7 @@ function prospectCard(p) {
         <div class="card-badges">
           ${p.tier ? `<span class="tier-badge ${tierClass(p.tier)}">${tierLabel(p.tier)}</span>` : ""}
           <span class="score-badge ${scoreClass(p.score)}">${Math.round(p.score)}</span>
+          ${warmPathBadgeHTML(p.company_name)}
         </div>
       </div>
       <div class="card-meta">
@@ -526,6 +602,7 @@ function prospectCard(p) {
       </div>
       ${blurb ? `<div class="card-blurb">${escapeHtml(blurb)}</div>` : ""}
       <div class="card-detail">
+        ${warmPathDetailHTML(p.company_name)}
         ${p.company_overview ? `
           <div class="detail-section">
             <div class="detail-section-label">Company Overview</div>
@@ -638,6 +715,7 @@ function dossierCard(d) {
         <div class="card-badges">
           ${fa ? `<span class="tier-badge ${ratingClass}" style="font-size:11px;">${ratingLabel}</span>` : ""}
           <span class="score-badge ${scoreClass(p.score || 0)}">${Math.round(p.score || 0)}</span>
+          ${warmPathBadgeHTML(p.company_name)}
         </div>
       </div>
       <div class="card-meta">
@@ -648,6 +726,7 @@ function dossierCard(d) {
       </div>
       ${blurb ? `<div class="card-blurb">${escapeHtml(blurb)}</div>` : ""}
       <div class="dossier-detail">
+        ${warmPathDetailHTML(p.company_name)}
         ${orgSnapshotSection(d)}
         ${companyOverviewSection(d)}
         ${d.financial_health ? textSection("Financial Health", d.financial_health) : ""}
@@ -975,6 +1054,7 @@ function outreachCard(pkg) {
         <div class="card-badges">
           ${fa ? `<span class="tier-badge ${ratingClass}" style="font-size:11px;">${ratingLabel}</span>` : ""}
           <span class="score-badge ${scoreClass(p.score || 0)}">${Math.round(p.score || 0)}</span>
+          ${warmPathBadgeHTML(p.company_name)}
         </div>
       </div>
       <div class="card-meta">
@@ -982,6 +1062,7 @@ function outreachCard(pkg) {
         <span>${coldEmails.length} versions${pkg.linkedin_message ? " + LinkedIn" : ""}</span>
       </div>
       ${tc.name ? `
+        ${warmPathDetailHTML(p.company_name)}
         <div style="margin-top:10px; padding:10px 12px; background:var(--bg-surface); border-radius:var(--radius-sm); border-left:3px solid var(--accent);">
           <div style="font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--ui-bright); margin-bottom:6px;">Target Contact</div>
           <div style="margin-bottom:4px;">
