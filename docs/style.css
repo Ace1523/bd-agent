@@ -1587,10 +1587,24 @@ body {
 }
 
 /* ── Connections iframe ── */
+#view-connections {
+  padding: 0 !important;
+  margin: 0;
+  max-width: none;
+  position: absolute;
+  top: 56px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+#view-connections.active {
+  display: block;
+  height: calc(100vh - 56px);
+}
 .connections-frame {
   width: 100%;
-  height: calc(100vh - 56px);
+  height: 100%;
   border: none;
-  border-radius: 0;
+  display: block;
   background: #faf9f7;
 }
