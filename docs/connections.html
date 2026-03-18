@@ -419,6 +419,7 @@
         if (linkedRegion && data.regions.find(r => r.name === linkedRegion)) {
           currentRegionKey = linkedRegion;
           currentRegion = data.regions.find(r => r.name === linkedRegion);
+          if (linkedCompany) currentTab = 'connections'; // land on All Company Connections
         } else {
           currentRegion = null;
           currentRegionKey = 'all';
