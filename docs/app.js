@@ -54,6 +54,7 @@ function setupScrollTop() {
 
 async function loadData() {
   const views = ["home", "pipeline", "research", "outreach", "proposals", "how-it-works", "future", "markets"];
+  const iframeViews = ["connections"]; // these have their own loading
   views.forEach((v) => {
     document.getElementById(`view-${v}`).innerHTML =
       '<div class="loading">Loading data...</div>';

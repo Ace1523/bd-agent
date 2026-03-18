@@ -4,45 +4,42 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>McChrystal Group — LinkedIn Connections</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #06080c;
-      --bg-raised: #0c1018;
-      --bg-surface: #111620;
-      --bg-hover: #161c28;
-      --border: #1e2636;
-      --accent: #da6123;
-      --accent-hover: #e8783f;
-      --accent-glow: rgba(218, 97, 35, 0.10);
-      --ui: #7c8594;
-      --ui-bright: #a0a8b4;
-      --text: #e8edf4;
-      --text-secondary: #b0b8c8;
-      --text-muted: #6b7588;
-      --green: #5cb870;
-      --green-bg: rgba(92, 184, 112, 0.08);
-      --green-text: #6fcf80;
-      --amber: #d4a82e;
-      --amber-bg: rgba(212, 168, 46, 0.08);
-      --amber-text: #e0b840;
-      --purple: #a88af0;
-      --purple-bg: rgba(168, 138, 240, 0.08);
-      --blue: #7ab8f5;
-      --blue-bg: rgba(74, 158, 255, 0.08);
-      --red: #ef5f5a;
-      --red-bg: rgba(239, 95, 90, 0.08);
-      --shadow-sm: 0 1px 3px rgba(0,0,0,0.5);
-      --shadow-md: 0 4px 12px rgba(0,0,0,0.6);
-      --shadow-lg: 0 8px 24px rgba(0,0,0,0.7);
-      --radius: 10px;
-      --radius-sm: 6px;
-      --transition: 0.18s ease;
+      --bg: #faf9f7;
+      --bg-raised: #ffffff;
+      --bg-surface: #f3f1ee;
+      --bg-hover: #edeae6;
+      --border: #e5e2dc;
+      --border-light: #eeebe6;
+      --accent: #c45a1c;
+      --accent-light: #e8783f;
+      --accent-bg: rgba(196, 90, 28, 0.06);
+      --text: #1a1a1a;
+      --text-secondary: #555555;
+      --text-muted: #999999;
+      --green: #2d8a4e;
+      --green-bg: rgba(45, 138, 78, 0.06);
+      --green-text: #2d8a4e;
+      --amber: #a67c00;
+      --amber-bg: rgba(166, 124, 0, 0.06);
+      --amber-text: #8a6800;
+      --purple: #7c5cbf;
+      --purple-bg: rgba(124, 92, 191, 0.06);
+      --blue: #2563eb;
+      --blue-bg: rgba(37, 99, 235, 0.05);
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+      --shadow-md: 0 2px 8px rgba(0,0,0,0.06);
+      --shadow-lg: 0 4px 16px rgba(0,0,0,0.08);
+      --radius: 12px;
+      --radius-sm: 8px;
+      --transition: 0.15s ease;
       --font-mono: 'JetBrains Mono', monospace;
     }
 
     @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(6px); }
+      from { opacity: 0; transform: translateY(8px); }
       to { opacity: 1; transform: translateY(0); }
     }
 
@@ -59,406 +56,324 @@
 
     /* ── Nav ── */
     .topnav {
-      background: #04060a;
+      background: var(--bg-raised);
       display: flex;
       align-items: center;
-      padding: 0 24px;
-      height: 56px;
+      padding: 0 32px;
+      height: 60px;
       position: sticky;
       top: 0;
       z-index: 100;
-      box-shadow: 0 1px 0 rgba(218, 97, 35, 0.08), 0 4px 16px rgba(0,0,0,0.5);
+      border-bottom: 1px solid var(--border);
     }
-    .nav-brand {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      margin-right: 32px;
+    .nav-brand { display: flex; align-items: center; gap: 10px; margin-right: 36px; }
+    .brand-icon { font-size: 16px; color: var(--accent); }
+    .brand-text {
+      font-weight: 700; font-size: 14px; letter-spacing: 0.5px;
+      color: var(--text); opacity: 0.85;
     }
-    .brand-icon { font-size: 18px; color: var(--accent); }
-    .brand-text { font-weight: 700; font-size: 15px; letter-spacing: 1.5px; color: var(--text); }
     .nav-link {
-      color: var(--ui);
-      text-decoration: none;
-      font-size: 13px;
-      font-weight: 500;
-      padding: 8px 14px;
-      border-radius: var(--radius-sm);
+      color: var(--text-muted); text-decoration: none; font-size: 13px; font-weight: 500;
+      padding: 8px 14px; border-radius: var(--radius-sm); transition: all var(--transition);
+      cursor: pointer;
+    }
+    .nav-link:hover { color: var(--text); background: var(--bg-surface); }
+    .nav-regions {
+      display: flex; gap: 4px; margin-left: 12px;
+      background: var(--bg-surface); border-radius: 8px; padding: 3px;
+    }
+    .nav-region-tab {
+      font-size: 13px; font-weight: 500; padding: 6px 16px;
+      background: transparent; border: none; color: var(--text-muted);
+      cursor: pointer; transition: all var(--transition);
+      border-radius: 6px;
+    }
+    .nav-region-tab:hover { color: var(--text); background: var(--bg-hover); }
+    .nav-region-tab.active {
+      color: var(--text); font-weight: 600;
+      background: var(--bg-raised); box-shadow: var(--shadow-sm);
+    }
+    .nav-region-tab.placeholder { color: var(--text-muted); }
+    .nav-region-tab.placeholder:hover { color: var(--text-secondary); background: var(--bg-hover); }
+    .nav-region-tab.placeholder.active { color: var(--text-secondary); background: var(--bg-raised); box-shadow: var(--shadow-sm); }
+    .nav-search { margin-left: auto; position: relative; }
+    .nav-search input {
+      background: var(--bg-surface); border: 1px solid var(--border);
+      border-radius: 20px; color: var(--text); font-size: 13px;
+      padding: 7px 16px; width: 240px; outline: none;
       transition: all var(--transition);
     }
-    .nav-link:hover { color: var(--text); background: var(--bg-hover); }
-    .nav-search {
-      margin-left: auto;
-      position: relative;
-    }
-    .nav-search input {
-      background: var(--bg-surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      color: var(--text);
-      font-size: 13px;
-      padding: 6px 12px;
-      width: 220px;
-      outline: none;
-      transition: border-color var(--transition);
-    }
-    .nav-search input:focus { border-color: var(--accent); }
+    .nav-search input:focus { border-color: var(--accent); background: var(--bg-raised); box-shadow: 0 0 0 3px var(--accent-bg); }
     .nav-search input::placeholder { color: var(--text-muted); }
     .search-results {
-      position: absolute;
-      top: 100%;
-      right: 0;
-      width: 320px;
-      background: var(--bg-raised);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      max-height: 300px;
-      overflow-y: auto;
-      display: none;
-      z-index: 200;
-      box-shadow: var(--shadow-lg);
+      position: absolute; top: calc(100% + 6px); right: 0; width: 380px;
+      background: var(--bg-raised); border: 1px solid var(--border);
+      border-radius: var(--radius); max-height: 360px; overflow-y: auto;
+      display: none; z-index: 200; box-shadow: var(--shadow-lg);
     }
     .search-results.visible { display: block; }
     .search-result-item {
-      padding: 10px 14px;
-      cursor: pointer;
-      border-bottom: 1px solid var(--border);
+      padding: 12px 16px; cursor: pointer; border-bottom: 1px solid var(--border-light);
       transition: background var(--transition);
     }
-    .search-result-item:hover { background: var(--bg-hover); }
+    .search-result-item:hover { background: var(--bg-surface); }
     .search-result-item:last-child { border-bottom: none; }
-    .search-result-name { font-size: 13px; font-weight: 600; color: var(--text); }
-    .search-result-meta { font-size: 11px; color: var(--text-muted); }
+    .search-result-name { font-size: 14px; font-weight: 600; color: var(--text); }
+    .search-result-meta { font-size: 12px; color: var(--text-muted); margin-top: 1px; }
 
     /* ── Content ── */
-    .content { max-width: 1280px; margin: 0 auto; padding: 28px 24px 60px; }
+    .content { max-width: 1120px; margin: 0 auto; padding: 40px 32px 80px; }
 
-    /* ── KPI Row ── */
-    .kpi-row {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-      gap: 14px;
-      margin-bottom: 28px;
+    /* ── Breadcrumb ── */
+    .breadcrumb {
+      display: flex; align-items: center; gap: 8px; margin-bottom: 8px;
+      font-size: 13px; color: var(--text-muted);
     }
-    .kpi-card {
-      background: var(--bg-raised);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 18px 20px;
-      text-align: center;
+    .breadcrumb a { color: var(--accent); text-decoration: none; cursor: pointer; }
+    .breadcrumb a:hover { text-decoration: underline; }
+    .breadcrumb .sep { color: var(--border); font-size: 10px; }
+    .breadcrumb .current { color: var(--text-secondary); font-weight: 500; }
+
+    /* ── Page Title ── */
+    .page-title {
+      font-size: 32px; font-weight: 800; color: var(--text);
+      letter-spacing: -0.8px; line-height: 1.2;
     }
-    .kpi-value {
-      font-size: 28px;
-      font-weight: 800;
-      color: var(--accent);
-      font-family: var(--font-mono);
-      line-height: 1.2;
-    }
-    .kpi-label {
-      font-size: 11px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-      color: var(--ui);
-      margin-top: 4px;
+    .page-subtitle {
+      font-size: 15px; color: var(--text-muted); margin-top: 6px;
+      margin-bottom: 36px; font-weight: 400;
     }
 
-    /* ── Partner Breakdown ── */
-    .partner-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-bottom: 24px;
+    /* ── Global KPIs (landing) ── */
+    .global-kpis {
+      display: grid; grid-template-columns: repeat(5, 1fr); gap: 1px;
+      margin-bottom: 48px; background: var(--border);
+      border-radius: var(--radius); overflow: hidden;
+      box-shadow: var(--shadow-sm);
     }
-    .partner-chip {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      background: var(--bg-raised);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      padding: 6px 14px;
-      font-size: 13px;
-      color: var(--text-secondary);
-      cursor: pointer;
-      transition: all var(--transition);
+    .global-kpi {
+      background: var(--bg-raised); padding: 24px 20px; text-align: center;
     }
-    .partner-chip:hover { border-color: var(--accent); color: var(--text); }
-    .partner-chip.active { border-color: var(--accent); background: var(--accent-glow); color: var(--text); }
-    .partner-chip .count {
-      font-family: var(--font-mono);
-      font-size: 12px;
-      font-weight: 700;
-      color: var(--accent);
-      background: rgba(218, 97, 35, 0.12);
-      padding: 1px 7px;
-      border-radius: 10px;
+    .global-kpi-value {
+      font-family: var(--font-mono); font-size: 28px; font-weight: 700;
+      color: var(--text); line-height: 1.2;
+    }
+    .global-kpi-label {
+      font-size: 11px; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 1px; color: var(--text-muted); margin-top: 4px;
     }
 
-    /* ── Filter Pills ── */
-    .filter-bar {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
+    /* ── Region Selector ── */
+    .region-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 20px;
+    }
+    .region-card {
+      background: var(--bg-raised); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 32px;
+      cursor: pointer; transition: all 0.2s ease;
+      position: relative;
+    }
+    .region-card:hover {
+      border-color: var(--accent);
+      box-shadow: var(--shadow-md), 0 0 0 1px var(--accent-bg);
+      transform: translateY(-2px);
+    }
+    .region-card-code {
+      font-family: var(--font-mono); font-size: 12px; font-weight: 600;
+      color: var(--accent); letter-spacing: 2px; margin-bottom: 4px;
+    }
+    .region-card-name {
+      font-size: 24px; font-weight: 800; color: var(--text);
+      letter-spacing: -0.5px; margin-bottom: 20px;
+    }
+    .region-stats {
+      display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
       margin-bottom: 20px;
     }
-    .filter-pill {
-      font-size: 12px;
-      font-weight: 600;
-      padding: 6px 14px;
-      border-radius: 20px;
-      border: 1px solid var(--border);
-      background: transparent;
-      color: var(--ui);
-      cursor: pointer;
-      transition: all var(--transition);
+    .region-stat-value {
+      font-family: var(--font-mono); font-size: 22px; font-weight: 700; color: var(--text);
     }
-    .filter-pill:hover { border-color: var(--ui); color: var(--text); }
-    .filter-pill.active { background: var(--accent); border-color: var(--accent); color: #fff; }
-
-    /* ── Card Grid ── */
-    .card-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-      gap: 16px;
+    .region-stat-label {
+      font-size: 11px; font-weight: 500; text-transform: uppercase;
+      letter-spacing: 0.8px; color: var(--text-muted); margin-top: 2px;
     }
-    .region-header {
-      grid-column: 1 / -1;
-      font-size: 13px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-      color: var(--ui);
-      padding: 8px 0 4px;
-      border-bottom: 1px solid var(--border);
-      margin-top: 8px;
+    .region-partners { display: flex; flex-wrap: wrap; gap: 6px; }
+    .region-partner-pill {
+      font-size: 12px; font-weight: 500; padding: 4px 12px; border-radius: 20px;
+      background: var(--bg-surface); color: var(--text-secondary);
+      border: 1px solid var(--border-light);
     }
 
-    /* ── Card ── */
-    .card {
-      background: linear-gradient(180deg, var(--bg-raised) 0%, #090d14 100%);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 20px;
-      cursor: pointer;
-      transition: all var(--transition);
+    /* ── Region View Summary ── */
+    .region-summary {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      gap: 1px; margin-bottom: 32px; background: var(--border);
+      border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow-sm);
     }
-    .card:hover {
-      border-color: rgba(218, 97, 35, 0.4);
-      box-shadow: 0 0 16px rgba(218, 97, 35, 0.1), var(--shadow-md);
+    .summary-card {
+      background: var(--bg-raised); padding: 20px 16px; text-align: center;
     }
-    .card.expanded {
-      grid-column: 1 / -1;
-      box-shadow: 0 0 0 1px var(--border), var(--shadow-lg);
-      border-color: var(--ui);
+    .summary-value {
+      font-family: var(--font-mono); font-size: 22px; font-weight: 700;
+      color: var(--text); line-height: 1.2;
     }
-
-    .card-header {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      margin-bottom: 10px;
-    }
-    .card-company {
-      font-size: 17px;
-      font-weight: 700;
-      color: var(--text);
-      line-height: 1.3;
-    }
-    .card-badges {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      flex-shrink: 0;
-      margin-left: 12px;
-    }
-    .badge {
-      font-size: 11px;
-      font-weight: 700;
-      padding: 3px 8px;
-      border-radius: 4px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-    }
-    .badge-connected { background: var(--green-bg); color: var(--green-text); border: 1px solid rgba(92, 184, 112, 0.25); }
-    .badge-region { background: var(--blue-bg); color: var(--blue); border: 1px solid rgba(74, 158, 255, 0.25); }
-    .badge-pipeline { background: var(--accent-glow); color: var(--accent); border: 1px solid rgba(218, 97, 35, 0.25); }
-    .badge-military { background: rgba(212, 168, 46, 0.06); color: var(--amber); border: 1px solid rgba(212, 168, 46, 0.25); }
-
-    .card-meta {
-      display: flex;
-      gap: 16px;
-      font-size: 13px;
-      color: var(--text-secondary);
-      margin-bottom: 10px;
-    }
-    .card-meta span { display: flex; align-items: center; gap: 4px; }
-
-    .card-partners {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-      margin-bottom: 4px;
-    }
-    .partner-tag {
-      font-size: 10px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      padding: 2px 7px;
-      border-radius: 4px;
-      background: var(--purple-bg);
-      color: var(--purple);
-      border: 1px solid rgba(168, 138, 240, 0.2);
+    .summary-label {
+      font-size: 10px; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 1px; color: var(--text-muted); margin-top: 3px;
     }
 
-    .conn-count {
-      font-family: var(--font-mono);
-      font-size: 12px;
-      font-weight: 700;
-      color: var(--green-text);
+    /* ── Partner Filter ── */
+    .partner-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+    .partner-pill {
+      font-size: 13px; font-weight: 500; padding: 6px 16px; border-radius: 20px;
+      border: 1px solid var(--border); background: var(--bg-raised);
+      color: var(--text-secondary); cursor: pointer; transition: all var(--transition);
     }
+    .partner-pill:hover { border-color: var(--text-muted); color: var(--text); }
+    .partner-pill.active {
+      background: var(--text); border-color: var(--text); color: var(--bg-raised);
+    }
+    .partner-pill .pill-count {
+      font-family: var(--font-mono); font-size: 11px; margin-left: 4px; opacity: 0.6;
+    }
+    .partner-pill.active .pill-count { opacity: 0.7; }
 
-    /* ── Expanded Detail ── */
-    .card-detail {
-      display: none;
-      margin-top: 16px;
-      padding-top: 16px;
-      border-top: 1px solid var(--border);
-    }
-    .card.expanded .card-detail {
-      display: block;
-      animation: fadeIn 0.25s ease;
-    }
-
-    .detail-section { margin-bottom: 18px; }
-    .detail-section-label {
-      font-size: 11px;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 1.5px;
-      color: var(--ui-bright);
-      margin-bottom: 8px;
-    }
-
-    .detail-table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 13px;
-    }
-    .detail-table th {
-      text-align: left;
-      font-size: 11px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-      color: var(--ui);
-      padding: 6px 12px 6px 0;
+    /* ── List Tabs ── */
+    .list-tabs {
+      display: flex; gap: 0; margin-bottom: 0;
       border-bottom: 1px solid var(--border);
     }
-    .detail-table td {
-      padding: 8px 12px 8px 0;
-      color: var(--text-secondary);
-      border-bottom: 1px solid rgba(30, 38, 54, 0.5);
-      vertical-align: top;
+    .list-tab {
+      font-size: 14px; font-weight: 500; padding: 12px 24px;
+      background: transparent; border: none; color: var(--text-muted);
+      cursor: pointer; transition: all var(--transition);
+      border-bottom: 2px solid transparent; margin-bottom: -1px;
     }
-    .detail-table tr:last-child td { border-bottom: none; }
-    .detail-table .poc { color: var(--accent); font-weight: 600; }
-    .detail-table .mil-badge {
-      font-size: 10px;
-      font-weight: 700;
-      padding: 1px 6px;
-      border-radius: 3px;
-      background: rgba(212, 168, 46, 0.08);
-      color: var(--amber);
-      border: 1px solid rgba(212, 168, 46, 0.2);
+    .list-tab:hover { color: var(--text); }
+    .list-tab.active { color: var(--text); border-bottom-color: var(--accent); font-weight: 600; }
+    .list-tab .tab-count {
+      font-family: var(--font-mono); font-size: 11px; font-weight: 500;
+      color: var(--text-muted); margin-left: 6px;
     }
+    .list-tab.active .tab-count { color: var(--accent); }
 
-    .conn-group { margin-bottom: 12px; }
-    .conn-group-partner {
-      font-size: 12px;
-      font-weight: 700;
-      color: var(--purple);
-      margin-bottom: 4px;
+    /* ── Data Table ── */
+    .data-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    .data-table thead th {
+      text-align: left; font-size: 11px; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 0.8px; color: var(--text-muted); padding: 14px 16px;
+      border-bottom: 1px solid var(--border); position: sticky; top: 60px;
+      background: var(--bg); z-index: 10; cursor: pointer; user-select: none;
+      transition: color var(--transition);
     }
-    .conn-item {
-      font-size: 13px;
-      color: var(--text-secondary);
-      padding: 3px 0;
+    .data-table thead th:hover { color: var(--text); }
+    .data-table thead th.sorted { color: var(--accent); }
+    .data-table thead th .sort-arrow { margin-left: 4px; font-size: 9px; }
+    .data-table tbody tr {
+      border-bottom: 1px solid var(--border-light);
+      transition: background var(--transition);
     }
-    .conn-item .conn-pos { color: var(--text-muted); font-size: 12px; }
+    .data-table tbody tr:hover { background: var(--bg-surface); }
+    .data-table tbody td {
+      padding: 12px 16px; color: var(--text-secondary); vertical-align: top;
+    }
+    .data-table tbody td:first-child { color: var(--text); }
 
-    .mil-detail { margin-bottom: 10px; }
-    .mil-name { font-weight: 600; color: var(--text); }
-    .mil-rank { color: var(--amber-text); font-size: 13px; }
-    .mil-info { font-size: 12px; color: var(--text-muted); line-height: 1.5; margin-top: 2px; }
+    .company-cell { display: flex; flex-direction: column; gap: 1px; }
+    .company-name { font-weight: 600; color: var(--text); }
+    .company-meta { font-size: 12px; color: var(--text-muted); }
+    .poc-name { color: var(--accent); font-weight: 600; }
+    .no-poc { color: var(--border); }
 
-    /* ── Scroll Top ── */
-    .scroll-top {
-      position: fixed;
-      bottom: 24px;
-      right: 24px;
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      background: var(--accent);
-      color: #fff;
-      border: none;
-      cursor: pointer;
-      font-size: 16px;
-      opacity: 0;
-      transition: opacity var(--transition);
-      z-index: 50;
+    .badge-sm {
+      display: inline-block; font-size: 10px; font-weight: 600; padding: 2px 8px;
+      border-radius: 4px; letter-spacing: 0.3px; vertical-align: middle;
     }
-    .scroll-top.visible { opacity: 1; }
+    .badge-mil {
+      background: var(--amber-bg); color: var(--amber-text);
+      border: 1px solid rgba(166, 124, 0, 0.15);
+    }
+    .badge-pipeline {
+      background: var(--accent-bg); color: var(--accent);
+      border: 1px solid rgba(196, 90, 28, 0.15);
+    }
+    .badge-partner {
+      background: var(--purple-bg); color: var(--purple);
+      border: 1px solid rgba(124, 92, 191, 0.12);
+    }
 
     /* ── Empty ── */
     .empty-state {
-      text-align: center;
-      padding: 60px 20px;
-      color: var(--text-muted);
+      text-align: center; padding: 80px 20px; color: var(--text-muted);
+      font-size: 15px;
     }
+
+    /* ── Scroll Top ── */
+    .scroll-top {
+      position: fixed; bottom: 24px; right: 24px; width: 40px; height: 40px;
+      border-radius: 50%; background: var(--text); color: var(--bg-raised);
+      border: none; cursor: pointer; font-size: 14px;
+      opacity: 0; transition: opacity var(--transition); z-index: 50;
+      box-shadow: var(--shadow-md);
+    }
+    .scroll-top.visible { opacity: 1; }
 
     /* ── Responsive ── */
     @media (max-width: 768px) {
-      .topnav { padding: 0 14px; }
-      .content { padding: 16px 14px 40px; }
-      .card-grid { grid-template-columns: 1fr; }
-      .card.expanded { grid-column: 1; }
-      .kpi-row { grid-template-columns: repeat(2, 1fr); }
-      .nav-search input { width: 140px; }
-      .detail-table { font-size: 12px; }
+      .topnav { padding: 0 16px; }
+      .content { padding: 24px 16px 60px; }
+      .region-grid { grid-template-columns: 1fr; }
+      .global-kpis { grid-template-columns: repeat(2, 1fr); }
+      .global-kpis .global-kpi:last-child { grid-column: 1 / -1; }
+      .nav-search input { width: 160px; }
+      .data-table { font-size: 13px; }
+      .data-table thead th, .data-table tbody td { padding: 10px 10px; }
+      .page-title { font-size: 24px; }
+      .list-tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+      .region-stats { grid-template-columns: repeat(2, 1fr); }
+      .region-summary { grid-template-columns: repeat(3, 1fr); }
     }
+
+    .view-transition { animation: fadeIn 0.2s ease; }
   </style>
 </head>
 <body>
   <nav class="topnav">
     <div class="nav-brand">
       <span class="brand-icon">&#9670;</span>
-      <span class="brand-text">McChrystal Overwatch Agent</span>
+      <span class="brand-text">McChrystal Group</span>
     </div>
     <a href="index.html" class="nav-link">&#8592; Dashboard</a>
+    <div class="nav-regions" id="nav-regions"></div>
     <div class="nav-search">
       <input type="text" id="search-input" placeholder="Search companies..." autocomplete="off">
       <div id="search-results" class="search-results"></div>
     </div>
   </nav>
 
-  <main class="content">
-    <div id="kpi-row" class="kpi-row"></div>
-    <div id="partner-row" class="partner-row"></div>
-    <div id="filter-bar" class="filter-bar"></div>
-    <div id="card-grid" class="card-grid"></div>
-  </main>
-
-  <button class="scroll-top" id="scroll-top">&#9650;</button>
+  <main class="content" id="main-content"></main>
+  <button class="scroll-top" id="scroll-top" aria-label="Scroll to top">&#9650;</button>
 
   <script>
     let data = null;
-    let activeRegion = "all";
+    let currentView = 'region'; // always region now
+    let currentRegion = null;
+    let currentRegionKey = 'all'; // default to All Regions
+    let currentTab = 'leaders';
     let activePartner = null;
+    let sortCol = null;
+    let sortDir = 'asc';
+
+    const isEmbed = new URLSearchParams(window.location.search).has('embed');
 
     document.addEventListener("DOMContentLoaded", () => {
+      if (isEmbed) {
+        document.querySelector('.nav-brand').style.display = 'none';
+        document.querySelector('.nav-link').style.display = 'none';
+        document.querySelector('.nav-search').style.display = 'none';
+        document.querySelector('.topnav').style.height = '44px';
+      }
       setupScrollTop();
       loadData();
     });
@@ -474,289 +389,389 @@
         const resp = await fetch("connections.json");
         if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
         data = await resp.json();
-        renderAll();
+        // Default to All Regions
+        currentRegion = null;
+        currentRegionKey = 'all';
+        renderNavRegions();
+        render();
         setupSearch();
       } catch (err) {
-        document.getElementById("card-grid").innerHTML =
-          '<div class="empty-state">Could not load connections.json.<br>Run <code>python3 import_linkedin.py</code> to generate it.</div>';
+        document.getElementById("main-content").innerHTML =
+          '<div class="empty-state">Could not load connections.json.<br>Run <code>python3 import_linkedin.py</code></div>';
         console.error(err);
       }
     }
 
-    function getAllCompanies() {
-      const out = [];
-      for (const r of data.regions) {
-        for (const c of r.companies) {
-          out.push({ ...c, region: r.name, region_display: r.display_name });
-        }
-      }
-      return out;
+    function renderNavRegions() {
+      const el = document.getElementById("nav-regions");
+      const tabs = [
+        { key: 'all', label: 'All Regions', placeholder: false },
+        { key: 'DC', label: 'DC', placeholder: false },
+        { key: 'ATL', label: 'Atlanta', placeholder: false },
+        { key: 'NYC', label: 'NYC', placeholder: true },
+        { key: 'CHI', label: 'Chicago', placeholder: true },
+      ];
+
+      el.innerHTML = tabs.map(t =>
+        `<button class="nav-region-tab${currentRegionKey === t.key ? ' active' : ''}${t.placeholder ? ' placeholder' : ''}" data-key="${t.key}" data-placeholder="${t.placeholder}">${t.label}</button>`
+      ).join("");
+
+      el.querySelectorAll('.nav-region-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          if (btn.dataset.placeholder === 'true') {
+            switchRegion(btn.dataset.key);
+          } else {
+            switchRegion(btn.dataset.key);
+          }
+        });
+      });
     }
 
-    function getFilteredCompanies() {
-      let companies = getAllCompanies();
-      if (activeRegion !== "all") {
-        companies = companies.filter(c => c.region === activeRegion);
+    function switchRegion(key) {
+      currentRegionKey = key;
+      if (key === 'all') {
+        currentRegion = null;
+      } else {
+        currentRegion = data.regions.find(r => r.name === key);
       }
-      if (activePartner) {
-        companies = companies.filter(c => c.partner_names.includes(activePartner));
-      }
-      // Sort: by connection count desc, then alphabetically
-      companies.sort((a, b) => b.connection_count - a.connection_count || a.company_name.localeCompare(b.company_name));
-      return companies;
+      activePartner = null;
+      sortCol = null; sortDir = 'asc';
+      currentTab = 'leaders';
+      renderNavRegions();
+      render();
     }
 
-    function renderAll() {
-      renderKPIs();
-      renderPartners();
-      renderFilters();
-      renderCards();
+    const PLACEHOLDER_REGIONS = { NYC: 'New York City', CHI: 'Chicago' };
+
+    function render() {
+      const el = document.getElementById("main-content");
+      if (PLACEHOLDER_REGIONS[currentRegionKey]) {
+        el.innerHTML = renderComingSoon(currentRegionKey);
+      } else if (currentRegionKey === 'all') {
+        el.innerHTML = renderAllRegions();
+        bindRegion();
+      } else {
+        el.innerHTML = renderRegion();
+        bindRegion();
+      }
+      el.classList.remove('view-transition');
+      void el.offsetWidth;
+      el.classList.add('view-transition');
+      window.scrollTo({ top: 0 });
     }
 
-    function renderKPIs() {
-      const el = document.getElementById("kpi-row");
-      const all = getAllCompanies();
-      const totalCompanies = all.length;
-      const totalConnections = all.reduce((s, c) => s + c.connection_count, 0);
-      const totalRegions = data.regions.length;
-      const avgCoverage = data.regions.length
-        ? Math.round(data.regions.reduce((s, r) => s + r.coverage_pct, 0) / data.regions.length * 10) / 10
-        : 0;
-
-      el.innerHTML = `
-        <div class="kpi-card"><div class="kpi-value">${totalCompanies}</div><div class="kpi-label">Connected Companies</div></div>
-        <div class="kpi-card"><div class="kpi-value">${fmt(totalConnections)}</div><div class="kpi-label">Total Connections</div></div>
-        <div class="kpi-card"><div class="kpi-value">${avgCoverage}%</div><div class="kpi-label">Avg Coverage</div></div>
-        <div class="kpi-card"><div class="kpi-value">${data.partner_count}</div><div class="kpi-label">MG Partners</div></div>
-        <div class="kpi-card"><div class="kpi-value">${totalRegions}</div><div class="kpi-label">Regions</div></div>
+    // ── Coming Soon ──
+    function renderComingSoon(key) {
+      const name = PLACEHOLDER_REGIONS[key] || key;
+      return `
+        <div style="text-align:center;padding:120px 20px 80px;">
+          <div style="font-size:48px;margin-bottom:16px;opacity:0.15;">&#9670;</div>
+          <h1 class="page-title" style="margin-bottom:8px;">${esc(name)}</h1>
+          <p style="font-size:16px;color:var(--text-muted);max-width:440px;margin:0 auto;line-height:1.7;">
+            LinkedIn connection enrichment for the ${esc(name)} region is on the roadmap.
+            Once target companies and partner connections are mapped, this view will populate automatically.
+          </p>
+          <p style="font-size:13px;color:var(--border);margin-top:24px;">Coming soon</p>
+        </div>
       `;
     }
 
-    function renderPartners() {
-      const el = document.getElementById("partner-row");
-      // Aggregate partner counts across all regions
-      const map = {};
+    // ── All Regions combined view ──
+    function renderAllRegions() {
+      const allCompanies = data.regions.reduce((s, r) => s + r.companies.length, 0);
+      const allConnections = data.regions.reduce((s, r) => s + r.total_connections, 0);
+      const allLeaders = data.regions.reduce((s, r) => s + r.companies.reduce((s2, c) => s2 + c.leaders.filter(l => l.mg_point_of_contact).length, 0), 0);
+      const allMil = data.regions.reduce((s, r) => s + r.companies.reduce((s2, c) => s2 + c.military_affiliations.length, 0), 0);
+      const pipelineCount = data.regions.reduce((s, r) => s + r.companies.filter(c => c.pipeline_match).length, 0);
+      const avgCoverage = data.regions.length
+        ? Math.round(data.regions.reduce((s, r) => s + r.coverage_pct, 0) / data.regions.length * 10) / 10 : 0;
+
+      // Merge partner breakdowns
+      const partnerMap = {};
       for (const r of data.regions) {
         for (const pb of r.partner_breakdown) {
-          map[pb.partner] = (map[pb.partner] || 0) + pb.company_count;
+          partnerMap[pb.partner] = (partnerMap[pb.partner] || 0) + pb.company_count;
         }
       }
-      const sorted = Object.entries(map).sort((a, b) => b[1] - a[1]);
-      el.innerHTML = sorted.map(([name, count]) =>
-        `<div class="partner-chip${activePartner === name ? ' active' : ''}" data-partner="${esc(name)}">
-          ${esc(name)} <span class="count">${count}</span>
-        </div>`
-      ).join("");
+      const partnerBreakdown = Object.entries(partnerMap).sort((a, b) => b[1] - a[1]);
 
-      el.querySelectorAll(".partner-chip").forEach(chip => {
-        chip.addEventListener("click", () => {
-          const p = chip.dataset.partner;
-          activePartner = activePartner === p ? null : p;
-          renderPartners();
-          renderCards();
-        });
-      });
+      return `
+        <h1 class="page-title">All Regions</h1>
+        <p class="page-subtitle">${allCompanies} connected companies across ${data.regions.length} regions</p>
+
+        <div class="region-summary">
+          <div class="summary-card"><div class="summary-value">${allCompanies}</div><div class="summary-label">Companies</div></div>
+          <div class="summary-card"><div class="summary-value">${fmt(allLeaders)}</div><div class="summary-label">Executive Connections</div></div>
+          <div class="summary-card"><div class="summary-value">${fmt(allConnections)}</div><div class="summary-label">Warm Connections</div></div>
+          <div class="summary-card"><div class="summary-value">${pipelineCount}</div><div class="summary-label">In Dashboard Pipeline</div></div>
+          <div class="summary-card"><div class="summary-value">${data.partner_count}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
+        </div>
+
+        <div class="partner-filter" id="partner-filter">
+          <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${allCompanies}</span></button>
+          ${partnerBreakdown.map(([name, count]) =>
+            `<button class="partner-pill${activePartner === name ? ' active' : ''}" data-partner="${esc(name)}">${esc(name)}<span class="pill-count">${count}</span></button>`
+          ).join("")}
+        </div>
+
+        <div class="list-tabs" id="list-tabs">
+          <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(allLeaders)}</span></button>
+          <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(allConnections)}</span></button>
+          <button class="list-tab${currentTab === 'military' ? ' active' : ''}" data-tab="military">Military Affiliations<span class="tab-count">${allMil}</span></button>
+        </div>
+
+        <div id="list-content">${renderTabContent()}</div>
+      `;
     }
 
-    function renderFilters() {
-      const el = document.getElementById("filter-bar");
-      const pills = [{ key: "all", label: "All Regions" }];
-      for (const r of data.regions) {
-        pills.push({ key: r.name, label: r.display_name });
-      }
-      el.innerHTML = pills.map(p =>
-        `<button class="filter-pill${activeRegion === p.key ? ' active' : ''}" data-region="${p.key}">${p.label}</button>`
-      ).join("");
+    // ── Region ──
+    function renderRegion() {
+      const r = currentRegion;
+      if (!r) return '<div class="empty-state">Region not found.</div>';
+      const leaderCount = r.companies.reduce((s, c) => s + c.leaders.filter(l => l.mg_point_of_contact).length, 0);
+      const connCount = r.total_connections;
+      const milCount = r.companies.reduce((s, c) => s + c.military_affiliations.length, 0);
+      const pipelineCount = r.companies.filter(c => c.pipeline_match).length;
 
-      el.querySelectorAll(".filter-pill").forEach(pill => {
-        pill.addEventListener("click", () => {
-          activeRegion = pill.dataset.region;
-          renderFilters();
-          renderCards();
-        });
-      });
+      return `
+        <h1 class="page-title">${esc(r.display_name)}</h1>
+        <p class="page-subtitle">${r.companies.length} connected companies of ${r.total_companies} total</p>
+
+        <div class="region-summary">
+          <div class="summary-card"><div class="summary-value">${r.companies.length}</div><div class="summary-label">Companies</div></div>
+          <div class="summary-card"><div class="summary-value">${fmt(leaderCount)}</div><div class="summary-label">Executive Connections</div></div>
+          <div class="summary-card"><div class="summary-value">${fmt(connCount)}</div><div class="summary-label">Warm Connections</div></div>
+          <div class="summary-card"><div class="summary-value">${pipelineCount}</div><div class="summary-label">In Dashboard Pipeline</div></div>
+          <div class="summary-card"><div class="summary-value">${r.partner_breakdown.length}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
+        </div>
+
+        <div class="partner-filter" id="partner-filter">
+          <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${r.companies.length}</span></button>
+          ${r.partner_breakdown.map(pb =>
+            `<button class="partner-pill${activePartner === pb.partner ? ' active' : ''}" data-partner="${esc(pb.partner)}">${esc(pb.partner)}<span class="pill-count">${pb.company_count}</span></button>`
+          ).join("")}
+        </div>
+
+        <div class="list-tabs" id="list-tabs">
+          <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(leaderCount)}</span></button>
+          <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(connCount)}</span></button>
+          <button class="list-tab${currentTab === 'military' ? ' active' : ''}" data-tab="military">Military Affiliations<span class="tab-count">${milCount}</span></button>
+        </div>
+
+        <div id="list-content">${renderTabContent()}</div>
+      `;
     }
 
-    function renderCards() {
-      const el = document.getElementById("card-grid");
-      const companies = getFilteredCompanies();
+    function renderTabContent() {
+      if (currentTab === 'leaders') return renderLeadersTab();
+      if (currentTab === 'connections') return renderConnectionsTab();
+      if (currentTab === 'military') return renderMilitaryTab();
+      return '';
+    }
 
-      if (!companies.length) {
-        el.innerHTML = '<div class="empty-state">No companies match the current filters.</div>';
-        return;
-      }
-
-      // Group by region when showing all
-      let html = "";
-      if (activeRegion === "all") {
+    function getFilteredCompanies() {
+      let companies;
+      if (currentRegionKey === 'all') {
+        companies = [];
         for (const r of data.regions) {
-          const regionCompanies = companies.filter(c => c.region === r.name);
-          if (!regionCompanies.length) continue;
-          html += `<div class="region-header">${esc(r.display_name)} — ${regionCompanies.length} companies</div>`;
-          html += regionCompanies.map(c => cardHTML(c)).join("");
+          for (const c of r.companies) companies.push({ ...c, _region: r.name });
         }
       } else {
-        html = companies.map(c => cardHTML(c)).join("");
+        companies = currentRegion.companies.map(c => ({ ...c, _region: currentRegion.name }));
       }
+      if (activePartner) companies = companies.filter(c => c.partner_names.includes(activePartner));
+      return companies;
+    }
 
-      el.innerHTML = html;
+    function renderLeadersTab() {
+      const companies = getFilteredCompanies();
+      let rows = [];
+      for (const c of companies) {
+        for (const l of c.leaders) {
+          if (!l.mg_point_of_contact) continue; // only show leaders with MG contact (column D)
+          // If partner filter active, match against the POC field (may be semicolon-delimited)
+          if (activePartner && !l.mg_point_of_contact.split(';').map(s => s.trim()).includes(activePartner)) continue;
+          rows.push({ ...l, company_name: c.company_name, industry: c.industry,
+            revenue_millions: c.revenue_millions, pipeline_match: c.pipeline_match });
+        }
+      }
+      if (sortCol) {
+        rows.sort((a, b) => {
+          let va = a[sortCol] || '', vb = b[sortCol] || '';
+          if (typeof va === 'number' && typeof vb === 'number') return sortDir === 'asc' ? va - vb : vb - va;
+          va = String(va).toLowerCase(); vb = String(vb).toLowerCase();
+          return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+        });
+      }
+      if (!rows.length) return '<div class="empty-state">No leaders match the current filter.</div>';
+      const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
+      return `<table class="data-table"><thead><tr>
+        <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Company ${arrow('company_name')}</th>
+        <th data-sort="name" class="${sortCol === 'name' ? 'sorted' : ''}">Leader ${arrow('name')}</th>
+        <th data-sort="role" class="${sortCol === 'role' ? 'sorted' : ''}">Role ${arrow('role')}</th>
+        <th data-sort="mg_point_of_contact" class="${sortCol === 'mg_point_of_contact' ? 'sorted' : ''}">MG Contact ${arrow('mg_point_of_contact')}</th>
+        <th>Flags</th>
+      </tr></thead><tbody>${rows.map(r => `<tr>
+        <td><div class="company-cell"><span class="company-name">${esc(r.company_name)}</span><span class="company-meta">${r.revenue_millions ? '$' + fmtRev(r.revenue_millions) + ' &middot; ' : ''}${esc(r.industry || '')}</span></div></td>
+        <td>${esc(r.name)}</td>
+        <td>${esc(r.role)}</td>
+        <td>${r.mg_point_of_contact ? `<span class="poc-name">${esc(r.mg_point_of_contact)}</span>` : '<span class="no-poc">&mdash;</span>'}</td>
+        <td>${r.is_military ? '<span class="badge-sm badge-mil">MIL</span> ' : ''}${r.pipeline_match ? '<span class="badge-sm badge-pipeline">Pipeline</span>' : ''}</td>
+      </tr>`).join("")}</tbody></table>`;
+    }
 
-      // Expand/collapse
-      el.querySelectorAll(".card").forEach(card => {
-        card.addEventListener("click", (e) => {
-          if (e.target.closest("a")) return;
-          card.classList.toggle("expanded");
+    function renderConnectionsTab() {
+      const companies = getFilteredCompanies();
+      let rows = [];
+      for (const c of companies) {
+        for (const conn of c.company_connections) {
+          if (activePartner && conn.mg_partner !== activePartner) continue;
+          rows.push({ ...conn, company_name: c.company_name, industry: c.industry });
+        }
+      }
+      if (sortCol) {
+        rows.sort((a, b) => {
+          let va = a[sortCol] || '', vb = b[sortCol] || '';
+          va = String(va).toLowerCase(); vb = String(vb).toLowerCase();
+          return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+        });
+      }
+      if (!rows.length) return '<div class="empty-state">No connections match the current filter.</div>';
+      const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
+      return `<table class="data-table"><thead><tr>
+        <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Target Company ${arrow('company_name')}</th>
+        <th data-sort="connection_name" class="${sortCol === 'connection_name' ? 'sorted' : ''}">Connection ${arrow('connection_name')}</th>
+        <th data-sort="position" class="${sortCol === 'position' ? 'sorted' : ''}">Position ${arrow('position')}</th>
+        <th data-sort="mg_partner" class="${sortCol === 'mg_partner' ? 'sorted' : ''}">MG Partner ${arrow('mg_partner')}</th>
+      </tr></thead><tbody>${rows.map(r => `<tr>
+        <td><span class="company-name">${esc(r.company_name)}</span></td>
+        <td>${esc(r.connection_name)}</td>
+        <td>${esc(r.position)}</td>
+        <td><span class="badge-sm badge-partner">${esc(r.mg_partner)}</span></td>
+      </tr>`).join("")}</tbody></table>`;
+    }
+
+    function renderMilitaryTab() {
+      const companies = getFilteredCompanies();
+      let rows = [];
+      for (const c of companies) {
+        for (const m of c.military_affiliations) {
+          rows.push({ ...m, company_name: c.company_name });
+        }
+      }
+      if (sortCol) {
+        rows.sort((a, b) => {
+          let va = a[sortCol] || '', vb = b[sortCol] || '';
+          va = String(va).toLowerCase(); vb = String(vb).toLowerCase();
+          return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
+        });
+      }
+      if (!rows.length) {
+        const isMultiRegion = currentRegionKey === 'all';
+        const regionName = isMultiRegion ? 'these regions' : currentRegion.display_name;
+        const isDC = currentRegionKey === 'DC';
+        if (isDC) {
+          return '<div class="empty-state">The DC region has a high concentration of military-affiliated executives across target companies.<br>To keep this view focused, military affiliations were not enriched for this region.</div>';
+        }
+        return `<div class="empty-state">No military affiliations identified in ${esc(regionName)}.</div>`;
+      }
+      const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
+      return `<table class="data-table"><thead><tr>
+        <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Company ${arrow('company_name')}</th>
+        <th data-sort="name" class="${sortCol === 'name' ? 'sorted' : ''}">Name ${arrow('name')}</th>
+        <th data-sort="rank" class="${sortCol === 'rank' ? 'sorted' : ''}">Rank ${arrow('rank')}</th>
+        <th data-sort="branch" class="${sortCol === 'branch' ? 'sorted' : ''}">Branch ${arrow('branch')}</th>
+        <th>Details</th>
+      </tr></thead><tbody>${rows.map(r => `<tr>
+        <td><span class="company-name">${esc(r.company_name)}</span></td>
+        <td>${esc(r.name)}</td>
+        <td><span class="badge-sm badge-mil">${esc(r.rank)}</span></td>
+        <td>${esc(r.branch)}</td>
+        <td style="max-width:400px;font-size:12px;color:var(--text-muted);line-height:1.5">${esc(r.details)}</td>
+      </tr>`).join("")}</tbody></table>`;
+    }
+
+    function bindRegion() {
+      document.querySelectorAll('.list-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          currentTab = tab.dataset.tab;
+          sortCol = null; sortDir = 'asc';
+          document.querySelectorAll('.list-tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
+        });
+      });
+      document.querySelectorAll('.partner-pill').forEach(pill => {
+        pill.addEventListener('click', () => {
+          activePartner = pill.dataset.partner || null;
+          document.querySelectorAll('.partner-pill').forEach(pp => pp.classList.remove('active'));
+          pill.classList.add('active');
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
+        });
+      });
+      bindTableSort();
+    }
+
+    function bindTableSort() {
+      document.querySelectorAll('.data-table thead th[data-sort]').forEach(th => {
+        th.addEventListener('click', () => {
+          const col = th.dataset.sort;
+          if (sortCol === col) { sortDir = sortDir === 'asc' ? 'desc' : 'asc'; }
+          else { sortCol = col; sortDir = 'asc'; }
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
         });
       });
     }
 
-    function cardHTML(c) {
-      const rev = c.revenue_millions ? `$${fmtRev(c.revenue_millions)}` : "";
-      const hasMil = c.military_affiliations && c.military_affiliations.length > 0;
-      const hasPipeline = !!c.pipeline_match;
-
-      return `<div class="card" data-company="${esc(c.company_name)}">
-        <div class="card-header">
-          <div class="card-company">${esc(c.company_name)}</div>
-          <div class="card-badges">
-            <span class="badge badge-connected">${c.connection_count} conn</span>
-            <span class="badge badge-region">${c.region}</span>
-            ${hasMil ? '<span class="badge badge-military">Military</span>' : ''}
-            ${hasPipeline ? '<span class="badge badge-pipeline">In Pipeline</span>' : ''}
-          </div>
-        </div>
-        <div class="card-meta">
-          ${rev ? `<span>${rev}</span>` : ''}
-          ${c.industry ? `<span>${esc(c.industry)}</span>` : ''}
-          ${c.location ? `<span>${esc(c.location)}</span>` : ''}
-        </div>
-        <div class="card-partners">
-          ${c.partner_names.map(p => `<span class="partner-tag">${esc(p)}</span>`).join("")}
-        </div>
-        <div class="card-detail">
-          ${renderLeaders(c)}
-          ${renderConnections(c)}
-          ${hasMil ? renderMilitary(c) : ''}
-        </div>
-      </div>`;
-    }
-
-    function renderLeaders(c) {
-      if (!c.leaders || !c.leaders.length) return "";
-      // Show leaders with MG POC first, then others
-      const sorted = [...c.leaders].sort((a, b) => {
-        if (a.mg_point_of_contact && !b.mg_point_of_contact) return -1;
-        if (!a.mg_point_of_contact && b.mg_point_of_contact) return 1;
-        return 0;
-      });
-      const rows = sorted.map(l => `
-        <tr>
-          <td>${esc(l.name)}${l.is_military ? ' <span class="mil-badge">MIL</span>' : ''}</td>
-          <td>${esc(l.role)}</td>
-          <td>${l.mg_point_of_contact ? `<span class="poc">${esc(l.mg_point_of_contact)}</span>` : '<span style="color:var(--text-muted)">—</span>'}</td>
-        </tr>`).join("");
-
-      return `<div class="detail-section">
-        <div class="detail-section-label">Leadership Team (${c.leaders.length})</div>
-        <table class="detail-table">
-          <tr><th>Name</th><th>Role</th><th>MG Contact</th></tr>
-          ${rows}
-        </table>
-      </div>`;
-    }
-
-    function renderConnections(c) {
-      if (!c.company_connections || !c.company_connections.length) return "";
-      // Group by partner
-      const groups = {};
-      for (const conn of c.company_connections) {
-        const p = conn.mg_partner || "Unknown";
-        if (!groups[p]) groups[p] = [];
-        groups[p].push(conn);
-      }
-      const html = Object.entries(groups).sort((a, b) => b[1].length - a[1].length).map(([partner, conns]) =>
-        `<div class="conn-group">
-          <div class="conn-group-partner">${esc(partner)} (${conns.length})</div>
-          ${conns.map(cn => `<div class="conn-item">${esc(cn.connection_name)} <span class="conn-pos">— ${esc(cn.position)}</span></div>`).join("")}
-        </div>`
-      ).join("");
-
-      return `<div class="detail-section">
-        <div class="detail-section-label">Company Connections (${c.company_connections.length})</div>
-        ${html}
-      </div>`;
-    }
-
-    function renderMilitary(c) {
-      if (!c.military_affiliations || !c.military_affiliations.length) return "";
-      const html = c.military_affiliations.map(m =>
-        `<div class="mil-detail">
-          <div><span class="mil-name">${esc(m.name)}</span> — <span class="mil-rank">${esc(m.rank)}, ${esc(m.branch)}</span></div>
-          ${m.details ? `<div class="mil-info">${esc(m.details)}</div>` : ''}
-        </div>`
-      ).join("");
-
-      return `<div class="detail-section">
-        <div class="detail-section-label">Military Affiliations</div>
-        ${html}
-      </div>`;
-    }
-
+    // ── Search ──
     function setupSearch() {
       const input = document.getElementById("search-input");
       const results = document.getElementById("search-results");
-      const all = getAllCompanies();
-
+      const allCompanies = [];
+      for (const r of data.regions) {
+        for (const c of r.companies) {
+          allCompanies.push({ ...c, region: r.name, region_display: r.display_name, regionObj: r });
+        }
+      }
       input.addEventListener("input", () => {
         const q = input.value.trim().toLowerCase();
         if (!q) { results.classList.remove("visible"); return; }
-        const matches = all.filter(c =>
+        const matches = allCompanies.filter(c =>
           c.company_name.toLowerCase().includes(q) ||
           (c.industry || "").toLowerCase().includes(q) ||
-          c.partner_names.some(p => p.toLowerCase().includes(q))
-        ).slice(0, 8);
-
-        if (!matches.length) { results.classList.remove("visible"); return; }
+          c.partner_names.some(p => p.toLowerCase().includes(q)) ||
+          c.leaders.some(l => l.name.toLowerCase().includes(q))
+        ).slice(0, 10);
+        if (!matches.length) {
+          results.innerHTML = '<div class="search-result-item"><div class="search-result-meta">No results</div></div>';
+          results.classList.add("visible"); return;
+        }
         results.innerHTML = matches.map(c =>
-          `<div class="search-result-item" data-company="${esc(c.company_name)}">
+          `<div class="search-result-item" data-company="${esc(c.company_name)}" data-region="${c.region}">
             <div class="search-result-name">${esc(c.company_name)}</div>
-            <div class="search-result-meta">${c.region} · ${c.connection_count} connections · ${esc(c.industry || '')}</div>
+            <div class="search-result-meta">${c.region_display} &middot; ${c.connection_count} connections &middot; ${esc(c.industry || '')}</div>
           </div>`
         ).join("");
         results.classList.add("visible");
-
         results.querySelectorAll(".search-result-item").forEach(item => {
           item.addEventListener("click", () => {
-            const name = item.dataset.company;
-            results.classList.remove("visible");
-            input.value = "";
-            // Reset filters, find and expand card
-            activeRegion = "all";
-            activePartner = null;
-            renderFilters();
-            renderPartners();
-            renderCards();
-            setTimeout(() => {
-              const card = document.querySelector(`.card[data-company="${CSS.escape(name)}"]`);
-              if (card) {
-                card.classList.add("expanded");
-                card.scrollIntoView({ behavior: "smooth", block: "center" });
-              }
-            }, 50);
+            results.classList.remove("visible"); input.value = "";
+            switchRegion(item.dataset.region);
           });
         });
       });
-
       document.addEventListener("click", (e) => {
         if (!e.target.closest(".nav-search")) results.classList.remove("visible");
       });
     }
 
-    // ── Helpers ──
     function fmt(n) { return n.toLocaleString(); }
     function fmtRev(m) {
-      if (m >= 1000) return (m / 1000).toFixed(1).replace(/\.0$/, '') + "B";
-      return m + "M";
+      if (m >= 1000) return (m / 1000).toFixed(1).replace(/\.0$/, '') + 'B';
+      return m + 'M';
     }
     function esc(s) {
       if (!s) return "";

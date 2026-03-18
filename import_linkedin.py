@@ -164,9 +164,10 @@ def parse_region(region_key, config, prospects):
 
     wb.close()
 
-    # --- Filter: only keep companies with at least one MG connection ---
+    # --- Filter: keep companies with MG connections OR military affiliations ---
     all_companies_count = len(companies)
-    connected_companies = {k: v for k, v in companies.items() if v["has_connections"]}
+    connected_companies = {k: v for k, v in companies.items()
+                           if v["has_connections"] or v["military_affiliations"]}
 
     # --- Summary stats ---
     total_companies = all_companies_count

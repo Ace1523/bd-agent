@@ -1585,3 +1585,12 @@ body {
   color: var(--accent-hover);
   border: 1px solid rgba(218, 97, 35, 0.25);
 }
+
+/* ── Connections iframe ── */
+.connections-frame {
+  width: 100%;
+  height: calc(100vh - 56px);
+  border: none;
+  border-radius: 0;
+  background: #faf9f7;
+}

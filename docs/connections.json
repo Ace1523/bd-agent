@@ -6,8 +6,8 @@
       "display_name": "Atlanta",
       "total_companies": 94,
       "total_connections": 73,
-      "connected_companies": 25,
-      "coverage_pct": 26.6,
+      "connected_companies": 27,
+      "coverage_pct": 28.7,
       "companies": [
         {
           "company_name": "United Parcel Service, Inc. (UPS)",
@@ -2396,6 +2396,300 @@
           "partner_names": [
             "Stan McChrystal"
           ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Inspire Brands, Inc.",
+          "industry": "Multi-Brand Restaurant Platform",
+          "location": "Atlanta, GA",
+          "revenue_millions": 14700,
+          "leaders": [
+            {
+              "name": "Paul Brown",
+              "role": "CEO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Julia Stewart",
+              "role": "Chief Development",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Joe Guith",
+              "role": "Chief Restaurant",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Elizabeth Smith",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Steven C. Reinemund",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": true
+            },
+            {
+              "name": "Neal Aronson",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Narasimhan Narayanan",
+              "role": "CFO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Michael Mullen",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Nancy Dubec",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [
+            {
+              "name": "Steven C. Reinemund",
+              "rank": "Captain",
+              "branch": "U.S. Marine Corps",
+              "details": "5 years active duty after graduating U.S. Naval Academy (Class of 1970). Served as White House guard during Nixon and Ford administrations. Later became Chairman & CEO of PepsiCo (2001-2006). Dean of Wake Forest University Business School (2008-2014)."
+            }
+          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Shepherd Center, Inc.",
+          "industry": "Specialty rehab hospital (SCI/TBI/neuro)",
+          "location": "Atlanta, GA",
+          "revenue_millions": 418.1,
+          "leaders": [
+            {
+              "name": "Douglas Lindauer",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "David F. Apple Jr., MD",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Fred V. Alias",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Shaler Alias",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Cyndae Arrendale",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Bryant G. Coats",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Robert Cunningham",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Charles L. Davidson III",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "John S. Dryman",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Gen. Larry R. Ellis, USA (Ret.)",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": true
+            },
+            {
+              "name": "William C. Fowler",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Susan Hawkins",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Justin Jones",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Molly Lanier",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Talbot Nunnally",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Vincenzo Piscopo",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Kelly Regal",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Jarrad Turner",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "John Rooker",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "W. Clyde Shepherd III",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "James E. Stephenson",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Andrew Alias",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "K. Boynton Smith",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Wilma Bunch, RD, MS",
+              "role": "VP-PtExp",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Sally D. Nunnally",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Sarah Batts, MBA",
+              "role": "SVP-Dev",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Jamie Shepherd, FACHE, MBA, MHA",
+              "role": "CEO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Beth Boatwright, CPA",
+              "role": "CFO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Michael R. Yochelson, MD, MBA",
+              "role": "CMO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Alana Shepherd",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Katy Conway",
+              "role": "CHRO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Barry Fitts",
+              "role": "CIO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Deborah Backus, PT, PhD",
+              "role": "VP-R&I",
+              "mg_point_of_contact": null,
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [
+            {
+              "name": "Gen. Larry R. Ellis, USA (Ret.)",
+              "rank": "General (Four-Star)",
+              "branch": "U.S. Army",
+              "details": "Commanding General, U.S. Army Forces Command (2001-2004). Coordinated deployment of 500,000+ soldiers post-9/11. Previously commanded 1st Armored Division and Task Force Eagle in Bosnia. Deputy Chief of Staff for Operations, Plans, and Training (first African American in role). Fourth African American four-star general in U.S. Army history. 35+ year career. Retired 2004. Naval Academy grad not confirmed; BS from Morgan State University, MS from Indiana University."
+            }
+          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
           "pipeline_match": null
         }
       ],
