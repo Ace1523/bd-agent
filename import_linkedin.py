@@ -22,6 +22,11 @@ REGIONS = {
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "docs", "connections.json")
 DASHBOARD_PATH = os.path.join(os.path.dirname(__file__), "data", "dashboard.json")
 
+# Companies to exclude entirely (will never be prospects)
+EXCLUDED_COMPANIES = [
+    "booz allen hamilton",
+]
+
 
 def load_overwatch_prospects():
     """Load existing Overwatch prospect names for pipeline cross-referencing."""
@@ -64,6 +69,8 @@ def parse_region(region_key, config, prospects):
             continue  # skip header
         company_name = (row[0] or "").strip()
         if not company_name:
+            continue
+        if company_name.lower() in EXCLUDED_COMPANIES:
             continue
         if company_name not in companies:
             companies[company_name] = {

@@ -304,6 +304,27 @@
     }
 
     /* ── Empty ── */
+    /* ── Seniority Filter ── */
+    .seniority-bar {
+      display: flex; align-items: center; gap: 12px;
+      padding: 12px 0; margin-bottom: 0;
+    }
+    .seniority-select {
+      font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 500;
+      padding: 6px 32px 6px 14px; border-radius: 20px;
+      border: 1px solid var(--border); background: var(--bg-raised);
+      color: var(--text); cursor: pointer; outline: none;
+      appearance: none; -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M0 0l5 6 5-6z' fill='%23999'/%3E%3C/svg%3E");
+      background-repeat: no-repeat; background-position: right 12px center;
+      transition: border-color var(--transition);
+    }
+    .seniority-select:hover { border-color: var(--text-muted); }
+    .seniority-select:focus { border-color: var(--accent); }
+    .seniority-count {
+      font-size: 12px; color: var(--text-muted); font-weight: 500;
+    }
+
     .empty-state {
       text-align: center; padding: 80px 20px; color: var(--text-muted);
       font-size: 15px;
@@ -364,6 +385,8 @@
     let activePartner = null;
     let sortCol = null;
     let sortDir = 'asc';
+    let seniorityFilter = 'all'; // 'all' | 'senior'
+    const SENIOR_REGEX = /\b(CEO|CFO|COO|CTO|CIO|CISO|CMO|CHRO|CRO|Chief|President|Vice President|VP|SVP|EVP|AVP|Director|Managing Director|General Manager|Partner|Head of|General Counsel|Board|Senior Vice|Sr\.? Director|Senior Director|Executive)\b/i;
 
     const isEmbed = new URLSearchParams(window.location.search).has('embed');
 
@@ -436,6 +459,7 @@
         currentRegion = data.regions.find(r => r.name === key);
       }
       activePartner = null;
+      seniorityFilter = 'all';
       sortCol = null; sortDir = 'asc';
       currentTab = 'leaders';
       renderNavRegions();
@@ -627,6 +651,7 @@
       for (const c of companies) {
         for (const conn of c.company_connections) {
           if (activePartner && conn.mg_partner !== activePartner) continue;
+          if (seniorityFilter === 'senior' && !SENIOR_REGEX.test(conn.position)) continue;
           rows.push({ ...conn, company_name: c.company_name, industry: c.industry });
         }
       }
@@ -637,9 +662,16 @@
           return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
         });
       }
-      if (!rows.length) return '<div class="empty-state">No connections match the current filter.</div>';
+      if (!rows.length) return '<div class="empty-state">No connections match the current filters.</div>';
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
-      return `<table class="data-table"><thead><tr>
+      return `<div class="seniority-bar">
+        <select class="seniority-select" id="seniority-select">
+          <option value="all"${seniorityFilter === 'all' ? ' selected' : ''}>All Levels</option>
+          <option value="senior"${seniorityFilter === 'senior' ? ' selected' : ''}>Senior Leadership</option>
+        </select>
+        <span class="seniority-count">${rows.length} connections</span>
+      </div>
+      <table class="data-table"><thead><tr>
         <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Target Company ${arrow('company_name')}</th>
         <th data-sort="connection_name" class="${sortCol === 'connection_name' ? 'sorted' : ''}">Connection ${arrow('connection_name')}</th>
         <th data-sort="position" class="${sortCol === 'position' ? 'sorted' : ''}">Position ${arrow('position')}</th>
@@ -696,7 +728,7 @@
       document.querySelectorAll('.list-tab').forEach(tab => {
         tab.addEventListener('click', () => {
           currentTab = tab.dataset.tab;
-          sortCol = null; sortDir = 'asc';
+          sortCol = null; sortDir = 'asc'; seniorityFilter = 'all';
           document.querySelectorAll('.list-tab').forEach(t => t.classList.remove('active'));
           tab.classList.add('active');
           document.getElementById('list-content').innerHTML = renderTabContent();
@@ -723,7 +755,20 @@
           else { sortCol = col; sortDir = 'asc'; }
           document.getElementById('list-content').innerHTML = renderTabContent();
           bindTableSort();
+          bindSeniorityFilter();
         });
+      });
+      bindSeniorityFilter();
+    }
+
+    function bindSeniorityFilter() {
+      const sel = document.getElementById('seniority-select');
+      if (!sel) return;
+      sel.addEventListener('change', () => {
+        seniorityFilter = sel.value;
+        sortCol = null; sortDir = 'asc';
+        document.getElementById('list-content').innerHTML = renderTabContent();
+        bindTableSort();
       });
     }
 
