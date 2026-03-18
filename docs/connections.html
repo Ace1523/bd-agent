@@ -497,7 +497,7 @@
 
       return `
         <h1 class="page-title">All Regions</h1>
-        <p class="page-subtitle">${allCompanies} connected companies across ${data.regions.length} regions</p>
+        <p class="page-subtitle">${allCompanies} companies with MG partner connections (from regional target lists) across ${data.regions.length} regions</p>
 
         <div class="region-summary">
           <div class="summary-card"><div class="summary-value">${allCompanies}</div><div class="summary-label">Companies</div></div>
@@ -535,7 +535,7 @@
 
       return `
         <h1 class="page-title">${esc(r.display_name)}</h1>
-        <p class="page-subtitle">${r.companies.length} connected companies of ${r.total_companies} total</p>
+        <p class="page-subtitle">${r.companies.length} companies with MG partner connections (of ${r.total_companies} on regional target list)</p>
 
         <div class="region-summary">
           <div class="summary-card"><div class="summary-value">${r.companies.length}</div><div class="summary-label">Companies</div></div>
