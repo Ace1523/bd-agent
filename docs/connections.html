@@ -533,7 +533,6 @@
       const allCompanies = data.regions.reduce((s, r) => s + r.companies.length, 0);
       const allConnections = data.regions.reduce((s, r) => s + r.total_connections, 0);
       const allLeaders = data.regions.reduce((s, r) => s + r.companies.reduce((s2, c) => s2 + c.leaders.filter(l => l.mg_point_of_contact).length, 0), 0);
-      const allMil = data.regions.reduce((s, r) => s + r.companies.reduce((s2, c) => s2 + c.military_affiliations.length, 0), 0);
       const pipelineCount = data.regions.reduce((s, r) => s + r.companies.filter(c => c.pipeline_match).length, 0);
       const avgCoverage = data.regions.length
         ? Math.round(data.regions.reduce((s, r) => s + r.coverage_pct, 0) / data.regions.length * 10) / 10 : 0;
@@ -569,7 +568,6 @@
         <div class="list-tabs" id="list-tabs">
           <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(allLeaders)}</span></button>
           <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(allConnections)}</span></button>
-          <button class="list-tab${currentTab === 'military' ? ' active' : ''}" data-tab="military">Military Affiliations<span class="tab-count">${allMil}</span></button>
         </div>
 
         <div id="list-content">${renderTabContent()}</div>
@@ -582,7 +580,6 @@
       if (!r) return '<div class="empty-state">Region not found.</div>';
       const leaderCount = r.companies.reduce((s, c) => s + c.leaders.filter(l => l.mg_point_of_contact).length, 0);
       const connCount = r.total_connections;
-      const milCount = r.companies.reduce((s, c) => s + c.military_affiliations.length, 0);
       const pipelineCount = r.companies.filter(c => c.pipeline_match).length;
 
       return `
@@ -607,7 +604,6 @@
         <div class="list-tabs" id="list-tabs">
           <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(leaderCount)}</span></button>
           <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(connCount)}</span></button>
-          <button class="list-tab${currentTab === 'military' ? ' active' : ''}" data-tab="military">Military Affiliations<span class="tab-count">${milCount}</span></button>
         </div>
 
         <div id="list-content">${renderTabContent()}</div>
@@ -617,7 +613,6 @@
     function renderTabContent() {
       if (currentTab === 'leaders') return renderLeadersTab();
       if (currentTab === 'connections') return renderConnectionsTab();
-      if (currentTab === 'military') return renderMilitaryTab();
       return '';
     }
 
@@ -733,46 +728,6 @@
         <td>${esc(r.connection_name)}</td>
         <td>${esc(r.position)}</td>
         <td><span class="badge-sm badge-partner">${esc(r.mg_partner)}</span></td>
-      </tr>`).join("")}</tbody></table>`;
-    }
-
-    function renderMilitaryTab() {
-      const companies = getFilteredCompanies();
-      let rows = [];
-      for (const c of companies) {
-        for (const m of c.military_affiliations) {
-          rows.push({ ...m, company_name: c.company_name });
-        }
-      }
-      if (sortCol) {
-        rows.sort((a, b) => {
-          let va = a[sortCol] || '', vb = b[sortCol] || '';
-          va = String(va).toLowerCase(); vb = String(vb).toLowerCase();
-          return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
-        });
-      }
-      if (!rows.length) {
-        const isMultiRegion = currentRegionKey === 'all';
-        const regionName = isMultiRegion ? 'these regions' : currentRegion.display_name;
-        const isDC = currentRegionKey === 'DC';
-        if (isDC) {
-          return '<div class="empty-state">The DC region has a high concentration of military-affiliated executives across target companies.<br>To keep this view focused, military affiliations were not enriched for this region.</div>';
-        }
-        return `<div class="empty-state">No military affiliations identified in ${esc(regionName)}.</div>`;
-      }
-      const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
-      return `<table class="data-table"><thead><tr>
-        <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Company ${arrow('company_name')}</th>
-        <th data-sort="name" class="${sortCol === 'name' ? 'sorted' : ''}">Name ${arrow('name')}</th>
-        <th data-sort="rank" class="${sortCol === 'rank' ? 'sorted' : ''}">Rank ${arrow('rank')}</th>
-        <th data-sort="branch" class="${sortCol === 'branch' ? 'sorted' : ''}">Branch ${arrow('branch')}</th>
-        <th>Details</th>
-      </tr></thead><tbody>${rows.map(r => `<tr>
-        <td><span class="company-name">${esc(r.company_name)}</span></td>
-        <td>${esc(r.name)}</td>
-        <td><span class="badge-sm badge-mil">${esc(r.rank)}</span></td>
-        <td>${esc(r.branch)}</td>
-        <td style="max-width:400px;font-size:12px;color:var(--text-muted);line-height:1.5">${esc(r.details)}</td>
       </tr>`).join("")}</tbody></table>`;
     }
 
