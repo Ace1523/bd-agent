@@ -702,18 +702,16 @@ function dossierCard(d) {
     ? truncateToSentences(fa.primary_problem, 2)
     : truncateToSentences(d.detailed_analysis, 2);
 
-  // Fit rating badge
-  const ratingClass = fa
-    ? fa.rating === "strong" ? "score-green" : fa.rating === "moderate" ? "score-amber" : "score-gray"
-    : "";
-  const ratingLabel = fa ? fa.rating.charAt(0).toUpperCase() + fa.rating.slice(1) : "";
+  // PDF dossier filename
+  const safeName = (p.company_name || "Unknown").replace(/ /g, "_").replace(/\//g, "_").replace(/\./g, "");
+  const pdfUrl = `https://github.com/Ace1523/bd-agent/raw/main/data/dossiers/${encodeURIComponent(safeName)}_Dossier.pdf`;
 
   return `
     <div class="card">
       <div class="card-header">
         <div class="card-company">${escapeHtml(p.company_name || "Unknown")}</div>
         <div class="card-badges">
-          ${fa ? `<span class="tier-badge ${ratingClass}" style="font-size:11px;">${ratingLabel}</span>` : ""}
+          <a href="${pdfUrl}" target="_blank" rel="noopener" class="pdf-btn" onclick="event.stopPropagation();" title="Download PDF Dossier">PDF</a>
           <span class="score-badge ${scoreClass(p.score || 0)}">${Math.round(p.score || 0)}</span>
           ${warmPathBadgeHTML(p.company_name)}
         </div>
