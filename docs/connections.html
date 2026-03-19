@@ -665,7 +665,7 @@
           // If partner filter active, match against the POC field (may be semicolon-delimited)
           if (activePartner && !l.mg_point_of_contact.split(';').map(s => s.trim()).includes(activePartner)) continue;
           rows.push({ ...l, company_name: c.company_name, industry: c.industry,
-            revenue_millions: c.revenue_millions, pipeline_match: c.pipeline_match });
+            revenue_millions: c.revenue_millions, pipeline_match: c.pipeline_match, _region: c._region });
         }
       }
       if (sortCol) {
@@ -700,12 +700,14 @@
         <th data-sort="name" class="${sortCol === 'name' ? 'sorted' : ''}">Leader ${arrow('name')}</th>
         <th data-sort="role" class="${sortCol === 'role' ? 'sorted' : ''}">Role ${arrow('role')}</th>
         <th data-sort="mg_point_of_contact" class="${sortCol === 'mg_point_of_contact' ? 'sorted' : ''}">MG Contact ${arrow('mg_point_of_contact')}</th>
+        <th data-sort="_region" class="${sortCol === '_region' ? 'sorted' : ''}">Region ${arrow('_region')}</th>
         <th>Supported Research</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><div class="company-cell"><span class="company-name">${esc(r.company_name)}</span><span class="company-meta">${r.revenue_millions ? '$' + fmtRev(r.revenue_millions) + ' &middot; ' : ''}${esc(r.industry || '')}</span></div></td>
         <td>${esc(r.name)}${(leaderCompanyCount[r.name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" style="cursor:pointer;" title="Click to show all companies for ${esc(r.name)}" onclick="event.stopPropagation(); leaderFilter='${esc(r.name).replace(/'/g, "\\'")}'; sortCol=null; sortDir='asc'; document.getElementById('list-content').innerHTML=renderTabContent(); bindTableSort();">${leaderCompanyCount[r.name].size} companies</span>` : ''}</td>
         <td>${esc(r.role)}</td>
         <td>${r.mg_point_of_contact ? `<span class="poc-name">${esc(r.mg_point_of_contact)}</span>` : '<span class="no-poc">&mdash;</span>'}</td>
+        <td>${esc(r._region || '')}</td>
         <td>${r.is_military ? '<span class="badge-sm badge-mil">MIL</span> ' : ''}${r.pipeline_match ? `<a href="index.html?view=research&company=${encodeURIComponent(r.company_name)}" class="badge-sm badge-pipeline" style="text-decoration:none;cursor:pointer;" target="_top">Research</a>` : ''}</td>
       </tr>`).join("")}</tbody></table>`;
     }
@@ -717,7 +719,7 @@
         for (const conn of c.company_connections) {
           if (activePartner && conn.mg_partner !== activePartner) continue;
           if (seniorityFilter === 'senior' && !SENIOR_REGEX.test(conn.position)) continue;
-          rows.push({ ...conn, company_name: c.company_name, industry: c.industry });
+          rows.push({ ...conn, company_name: c.company_name, industry: c.industry, _region: c._region });
         }
       }
       if (sortCol) {
@@ -757,11 +759,13 @@
         <th data-sort="connection_name" class="${sortCol === 'connection_name' ? 'sorted' : ''}">Connection ${arrow('connection_name')}</th>
         <th data-sort="position" class="${sortCol === 'position' ? 'sorted' : ''}">Position ${arrow('position')}</th>
         <th data-sort="mg_partner" class="${sortCol === 'mg_partner' ? 'sorted' : ''}">MG Partner ${arrow('mg_partner')}</th>
+        <th data-sort="_region" class="${sortCol === '_region' ? 'sorted' : ''}">Region ${arrow('_region')}</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><span class="company-name">${esc(r.company_name)}</span></td>
         <td>${esc(r.connection_name)}${(connCompanyCount[r.connection_name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" style="cursor:pointer;" title="Click to show all companies for ${esc(r.connection_name)}" onclick="event.stopPropagation(); connectionFilter='${esc(r.connection_name).replace(/'/g, "\\'")}'; sortCol=null; sortDir='asc'; document.getElementById('list-content').innerHTML=renderTabContent(); bindTableSort();">${connCompanyCount[r.connection_name].size} companies</span>` : ''}</td>
         <td>${esc(r.position)}</td>
         <td><span class="badge-sm badge-partner">${esc(r.mg_partner)}</span></td>
+        <td>${esc(r._region || '')}</td>
       </tr>`).join("")}</tbody></table>`;
     }
 
