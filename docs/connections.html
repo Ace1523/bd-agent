@@ -568,7 +568,7 @@
 
         <div class="region-summary">
           <div class="summary-card"><div class="summary-value">${allCompanies}</div><div class="summary-label">Companies</div></div>
-          <div class="summary-card"><div class="summary-value">${fmt(allLeaders)}</div><div class="summary-label">Executive Connections</div></div>
+          <div class="summary-card"><div class="summary-value">${fmt(allLeaders)}</div><div class="summary-label">Key Connections</div></div>
           <div class="summary-card"><div class="summary-value">${fmt(allConnections)}</div><div class="summary-label">Warm Connections</div></div>
           <div class="summary-card"><div class="summary-value">${pipelineCount}</div><div class="summary-label">In Dashboard Pipeline</div></div>
           <div class="summary-card"><div class="summary-value">${data.partner_count}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
@@ -584,7 +584,7 @@
           </aside>
           <div class="connections-main">
             <div class="list-tabs" id="list-tabs">
-              <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(allLeaders)}</span></button>
+              <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Key Connections<span class="tab-count">${fmt(allLeaders)}</span></button>
               <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(allConnections)}</span></button>
             </div>
             <div id="list-content">${renderTabContent()}</div>
@@ -607,7 +607,7 @@
 
         <div class="region-summary">
           <div class="summary-card"><div class="summary-value">${r.companies.length}</div><div class="summary-label">Companies</div></div>
-          <div class="summary-card"><div class="summary-value">${fmt(leaderCount)}</div><div class="summary-label">Executive Connections</div></div>
+          <div class="summary-card"><div class="summary-value">${fmt(leaderCount)}</div><div class="summary-label">Key Connections</div></div>
           <div class="summary-card"><div class="summary-value">${fmt(connCount)}</div><div class="summary-label">Warm Connections</div></div>
           <div class="summary-card"><div class="summary-value">${pipelineCount}</div><div class="summary-label">In Dashboard Pipeline</div></div>
           <div class="summary-card"><div class="summary-value">${r.partner_breakdown.length}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
@@ -623,7 +623,7 @@
           </aside>
           <div class="connections-main">
             <div class="list-tabs" id="list-tabs">
-              <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(leaderCount)}</span></button>
+              <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Key Connections<span class="tab-count">${fmt(leaderCount)}</span></button>
               <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(connCount)}</span></button>
             </div>
             <div id="list-content">${renderTabContent()}</div>
