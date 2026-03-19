@@ -697,7 +697,7 @@
         <td>${esc(r.name)}</td>
         <td>${esc(r.role)}</td>
         <td>${r.mg_point_of_contact ? `<span class="poc-name">${esc(r.mg_point_of_contact)}</span>` : '<span class="no-poc">&mdash;</span>'}</td>
-        <td>${r.is_military ? '<span class="badge-sm badge-mil">MIL</span> ' : ''}${r.pipeline_match ? '<span class="badge-sm badge-pipeline">Pipeline</span>' : ''}</td>
+        <td>${r.is_military ? '<span class="badge-sm badge-mil">MIL</span> ' : ''}${r.pipeline_match ? `<a href="index.html?view=research&company=${encodeURIComponent(r.company_name)}" class="badge-sm badge-pipeline" style="text-decoration:none;cursor:pointer;" target="_top">Pipeline</a>` : ''}</td>
       </tr>`).join("")}</tbody></table>`;
     }
 

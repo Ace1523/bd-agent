@@ -74,6 +74,27 @@ async function loadData() {
       buildWarmPathsMap();
     }
     renderAll();
+
+    // Handle deep link from URL params (e.g., ?view=research&company=RTX)
+    const params = new URLSearchParams(window.location.search);
+    const paramView = params.get("view");
+    const paramCompany = params.get("company");
+    if (paramView) {
+      switchTab(paramView);
+      if (paramCompany) {
+        setTimeout(() => {
+          const container = document.getElementById("view-" + paramView);
+          if (!container) return;
+          container.querySelectorAll(".card").forEach(card => {
+            const nameEl = card.querySelector(".card-company");
+            if (nameEl && nameEl.textContent.trim() === paramCompany) {
+              card.classList.add("expanded");
+              card.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+          });
+        }, 150);
+      }
+    }
   } catch (err) {
     views.forEach((v) => {
       document.getElementById(`view-${v}`).innerHTML = `
