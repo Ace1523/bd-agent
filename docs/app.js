@@ -89,7 +89,10 @@ async function loadData() {
             const nameEl = card.querySelector(".card-company");
             if (nameEl && nameEl.textContent.trim() === paramCompany) {
               card.classList.add("expanded");
-              card.scrollIntoView({ behavior: "smooth", block: "start" });
+              setTimeout(() => {
+                const y = card.getBoundingClientRect().top + window.scrollY - 80;
+                window.scrollTo({ top: y, behavior: "smooth" });
+              }, 50);
             }
           });
         }, 150);
