@@ -20865,7 +20865,7 @@
             {
               "name": "Frank R. Jimenez",
               "role": "Board*",
-              "mg_point_of_contact": null,
+              "mg_point_of_contact": "Chris Fussell; Stan McChrystal",
               "is_military": false
             },
             {
@@ -29399,7 +29399,7 @@
             {
               "name": "Frank R. Jimenez",
               "role": "Board*",
-              "mg_point_of_contact": null,
+              "mg_point_of_contact": "Chris Fussell; Stan McChrystal",
               "is_military": false
             },
             {
@@ -29504,6 +29504,7 @@
           "has_connections": true,
           "connection_count": 1,
           "partner_names": [
+            "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal"
           ],
@@ -30723,7 +30724,7 @@
         },
         {
           "partner": "Chris Fussell",
-          "company_count": 103
+          "company_count": 104
         },
         {
           "partner": "Tom Seamands",

@@ -129,6 +129,35 @@ def parse_region(region_key, config, prospects):
                 for p in pocs:
                     partner_counts[p].add(comp["company_name"])
 
+    # Propagate MG contacts across companies for multi-board leaders
+    # If a leader has an MG POC at one company, apply it everywhere they appear
+    leader_pocs = {}  # leader_name -> mg_point_of_contact
+    for comp in companies.values():
+        for leader in comp["leaders"]:
+            if leader["mg_point_of_contact"]:
+                existing = leader_pocs.get(leader["name"])
+                if existing:
+                    # Merge POCs
+                    all_pocs = set(p.strip() for p in existing.split(";") if p.strip())
+                    all_pocs.update(p.strip() for p in leader["mg_point_of_contact"].split(";") if p.strip())
+                    leader_pocs[leader["name"]] = "; ".join(sorted(all_pocs))
+                else:
+                    leader_pocs[leader["name"]] = leader["mg_point_of_contact"]
+    # Apply propagated POCs
+    propagated = 0
+    for comp in companies.values():
+        for leader in comp["leaders"]:
+            if not leader["mg_point_of_contact"] and leader["name"] in leader_pocs:
+                leader["mg_point_of_contact"] = leader_pocs[leader["name"]]
+                comp["has_connections"] = True
+                for p in leader["mg_point_of_contact"].split(";"):
+                    p = p.strip()
+                    if p:
+                        partner_counts[p].add(comp["company_name"])
+                propagated += 1
+    if propagated:
+        print(f"  Propagated MG contacts to {propagated} multi-board leader entries")
+
     # Update connection counts and partner names per company
     for comp in companies.values():
         conns = comp["company_connections"]
