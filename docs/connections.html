@@ -224,14 +224,14 @@
     }
 
     /* ── Connections Layout (sidebar + main) ── */
-    .connections-layout { display: flex; gap: 24px; align-items: flex-start; }
+    .connections-layout { display: flex; gap: 24px; align-items: flex-start; margin-left: -16px; }
     .partner-sidebar {
-      width: 180px; flex-shrink: 0; display: flex; flex-direction: column; gap: 4px;
+      width: 170px; flex-shrink: 0; display: flex; flex-direction: column; gap: 4px;
       position: sticky; top: 72px; max-height: calc(100vh - 90px); overflow-y: auto;
     }
     .sidebar-label {
       font-size: 10px; font-weight: 700; text-transform: uppercase;
-      letter-spacing: 0.5px; color: var(--text-muted); padding: 0 12px 8px;
+      letter-spacing: 0.5px; color: var(--text-muted); padding: 0 0 8px; text-align: center;
     }
     .connections-main { flex: 1; min-width: 0; }
 
@@ -240,7 +240,7 @@
       font-size: 13px; font-weight: 500; padding: 8px 12px; border-radius: 8px;
       border: 1px solid var(--border); background: var(--bg-raised);
       color: var(--text-secondary); cursor: pointer; transition: all var(--transition);
-      width: 100%; text-align: left; display: flex; justify-content: space-between; align-items: center;
+      width: 100%; text-align: center; display: flex; justify-content: center; align-items: center; gap: 6px;
     }
     .partner-pill:hover { border-color: var(--text-muted); color: var(--text); }
     .partner-pill.active {
