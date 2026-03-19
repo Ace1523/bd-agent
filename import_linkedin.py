@@ -45,6 +45,12 @@ EXCLUDED_COMPANIES = [
     "booz allen hamilton",
 ]
 
+# Manual overrides: add MG POC to specific leaders missing from LinkedIn data
+# Format: (region, company_name, leader_name) -> mg_point_of_contact
+MANUAL_POC_OVERRIDES = {
+    ("ATL", "Grady Memorial Hospital Corporation (Grady Health System)", "Shan Cooper"): "Jeffery Jones",
+}
+
 
 def load_overwatch_prospects():
     """Load existing Overwatch prospect names for pipeline cross-referencing."""
@@ -114,6 +120,15 @@ def parse_region(region_key, config, prospects):
                 "mg_point_of_contact": mg_poc,
                 "is_military": False,  # updated below
             })
+
+    # --- Apply manual POC overrides ---
+    for (r_key, co_name, leader_name), poc in MANUAL_POC_OVERRIDES.items():
+        if r_key == region_key and co_name in companies:
+            for leader in companies[co_name]["leaders"]:
+                if leader["name"] == leader_name and not leader["mg_point_of_contact"]:
+                    leader["mg_point_of_contact"] = poc
+                    companies[co_name]["has_connections"] = True
+                    print(f"  Manual override: {leader_name} at {co_name} -> {poc}")
 
     # --- Company Connections ---
     ws2 = wb["Company Connections"]

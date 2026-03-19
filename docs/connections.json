@@ -6,8 +6,8 @@
       "display_name": "Atlanta",
       "total_companies": 94,
       "total_connections": 70,
-      "connected_companies": 26,
-      "coverage_pct": 27.7,
+      "connected_companies": 27,
+      "coverage_pct": 28.7,
       "companies": [
         {
           "company_name": "United Parcel Service, Inc. (UPS)",
@@ -2312,6 +2312,214 @@
           "pipeline_match": null
         },
         {
+          "company_name": "Grady Memorial Hospital Corporation (Grady Health System)",
+          "industry": "Public / nonprofit hospital system",
+          "location": "Atlanta, GA",
+          "revenue_millions": 2689.1,
+          "leaders": [
+            {
+              "name": "Robert Sheft",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Bernie Tokarz",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Michelle Wallace",
+              "role": "CNO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "S. Rob Todd, MD",
+              "role": "CMO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Anthony Saul",
+              "role": "COO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Shannon Sale",
+              "role": "CAO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Ben McKeeby",
+              "role": "CIO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Ryan Loke",
+              "role": "CPO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Bellal Joseph, MD",
+              "role": "SIC",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Lindsay Caulfield",
+              "role": "CMOktg",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Joselyn Butler Baker",
+              "role": "Pres-Fdn",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Nitasha Burney-Fleming, MD",
+              "role": "CAO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "John M. Haupert",
+              "role": "CEO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "J. Adrian Tyndall, MD",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Bernard Taylor, Esq.",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Rick Roche",
+              "role": "CPOppl",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Yolanda Wimberly, MD",
+              "role": "CHO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Christine Guillory",
+              "role": "CLO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Larry Gellerstedt",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "John Hollins",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Michael Hertz",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "John Gregg",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Shan Cooper",
+              "role": "Board",
+              "mg_point_of_contact": "Jeffery Jones",
+              "is_military": false
+            },
+            {
+              "name": "Brian Blake",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Patrice Basanta-Henry, MD",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Alicia Ivey",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "David Moody",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Ryan Marshall",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Sam Johnson",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Joia Johnson, Esq.",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Billy Wright",
+              "role": "CFO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "David Roemer",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Jeffery Jones"
+          ],
+          "pipeline_match": null
+        },
+        {
           "company_name": "Inspire Brands, Inc.",
           "industry": "Multi-Brand Restaurant Platform",
           "location": "Atlanta, GA",
@@ -2620,11 +2828,11 @@
           "company_count": 6
         },
         {
-          "partner": "Brendan Fitzgibbon",
-          "company_count": 4
+          "partner": "Jeffery Jones",
+          "company_count": 5
         },
         {
-          "partner": "Jeffery Jones",
+          "partner": "Brendan Fitzgibbon",
           "company_count": 4
         },
         {
