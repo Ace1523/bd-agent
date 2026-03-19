@@ -223,19 +223,31 @@
       letter-spacing: 1px; color: var(--text-muted); margin-top: 3px;
     }
 
-    /* ── Partner Filter ── */
-    .partner-filter { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+    /* ── Connections Layout (sidebar + main) ── */
+    .connections-layout { display: flex; gap: 24px; align-items: flex-start; }
+    .partner-sidebar {
+      width: 180px; flex-shrink: 0; display: flex; flex-direction: column; gap: 4px;
+      position: sticky; top: 72px; max-height: calc(100vh - 90px); overflow-y: auto;
+    }
+    .sidebar-label {
+      font-size: 10px; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.5px; color: var(--text-muted); padding: 0 12px 8px;
+    }
+    .connections-main { flex: 1; min-width: 0; }
+
+    /* ── Partner Pills (vertical in sidebar) ── */
     .partner-pill {
-      font-size: 13px; font-weight: 500; padding: 6px 16px; border-radius: 20px;
+      font-size: 13px; font-weight: 500; padding: 8px 12px; border-radius: 8px;
       border: 1px solid var(--border); background: var(--bg-raised);
       color: var(--text-secondary); cursor: pointer; transition: all var(--transition);
+      width: 100%; text-align: left; display: flex; justify-content: space-between; align-items: center;
     }
     .partner-pill:hover { border-color: var(--text-muted); color: var(--text); }
     .partner-pill.active {
       background: var(--text); border-color: var(--text); color: var(--bg-raised);
     }
     .partner-pill .pill-count {
-      font-family: var(--font-mono); font-size: 11px; margin-left: 4px; opacity: 0.6;
+      font-family: var(--font-mono); font-size: 11px; opacity: 0.6;
     }
     .partner-pill.active .pill-count { opacity: 0.7; }
 
@@ -354,6 +366,10 @@
       .list-tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
       .region-stats { grid-template-columns: repeat(2, 1fr); }
       .region-summary { grid-template-columns: repeat(3, 1fr); }
+      .connections-layout { flex-direction: column; }
+      .partner-sidebar { width: 100%; flex-direction: row; flex-wrap: wrap; position: static; max-height: none; gap: 8px; }
+      .partner-pill { width: auto; border-radius: 20px; padding: 6px 16px; }
+      .sidebar-label { display: none; }
     }
 
     .view-transition { animation: fadeIn 0.2s ease; }
@@ -558,19 +574,22 @@
           <div class="summary-card"><div class="summary-value">${data.partner_count}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
         </div>
 
-        <div class="partner-filter" id="partner-filter">
-          <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${allCompanies}</span></button>
-          ${partnerBreakdown.map(([name, count]) =>
-            `<button class="partner-pill${activePartner === name ? ' active' : ''}" data-partner="${esc(name)}">${esc(name)}<span class="pill-count">${count}</span></button>`
-          ).join("")}
+        <div class="connections-layout">
+          <aside class="partner-sidebar" id="partner-filter">
+            <div class="sidebar-label">Filter by Partner</div>
+            <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${allCompanies}</span></button>
+            ${partnerBreakdown.map(([name, count]) =>
+              `<button class="partner-pill${activePartner === name ? ' active' : ''}" data-partner="${esc(name)}">${esc(name)}<span class="pill-count">${count}</span></button>`
+            ).join("")}
+          </aside>
+          <div class="connections-main">
+            <div class="list-tabs" id="list-tabs">
+              <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(allLeaders)}</span></button>
+              <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(allConnections)}</span></button>
+            </div>
+            <div id="list-content">${renderTabContent()}</div>
+          </div>
         </div>
-
-        <div class="list-tabs" id="list-tabs">
-          <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(allLeaders)}</span></button>
-          <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(allConnections)}</span></button>
-        </div>
-
-        <div id="list-content">${renderTabContent()}</div>
       `;
     }
 
@@ -594,19 +613,22 @@
           <div class="summary-card"><div class="summary-value">${r.partner_breakdown.length}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
         </div>
 
-        <div class="partner-filter" id="partner-filter">
-          <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${r.companies.length}</span></button>
-          ${r.partner_breakdown.map(pb =>
-            `<button class="partner-pill${activePartner === pb.partner ? ' active' : ''}" data-partner="${esc(pb.partner)}">${esc(pb.partner)}<span class="pill-count">${pb.company_count}</span></button>`
-          ).join("")}
+        <div class="connections-layout">
+          <aside class="partner-sidebar" id="partner-filter">
+            <div class="sidebar-label">Filter by Partner</div>
+            <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${r.companies.length}</span></button>
+            ${r.partner_breakdown.map(pb =>
+              `<button class="partner-pill${activePartner === pb.partner ? ' active' : ''}" data-partner="${esc(pb.partner)}">${esc(pb.partner)}<span class="pill-count">${pb.company_count}</span></button>`
+            ).join("")}
+          </aside>
+          <div class="connections-main">
+            <div class="list-tabs" id="list-tabs">
+              <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(leaderCount)}</span></button>
+              <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(connCount)}</span></button>
+            </div>
+            <div id="list-content">${renderTabContent()}</div>
+          </div>
         </div>
-
-        <div class="list-tabs" id="list-tabs">
-          <button class="list-tab${currentTab === 'leaders' ? ' active' : ''}" data-tab="leaders">Executive Connections<span class="tab-count">${fmt(leaderCount)}</span></button>
-          <button class="list-tab${currentTab === 'connections' ? ' active' : ''}" data-tab="connections">All Company Connections<span class="tab-count">${fmt(connCount)}</span></button>
-        </div>
-
-        <div id="list-content">${renderTabContent()}</div>
       `;
     }
 
