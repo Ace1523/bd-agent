@@ -226,13 +226,22 @@ Deep fit analysis contains markdown tables (stakeholder maps, business unit tabl
 **Missing field handling:**
 Every section checks for `None`/empty before rendering. Missing sections are silently skipped — critical because subagent research may not populate every field.
 
+**Known gotchas (bugs we hit during development):**
+1. **`relevance` not `significance`** — `TriggerEvent` model field is `relevance`, but the PDF originally read `significance`. Now fixed with fallback: `t.get("relevance", "") or t.get("significance", "")`
+2. **Multi-table state bleed in Section 9** — `pdf._table_headers` tracks the current table's header row but is only set once (`if pdf._table_headers is None`). If Section 9 has multiple markdown tables, the second table's header gets treated as a data row using the first table's column labels. Reset `_table_headers = None` when encountering a new `##` or `###` header to fix
+3. **fpdf2 Latin-1 only** — `fpdf2` cannot render Unicode. Any character not in Latin-1 (0x00–0xFF) causes `UnicodeEncodeError`. The `clean_text()` method handles this with explicit replacements + a fallback `encode("latin-1", errors="replace")`. If you see `?` characters in output, add the missing character to the replacements dict
+4. **fpdf2 `ln=True` deprecation** — `cell(..., ln=True)` produces deprecation warnings. The replacement is `new_x=XPos.LMARGIN, new_y=YPos.NEXT` but we haven't migrated yet. Cosmetic only — does not affect PDF output
+5. **Bar chart text placement** — when a cover page bar is too narrow for the point label text, it renders outside the bar in dark color instead of white-on-fill. The threshold is `pts_w < fill_w - 2`
+6. **`clean_text()` accepts lists** — dossier fields may be `list[str]` instead of `str` (e.g., `pain_points`). `clean_text()` handles this by joining with newlines, but callers should be aware
+
 **QA checklist for PDF changes:**
-1. Test with a fully populated dossier and a minimal dossier
-2. Verify trigger events render (field is `relevance`, not `significance`)
-3. Check Section 9 tables render as structured blocks, not raw `|` text
-4. Verify no `UnicodeEncodeError` on international company names
-5. Check page breaks — `section_header()` and `sub_header()` check remaining space
+1. Test with a fully populated dossier and a minimal dossier (missing sections should skip silently)
+2. Run against a company with international characters in the name
+3. Verify Section 5 trigger events show the relevance description text
+4. Check Section 9 tables render correctly — especially if there are multiple tables
+5. Check page breaks — `section_header()` and `sub_header()` check remaining space before rendering
 6. Verify cover page ICP scoring bars render at correct proportional widths
+7. Open the PDF and visually scan for `?` characters (indicates unhandled Unicode)
 
 ### Phase 3: Outreach (implemented)
 3 independent cold email versions (A/B/C) per prospect, each with a genuinely different opening strategy. NOT sequential follow-ups — pick whichever version resonates most.
