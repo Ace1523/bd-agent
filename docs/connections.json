@@ -6,8 +6,8 @@
       "display_name": "Atlanta",
       "total_companies": 94,
       "total_connections": 70,
-      "connected_companies": 27,
-      "coverage_pct": 28.7,
+      "connected_companies": 28,
+      "coverage_pct": 29.8,
       "companies": [
         {
           "company_name": "United Parcel Service, Inc. (UPS)",
@@ -2312,6 +2312,82 @@
           "pipeline_match": null
         },
         {
+          "company_name": "Ameris Bancorp",
+          "industry": "Banking & Financial Services",
+          "location": "Atlanta, GA",
+          "revenue_millions": 1380,
+          "leaders": [
+            {
+              "name": "Elizabeth Camp",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Gregory Cook",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Elizabeth Smith",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "William Shipman",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Palmer Proctor Jr.",
+              "role": "CEO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Dennis Zember",
+              "role": "CFO",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "James Butler",
+              "role": "Chief Credit",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Robert Beall",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "James Dubose",
+              "role": "Board",
+              "mg_point_of_contact": null,
+              "is_military": false
+            },
+            {
+              "name": "Rodney Bullard",
+              "role": "Board",
+              "mg_point_of_contact": "Jeffery Jones",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Jeffery Jones"
+          ],
+          "pipeline_match": null
+        },
+        {
           "company_name": "Grady Memorial Hospital Corporation (Grady Health System)",
           "industry": "Public / nonprofit hospital system",
           "location": "Atlanta, GA",
@@ -2829,7 +2905,7 @@
         },
         {
           "partner": "Jeffery Jones",
-          "company_count": 5
+          "company_count": 6
         },
         {
           "partner": "Brendan Fitzgibbon",

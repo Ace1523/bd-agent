@@ -49,6 +49,15 @@ EXCLUDED_COMPANIES = [
 # Format: (region, company_name, leader_name) -> mg_point_of_contact
 MANUAL_POC_OVERRIDES = {
     ("ATL", "Grady Memorial Hospital Corporation (Grady Health System)", "Shan Cooper"): "Jeffery Jones",
+    ("ATL", "Ameris Bancorp", "Rodney Bullard"): "Jeffery Jones",
+}
+
+# Manual leader additions: leaders not in the enriched Excel at all
+# Format: (region, company_name) -> [{"name", "role", "mg_point_of_contact"}]
+MANUAL_LEADERS = {
+    ("ATL", "Ameris Bancorp"): [
+        {"name": "Rodney Bullard", "role": "Board", "mg_point_of_contact": "Jeffery Jones"},
+    ],
 }
 
 
@@ -129,6 +138,21 @@ def parse_region(region_key, config, prospects):
                     leader["mg_point_of_contact"] = poc
                     companies[co_name]["has_connections"] = True
                     print(f"  Manual override: {leader_name} at {co_name} -> {poc}")
+
+    # --- Add manual leaders not in the enriched Excel ---
+    for (r_key, co_name), leaders in MANUAL_LEADERS.items():
+        if r_key == region_key and co_name in companies:
+            existing_names = {l["name"] for l in companies[co_name]["leaders"]}
+            for ml in leaders:
+                if ml["name"] not in existing_names:
+                    companies[co_name]["leaders"].append({
+                        "name": ml["name"],
+                        "role": ml["role"],
+                        "mg_point_of_contact": ml["mg_point_of_contact"],
+                        "is_military": False,
+                    })
+                    companies[co_name]["has_connections"] = True
+                    print(f"  Manual add: {ml['name']} at {co_name} -> {ml['mg_point_of_contact']}")
 
     # --- Company Connections ---
     ws2 = wb["Company Connections"]
