@@ -801,7 +801,7 @@
           "pipeline_match": null
         },
         {
-          "company_name": "LexisNexis Risk Solutions Group*",
+          "company_name": "LexisNexis Risk Solutions Group",
           "industry": "Data Analytics & Risk Management",
           "location": "Atlanta, GA",
           "revenue_millions": 2900,
@@ -4426,7 +4426,7 @@
             },
             {
               "name": "Lisa S. Disbrow",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -5110,7 +5110,7 @@
             },
             {
               "name": "Michael Williamson",
-              "role": "Strategic Advisor*",
+              "role": "Strategic Advisor",
               "mg_point_of_contact": "Jim Huggins; Tom Seamands",
               "is_military": false
             },
@@ -5140,13 +5140,13 @@
             },
             {
               "name": "Kenny Gele",
-              "role": "Government Relations Director*",
+              "role": "Government Relations Director",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
             {
               "name": "Ryan Kuhn",
-              "role": "Director*",
+              "role": "Director",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
@@ -5194,7 +5194,7 @@
             },
             {
               "name": "Joseph F. Dunford Jr., Retired U.S. Marine Corps General",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -5212,19 +5212,19 @@
             },
             {
               "name": "Howard Bromberg",
-              "role": "VP Strategy and Business Development, Land Forces*",
+              "role": "VP Strategy and Business Development, Land Forces",
               "mg_point_of_contact": "Jim Huggins; Tom Seamands",
               "is_military": false
             },
             {
               "name": "John C. Aquilino, Retired U.S. Navy Admiral",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Stephen Mueller",
-              "role": "Vice President Air Force Programs*",
+              "role": "Vice President Air Force Programs",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
@@ -5242,7 +5242,7 @@
             },
             {
               "name": "Patrick Donahue",
-              "role": "Vice President for Army and Special Operations Forces Programs at Lockheed Martin Government Affairs*",
+              "role": "Vice President for Army and Special Operations Forces Programs at Lockheed Martin Government Affairs",
               "mg_point_of_contact": "Jim Huggins; Tom Seamands",
               "is_military": false
             }
@@ -6962,7 +6962,7 @@
             },
             {
               "name": "John K. Tien Jr.",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": "Stan McChrystal",
               "is_military": false
             },
@@ -7497,7 +7497,7 @@
           "leaders": [
             {
               "name": "Gen. Mark A. Welsh, III, Former Chief of Staff, U.S. Air Force",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -7509,7 +7509,7 @@
             },
             {
               "name": "Mary A. Winston",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -7557,7 +7557,7 @@
             },
             {
               "name": "Matt Isler",
-              "role": "Corporate Regional Executive for Europe, NATO, and Middle East/North Africa*",
+              "role": "Corporate Regional Executive for Europe, NATO, and Middle East/North Africa",
               "mg_point_of_contact": "Jim Huggins; Stan McChrystal",
               "is_military": false
             },
@@ -7575,7 +7575,7 @@
             },
             {
               "name": "Chris Grady, Admiral, United States Navy (Ret.)\nFormer Vice Chairman, Joint Chiefs of Staff",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -7659,7 +7659,7 @@
             },
             {
               "name": "Gary Roughead, Admiral, United States Navy (Ret.), Former U.S. Navy Chief of Naval Operations",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -8094,7 +8094,7 @@
             },
             {
               "name": "Jared Ferguson",
-              "role": "Intelligence Team Lead*",
+              "role": "Intelligence Team Lead",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
@@ -8112,13 +8112,13 @@
             },
             {
               "name": "Garrett Yee",
-              "role": "Vice President*",
+              "role": "Vice President",
               "mg_point_of_contact": "Jim Huggins; Tom Seamands",
               "is_military": false
             },
             {
               "name": "Bob Pricone",
-              "role": "Vice President For Army Training & Services (Integrated Mission Training & Services)*",
+              "role": "Vice President For Army Training & Services (Integrated Mission Training & Services)",
               "mg_point_of_contact": "Jim Huggins; Tom Seamands",
               "is_military": false
             },
@@ -11821,7 +11821,7 @@
             },
             {
               "name": "Admiral James G. Stavridis",
-              "role": "Board (Former)*",
+              "role": "Board (Former)",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -12209,7 +12209,7 @@
             },
             {
               "name": "Clifton Trout",
-              "role": "Vice President of Strategy, Mission, and Technology*",
+              "role": "Vice President of Strategy, Mission, and Technology",
               "mg_point_of_contact": "Jim Huggins; Stan McChrystal; Tom Seamands",
               "is_military": false
             },
@@ -12221,7 +12221,7 @@
             },
             {
               "name": "Emmett Burke",
-              "role": "Director, Strategic Growth*",
+              "role": "Director, Strategic Growth",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
@@ -12287,19 +12287,19 @@
             },
             {
               "name": "John F. Campbell",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Jonathan W. Greenert, Former Chief of Naval Operations",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Stephen W. Wilson, Vice Chief of Staff of the Air Force",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -12652,31 +12652,31 @@
             },
             {
               "name": "Edward J. Rice Jr., Retired Air Force Four Star",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Harry B. Harris Jr., Deputy Chief of Naval Operations for Communications Networks and commanded the U.S. Pacific Command",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Joanna Geraghty, Former President of Jet Blue",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Emily Nack",
-              "role": "Director, Strategic Capture Excellence & Proposal Council Leader*",
+              "role": "Director, Strategic Capture Excellence & Proposal Council Leader",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
             {
               "name": "Dave Sink  MBA, MA",
-              "role": "Global Business Development and Sales Accounts Manager for Dept of War / TDL Link16*",
+              "role": "Global Business Development and Sales Accounts Manager for Dept of War / TDL Link16",
               "mg_point_of_contact": "Jim Huggins",
               "is_military": false
             },
@@ -14334,7 +14334,7 @@
             },
             {
               "name": "Leah Kritzer",
-              "role": "Director of Project Mgmt*",
+              "role": "Director of Project Mgmt",
               "mg_point_of_contact": "Brendan Fitzgibbon",
               "is_military": false
             },
@@ -14388,7 +14388,7 @@
             },
             {
               "name": "Maria Doherty",
-              "role": "Head of ZELLE*",
+              "role": "Head of ZELLE",
               "mg_point_of_contact": "Brendan Fitzgibbon",
               "is_military": false
             },
@@ -14406,13 +14406,13 @@
             },
             {
               "name": "Luke Swartz",
-              "role": "Sr Director*",
+              "role": "Sr Director",
               "mg_point_of_contact": "Brendan Fitzgibbon",
               "is_military": false
             },
             {
               "name": "Josh Hunt",
-              "role": "VP of Retail*",
+              "role": "VP of Retail",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -15583,7 +15583,7 @@
             },
             {
               "name": "Eric John",
-              "role": "President, Boeing Japan*",
+              "role": "President, Boeing Japan",
               "mg_point_of_contact": "Chris Fussell",
               "is_military": false
             },
@@ -15607,7 +15607,7 @@
             },
             {
               "name": "Robert K. Ortberg",
-              "role": "CEO*",
+              "role": "CEO",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -15625,13 +15625,13 @@
             },
             {
               "name": "Stayce D. Harris, Lt. General and Former Inspector General, U.S. Air Force",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "John M. Richardson, Former CNO",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -15655,7 +15655,7 @@
             },
             {
               "name": "Jim Leary",
-              "role": "Senior Director Business Development*",
+              "role": "Senior Director Business Development",
               "mg_point_of_contact": "Jim Huggins; Stan McChrystal; Tom Seamands",
               "is_military": false
             },
@@ -15673,7 +15673,7 @@
             },
             {
               "name": "Jessie Farrington",
-              "role": "Director Attack Helicopter Program Business Development*",
+              "role": "Director Attack Helicopter Program Business Development",
               "mg_point_of_contact": "Jim Huggins; Tom Seamands",
               "is_military": false
             },
@@ -16081,7 +16081,7 @@
           "leaders": [
             {
               "name": "Julie Sweet",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -16316,7 +16316,7 @@
             },
             {
               "name": "Anselm Beach, Ph.D.",
-              "role": "Director of Government Relations*",
+              "role": "Director of Government Relations",
               "mg_point_of_contact": "Jim Huggins; Stan McChrystal; Tom Seamands",
               "is_military": false
             },
@@ -16382,7 +16382,7 @@
             },
             {
               "name": "Steve Shepro",
-              "role": "Vice President, Pratt & Whitney*",
+              "role": "Vice President, Pratt & Whitney",
               "mg_point_of_contact": "Chris Fussell; Jim Huggins; Stan McChrystal",
               "is_military": false
             },
@@ -16400,7 +16400,7 @@
             },
             {
               "name": "Robert O. Work, Former Deputy Secretary of Defense",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -16412,7 +16412,7 @@
             },
             {
               "name": "Francis \"Frank\" Wiercinski",
-              "role": "VP Raytheon Missiles and Defense Requirements and Capabilities - Indo PACOM and Pacific Regions*",
+              "role": "VP Raytheon Missiles and Defense Requirements and Capabilities - Indo PACOM and Pacific Regions",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -16442,13 +16442,13 @@
             },
             {
               "name": "John O'Grady",
-              "role": "Director*",
+              "role": "Director",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Mike Tarsa",
-              "role": "Managing Director, Army Accounts*",
+              "role": "Managing Director, Army Accounts",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -16757,7 +16757,7 @@
           "leaders": [
             {
               "name": "Jillian Kaminski",
-              "role": "Chief of Staff*",
+              "role": "Chief of Staff",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -18696,7 +18696,7 @@
             },
             {
               "name": "Frank R. Jimenez",
-              "role": "General Counsel*",
+              "role": "General Counsel",
               "mg_point_of_contact": "Chris Fussell; Stan McChrystal",
               "is_military": false
             },
@@ -18902,13 +18902,13 @@
             },
             {
               "name": "Charles W. Hooper",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Richard D. Clarke",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": "Chris Fussell; Jim Huggins; Tom Seamands",
               "is_military": false
             },
@@ -18920,7 +18920,7 @@
             },
             {
               "name": "Richard Clarke",
-              "role": "Independent Director*",
+              "role": "Independent Director",
               "mg_point_of_contact": "Chris Fussell; Jim Huggins; Tom Seamands",
               "is_military": false
             },
@@ -20852,31 +20852,31 @@
             },
             {
               "name": "Chris Kastner",
-              "role": "CEO*",
+              "role": "CEO",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Tracy B. McKibben",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Frank R. Jimenez",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": "Chris Fussell; Stan McChrystal",
               "is_military": false
             },
             {
               "name": "Craig S. Faller",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Christopher D. Kastner",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -24903,7 +24903,7 @@
           "leaders": [
             {
               "name": "Jeffrey Douville",
-              "role": "Director of Logistics*",
+              "role": "Director of Logistics",
               "mg_point_of_contact": "Jim Huggins; Stan McChrystal",
               "is_military": false
             }
@@ -25334,7 +25334,7 @@
             },
             {
               "name": "Laura J. Hay",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": "Chris Fussell",
               "is_military": false
             },
@@ -25704,7 +25704,7 @@
             },
             {
               "name": "Tracey Schroeder",
-              "role": "Chief Comms Officer*",
+              "role": "Chief Comms Officer",
               "mg_point_of_contact": "Brendan Fitzgibbon",
               "is_military": false
             },
@@ -28928,7 +28928,7 @@
             },
             {
               "name": "Kathryn Zaki",
-              "role": "Director of Talent*",
+              "role": "Director of Talent",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -29380,7 +29380,7 @@
             },
             {
               "name": "J.S. Nelson",
-              "role": "Special Projects - All Domain Operations*",
+              "role": "Special Projects - All Domain Operations",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -29392,25 +29392,25 @@
             },
             {
               "name": "Craig S. Faller",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Frank R. Jimenez",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": "Chris Fussell; Stan McChrystal",
               "is_military": false
             },
             {
               "name": "Tracy B. McKibben",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Eric Chewning",
-              "role": "Chief Strategy - EVP Corporate Strategy*",
+              "role": "Chief Strategy - EVP Corporate Strategy",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -29446,7 +29446,7 @@
             },
             {
               "name": "Christopher D. Kastner",
-              "role": "Board*",
+              "role": "Board",
               "mg_point_of_contact": null,
               "is_military": false
             },
@@ -30600,7 +30600,7 @@
             },
             {
               "name": "Brendan Hall",
-              "role": "Director for Construction Risk*",
+              "role": "Director for Construction Risk",
               "mg_point_of_contact": "Brendan Fitzgibbon",
               "is_military": false
             },

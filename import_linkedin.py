@@ -67,7 +67,7 @@ def parse_region(region_key, config, prospects):
     for i, row in enumerate(ws.iter_rows(values_only=True)):
         if i == 0:
             continue  # skip header
-        company_name = (row[0] or "").strip()
+        company_name = (row[0] or "").strip().replace("*", "")
         if not company_name:
             continue
         if company_name.lower() in EXCLUDED_COMPANIES:
@@ -86,9 +86,9 @@ def parse_region(region_key, config, prospects):
                 "partner_names": [],
                 "pipeline_match": None,
             }
-        leader_name = (row[1] or "").strip()
-        role = (row[2] or "").strip()
-        mg_poc = (row[3] or "").strip() if row[3] else None
+        leader_name = (row[1] or "").strip().replace("*", "")
+        role = (row[2] or "").strip().replace("*", "")
+        mg_poc = (row[3] or "").strip().replace("*", "") if row[3] else None
         if leader_name:
             companies[company_name]["leaders"].append({
                 "name": leader_name,
