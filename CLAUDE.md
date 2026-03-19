@@ -344,7 +344,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `bd/dashboard.py` — JSON export for dashboard; `python -m bd.dashboard` bootstraps from Markdown
 - `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()` for orchestration
 - `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data; `save_market_intelligence()` / `clear_market_intelligence()` for market data
-- `import_linkedin.py` — reads ATL_BD enriched Excel workbooks, writes `docs/connections.json`. Run: `python3 import_linkedin.py`
+- `import_linkedin.py` — reads ATL_BD enriched Excel workbooks, writes `docs/connections.json`. Run: `python3 import_linkedin.py`. Includes multi-board leader propagation: if a leader appears at multiple target companies and has an MG contact at one, that contact is automatically applied to all their companies. Also excludes companies in `EXCLUDED_COMPANIES` list (currently: Booz Allen Hamilton)
 - `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `docs/connections.html` — standalone LinkedIn Connections page (light theme), also embedded in main dashboard via iframe
 - `docs/connections.json` — generated LinkedIn connection data (regions, companies, leaders, connections, military affiliations)
