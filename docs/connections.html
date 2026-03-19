@@ -727,7 +727,7 @@
       const allConnectionNames = [...new Set(rows.map(r => r.connection_name))].sort();
       // Apply filters
       if (companyFilter) rows = rows.filter(r => r.company_name === companyFilter);
-      if (connectionFilter) rows = rows.filter(r => r.connection_name === connectionFilter);
+      if (connectionFilter) rows = rows.filter(r => r.connection_name.toLowerCase().includes(connectionFilter.toLowerCase()));
       if (!rows.length && !allCompanyNames.length) return '<div class="empty-state">No connections match the current filters.</div>';
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
       return `<div class="seniority-bar">
@@ -739,10 +739,7 @@
           <option value="">All Companies (${allCompanyNames.length})</option>
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
-        <select class="seniority-select" id="connection-select">
-          <option value="">All Names (${allConnectionNames.length})</option>
-          ${allConnectionNames.map(n => `<option value="${esc(n)}"${connectionFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
-        </select>
+        <input type="text" class="seniority-select" id="connection-search" placeholder="Search names..." value="${esc(connectionFilter)}" style="width:160px;">
         <span class="seniority-count">${rows.length} connections</span>
       </div>
       <table class="data-table"><thead><tr>
@@ -823,13 +820,16 @@
           bindTableSort();
         });
       }
-      const cnSel = document.getElementById('connection-select');
-      if (cnSel) {
-        cnSel.addEventListener('change', () => {
-          connectionFilter = cnSel.value;
+      const cnInput = document.getElementById('connection-search');
+      if (cnInput) {
+        cnInput.addEventListener('input', () => {
+          connectionFilter = cnInput.value;
           sortCol = null; sortDir = 'asc';
           document.getElementById('list-content').innerHTML = renderTabContent();
           bindTableSort();
+          // Re-focus the input and restore cursor position
+          const restored = document.getElementById('connection-search');
+          if (restored) { restored.focus(); restored.selectionStart = restored.selectionEnd = restored.value.length; }
         });
       }
     }
