@@ -685,7 +685,6 @@
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <input type="text" class="seniority-select" id="leader-search" placeholder="Search leaders..." value="${esc(leaderFilter)}" style="width:160px;">
-        <span class="seniority-count">${rows.length} executive connections</span>
       </div>
       <table class="data-table"><thead><tr>
         <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Company ${arrow('company_name')}</th>
@@ -737,7 +736,6 @@
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <input type="text" class="seniority-select" id="connection-search" placeholder="Search names..." value="${esc(connectionFilter)}" style="width:160px;">
-        <span class="seniority-count">${rows.length} connections</span>
       </div>
       <table class="data-table"><thead><tr>
         <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Target Company ${arrow('company_name')}</th>
