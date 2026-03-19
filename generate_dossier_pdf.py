@@ -9,9 +9,6 @@ from datetime import date
 
 from fpdf import FPDF
 
-from bd.discover.scorer import score_revenue, score_employees, score_signals, score_fit
-from bd.models import Prospect, Signal, SignalType
-
 DATA_PATH = os.path.join(os.path.dirname(__file__), "data", "dashboard.json")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "data", "dossiers")
 
@@ -117,15 +114,7 @@ class DossierPDF(FPDF):
             self.cell(0, 7, value, ln=True, align="L")
 
         # ── ICP Scoring Methodology ──
-        self.ln(12)
-
-        # Compute actual component scores if we can reconstruct the prospect
-        breakdown = None
-        try:
-            prospect_obj = _prospect_from_dict(prospect)
-            breakdown = _compute_score_breakdown(prospect_obj)
-        except Exception:
-            pass
+        self.ln(10)
 
         # Section label
         self.set_font("Helvetica", "B", 9)
@@ -133,21 +122,26 @@ class DossierPDF(FPDF):
         self.cell(0, 5, "ICP SCORING MODEL", ln=True)
         self.ln(3)
 
-        # Bar chart dimensions
-        bar_x = 15  # left margin
-        label_w = 48  # width for label text
-        track_w = 100  # full track width
-        bar_h = 7  # bar height
-        bar_gap = 3  # gap between bars
+        # Bar chart — each component gets a distinct color
+        bar_x = 15
+        label_w = 48
+        track_w = 100
+        bar_h = 7
+        bar_gap = 3
+
+        BAR_ORANGE = (196, 90, 28)
+        BAR_TEAL = (52, 131, 151)
+        BAR_SLATE = (88, 110, 130)
+        BAR_GOLD = (180, 140, 50)
 
         components = [
-            ("Signals", 35, breakdown["signals"] if breakdown else None),
-            ("Revenue Fit", 25, breakdown["revenue"] if breakdown else None),
-            ("Employee Scale", 20, breakdown["employees"] if breakdown else None),
-            ("McChrystal Fit", 20, breakdown["fit"] if breakdown else None),
+            ("Signals", 35, BAR_ORANGE),
+            ("Revenue Fit", 25, BAR_TEAL),
+            ("Employee Scale", 20, BAR_SLATE),
+            ("McChrystal Fit", 20, BAR_GOLD),
         ]
 
-        for label, max_pts, actual in components:
+        for label, max_pts, color in components:
             y = self.get_y()
             # Label
             self.set_font("Helvetica", "", 8)
@@ -155,50 +149,59 @@ class DossierPDF(FPDF):
             self.set_xy(bar_x, y)
             self.cell(label_w, bar_h, label)
 
-            # Gray track — width proportional to component's max (out of 100)
+            # Gray track (full width)
             track_x = bar_x + label_w
-            component_track_w = track_w * (max_pts / 35)  # scale to widest (Signals=35)
             self.set_fill_color(230, 230, 230)
-            self.rect(track_x, y + 0.5, component_track_w, bar_h - 1, "F")
+            self.rect(track_x, y + 0.5, track_w, bar_h - 1, "F")
 
-            # Orange fill proportional to actual score within component max
-            if actual is not None:
-                fill_w = component_track_w * (actual / max_pts) if max_pts > 0 else 0
-            else:
-                fill_w = component_track_w  # no breakdown available, fill fully
-            self.set_fill_color(*ORANGE)
+            # Colored fill proportional to weight
+            fill_w = track_w * (max_pts / 35)
+            self.set_fill_color(*color)
             self.rect(track_x, y + 0.5, fill_w, bar_h - 1, "F")
 
-            # Points label inside/after bar
+            # Points label inside the bar
+            pts_text = f"{max_pts} pts"
             self.set_font("Helvetica", "B", 7)
             self.set_text_color(*WHITE)
-            pts_text = f"{max_pts} pts"
-            if actual is not None:
-                pts_text = f"{actual:.0f}/{max_pts}"
             pts_w = self.get_string_width(pts_text) + 2
-            # Place text inside the orange bar if it fits, otherwise after
-            if pts_w < fill_w - 2:
-                self.set_xy(track_x + fill_w - pts_w - 1, y)
-                self.cell(pts_w, bar_h, pts_text, align="R")
-            else:
-                self.set_text_color(*DARK)
-                self.set_xy(track_x + fill_w + 2, y)
-                self.cell(pts_w, bar_h, pts_text)
+            self.set_xy(track_x + fill_w - pts_w - 1, y)
+            self.cell(pts_w, bar_h, pts_text, align="R")
 
             self.set_y(y + bar_h + bar_gap)
 
-        # Methodology summary text
-        self.ln(2)
-        self.set_font("Helvetica", "", 7.5)
-        self.set_text_color(*GRAY)
-        method_text = (
-            "Scored on a 100-point model: signal count & recency (35 pts), "
-            "revenue fit within $500M-$10B sweet spot (25 pts), employee scale "
-            "with 2,000+ preferred (20 pts), and McChrystal-specific fit signal "
-            "types and diversity (20 pts)."
-        )
+        # ── Formula line (monospace) ──
+        self.ln(3)
+        self.set_font("Courier", "B", 8)
+        self.set_text_color(*DARK)
         self.set_x(15)
-        self.multi_cell(self.w - 30, 4, method_text)
+        self.cell(0, 5, "ICP = Signals + Revenue + Employees + Fit   (max 100)", ln=True)
+        self.ln(2)
+
+        # ── Component descriptions (algorithmic style) ──
+        desc_label_w = 32
+        desc_x = 15
+        descs = [
+            ("Signals (0-35)", "Top 4 signals scored; each = base(60%) + recency bonus",
+             "<30d: 40% | <90d: 30% | <180d: 20% | older: 10%"),
+            ("Revenue (0-25)", "$500M-$10B sweet spot -> 70-100% of 25 pts",
+             "Below $500M -> pro-rata x 0.5 | Above $10B -> 60%"),
+            ("Employees (0-20)", "2,000+ preferred (70-100%) | 500-2K partial (50-70%)",
+             "Below 500 -> pro-rata x 0.3"),
+            ("Fit (0-20)", "High-fit types: reorg, transformation, M&A, hiring,",
+             "funding, partnership -> 5 pts ea (max 12) + diversity 2/type (max 8)"),
+        ]
+
+        for label, line1, line2 in descs:
+            self.set_font("Helvetica", "B", 6.5)
+            self.set_text_color(*GRAY)
+            self.set_x(desc_x)
+            self.cell(desc_label_w, 3.8, label)
+            self.set_font("Helvetica", "", 6.5)
+            self.set_text_color(60, 60, 60)
+            self.cell(0, 3.8, line1, ln=True)
+            self.set_x(desc_x + desc_label_w)
+            self.cell(0, 3.8, line2, ln=True)
+            self.ln(0.8)
 
         # Date
         self.ln(8)
@@ -328,42 +331,6 @@ class DossierPDF(FPDF):
         y2 = self.get_y()
         self.line(15, y, 15, y2)
         self.ln(3)
-
-
-def _prospect_from_dict(data: dict) -> Prospect:
-    """Reconstruct a Prospect model from a dashboard.json dict."""
-    signals = []
-    for s in data.get("signals", []):
-        sig_date = None
-        if s.get("date"):
-            try:
-                sig_date = date.fromisoformat(s["date"])
-            except (ValueError, TypeError):
-                pass
-        signals.append(Signal(
-            type=SignalType(s["type"]),
-            description=s.get("description", ""),
-            date=sig_date,
-            source=s.get("source"),
-        ))
-    return Prospect(
-        company_name=data.get("company_name", ""),
-        revenue_estimate=data.get("revenue_estimate"),
-        employee_count=data.get("employee_count"),
-        industry=data.get("industry"),
-        signals=signals,
-        score=data.get("score", 0),
-    )
-
-
-def _compute_score_breakdown(prospect: Prospect) -> dict:
-    """Return individual component scores for a prospect."""
-    return {
-        "signals": round(score_signals(prospect), 1),
-        "revenue": round(score_revenue(prospect), 1),
-        "employees": round(score_employees(prospect), 1),
-        "fit": round(score_fit(prospect), 1),
-    }
 
 
 def find_dossier(company_name):
