@@ -676,7 +676,7 @@
       const allCompanyNames = [...new Set(rows.map(r => r.company_name))].sort();
       const allLeaderNames = [...new Set(rows.map(r => r.name))].sort();
       if (companyFilter) rows = rows.filter(r => r.company_name === companyFilter);
-      if (leaderFilter) rows = rows.filter(r => r.name === leaderFilter);
+      if (leaderFilter) rows = rows.filter(r => r.name.toLowerCase().includes(leaderFilter.toLowerCase()));
       if (!rows.length && !allCompanyNames.length) return '<div class="empty-state">No leaders match the current filter.</div>';
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
       return `<div class="seniority-bar">
@@ -684,10 +684,7 @@
           <option value="">All Companies</option>
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
-        <select class="seniority-select" id="leader-select">
-          <option value="">All Leaders</option>
-          ${allLeaderNames.map(n => `<option value="${esc(n)}"${leaderFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
-        </select>
+        <input type="text" class="seniority-select" id="leader-search" placeholder="Search leaders..." value="${esc(leaderFilter)}" style="width:160px;">
         <span class="seniority-count">${rows.length} executive connections</span>
       </div>
       <table class="data-table"><thead><tr>
@@ -811,13 +808,15 @@
           bindTableSort();
         });
       }
-      const ldSel = document.getElementById('leader-select');
-      if (ldSel) {
-        ldSel.addEventListener('change', () => {
-          leaderFilter = ldSel.value;
+      const ldInput = document.getElementById('leader-search');
+      if (ldInput) {
+        ldInput.addEventListener('input', () => {
+          leaderFilter = ldInput.value;
           sortCol = null; sortDir = 'asc';
           document.getElementById('list-content').innerHTML = renderTabContent();
           bindTableSort();
+          const restored = document.getElementById('leader-search');
+          if (restored) { restored.focus(); restored.selectionStart = restored.selectionEnd = restored.value.length; }
         });
       }
       const cnInput = document.getElementById('connection-search');
