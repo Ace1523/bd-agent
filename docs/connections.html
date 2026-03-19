@@ -681,11 +681,11 @@
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
       return `<div class="seniority-bar">
         <select class="seniority-select" id="company-select">
-          <option value="">All Companies (${allCompanyNames.length})</option>
+          <option value="">All Companies</option>
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <select class="seniority-select" id="leader-select">
-          <option value="">All Leaders (${allLeaderNames.length})</option>
+          <option value="">All Leaders</option>
           ${allLeaderNames.map(n => `<option value="${esc(n)}"${leaderFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <span class="seniority-count">${rows.length} executive connections</span>
@@ -736,7 +736,7 @@
           <option value="senior"${seniorityFilter === 'senior' ? ' selected' : ''}>Senior Leadership</option>
         </select>
         <select class="seniority-select" id="company-select">
-          <option value="">All Companies (${allCompanyNames.length})</option>
+          <option value="">All Companies</option>
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <input type="text" class="seniority-select" id="connection-search" placeholder="Search names..." value="${esc(connectionFilter)}" style="width:160px;">
