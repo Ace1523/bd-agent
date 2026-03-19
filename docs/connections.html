@@ -755,10 +755,10 @@
         <input type="text" class="seniority-select" id="connection-search" placeholder="Search names..." value="${esc(connectionFilter)}" style="width:160px;">
       </div>
       <table class="data-table"><thead><tr>
-        <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Target Company ${arrow('company_name')}</th>
+        <th data-sort="company_name" class="${sortCol === 'company_name' ? 'sorted' : ''}">Company ${arrow('company_name')}</th>
         <th data-sort="connection_name" class="${sortCol === 'connection_name' ? 'sorted' : ''}">Connection ${arrow('connection_name')}</th>
-        <th data-sort="position" class="${sortCol === 'position' ? 'sorted' : ''}">Position ${arrow('position')}</th>
-        <th data-sort="mg_partner" class="${sortCol === 'mg_partner' ? 'sorted' : ''}">MG Partner ${arrow('mg_partner')}</th>
+        <th data-sort="position" class="${sortCol === 'position' ? 'sorted' : ''}">Role ${arrow('position')}</th>
+        <th data-sort="mg_partner" class="${sortCol === 'mg_partner' ? 'sorted' : ''}">MG Contact ${arrow('mg_partner')}</th>
         <th data-sort="_region" class="${sortCol === '_region' ? 'sorted' : ''}">Region ${arrow('_region')}</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><span class="company-name">${esc(r.company_name)}</span></td>
