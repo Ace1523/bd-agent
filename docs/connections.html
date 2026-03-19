@@ -404,6 +404,7 @@
     let seniorityFilter = 'all'; // 'all' | 'senior'
     let companyFilter = ''; // '' = all companies, or specific company name
     let leaderFilter = ''; // '' = all leaders, or specific leader name
+    let connectionFilter = ''; // '' = all connections, or specific connection name
     const SENIOR_REGEX = /\b(CEO|CFO|COO|CTO|CIO|CISO|CMO|CHRO|CRO|Chief|President|Vice President|VP|SVP|EVP|AVP|Director|Managing Director|General Manager|Partner|Head of|General Counsel|Board|Senior Vice|Sr\.? Director|Senior Director|Executive)\b/i;
 
     const isEmbed = new URLSearchParams(window.location.search).has('embed');
@@ -502,7 +503,7 @@
         currentRegion = data.regions.find(r => r.name === key);
       }
       activePartner = null;
-      seniorityFilter = 'all'; companyFilter = ''; leaderFilter = '';
+      seniorityFilter = 'all'; companyFilter = ''; leaderFilter = ''; connectionFilter = '';
       sortCol = null; sortDir = 'asc';
       currentTab = 'leaders';
       renderNavRegions();
@@ -721,12 +722,12 @@
           return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
         });
       }
-      // Build unique company list for dropdown (before company filter is applied)
+      // Build unique lists for dropdowns (before filters are applied)
       const allCompanyNames = [...new Set(rows.map(r => r.company_name))].sort();
-      // Now apply company filter
-      if (companyFilter) {
-        rows = rows.filter(r => r.company_name === companyFilter);
-      }
+      const allConnectionNames = [...new Set(rows.map(r => r.connection_name))].sort();
+      // Apply filters
+      if (companyFilter) rows = rows.filter(r => r.company_name === companyFilter);
+      if (connectionFilter) rows = rows.filter(r => r.connection_name === connectionFilter);
       if (!rows.length && !allCompanyNames.length) return '<div class="empty-state">No connections match the current filters.</div>';
       const arrow = (col) => sortCol === col ? `<span class="sort-arrow">${sortDir === 'asc' ? '&#9650;' : '&#9660;'}</span>` : '';
       return `<div class="seniority-bar">
@@ -737,6 +738,10 @@
         <select class="seniority-select" id="company-select">
           <option value="">All Companies (${allCompanyNames.length})</option>
           ${allCompanyNames.map(n => `<option value="${esc(n)}"${companyFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
+        </select>
+        <select class="seniority-select" id="connection-select">
+          <option value="">All Names (${allConnectionNames.length})</option>
+          ${allConnectionNames.map(n => `<option value="${esc(n)}"${connectionFilter === n ? ' selected' : ''}>${esc(n)}</option>`).join('')}
         </select>
         <span class="seniority-count">${rows.length} connections</span>
       </div>
@@ -813,6 +818,15 @@
       if (ldSel) {
         ldSel.addEventListener('change', () => {
           leaderFilter = ldSel.value;
+          sortCol = null; sortDir = 'asc';
+          document.getElementById('list-content').innerHTML = renderTabContent();
+          bindTableSort();
+        });
+      }
+      const cnSel = document.getElementById('connection-select');
+      if (cnSel) {
+        cnSel.addEventListener('change', () => {
+          connectionFilter = cnSel.value;
           sortCol = null; sortDir = 'asc';
           document.getElementById('list-content').innerHTML = renderTabContent();
           bindTableSort();
