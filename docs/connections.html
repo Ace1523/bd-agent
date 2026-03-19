@@ -702,7 +702,7 @@
         <th>Supported Research</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><div class="company-cell"><span class="company-name">${esc(r.company_name)}</span><span class="company-meta">${r.revenue_millions ? '$' + fmtRev(r.revenue_millions) + ' &middot; ' : ''}${esc(r.industry || '')}</span></div></td>
-        <td>${esc(r.name)}${(leaderCompanyCount[r.name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" style="cursor:pointer;" title="Click to show all companies for ${esc(r.name)}" onclick="event.stopPropagation(); leaderFilter='${esc(r.name).replace(/'/g, "\\'")}'; sortCol=null; sortDir='asc'; document.getElementById('list-content').innerHTML=renderTabContent(); bindTableSort();">${leaderCompanyCount[r.name].size} cos</span>` : ''}</td>
+        <td>${esc(r.name)}${(leaderCompanyCount[r.name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" style="cursor:pointer;" title="Click to show all companies for ${esc(r.name)}" onclick="event.stopPropagation(); leaderFilter='${esc(r.name).replace(/'/g, "\\'")}'; sortCol=null; sortDir='asc'; document.getElementById('list-content').innerHTML=renderTabContent(); bindTableSort();">${leaderCompanyCount[r.name].size} companies</span>` : ''}</td>
         <td>${esc(r.role)}</td>
         <td>${r.mg_point_of_contact ? `<span class="poc-name">${esc(r.mg_point_of_contact)}</span>` : '<span class="no-poc">&mdash;</span>'}</td>
         <td>${r.is_military ? '<span class="badge-sm badge-mil">MIL</span> ' : ''}${r.pipeline_match ? `<a href="index.html?view=research&company=${encodeURIComponent(r.company_name)}" class="badge-sm badge-pipeline" style="text-decoration:none;cursor:pointer;" target="_top">Research</a>` : ''}</td>
@@ -758,7 +758,7 @@
         <th data-sort="mg_partner" class="${sortCol === 'mg_partner' ? 'sorted' : ''}">MG Partner ${arrow('mg_partner')}</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><span class="company-name">${esc(r.company_name)}</span></td>
-        <td>${esc(r.connection_name)}${(connCompanyCount[r.connection_name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" style="cursor:pointer;" title="Click to show all companies for ${esc(r.connection_name)}" onclick="event.stopPropagation(); connectionFilter='${esc(r.connection_name).replace(/'/g, "\\'")}'; sortCol=null; sortDir='asc'; document.getElementById('list-content').innerHTML=renderTabContent(); bindTableSort();">${connCompanyCount[r.connection_name].size} cos</span>` : ''}</td>
+        <td>${esc(r.connection_name)}${(connCompanyCount[r.connection_name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" style="cursor:pointer;" title="Click to show all companies for ${esc(r.connection_name)}" onclick="event.stopPropagation(); connectionFilter='${esc(r.connection_name).replace(/'/g, "\\'")}'; sortCol=null; sortDir='asc'; document.getElementById('list-content').innerHTML=renderTabContent(); bindTableSort();">${connCompanyCount[r.connection_name].size} companies</span>` : ''}</td>
         <td>${esc(r.position)}</td>
         <td><span class="badge-sm badge-partner">${esc(r.mg_partner)}</span></td>
       </tr>`).join("")}</tbody></table>`;
