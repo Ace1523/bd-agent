@@ -310,6 +310,10 @@
       background: var(--accent-bg); color: var(--accent);
       border: 1px solid rgba(196, 90, 28, 0.15);
     }
+    .badge-connectivity {
+      background: #6c5ce7; color: #fff;
+      font-size: 10px; padding: 2px 6px; border-radius: 4px; margin-left: 6px;
+    }
     .badge-partner {
       background: var(--purple-bg); color: var(--purple);
       border: 1px solid rgba(124, 92, 191, 0.12);
@@ -671,6 +675,12 @@
           return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
         });
       }
+      // Count companies per leader (before filters) for high connectivity badge
+      const leaderCompanyCount = {};
+      for (const row of rows) {
+        if (!leaderCompanyCount[row.name]) leaderCompanyCount[row.name] = new Set();
+        leaderCompanyCount[row.name].add(row.company_name);
+      }
       const allCompanyNames = [...new Set(rows.map(r => r.company_name))].sort();
       const allLeaderNames = [...new Set(rows.map(r => r.name))].sort();
       if (companyFilter) rows = rows.filter(r => r.company_name === companyFilter);
@@ -692,7 +702,7 @@
         <th>Supported Research</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><div class="company-cell"><span class="company-name">${esc(r.company_name)}</span><span class="company-meta">${r.revenue_millions ? '$' + fmtRev(r.revenue_millions) + ' &middot; ' : ''}${esc(r.industry || '')}</span></div></td>
-        <td>${esc(r.name)}</td>
+        <td>${esc(r.name)}${(leaderCompanyCount[r.name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" title="Connected to ${leaderCompanyCount[r.name].size} companies">${leaderCompanyCount[r.name].size} cos</span>` : ''}</td>
         <td>${esc(r.role)}</td>
         <td>${r.mg_point_of_contact ? `<span class="poc-name">${esc(r.mg_point_of_contact)}</span>` : '<span class="no-poc">&mdash;</span>'}</td>
         <td>${r.is_military ? '<span class="badge-sm badge-mil">MIL</span> ' : ''}${r.pipeline_match ? `<a href="index.html?view=research&company=${encodeURIComponent(r.company_name)}" class="badge-sm badge-pipeline" style="text-decoration:none;cursor:pointer;" target="_top">Research</a>` : ''}</td>
@@ -715,6 +725,12 @@
           va = String(va).toLowerCase(); vb = String(vb).toLowerCase();
           return sortDir === 'asc' ? va.localeCompare(vb) : vb.localeCompare(va);
         });
+      }
+      // Count companies per connection (before filters) for high connectivity badge
+      const connCompanyCount = {};
+      for (const row of rows) {
+        if (!connCompanyCount[row.connection_name]) connCompanyCount[row.connection_name] = new Set();
+        connCompanyCount[row.connection_name].add(row.company_name);
       }
       // Build unique lists for dropdowns (before filters are applied)
       const allCompanyNames = [...new Set(rows.map(r => r.company_name))].sort();
@@ -742,7 +758,7 @@
         <th data-sort="mg_partner" class="${sortCol === 'mg_partner' ? 'sorted' : ''}">MG Partner ${arrow('mg_partner')}</th>
       </tr></thead><tbody>${rows.map(r => `<tr>
         <td><span class="company-name">${esc(r.company_name)}</span></td>
-        <td>${esc(r.connection_name)}</td>
+        <td>${esc(r.connection_name)}${(connCompanyCount[r.connection_name]?.size || 0) >= 2 ? ` <span class="badge-sm badge-connectivity" title="Connected to ${connCompanyCount[r.connection_name].size} companies">${connCompanyCount[r.connection_name].size} cos</span>` : ''}</td>
         <td>${esc(r.position)}</td>
         <td><span class="badge-sm badge-partner">${esc(r.mg_partner)}</span></td>
       </tr>`).join("")}</tbody></table>`;
