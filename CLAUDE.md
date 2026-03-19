@@ -402,9 +402,19 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `data/proposals/` — reference folder for past proposals, SOWs, contracts (Phase 4 input)
 
 ## Dashboard
-- **URL**: https://ace1523.github.io/bd-agent/ (auto-deploys from `docs/` on push to main)
-- **Repo**: https://github.com/Ace1523/bd-agent
-- After any data or dashboard changes, push to main to update the live site
+- **Personal URL**: https://ace1523.github.io/bd-agent/ (auto-deploys from `docs/` on push to main)
+- **Personal Repo**: https://github.com/Ace1523/bd-agent
+- **Enterprise URL**: https://mcchrystal-group.github.io/BD_Pipeline-/
+- **Enterprise Repo**: https://github.com/McChrystal-Group/BD_Pipeline- (private repo, public Pages)
+- After any data or dashboard changes, push to main to update the personal site
+- **Enterprise sync** (from work machine PowerShell — cannot push from personal machine):
+  ```
+  cd $HOME\bd-agent
+  git pull origin main
+  git push mg-pipeline main
+  ```
+  Remotes on work machine: `origin` = Ace1523/bd-agent, `mg-pipeline` = McChrystal-Group/BD_Pipeline-
+- Remind user to sync to enterprise after major work sessions
 
 **Views:**
 - **Home** — Pipeline Summary KPIs (prospect count, avg ICP score, fit rating breakdown, outreach count), core capabilities, who we target, industry tiers, fit signals, scoring model
