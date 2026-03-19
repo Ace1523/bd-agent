@@ -79,13 +79,26 @@ def save_discovery(report: str, prospects: Union[list[Prospect], None] = None) -
 
 
 def save_research(report: str, dossier: Union[Dossier, None] = None) -> Path:
-    """Append a dossier report to data/research.md and update JSON."""
+    """Append a dossier report to data/research.md and update JSON.
+
+    Also auto-generates a branded PDF dossier after saving.
+    """
     path = _append(RESEARCH_FILE, report)
     if dossier:
         def update(data):
             data["dossiers"].append(dossier.model_dump(mode="json"))
 
         _locked_update(update)
+
+        # Auto-generate PDF dossier (non-blocking on failure)
+        try:
+            from generate_dossier_pdf import generate_pdf_from_dossier
+
+            pdf_path = generate_pdf_from_dossier(dossier)
+            print(f"  PDF generated: {pdf_path}")
+        except Exception as e:
+            company = dossier.prospect.company_name if dossier.prospect else "unknown"
+            print(f"  Warning: PDF generation failed for {company}: {e}")
     return path
 
 

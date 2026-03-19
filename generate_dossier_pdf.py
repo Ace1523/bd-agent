@@ -429,7 +429,7 @@ def generate_pdf(dossier):
         for i, t in enumerate(triggers):
             event_date = t.get("date", "")
             event = pdf.clean_text(t.get("event", ""))
-            significance = pdf.clean_text(t.get("significance", ""))
+            significance = pdf.clean_text(t.get("relevance", "") or t.get("significance", ""))
             # Numbered event with date
             pdf.set_font("Helvetica", "B", 10)
             pdf.set_text_color(*DARK)
@@ -635,6 +635,15 @@ def _render_contact(pdf, contact, is_priority=False):
         pdf.multi_cell(pdf.w - 30, 5, f"Outreach rationale: {pdf.clean_text(contact['priority_rationale'])}")
 
     pdf.ln(4)
+
+
+def generate_pdf_from_dossier(dossier) -> str:
+    """Generate PDF from a Dossier Pydantic object or dict. Returns the output path."""
+    if hasattr(dossier, "model_dump"):
+        dossier_dict = dossier.model_dump(mode="json")
+    else:
+        dossier_dict = dossier
+    return generate_pdf(dossier_dict)
 
 
 def main():

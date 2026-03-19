@@ -194,6 +194,46 @@ Quality standards: be specific (no generic filler), flag [INFERRED] vs. confirme
 - Models: `Contact`, `Dossier`, `FitAssessment`, `TriggerEvent`, `ConversationEntry` in `bd/models.py`
 - Report: `bd/research/report.py` — `generate_dossier_report()`
 
+### PDF Dossier Generation
+Branded PDF dossiers are auto-generated whenever `save_research()` writes a dossier to dashboard.json. PDFs output to `data/dossiers/{CompanyName}_Dossier.pdf`.
+
+**How it works:**
+- `save_research()` in `bd/save.py` calls `generate_pdf_from_dossier(dossier)` after updating dashboard.json
+- PDF generation is wrapped in try/except — failures log a warning but never block dossier saving
+- Standalone CLI: `python3 generate_dossier_pdf.py <CompanyName>` (reads from dashboard.json)
+- Batch backfill: `generate_missing_pdfs()` from `bd/pipeline.py` generates PDFs for all dossiers missing them
+- `pipeline_status()` tracks `pdfs` count and `missing_pdfs` list
+
+**PDF architecture:**
+- Uses `fpdf2` library (Latin-1 encoding — no Unicode font support)
+- `DossierPDF` class extends `FPDF` with McChrystal branding (orange accents, cover page with ICP scoring methodology bars)
+- `generate_pdf(dossier_dict)` renders all 10 dossier sections + cover page from a JSON dict
+- `generate_pdf_from_dossier(dossier)` accepts Pydantic `Dossier` objects, converts via `model_dump(mode="json")`
+
+**Encoding & text handling (`clean_text()`):**
+- Dashes: em/en/figure dashes → ASCII hyphens
+- Quotes: smart quotes → straight quotes
+- Bullets: bullet/circle/triangle/square → "-"
+- Arrows: → becomes "->", ← becomes "<-"
+- Symbols: ellipsis → "...", NBSP → space, zero-width space → removed
+- Legal: ® → "(R)", ™ → "(TM)", © → "(c)"
+- Markdown: `**bold**` markers stripped, `#`/`##`/`###` headers stripped to plain text
+- Fallback: remaining non-Latin-1 characters replaced via `encode("latin-1", errors="replace")`
+
+**Section 9 markdown table handling:**
+Deep fit analysis contains markdown tables (stakeholder maps, business unit tables). The renderer detects `|`-delimited rows, captures headers, skips separator lines, and renders data rows as structured blocks (first cell bold, remaining as labeled key-value pairs).
+
+**Missing field handling:**
+Every section checks for `None`/empty before rendering. Missing sections are silently skipped — critical because subagent research may not populate every field.
+
+**QA checklist for PDF changes:**
+1. Test with a fully populated dossier and a minimal dossier
+2. Verify trigger events render (field is `relevance`, not `significance`)
+3. Check Section 9 tables render as structured blocks, not raw `|` text
+4. Verify no `UnicodeEncodeError` on international company names
+5. Check page breaks — `section_header()` and `sub_header()` check remaining space
+6. Verify cover page ICP scoring bars render at correct proportional widths
+
 ### Phase 3: Outreach (implemented)
 3 independent cold email versions (A/B/C) per prospect, each with a genuinely different opening strategy. NOT sequential follow-ups — pick whichever version resonates most.
 
@@ -342,8 +382,9 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `bd/outreach/drafter.py` — `generate_outreach_report()` produces Markdown outreach packages (3 cold email versions A/B/C)
 - `bd/market/report.py` — `generate_market_report()` produces Markdown market intelligence reports
 - `bd/dashboard.py` — JSON export for dashboard; `python -m bd.dashboard` bootstraps from Markdown
-- `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()` for orchestration
-- `bd/save.py` — saves Markdown reports + updates dashboard JSON; `clear_outreach()` resets outreach data; `save_market_intelligence()` / `clear_market_intelligence()` for market data
+- `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()`, `generate_missing_pdfs()` for orchestration
+- `bd/save.py` — saves Markdown reports + updates dashboard JSON + auto-generates PDF dossiers; `clear_outreach()` resets outreach data; `save_market_intelligence()` / `clear_market_intelligence()` for market data
+- `generate_dossier_pdf.py` — `generate_pdf()`, `generate_pdf_from_dossier()`, `find_dossier()` — branded PDF dossier generation with McChrystal branding, ICP scoring methodology, and Latin-1 text handling
 - `import_linkedin.py` — reads ATL_BD enriched Excel workbooks, writes `docs/connections.json`. Run: `python3 import_linkedin.py`. Includes multi-board leader propagation: if a leader appears at multiple target companies and has an MG contact at one, that contact is automatically applied to all their companies. Also excludes companies in `EXCLUDED_COMPANIES` list (currently: Booz Allen Hamilton)
 - `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `docs/connections.html` — standalone LinkedIn Connections page (light theme), also embedded in main dashboard via iframe

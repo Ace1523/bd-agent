@@ -59,16 +59,54 @@ def pipeline_status() -> dict:
     missing_dossiers = prospect_names - dossier_names
     missing_outreach = dossier_names - outreach_names
 
+    # PDF tracking — scan data/dossiers/ for generated PDFs
+    dossiers_dir = DATA_DIR / "dossiers"
+    pdf_company_names: set[str] = set()
+    if dossiers_dir.exists():
+        for f in dossiers_dir.iterdir():
+            if f.suffix == ".pdf" and f.stem.endswith("_Dossier"):
+                name = f.stem.replace("_Dossier", "").replace("_", " ")
+                pdf_company_names.add(name)
+    missing_pdfs = dossier_names - pdf_company_names
+
     market_sectors = len(data.get("market_intelligence", []))
 
     return {
         "prospects": len(prospect_names),
         "dossiers": len(dossier_names),
+        "pdfs": len(pdf_company_names),
         "outreach_packages": len(outreach_names),
         "market_sectors": market_sectors,
         "missing_dossiers": sorted(missing_dossiers),
+        "missing_pdfs": sorted(missing_pdfs),
         "missing_outreach": sorted(missing_outreach),
     }
+
+
+def generate_missing_pdfs() -> list[str]:
+    """Generate PDFs for all dossiers that don't have one yet. Returns list of generated paths."""
+    status = pipeline_status()
+    missing = status.get("missing_pdfs", [])
+    if not missing:
+        print("All dossiers have PDFs.")
+        return []
+
+    from generate_dossier_pdf import find_dossier, generate_pdf
+
+    generated = []
+    for name in missing:
+        try:
+            dossier_dict = find_dossier(name)
+            if dossier_dict:
+                path = generate_pdf(dossier_dict)
+                generated.append(path)
+                print(f"  Generated: {path}")
+            else:
+                print(f"  Warning: No dossier found in dashboard.json for '{name}'")
+        except Exception as e:
+            print(f"  Warning: PDF generation failed for '{name}': {e}")
+    print(f"Generated {len(generated)} of {len(missing)} PDFs.")
+    return generated
 
 
 def clear_phase(phase: str) -> None:
