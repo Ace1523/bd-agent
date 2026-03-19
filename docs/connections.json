@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-03-18",
+  "last_updated": "2026-03-19",
   "regions": [
     {
       "name": "ATL",
       "display_name": "Atlanta",
       "total_companies": 94,
-      "total_connections": 73,
-      "connected_companies": 27,
-      "coverage_pct": 28.7,
+      "total_connections": 70,
+      "connected_companies": 26,
+      "coverage_pct": 27.7,
       "companies": [
         {
           "company_name": "United Parcel Service, Inc. (UPS)",
@@ -797,93 +797,6 @@
             "Jeffery Jones",
             "Ryan Martin",
             "Stan McChrystal"
-          ],
-          "pipeline_match": null
-        },
-        {
-          "company_name": "LexisNexis Risk Solutions Group",
-          "industry": "Data Analytics & Risk Management",
-          "location": "Atlanta, GA",
-          "revenue_millions": 2900,
-          "leaders": [
-            {
-              "name": "Erik J. Engstrom",
-              "role": "Board",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Jeff Gladden",
-              "role": "CFO",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Haywood Talcove",
-              "role": "CEO Gov\u2019t",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Mark Kelsey",
-              "role": "CEO",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Bill Thompson",
-              "role": "CTO",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Michael Sherwood",
-              "role": "Board",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Anthony Habayeb",
-              "role": "Board",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Linda Sanford",
-              "role": "Board",
-              "mg_point_of_contact": null,
-              "is_military": false
-            },
-            {
-              "name": "Paul Walker",
-              "role": "Board",
-              "mg_point_of_contact": null,
-              "is_military": false
-            }
-          ],
-          "company_connections": [
-            {
-              "connection_name": "Paul Eckloff",
-              "position": "Senior Director of Public Relations",
-              "mg_partner": "Stan McChrystal"
-            },
-            {
-              "connection_name": "Peter J. Forcelli",
-              "position": "Head of Agency Strategy and Engagement- United States Department of Justice.",
-              "mg_partner": "Stan McChrystal"
-            },
-            {
-              "connection_name": "Peter J. Forcelli",
-              "position": "Head of Agency Strategy and Engagement- United States Department of Justice.",
-              "mg_partner": "Tom Seamands"
-            }
-          ],
-          "military_affiliations": [],
-          "has_connections": true,
-          "connection_count": 3,
-          "partner_names": [
-            "Stan McChrystal",
-            "Tom Seamands"
           ],
           "pipeline_match": null
         },
@@ -2696,7 +2609,7 @@
       "partner_breakdown": [
         {
           "partner": "Stan McChrystal",
-          "company_count": 19
+          "company_count": 18
         },
         {
           "partner": "Chris Fussell",
@@ -2704,7 +2617,7 @@
         },
         {
           "partner": "Tom Seamands",
-          "company_count": 7
+          "company_count": 6
         },
         {
           "partner": "Brendan Fitzgibbon",
@@ -30747,7 +30660,2036 @@
           "company_count": 24
         }
       ]
+    },
+    {
+      "name": "UK",
+      "display_name": "United Kingdom",
+      "total_companies": 67,
+      "total_connections": 75,
+      "connected_companies": 67,
+      "coverage_pct": 100.0,
+      "companies": [
+        {
+          "company_name": "Amazon Web Services",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 108000,
+          "leaders": [
+            {
+              "name": "Peter Hallinan",
+              "role": "Director, Responsible AI, AWS",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Ralph Gore",
+              "role": "Global Account Director - ISVs",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Charlie Gair",
+              "role": "Partnerships Manager - Business Consulting and Advisory Partners",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Lou Elliott",
+              "role": "Talent Partner",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Eloise Cheales",
+              "position": "Apprenticeship Program Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Tom Kitson",
+              "position": "Associate Business Developer",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "George Aitken",
+              "position": "Global Accounts - Global Financial Services",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Danny Dale",
+              "position": "Manager - Operations",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Sean McMullen",
+              "position": "Operations Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Raf Fatani Ph.D.  \u00d8\u00af/ \u00d8\u00b1\u00d8\u00a7\u00d9\u0081\u00d8\u00af \u00d8\u00a8\u00d9\u2020 \u00d8\u00a7\u00d9\u2026\u00d9\u0160\u00d9\u2020 \u00d9\u0081\u00d8\u00b7\u00d8\u00a7\u00d9\u2020\u00d9\u0160",
+              "position": "Regional GM @ Amazon | Global Product & Regional Business Lead, Alexa International",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Rekhi Bose",
+              "position": "Senior Manager,  Culture and Employee Engagement",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Tina Simonsen, PMP",
+              "position": "Senior Proposal Manager - EMEA",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Aravind Rajendran",
+              "position": "Senior Quality Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 9,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Marriott International",
+          "industry": "Consumer, Retail & Hospitality",
+          "location": "UK",
+          "revenue_millions": 24100,
+          "leaders": [
+            {
+              "name": "Graham Kerr",
+              "role": "Chief Administrative Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Andrew Tyler-Smith",
+              "role": "Chief Executive Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Dylan Evans",
+              "role": "Director Security Solutions",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Cheryl Plumridge OBE",
+              "role": "General Manager",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Giles Hill CB CBE",
+              "role": "Group Head Global Security Services",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Trevor Justus",
+              "role": "Managing Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "J\u00c3\u00a9rome Le Jehan",
+              "role": "Managing Director, Consulting",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Jon Jefferies",
+              "role": "Operations Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Adam Lakhani",
+              "role": "Security Director, Information & Analysis",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "David Wilson-Le-Moine",
+              "position": "Business Development Consultant",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Henry James",
+              "position": "eLearning Creator",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "James (Jim) Tallon",
+              "position": "Facilities Project Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "B\u00c3\u00a9atrice Steyn",
+              "position": "Independent Financial Advisor",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "William K.",
+              "position": "MENA Intelligence Intern",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Robb Scott",
+              "position": "Strategy Execution Resource Resilience EQ Axiology Human Measurement",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 6,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "BAE Systems, Inc.",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 33010,
+          "leaders": [
+            {
+              "name": "Jonathan Bird",
+              "role": "Director - United Arab Emirates",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Colin Weir CB DSO MBE",
+              "role": "Director Munitions BAE Systems Defence Solutions",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Mark Matthews",
+              "role": "Veteran Recruitment Partner",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Charlie Cowin",
+              "position": "Critical Skills Consultant",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Jacob Salway",
+              "position": "Senior Business Operations & Infrastructure Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Jeremy Tozer",
+              "position": "Wargaming Lead - Decision Advantage",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 3,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "GE HealthCare",
+          "industry": "Healthcare & Life Sciences",
+          "location": "UK",
+          "revenue_millions": 19670,
+          "leaders": [
+            {
+              "name": "Manus Nunan CPP, PCI",
+              "role": "Executive Director: Security, Resilency & Crisis Management",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Carli Todd",
+              "position": "Commercial Consultant",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "David Williams",
+              "position": "Driver Technician",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Jonas Fieldhouse",
+              "position": "GE HealthCare Healthcare Advisory Manager - International",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 3,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Google Public Sector",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 350018,
+          "leaders": [
+            {
+              "name": "Greg Wilson",
+              "role": "Managing Director Global Strategy & Product Advocacy, Google Cloud",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Pete Rumney",
+              "position": "Liaison Officer",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Fred Gray",
+              "position": "Senior Program Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Huw Morgan MBE",
+              "position": "Solution Design Lead",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 3,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Salesforce",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 37900,
+          "leaders": [
+            {
+              "name": "Richard Brimacombe",
+              "role": "Transformation Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Anna-Bettis Padgett",
+              "position": "Account Executive at Salesforce",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Quentin Hicks",
+              "position": "Core Account Executive",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Jim Douglas MBE MSc",
+              "position": "Lead Solutions Engineer",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 3,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "AECOM",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 14400,
+          "leaders": [
+            {
+              "name": "Davie Russell",
+              "role": "Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Ed Robinson",
+              "role": "Head of Defence, UK, Europe & India",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Rob Weighill CBE",
+              "role": "Program Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Matthew Kavanagh",
+              "role": "Senior Vice President, Global Energy Strategy & Growth Lead",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Gaurav Kapoor",
+              "position": "PRES",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Marcus Baldwin",
+              "position": "Security Manager International Region",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "AXA XL",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 20100,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Benjamin Hancock MBE",
+              "position": "Strategic Distribution Leader, UK & Lloyd\u00e2\u20ac\u2122s",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Hugh Campbell",
+              "position": "Transformation and Change Delivery",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Accenture Federal Services",
+          "industry": "Government Consulting & Professional Services",
+          "location": "UK",
+          "revenue_millions": 6700,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Adam Lawrence",
+              "position": "MC",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Edward Birrell",
+              "position": "Senior Manager, UK MoD Land Account Lead",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "BlackRock",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 19200,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Sabina Horga",
+              "position": "Associate",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Angus Beddall",
+              "position": "EMEA Intelligence Associate",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Capgemini Government Solutions",
+          "industry": "Defense IT & Systems Integration",
+          "location": "UK",
+          "revenue_millions": 22100,
+          "leaders": [
+            {
+              "name": "Paul Loader FBCS MBA FCIPD CITP CEng",
+              "role": "Army Brigadier, Head of Information Technology Programme and Service Delivery",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Michael Brennan",
+              "role": "Deputy Chief Security Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Mike Hawker",
+              "position": "Intelligence and Security Professional",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Ross Carter",
+              "position": "Support Solution Specialist",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "DPR Construction",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 10800,
+          "leaders": [
+            {
+              "name": "Kevin McCormack",
+              "role": "Director of Business Development",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Helen Fry Tech IOSH",
+              "position": "Company Health And Safety Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Eng. George O.A",
+              "position": "Project and design manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "KBR",
+          "industry": "Government Operations & Managed Services",
+          "location": "UK",
+          "revenue_millions": 7742,
+          "leaders": [
+            {
+              "name": "Peter Ryan",
+              "role": "Chief scanner Operator",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Chris Knights  MIAM",
+              "role": "Director of Asset Management (Nuclear)",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Gert J. (Jacques) Kotze",
+              "position": "KBR Field Security Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Rupert Jackson MBA",
+              "position": "Project Management Officer",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Skanska USA",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 6900,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Gary Butt   Assoc CIPD , FIRP",
+              "position": "Recruitment Manager",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Glen Tarten-Hughes",
+              "position": "Senior Operations Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Vanguard Group",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 11000,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Jim Scott",
+              "position": "Principal",
+              "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Derek Gower",
+              "position": "Senior Manager - K9 Program",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "AIG",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 46800,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Luke Haughton",
+              "position": "Environmental Underwriter",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "AeroVironment",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 820,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Emma Humphrey, LLB LLM",
+              "position": "International Program Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Amentum",
+          "industry": "Government Operations & Managed Services",
+          "location": "UK",
+          "revenue_millions": 8400,
+          "leaders": [
+            {
+              "name": "Huw James  MA MAPM CMgr FCMI",
+              "role": "Framework Director & Portfolio Manager",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Neil Thumwood",
+              "role": "Group Director Nuclear Solutions",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Frazer Ross",
+              "role": "Senior Director Defence Growth and Strategy - UK and International",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Adam Dawson",
+              "role": "Strategy & Transformation Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Art Wright FCMI CMILT",
+              "position": "Consultant Supportabilty Logistics",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": "Amentum"
+        },
+        {
+          "company_name": "Applied Research Associates (ARA)",
+          "industry": "Defense Engineering & R&D",
+          "location": "UK",
+          "revenue_millions": 585,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Dean Ferguson FIoL",
+              "position": "Business Owner",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Balfour Beatty US",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 5100,
+          "leaders": [
+            {
+              "name": "Robin Davies",
+              "role": "Bid Director - Strategic Pursuits",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Neil Dalton OBE",
+              "role": "Defence Sector Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Edward Laxton MSc",
+              "role": "Head of Security",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Rob Jones",
+              "position": "Senior Quantity Surveyor",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Boeing",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 66517,
+          "leaders": [
+            {
+              "name": "Alasdair Mack cfs",
+              "role": "A2 Instructor Pilot, Boeing Test and Evaluation",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Ian McNeil",
+              "role": "Engineering Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Steven Gillard",
+              "role": "Regional Director UK, Europe, Middle East, T\u00c3\u00bcrkiye, Africa and Central Asia Sustainability",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Parm Sandhu",
+              "position": "Global Security & Digital",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": "Boeing"
+        },
+        {
+          "company_name": "CACI International",
+          "industry": "Defense IT & Systems Integration",
+          "location": "UK",
+          "revenue_millions": 8627,
+          "leaders": [
+            {
+              "name": "Graham Bassett MSyI",
+              "role": "Assistant Regional Vice President (ARVP) region 9A",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Carter McCain",
+              "role": "Founding Director and General Counsel",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Dave Burnham",
+              "role": "President/CEO",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Ben Willmott MBA MSyl SRMC\u00c2\u00ae",
+              "position": "Security Consultant",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "CGI Federal",
+          "industry": "Defense IT & Systems Integration",
+          "location": "UK",
+          "revenue_millions": 10786,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Gareth Williams",
+              "position": "Cyber Security Consultant",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Capital One",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 36800,
+          "leaders": [
+            {
+              "name": "Chris St George",
+              "role": "Co-Founder and Principal",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Jake Scott",
+              "position": "Sales",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Capital One Bank (Commercial Banking)",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 3812,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Justin Fuller",
+              "position": "Digital Installation Engineer",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "DXC Technology Public Sector",
+          "industry": "Defense IT & Systems Integration",
+          "location": "UK",
+          "revenue_millions": 12871,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Chloe Dowling CMgr MCMI",
+              "position": "Portfolio Delivery Lead",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Hilton Worldwide",
+          "industry": "Consumer, Retail & Hospitality",
+          "location": "UK",
+          "revenue_millions": 10230,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Gus Constantinou",
+              "position": "Global Strategy Consultant",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Honeywell",
+          "industry": "Energy & Utilities",
+          "location": "UK",
+          "revenue_millions": 38498,
+          "leaders": [
+            {
+              "name": "Pradyumna V. Pandit",
+              "role": "Chief Commercial Officer UK",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Chris Wildgoose",
+              "position": "Senior Business Consultant Defence",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Host Hotels & Resorts",
+          "industry": "Consumer, Retail & Hospitality",
+          "location": "UK",
+          "revenue_millions": 5320,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Rachel Huggins MCIPR",
+              "position": "Global Internal Communications Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "IBM",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 62044,
+          "leaders": [
+            {
+              "name": "Jon Grorud",
+              "role": "Director, Strategic Accounts",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Rupert Steptoe MBE",
+              "role": "Senior Client Partner",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Mark Everest",
+              "position": "IBM iX Experience Orchestrator Lead",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "JPMorgan Chase",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 158100,
+          "leaders": [
+            {
+              "name": "Richard Coates",
+              "role": "Payments Client Onboarding & Service Product Operations Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "James Cruickshank",
+              "position": "Senior Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Jacobs",
+          "industry": "Government Operations & Managed Services",
+          "location": "UK",
+          "revenue_millions": 11500,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Ram Singh",
+              "position": "Project Programme and Portfolio Manager (Management Consultant  P3M )",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Kratos Defense & Security Solutions",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 1158,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Trevor Shaff",
+              "position": "Senior Security Consultant",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Leidos Biomedical Research",
+          "industry": "Defense Engineering & R&D",
+          "location": "UK",
+          "revenue_millions": 1050,
+          "leaders": [
+            {
+              "name": "Simon Hutchings OBE FCILT",
+              "role": "VP & MD",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Martyn Sellers MSc",
+              "position": "Curriculum Developer",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Leonardo DRS",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 3234,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Kathryn W Hall, MA (Hons), MLitt, MBA, RPP MAPM",
+              "position": "Program Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": "Leonardo DRS"
+        },
+        {
+          "company_name": "Lockheed Martin",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 71043,
+          "leaders": [
+            {
+              "name": "Paul Livingston CBE",
+              "role": "Chief Executive UK & NATO",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Ben Baker MBE MSc MBA",
+              "position": "Strategic Engagement",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": "Lockheed Martin"
+        },
+        {
+          "company_name": "Mars",
+          "industry": "Consumer, Retail & Hospitality",
+          "location": "UK",
+          "revenue_millions": 55000,
+          "leaders": [
+            {
+              "name": "Charlie Tryon",
+              "role": "Chief Executive Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Nigel Palmer, CFE",
+              "role": "Senior Security Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Panteha Peters",
+              "role": "SVP - Head of Sports, Entertainment, Media and Special Risks MEA",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Simon DB MCMI",
+              "position": "Client Executive",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "NTT DATA Federal Services",
+          "industry": "Defense IT & Systems Integration",
+          "location": "UK",
+          "revenue_millions": 11376,
+          "leaders": [
+            {
+              "name": "Katherine Beadle",
+              "role": "Client Partner -Justice",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Tony S.  MSc",
+              "position": "Security Consultant",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Northrop Grumman",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 41033,
+          "leaders": [
+            {
+              "name": "David Pile",
+              "role": "Senior Director International Business Development",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Hayley Philp (PIEMA REnvP)",
+              "position": "Environmental Compliance and Carbon Lead",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": "Northrop Grumman"
+        },
+        {
+          "company_name": "Parsons Corporation",
+          "industry": "Defense IT & Systems Integration",
+          "location": "UK",
+          "revenue_millions": 6750,
+          "leaders": [
+            {
+              "name": "Will Parsons",
+              "role": "Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "John Fisher",
+              "position": "Construction & Built Environment, Civil Engineering and Building Services Engineering",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Prudential Financial",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 53900,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Ryan Hooper",
+              "position": "Data Analyst",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Serco North America",
+          "industry": "Government Consulting & Professional Services",
+          "location": "UK",
+          "revenue_millions": 1650,
+          "leaders": [
+            {
+              "name": "Chris Bisset MBE FRAeS",
+              "role": "Director of Defence Business Development UK&E & Mission Training Programme Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Matthew J P Murphy",
+              "role": "Head of Continuous Improvement and Innovation, AFRS",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Darren Davies MCGI",
+              "role": "Head of Service Delivery Area-Devonport",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Kelly Van Nelson",
+              "role": "Managing Director, Armed Forces Recruiting",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Jonathan Brasher OBE",
+              "role": "Solutions and Mobilisation Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Amanda Price",
+              "role": "VP Business Development - Canada",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Joe Kent MCIPS",
+              "position": "Category Manager - Corporate & Professional Services",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Slalom Consulting",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 2900,
+          "leaders": [
+            {
+              "name": "Tim Smail",
+              "role": "Partner - Digital",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Anton Horne",
+              "role": "Partner, Account Lead for the Ministry of Housing, Communities, Local Government & Local Government",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [
+            {
+              "connection_name": "Rachel Webster MSyl",
+              "position": "Security Consultant",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "University of Maryland Medical System",
+          "industry": "Healthcare & Life Sciences",
+          "location": "UK",
+          "revenue_millions": 5244,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Lee Parkinson",
+              "position": "Regional Sales Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "WSP USA",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 12600,
+          "leaders": [],
+          "company_connections": [
+            {
+              "connection_name": "Lee Young",
+              "position": "Senior Delivery Manager",
+              "mg_partner": "Charles Antelme"
+            }
+          ],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "AES Corporation",
+          "industry": "Energy & Utilities",
+          "location": "UK",
+          "revenue_millions": 12700,
+          "leaders": [
+            {
+              "name": "Sam Instone",
+              "role": "Chief Executive Officer & Founder",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Simon Whitehouse, CSyP FSyI",
+              "role": "Director of Security Consultancy",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Arcadis",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 4100,
+          "leaders": [
+            {
+              "name": "Matt O'L",
+              "role": "Head of Security",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "AstraZeneca",
+          "industry": "Healthcare & Life Sciences",
+          "location": "UK",
+          "revenue_millions": 54070,
+          "leaders": [
+            {
+              "name": "Paul Heath",
+              "role": "New Technology Introduction Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Andrew Chapman",
+              "role": "Senior Director - Transformation, Strategy & Operations",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Bank of America",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 98500,
+          "leaders": [
+            {
+              "name": "Greg Bayliss",
+              "role": "Director - Global Commercial Banking International Business Controls Manager",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Alan Budinger",
+              "role": "Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "John Pratt",
+              "role": "Managing Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Baxter International",
+          "industry": "Healthcare & Life Sciences",
+          "location": "UK",
+          "revenue_millions": 10600,
+          "leaders": [
+            {
+              "name": "Jonny Norman",
+              "role": "Commercial Director/ Ukraine Country Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "CarMax",
+          "industry": "Consumer, Retail & Hospitality",
+          "location": "UK",
+          "revenue_millions": 29700,
+          "leaders": [
+            {
+              "name": "Jim Holland",
+              "role": "CO-Founder and CEO",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Fluor Government Group",
+          "industry": "Government Operations & Managed Services",
+          "location": "UK",
+          "revenue_millions": 11100,
+          "leaders": [
+            {
+              "name": "Douglas Gardiner - MSc (MCIPS)",
+              "role": "Director I, Project Materials Manager",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "L3Harris Technologies",
+          "industry": "Aerospace & Defense Manufacturing",
+          "location": "UK",
+          "revenue_millions": 21325,
+          "leaders": [
+            {
+              "name": "Peter Donnelly",
+              "role": "Co-Founder & CTO",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "Felix Wright",
+              "role": "Head of Business Development and Partnerships",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": "L3Harris Technologies"
+        },
+        {
+          "company_name": "M&T Bank",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 9400,
+          "leaders": [
+            {
+              "name": "Jamie Loden",
+              "role": "Chief Operating Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Markel Group",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 15800,
+          "leaders": [
+            {
+              "name": "Henry Gardener",
+              "role": "Chief Risk Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "MetLife",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 66700,
+          "leaders": [
+            {
+              "name": "Ali Spry",
+              "role": "Senior Director Institutional Client Group MetLife Investment Management",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Microsoft",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 245100,
+          "leaders": [
+            {
+              "name": "Will Orme",
+              "role": "Business Development Director for Defence",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Northern Trust",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 7500,
+          "leaders": [
+            {
+              "name": "George Triplow, Northern Trust, Head Of Client Development MENA",
+              "role": "Head Of Client Development | Senior Vice President | Global Family & Private Investment Office, MENA",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Oracle",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 52900,
+          "leaders": [
+            {
+              "name": "Michael Ritchie",
+              "role": "Group Head of Telco, Media & Gaming (EMEA)",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            },
+            {
+              "name": "James Gayner MBE",
+              "role": "Senior Director, Database Platform, Public Sector",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "PNC Financial Services Group",
+          "industry": "Financial Services & Insurance",
+          "location": "UK",
+          "revenue_millions": 21500,
+          "leaders": [
+            {
+              "name": "Laura Pearson (Sterling)",
+              "role": "Chief People Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Palantir Technologies",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 2230,
+          "leaders": [
+            {
+              "name": "Mike Kerrigan",
+              "role": "Head of Defence & Critical Industries",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Performance Food Group",
+          "industry": "Consumer, Retail & Hospitality",
+          "location": "UK",
+          "revenue_millions": 57400,
+          "leaders": [
+            {
+              "name": "Flavio Millard, CFE, CII",
+              "role": "President",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Roche Diagnostics",
+          "industry": "Healthcare & Life Sciences",
+          "location": "UK",
+          "revenue_millions": 17700,
+          "leaders": [
+            {
+              "name": "James Gray",
+              "role": "Chief Executive Officer",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "SAP",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 34100,
+          "leaders": [
+            {
+              "name": "Jason Holmes",
+              "role": "Senior Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "ServiceNow",
+          "industry": "Technology",
+          "location": "UK",
+          "revenue_millions": 10950,
+          "leaders": [
+            {
+              "name": "Steve Davis",
+              "role": "Client Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Tetra Tech",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 4500,
+          "leaders": [
+            {
+              "name": "Andrew Fotherby",
+              "role": "Managing Director Project and Cost Management, and Defence",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        },
+        {
+          "company_name": "Turner Construction Company",
+          "industry": "Construction, Engineering, & Infrastructure",
+          "location": "UK",
+          "revenue_millions": 20200,
+          "leaders": [
+            {
+              "name": "Jimmy Broe",
+              "role": "Director",
+              "mg_point_of_contact": "Charles Antelme",
+              "is_military": false
+            }
+          ],
+          "company_connections": [],
+          "military_affiliations": [],
+          "has_connections": true,
+          "connection_count": 0,
+          "partner_names": [
+            "Charles Antelme"
+          ],
+          "pipeline_match": null
+        }
+      ],
+      "partner_breakdown": [
+        {
+          "partner": "Charles Antelme",
+          "company_count": 67
+        }
+      ]
     }
   ],
-  "partner_count": 7
+  "partner_count": 8
 }

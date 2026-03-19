@@ -8,7 +8,10 @@ from datetime import date
 
 import openpyxl
 
+import re
+
 ATL_BD_DIR = os.path.expanduser("~/Desktop/ATL_BD")
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 REGIONS = {
     "ATL": {
         "display_name": "Atlanta",
@@ -18,8 +21,23 @@ REGIONS = {
         "display_name": "Washington DC",
         "file": os.path.join(ATL_BD_DIR, "regions", "DC", "DC Region Targeting - Enriched.xlsx"),
     },
+    "UK": {
+        "display_name": "United Kingdom",
+        "file": os.path.join(DATA_DIR, "charlie-antelme-connections.xlsx"),
+        "parser": "charlie",
+    },
 }
 OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "docs", "connections.json")
+
+# Senior leadership role pattern — used to split contacts into key leaders vs other connections
+SENIOR_REGEX = re.compile(
+    r"(chief|ceo|cfo|coo|cto|cio|ciso|cmo|chro|president|"
+    r"vice\s*president|\bvp\b|svp|evp|director|general\s*manager|"
+    r"managing\s*director|head\s+of|group\s+head|senior\s+director|"
+    r"co-?founder|founder|partner|counsel|sector\s+lead|"
+    r"regional\s+director|country\s+director|executive\s+director)",
+    re.IGNORECASE,
+)
 DASHBOARD_PATH = os.path.join(os.path.dirname(__file__), "data", "dashboard.json")
 
 # Companies to exclude entirely (will never be prospects)
@@ -236,6 +254,125 @@ def parse_region(region_key, config, prospects):
     }
 
 
+def parse_charlie_region(region_key, config, prospects):
+    """Parse Charlie Antelme's single-sheet LinkedIn export into a region dict.
+
+    Splits contacts into key leaders (senior roles) and other connections (non-senior).
+    Columns: 0=Company, 1=Priority, 2=Name, 3=Role, 4=MG Contact, 5=Focus,
+             6=Revenue, 7=Rev Year, 8=Industry, 9=Location.
+    """
+    filepath = config["file"]
+    if not os.path.exists(filepath):
+        print(f"  WARNING: {filepath} not found, skipping {region_key}")
+        return None
+
+    wb = openpyxl.load_workbook(filepath, data_only=True, read_only=True)
+    ws = wb[wb.sheetnames[0]]
+
+    companies = {}
+    partner_counts = defaultdict(set)
+    leader_count = 0
+    connection_count = 0
+
+    for i, row in enumerate(ws.iter_rows(values_only=True)):
+        if i == 0:
+            continue
+        company_name = (row[0] or "").strip().replace("*", "")
+        name = (row[2] or "").strip().replace("*", "")
+        role = (row[3] or "").strip().replace("*", "")
+        mg_contact = (row[4] or "").strip().replace("*", "")
+        revenue = row[6] if len(row) > 6 and isinstance(row[6], (int, float)) else None
+        industry = (row[8] or "").strip() if len(row) > 8 else ""
+        location = (row[9] or "").strip() if len(row) > 9 else ""
+
+        if not company_name or not name:
+            continue
+        if company_name.lower() in EXCLUDED_COMPANIES:
+            continue
+
+        if company_name not in companies:
+            companies[company_name] = {
+                "company_name": company_name,
+                "industry": industry,
+                "location": location,
+                "revenue_millions": revenue,
+                "leaders": [],
+                "company_connections": [],
+                "military_affiliations": [],
+                "has_connections": True,
+                "connection_count": 0,
+                "partner_names": [],
+                "pipeline_match": None,
+            }
+
+        if SENIOR_REGEX.search(role):
+            # Key leader
+            companies[company_name]["leaders"].append({
+                "name": name,
+                "role": role,
+                "mg_point_of_contact": mg_contact,
+                "is_military": False,
+            })
+            leader_count += 1
+        else:
+            # Other connection
+            companies[company_name]["company_connections"].append({
+                "connection_name": name,
+                "position": role,
+                "mg_partner": mg_contact,
+            })
+            companies[company_name]["connection_count"] += 1
+            connection_count += 1
+
+        if mg_contact:
+            partner_counts[mg_contact].add(company_name)
+
+    wb.close()
+
+    # Update partner names per company
+    for comp in companies.values():
+        partner_set = set()
+        for leader in comp["leaders"]:
+            if leader["mg_point_of_contact"]:
+                for p in leader["mg_point_of_contact"].split(";"):
+                    p = p.strip()
+                    if p:
+                        partner_set.add(p)
+        for conn in comp["company_connections"]:
+            if conn["mg_partner"]:
+                partner_set.add(conn["mg_partner"])
+        comp["partner_names"] = sorted(partner_set)
+
+    # Pipeline matching
+    for comp in companies.values():
+        match = fuzzy_match(comp["company_name"], prospects)
+        if match:
+            comp["pipeline_match"] = comp["company_name"]
+
+    # Summary stats
+    total_companies = len(companies)
+    total_connections = sum(c["connection_count"] for c in companies.values())
+    partner_breakdown = sorted(
+        [{"partner": p, "company_count": len(comps)} for p, comps in partner_counts.items()],
+        key=lambda x: x["company_count"],
+        reverse=True,
+    )
+    company_list = sorted(companies.values(), key=lambda c: (-c["connection_count"], c["company_name"]))
+
+    print(f"  {leader_count} key leaders, {connection_count} other connections across {total_companies} companies")
+
+    return {
+        "name": region_key,
+        "display_name": config["display_name"],
+        "total_companies": total_companies,
+        "total_connections": total_connections,
+        "connected_companies": total_companies,
+        "coverage_pct": 100.0,
+        "companies": company_list,
+        "partner_breakdown": partner_breakdown,
+    }
+
+
 def main():
     print("Loading Overwatch prospects for pipeline matching...")
     prospects = load_overwatch_prospects()
@@ -244,7 +381,11 @@ def main():
     regions = []
     for key, config in REGIONS.items():
         print(f"Parsing {key} ({config['display_name']})...")
-        region = parse_region(key, config, prospects)
+        parser = config.get("parser", "enriched")
+        if parser == "charlie":
+            region = parse_charlie_region(key, config, prospects)
+        else:
+            region = parse_region(key, config, prospects)
         if region:
             regions.append(region)
             print(f"  {region['total_companies']} companies, {region['connected_companies']} connected, {region['coverage_pct']}% coverage")
