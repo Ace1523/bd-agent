@@ -1914,53 +1914,65 @@ function renderHowItWorks() {
     <div class="home-section">
       <div class="home-section-title">LinkedIn Connection Intelligence</div>
       <p style="color:var(--text-secondary); font-size:13px; margin-bottom:20px;">
-        Regional target company lists are enriched against MG partner LinkedIn networks to identify warm introduction paths, executive-level connections, and military affiliations. Data is sourced from the ATL_BD enrichment project and surfaces in the Connections tab.
+        Regional target company lists are enriched against MG partner LinkedIn networks to identify warm introduction paths and key executive connections. Data surfaces in the Connections tab with a sticky partner sidebar, type-ahead search, and deep links to Research dossiers.
       </p>
 
       <div class="method-grid" style="grid-template-columns: repeat(3, 1fr); margin-bottom:20px;">
         <div class="method-card" style="text-align:center;">
-          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">7</div>
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">8</div>
           <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">MG Partners mapped</div>
         </div>
         <div class="method-card" style="text-align:center;">
-          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">2</div>
-          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Active regions (DC, ATL)</div>
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">3</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Active regions (DC, ATL, UK)</div>
         </div>
         <div class="method-card" style="text-align:center;">
-          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">5</div>
-          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Regions planned</div>
+          <div style="font-size:28px; font-weight:800; color:var(--text); margin-bottom:4px;">381</div>
+          <div style="font-size:12px; color:var(--text-muted); text-transform:uppercase; letter-spacing:0.5px;">Target companies</div>
         </div>
       </div>
 
       <div class="method-grid" style="margin-bottom:20px;">
         <div class="method-card" style="border-left: 3px solid var(--accent);">
-          <h3 style="color: var(--accent);">Executive Connections</h3>
-          <p>Leaders on regional target lists who have a direct MG partner as point of contact. These are the highest-value warm paths \u2014 a partner can make a personal introduction to a named executive at the target company.</p>
+          <h3 style="color: var(--accent);">Key Connections</h3>
+          <p>Senior leaders (director+) on regional target lists who have a direct MG partner as point of contact. Highest-value warm paths \u2014 a partner can make a personal introduction to a named executive. Includes high connectivity badges for people connected to 2+ target companies.</p>
         </div>
         <div class="method-card" style="border-left: 3px solid #7ab8f5;">
           <h3 style="color: #7ab8f5;">All Company Connections</h3>
-          <p>Every LinkedIn connection an MG partner has at a target company \u2014 not just executives. These connections can facilitate introductions, provide intel on org dynamics, or serve as informal champions.</p>
+          <p>Every LinkedIn connection an MG partner has at a target company. Can facilitate introductions, provide intel on org dynamics, or serve as informal champions. Includes seniority filter (All Levels / Senior Leadership).</p>
+        </div>
+      </div>
+
+      <div class="method-grid" style="margin-bottom:20px;">
+        <div class="method-card" style="border-left: 3px solid var(--purple);">
+          <h3 style="color: var(--purple);">Partner Sidebar</h3>
+          <p>Sticky left sidebar filters both tabs by MG partner. Click a name to see only their connections. Vertical layout with company counts per partner.</p>
+        </div>
+        <div class="method-card" style="border-left: 3px solid var(--green);">
+          <h3 style="color: var(--green);">Supported Research Links</h3>
+          <p>Companies in the Overwatch pipeline show a clickable \u201CResearch\u201D badge that deep links directly to the full dossier on the Research tab \u2014 scrolls to the company and auto-expands the card.</p>
         </div>
         <div class="method-card" style="border-left: 3px solid var(--amber);">
-          <h3 style="color: var(--amber);">Military Affiliations</h3>
-          <p>Executives at target companies with military service backgrounds. Maps directly to McChrystal\u2019s military DNA and provides a natural outreach angle rooted in shared service experience.</p>
+          <h3 style="color: var(--amber);">High Connectivity</h3>
+          <p>People who appear at 2+ target companies get a purple badge showing how many companies they\u2019re connected to. Click the badge to filter and see all their companies at once.</p>
         </div>
       </div>
 
       <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border); margin-bottom:12px;">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">How It Works</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.8;">
-          1. <strong>ATL_BD project</strong> enriches regional targeting Excel workbooks against partner LinkedIn exports<br>
-          2. <strong>import_linkedin.py</strong> reads the enriched workbooks and writes <code style="background:var(--bg-card); padding:2px 6px; border-radius:3px; font-size:12px;">connections.json</code><br>
-          3. <strong>Connections tab</strong> renders the data with region sub-tabs, partner filtering, and sortable tables<br>
-          4. <strong>To add a region:</strong> add enriched Excel to ATL_BD, update import script, run <code style="background:var(--bg-card); padding:2px 6px; border-radius:3px; font-size:12px;">python3 import_linkedin.py</code>, push
+          1. <strong>Enriched workbooks</strong> (ATL_BD project) map partner LinkedIn exports against regional targeting lists<br>
+          2. <strong>Supplemental imports</strong> handle alternate formats (e.g., Charlie Antelme\u2019s UK connections \u2014 single-sheet, auto-split by seniority)<br>
+          3. <strong>import_linkedin.py</strong> reads all sources, applies manual overrides, and writes <code style="background:var(--bg-card); padding:2px 6px; border-radius:3px; font-size:12px;">connections.json</code><br>
+          4. <strong>Connections tab</strong> renders with region tabs, partner sidebar, type-ahead search, sortable columns (Company, Leader/Connection, Role, MG Contact, Region, Supported Research)<br>
+          5. <strong>To add a partner:</strong> add their LinkedIn export to <code style="background:var(--bg-card); padding:2px 6px; border-radius:3px; font-size:12px;">data/</code>, configure in import script, run <code style="background:var(--bg-card); padding:2px 6px; border-radius:3px; font-size:12px;">python3 import_linkedin.py</code>, push
         </div>
       </div>
 
       <div style="padding:16px; background:var(--bg-surface); border-radius:var(--radius-sm); border:1px solid var(--border);">
         <div style="color:var(--accent); font-size:12px; text-transform:uppercase; letter-spacing:1px; margin-bottom:8px; font-weight:700;">Roadmap</div>
         <div style="color:var(--text-secondary); font-size:13px; line-height:1.6;">
-          NYC and Chicago regions are next. Goal is to include all MG partners and advisors. Future: cross-reference connections data with Overwatch pipeline to auto-flag warm paths in dossiers and outreach.
+          NYC, Chicago, and Houston regions are placeholders \u2014 ready to activate when enriched data is available. Goal is to include all MG partners and advisors across all regions. Future: cross-reference connections data with Overwatch pipeline to auto-flag warm paths in dossiers and outreach.
         </div>
       </div>
     </div>
