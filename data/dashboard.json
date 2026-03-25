@@ -22808,66 +22808,6 @@
       ]
     },
     {
-      "name": "Sports & Entertainment Ownership",
-      "category": "niche",
-      "overview": "Professional sports is experiencing a seismic ownership and structural shift. The NBA approved expansion exploration to Seattle and Las Vegas on March 25, 2026, with franchise fees expected at $5-8B each. Paramount is acquiring Warner Bros. Discovery for $110B, and PE is flowing into previously closed ownership structures as leagues loosen investment rules.",
-      "key_trends": [
-        "NBA board voted March 25, 2026 to formally explore expansion to Seattle and Las Vegas, franchise fees expected $5-8B each",
-        "Lakers sold for record $10B valuation; Fenway Sports Group pulled out of NBA expansion due to price",
-        "Paramount acquiring WBD for $110B, reducing Hollywood's Big 5 to Big 4, with $6B in expected synergies",
-        "NBA loosened PE ownership rules in December 2025, allowing investors to hold stakes in up to 8 teams"
-      ],
-      "mcchrystal_angle": "New ownership groups standing up expansion franchises, post-merger entertainment entities integrating at massive scale, and multi-team ownership portfolios all need cross-functional alignment and leadership transformation McChrystal provides.",
-      "articles": [
-        {
-          "title": "NBA Owners Approve Expansion Exploration With Seattle, Las Vegas at Top",
-          "url": "https://www.espn.com/nba/story/_/id/48304338/sources-nba-votes-explore-vegas-seattle-expansion-bids",
-          "source": "ESPN",
-          "date": "2026-03-25",
-          "summary": "NBA board voted to formally explore expansion, with franchise fees expected at $5-7B each.",
-          "relevance_note": null
-        },
-        {
-          "title": "Paramount to Acquire WBD to Form Next-Gen Global Media Company",
-          "url": "https://www.paramount.com/press/paramount-to-acquire-warner-bros-discovery",
-          "source": "Paramount",
-          "date": "2026-02-27",
-          "summary": "Paramount announced $110B acquisition of WBD, expecting $6B in synergies across 200+ countries.",
-          "relevance_note": null
-        },
-        {
-          "title": "Why Pro Sports Team Valuations Will Keep Climbing in 2026",
-          "url": "https://frontofficesports.com/pro-sports-team-valuations-rise-2026/",
-          "source": "Front Office Sports",
-          "date": "2026-01-15",
-          "summary": "Franchise valuations climbing driven by $77B media-rights deal, scarcity, and growing PE investor pool.",
-          "relevance_note": null
-        },
-        {
-          "title": "NBA Expansion Could Net Over $20B for Owners",
-          "url": "https://www.sportico.com/leagues/basketball/2026/nba-expansion-seattle-las-vegas-europe-fee-1234888262/",
-          "source": "Sportico",
-          "date": "2026-03-25",
-          "summary": "Domestic franchise fees expected $7-10B each, with European expansion also under consideration.",
-          "relevance_note": null
-        },
-        {
-          "title": "Shore Capital's Ishbia Agrees $1.8B Path to Control of White Sox",
-          "url": "https://pe-insights.com/shore-capitals-justin-ishbia-agrees-1-8bn-path-to-control-of-mlbs-chicago-white-sox/",
-          "source": "PE Insights",
-          "date": "2026-01-10",
-          "summary": "PE executive Ishbia agreed to multi-stage deal for White Sox controlling interest, also co-owns Phoenix Suns.",
-          "relevance_note": null
-        }
-      ],
-      "last_refreshed": "2026-03-25",
-      "prospect_candidates": [
-        "Paramount Global",
-        "NBA expansion ownership groups",
-        "Chicago White Sox"
-      ]
-    },
-    {
       "name": "Technology & AI",
       "category": "general",
       "overview": "Big tech is undergoing the largest AI-driven workforce restructuring in history, with 59,000+ tech layoffs in early 2026 as companies slash headcount to fund massive AI infrastructure investments. Enterprise AI adoption is accelerating but execution lags \u2014 only 25% of organizations have moved 40% of AI pilots to production.",
