@@ -1223,9 +1223,11 @@ function renderMarketsSidebar() {
     return;
   }
 
-  // Flatten all articles across sectors, attach sector name
+  // Flatten all articles across sectors, attach sector name (exclude Sports from sidebar)
+  const SIDEBAR_EXCLUDED_SECTORS = ["Sports & Entertainment Ownership"];
   const allArticles = [];
   for (const sector of sectors) {
+    if (SIDEBAR_EXCLUDED_SECTORS.includes(sector.name)) continue;
     for (const article of sector.articles || []) {
       allArticles.push({ ...article, _sectorName: sector.name, _sectorCategory: sector.category });
     }
