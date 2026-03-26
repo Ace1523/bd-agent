@@ -125,15 +125,36 @@ function buildWarmPathsMap() {
         if (p) partnerCounts[p] = (partnerCounts[p] || 0) + 1;
       }
       const hasExec = co.leaders.some(l => l.mg_point_of_contact);
-      warmPathsMap[key] = {
-        company_name: co.company_name,
-        region: region.name,
-        partners: Object.entries(partnerCounts)
-          .map(([name, count]) => ({ name, count }))
-          .sort((a, b) => b.count - a.count),
-        hasExecutive: hasExec,
-        connectionCount: co.connection_count,
-      };
+      const existing = warmPathsMap[key];
+      if (existing) {
+        // Merge: combine partners, pick region with most connections, merge exec flag
+        for (const [name, count] of Object.entries(partnerCounts)) {
+          const ep = existing.partners.find(p => p.name === name);
+          if (ep) ep.count += count;
+          else existing.partners.push({ name, count });
+        }
+        existing.partners.sort((a, b) => b.count - a.count);
+        existing.hasExecutive = existing.hasExecutive || hasExec;
+        existing.connectionCount += co.connection_count;
+        existing.regions.push(region.name);
+        // Keep region with most connections for default navigation
+        if (co.connection_count > (existing._maxRegionCount || 0)) {
+          existing.region = region.name;
+          existing._maxRegionCount = co.connection_count;
+        }
+      } else {
+        warmPathsMap[key] = {
+          company_name: co.company_name,
+          region: region.name,
+          regions: [region.name],
+          partners: Object.entries(partnerCounts)
+            .map(([name, count]) => ({ name, count }))
+            .sort((a, b) => b.count - a.count),
+          hasExecutive: hasExec,
+          connectionCount: co.connection_count,
+          _maxRegionCount: co.connection_count,
+        };
+      }
     }
   }
 }
@@ -153,7 +174,6 @@ function getWarmPaths(companyName) {
 function warmPathBadgeHTML(companyName) {
   const wp = getWarmPaths(companyName);
   if (!wp) return '';
-  const partnerList = wp.partners.slice(0, 3).map(p => p.name.split(' ')[1] || p.name.split(' ')[0]).join(', ');
   return `<a href="#" class="warm-path-badge" onclick="event.stopPropagation(); navigateToConnections('${encodeURIComponent(wp.company_name)}', '${wp.region}'); return false;" title="${wp.partners.map(p => p.name + ' (' + p.count + ')').join(', ')}">&#128279; Warm Path${wp.hasExecutive ? ' ★' : ''}</a>`;
 }
 
@@ -163,8 +183,10 @@ function warmPathDetailHTML(companyName) {
   const pills = wp.partners.map(p =>
     `<span class="warm-path-partner">${p.name} <span class="warm-path-count">${p.count}</span></span>`
   ).join('');
+  const regionNote = wp.regions && wp.regions.length > 1
+    ? ` <span class="warm-path-regions">${wp.regions.join(', ')}</span>` : '';
   return `<div class="warm-path-detail">
-    <div class="warm-path-label">Warm Paths${wp.hasExecutive ? ' <span class="warm-path-exec">Executive</span>' : ''}</div>
+    <div class="warm-path-label">Warm Paths${wp.hasExecutive ? ' <span class="warm-path-exec">Executive</span>' : ''}${regionNote}</div>
     <div class="warm-path-partners">${pills}</div>
     <a href="#" class="warm-path-link" onclick="event.stopPropagation(); navigateToConnections('${encodeURIComponent(wp.company_name)}', '${wp.region}'); return false;">View in Connections &#8594;</a>
   </div>`;

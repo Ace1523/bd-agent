@@ -1652,6 +1652,15 @@ body {
   margin-left: 6px;
   letter-spacing: 0.5px;
 }
+.warm-path-regions {
+  font-size: 9px;
+  padding: 1px 5px;
+  border-radius: 3px;
+  background: rgba(90, 175, 255, 0.12);
+  color: #5aafff;
+  margin-left: 6px;
+  letter-spacing: 0.5px;
+}
 .warm-path-partners {
   display: flex;
   flex-wrap: wrap;
