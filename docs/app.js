@@ -261,7 +261,7 @@ function categoryOf(industry) {
   if (!industry) return "Media & Consumer";
   const ind = industry.toLowerCase();
   if (ind.includes("health") || ind.includes("dental") || ind.includes("pharma") || ind.includes("drug")) return "Healthcare";
-  if (ind.includes("defense") || ind.includes("government") || ind.includes("federal") || ind.includes("aerospace")) return "Defense & Government";
+  if (ind.includes("defense") || ind.includes("government") || ind.includes("federal") || ind.includes("aerospace") || ind.includes("law enforcement") || ind.includes("police")) return "Defense & Government";
   if (ind.includes("tech") || ind.includes("fintech") || ind.includes("software") || ind.includes("semiconductor") || ind.includes("gaming") || ind.includes("telecom") || ind.includes("optical") || ind.includes("network")) return "Technology & Fintech";
   if (ind.includes("industrial") || ind.includes("logistics") || ind.includes("auto") || ind.includes("chemical") || ind.includes("material") || ind.includes("parts") || ind.includes("collision") || ind.includes("fleet") || ind.includes("manufacturing") || ind.includes("supply chain")) return "Industrial & Logistics";
   if (ind.includes("energy") || ind.includes("oil") || ind.includes("gas") || ind.includes("utilit") || ind.includes("renewable") || ind.includes("power")) return "Energy";
