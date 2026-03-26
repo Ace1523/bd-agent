@@ -96,16 +96,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "May Chi",
-              "position": "Executive Assistant",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Deborah Janini",
-              "position": "Assistente em Com\u00c3\u00a9rcio Exterior e Relac\u00c3\u00b5es Internacionais Bil\u00c3\u00adngue",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Kenneth Harper",
               "position": "Feeder Driver",
               "mg_partner": "Chris Fussell"
@@ -168,9 +158,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 14,
+          "connection_count": 12,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -326,11 +315,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Jerry Rose",
-              "position": "Director -TechOps Manufacturing/ VP of Operations Delta Flight Products",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Dianne Smith Post",
               "position": "Flight Attendant | mom | empire builder | FAA flight inspection",
               "mg_partner": "Chris Fussell"
@@ -393,9 +377,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 13,
+          "connection_count": 12,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Stan McChrystal",
@@ -1636,19 +1619,11 @@
               "is_military": false
             }
           ],
-          "company_connections": [
-            {
-              "connection_name": "Ben Blumenthal",
-              "position": "Director, Payouts for Platofrms",
-              "mg_partner": "Brendan Fitzgibbon"
-            }
-          ],
+          "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
-          "connection_count": 1,
-          "partner_names": [
-            "Brendan Fitzgibbon"
-          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
           "pipeline_match": null
         },
         {
@@ -1998,19 +1973,11 @@
               "is_military": false
             }
           ],
-          "company_connections": [
-            {
-              "connection_name": "Mark Fruechtnicht",
-              "position": "Senior Manager, Product Planning and Management",
-              "mg_partner": "Brendan Fitzgibbon"
-            }
-          ],
+          "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
-          "connection_count": 1,
-          "partner_names": [
-            "Brendan Fitzgibbon"
-          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
           "pipeline_match": null
         },
         {
@@ -2380,7 +2347,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Jeffery Jones"
@@ -2588,7 +2555,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Jeffery Jones"
@@ -2908,10 +2875,6 @@
           "company_count": 6
         },
         {
-          "partner": "Brendan Fitzgibbon",
-          "company_count": 4
-        },
-        {
           "partner": "Jim Huggins",
           "company_count": 2
         },
@@ -3009,36 +2972,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Dami Aina",
-              "position": "Principal, Amazon Business Payments",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Rumeysa Dogan",
-              "position": "Program Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Karan Kareer",
-              "position": "Product",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Elizabeth Edwards",
-              "position": "Head of Marketing Strategy",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Sid Sohonie",
-              "position": "GM/Director",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Megan Crowe, MBA",
-              "position": "Sr Product Manager , Global Tax Technology - Leo, Digital Products, Latam",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Timothy Klass",
               "position": "Director Risk & Resilience",
@@ -3797,9 +3730,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 157,
+          "connection_count": 151,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -3925,36 +3857,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Julia Papapietro McFarland, CMP",
-              "position": "Senior Executive Producer",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Alex George",
-              "position": "Advisor to the Advisor to the Advisor to CEO",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Vikeshi Tiwari",
-              "position": "Product Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Jim Wall",
-              "position": "Head of Western US, State and Local Government Affairs",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Danielle Decatur",
-              "position": "Director of Energy and Sustainability",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Michele Schrader Garner",
-              "position": "Senior Machine Learning Scientist, IDEAS",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Mack Gilbreath",
               "position": "Enterprise Account Executive - AEC Solution Strategist Lead",
@@ -4573,9 +4475,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 129,
+          "connection_count": 123,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -4701,11 +4602,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Abeye Tedla",
-              "position": "Lead, Information Security Validation Assessment Team",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Joe Spina",
               "position": "Sr. Solutions Architect, CACI Capabilities & Technology Integration (C2TI)",
@@ -5234,9 +5130,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 106,
+          "connection_count": 105,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Ryan Martin",
@@ -5445,11 +5340,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Arianne Brennan (Obering)",
-              "position": "Program Planner Staff",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Barry Ives",
               "position": "Director Advanced Technology Programs",
@@ -5928,9 +5818,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 96,
+          "connection_count": 95,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -6074,26 +5963,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Jennifer Horak, PMP\u00c2\u00ae",
-              "position": "Senior Program Manager, Technical Content Experience",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Sai Lolayekar",
-              "position": "Business Transformation and GTM Strategy - Security Partners",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Lazar Antonic, CFA",
-              "position": "Senior Finance Manager, FP&A",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Shreyans Bothra",
-              "position": "AWS General Manager, Global Commerce & Monetization",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Mark G. Arnone",
               "position": "Global Executive Relations, Energy/Defense",
@@ -6552,9 +6421,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 95,
+          "connection_count": 91,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -7869,11 +7737,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Bradley Cullen, MBA, PMP, CSM",
-              "position": "Portfolio and Program Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Chuck H.",
               "position": "Deputy Program Manager",
               "mg_partner": "Chris Fussell"
@@ -8266,9 +8129,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 79,
+          "connection_count": 78,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Ryan Martin",
@@ -8861,16 +8723,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Anthony D'Amico",
-              "position": "Enterprise Account Executive - BSS Streamsets & webMethods",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Travis Hall",
-              "position": "Associate Partner - Enterprise Strategy | Energy",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Sascha Brodsky",
               "position": "Editorial Director",
               "mg_partner": "Chris Fussell"
@@ -9233,9 +9085,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 74,
+          "connection_count": 72,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -9688,11 +9539,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Jon Gillette",
-              "position": "Talent Acquisition Manager, Executive & Defense and Security Segment",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Scott McIntyre",
               "position": "Chairman and CEO",
               "mg_partner": "Chris Fussell"
@@ -10020,9 +9866,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 66,
+          "connection_count": 65,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -10094,46 +9939,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Patrick Reid",
-              "position": "Senior Vice President, Enterprise Sales Specialists",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Steve Agretelis",
-              "position": "Account Executive, General Commercial - Healthcare & Life Sciences",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Ajit Sonawane",
-              "position": "Sr. Forward Deployed Engineer (FDE)",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Abhinav Shukla",
-              "position": "Senior Manager, Marketing Analytics",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Amy Hanson",
-              "position": "Product Marketing Director - AI and Agentforce for Employee Success (HR)",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Connor O'Gara",
-              "position": "Regional Vice President, High Tech Enterprise Sales",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Jenny Ehrlich",
-              "position": "Enterprise Cloud Account Executive - High Tech, Spiff | SPM",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Dominic Comolli",
-              "position": "Regional Vice President - Financial Services",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Eli Padell",
               "position": "Account Executive",
@@ -10407,9 +10212,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 62,
+          "connection_count": 54,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -10505,26 +10309,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Mandeep Toor",
-              "position": "GTM Sr. Solution Architect",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Avni Kulkarni, CSPO, SAFe",
-              "position": "Senior Technical Program Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Diana Murk",
-              "position": "Sr. Director, Strategic Operations - Tech Workflows",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Max Aronin",
-              "position": "Sr. Director Product Management, Head of Cloud Solutions",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Dipam Paul",
               "position": "Product Manager - AI Foundations & Responsible AI",
@@ -10808,9 +10592,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 60,
+          "connection_count": 56,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Ryan Martin",
@@ -11270,31 +11053,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Dan McClure",
-              "position": "Executive Director",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Min Hwang",
-              "position": "Payments Strategy",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Kelly Kockos",
-              "position": "Senior Vice President, Small & Business Banking Product Executive",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Jennifer Bargiela, PMP",
-              "position": "Principal Product Manager - Strategy, Digital and Innovation Group (with Executive Director title)",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Marc Winniford",
-              "position": "CFO, Corporate & Investment Banking",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Joseph Fraser, MBA MA",
               "position": "IT Service Operations - Executive Director (Chief of Staff)",
               "mg_partner": "Chris Fussell"
@@ -11567,9 +11325,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 59,
+          "connection_count": 54,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -11700,11 +11457,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Preeti Dhir",
-              "position": "Vice President Delivery Lead / Senior Project Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Deborah Barry",
               "position": "Market Executive",
@@ -11968,9 +11720,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 53,
+          "connection_count": 52,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -13604,11 +13355,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Nathan Tolman",
-              "position": "Principal Financial Analyst",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Adam Dawson",
               "position": "Strategy & Transformation Director",
               "mg_partner": "Chris Fussell"
@@ -13816,9 +13562,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 42,
+          "connection_count": 41,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal",
@@ -14300,16 +14045,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Bunmi Oshodi",
-              "position": "Build Finance | Strategic Operations & Program Alignment",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Autumn Fran\u00c3\u00a7ois",
-              "position": "Master Principal Sales Consultant - Financial Crime & Compliance Management",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Hannah Grice",
               "position": "Gov Cloud Technology Consultant",
               "mg_partner": "Chris Fussell"
@@ -14507,9 +14242,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 41,
+          "connection_count": 39,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Stan McChrystal",
@@ -14532,7 +14266,7 @@
             {
               "name": "Leah Kritzer",
               "role": "Director of Project Mgmt",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
@@ -14586,13 +14320,13 @@
             {
               "name": "Maria Doherty",
               "role": "Head of ZELLE",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
               "name": "Pepe Santos",
               "role": "Risk Strategy",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
@@ -14604,7 +14338,7 @@
             {
               "name": "Luke Swartz",
               "role": "Sr Director",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
@@ -14663,41 +14397,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Leah Kritzer",
-              "position": "Director, Project Management",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Logan Nolan",
-              "position": "Principal Recruiter (Business Analyst Director+)",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Brian De Luca",
-              "position": "Vice President - Capital One Business Products & Experience",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Luke Swartz",
-              "position": "Senior Director of Product Management",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Pepe Santos",
-              "position": "Sr. Risk Manager - Data, Models, Decisioning & Credit (DMDC)",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Hunt, Joshua",
-              "position": "Senior Business Banker",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Maria Doherty",
-              "position": "Director of Product Management",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Chet Berry",
               "position": "Senior Risk Associate",
@@ -14861,9 +14560,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 39,
+          "connection_count": 32,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -14917,11 +14615,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Jeremy Brady",
-              "position": "Accounting Analyst",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "John Kolb",
               "position": "Forward Deployed Engineer",
@@ -15115,9 +14808,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 39,
+          "connection_count": 38,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Ryan Martin",
@@ -15254,11 +14946,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Gordon Feller",
-              "position": "Strategic Advisory Board - member",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Jerrad Ackerman",
               "position": "Senior Technical Director",
@@ -15432,9 +15119,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 35,
+          "connection_count": 34,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Ryan Martin",
@@ -15889,11 +15575,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Joyce Cheng",
-              "position": "Talent Acquisition Manager - BDS Talent Acquisition",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Jada Rivera",
               "position": "Business Development | Navy Programs | Contested Logistics",
               "mg_partner": "Chris Fussell"
@@ -16051,9 +15732,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 32,
+          "connection_count": 31,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal",
@@ -17389,11 +17069,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Misturah Odesanya, MGM",
-              "position": "Strategy Analyst",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Michael Karl",
               "position": "VP Global Digital Lead Water, AECOM",
               "mg_partner": "Chris Fussell"
@@ -17481,9 +17156,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 18,
+          "connection_count": 17,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -18465,11 +18139,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Bryan Pate",
-              "position": "Commercial Sales Account Executive",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Sara Marouf",
               "position": "Strategy Senior Director @ SAP",
               "mg_partner": "Chris Fussell"
@@ -18537,9 +18206,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 14,
+          "connection_count": 13,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal",
@@ -18585,16 +18253,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Grant Wright",
-              "position": "Head of Global Employee Communications",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "EJ Vinchinski",
-              "position": "Office of the CLO: Director, Strategy & Skills - Chief of Staff",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Ty Lingley",
               "position": "National Partner Leader",
@@ -18658,9 +18316,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 14,
+          "connection_count": 12,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal"
@@ -18748,11 +18405,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Lindsey MacLean",
-              "position": "Vice President, Employee & Workplace Experience",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Brian Chidester",
               "position": "Head of Industry Strategy \u2013 WW Public Sector, Digital Strategy Group",
               "mg_partner": "Chris Fussell"
@@ -18815,9 +18467,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 13,
+          "connection_count": 12,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Stan McChrystal",
@@ -19306,11 +18957,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Caroline Lauver",
-              "position": "QC Analyst - Overseas Military Banking Program",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Dan Spohnholtz",
               "position": "Data Steward",
               "mg_partner": "Chris Fussell"
@@ -19373,9 +19019,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 13,
+          "connection_count": 12,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal",
@@ -20153,16 +19798,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Gabriela Gutierrez",
-              "position": "Executive Assistant, Niche Diagnostics, Specialty Diagnostics Group",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Gabrielle Perkins, MHA",
-              "position": "Sr. Account Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Tom Daley",
               "position": "Vice President & General Manager, Bioprocessing Equipment and Automation",
               "mg_partner": "Chris Fussell"
@@ -20215,9 +19850,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 10,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Stan McChrystal",
             "Tom Seamands"
@@ -20688,26 +20322,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Nicole Martorell",
-              "position": "Account Development Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Arian Shirakhoon, MBA",
-              "position": "Product Owner",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Zhivko Zhelyazkov",
-              "position": "Account Executive - Global Corporate Payments",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Shawn T. Hynes",
-              "position": "Group Counsel - Litigation & Investigations",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Vaibhav Srivastava",
               "position": "Assistant Manager Data Analytics- ICS",
               "mg_partner": "Chris Fussell"
@@ -20740,9 +20354,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 10,
+          "connection_count": 6,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -20861,11 +20474,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Michael Kennedy",
-              "position": "Director, Cell Therapy Clinical Operations",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Maciej Szymaszek, Ph.D., MBA, PMP",
               "position": "Head of Strategy & Innovation, Commercial AI - Enterprise AI",
               "mg_partner": "Chris Fussell"
@@ -20913,9 +20521,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 10,
+          "connection_count": 9,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
@@ -21962,11 +21569,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Andrew Barnhill",
-              "position": "Head of Public Policy (Chief Government Affairs Officer), Global Legal",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Andrew Jackson",
               "position": "Healthcare Sales Manager Electronic Patient Record",
               "mg_partner": "Chris Fussell"
@@ -21999,9 +21601,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 7,
+          "connection_count": 6,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Stan McChrystal"
@@ -22071,11 +21672,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Lena Shim",
-              "position": "Commercial Consultant",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Michael Fitzke",
               "position": "Senior Director AI, Next Generation Technologies",
               "mg_partner": "Chris Fussell"
@@ -22108,9 +21704,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 7,
+          "connection_count": 6,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jeffery Jones",
             "Stan McChrystal",
@@ -22193,11 +21788,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Raed Alhashmey",
-              "position": "Transformation & Strategy Director",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Sean Coulter",
               "position": "Operations Officer",
               "mg_partner": "Chris Fussell"
@@ -22230,9 +21820,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 7,
+          "connection_count": 6,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Ryan Martin",
             "Stan McChrystal"
@@ -22572,7 +22161,7 @@
             {
               "name": "Zach Crowe",
               "role": "Managing Director",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
@@ -22589,16 +22178,6 @@
             }
           ],
           "company_connections": [
-            {
-              "connection_name": "Emily Xu",
-              "position": "Associate",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Zach Crowe",
-              "position": "Managing Director",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
             {
               "connection_name": "Daniel Sysler",
               "position": "Senior Analyst - Valuation",
@@ -22622,9 +22201,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 4,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Stan McChrystal"
           ],
@@ -23478,11 +23056,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "David Bleivik",
-              "position": "Senior Product Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Amanda Tokash-Peters, PhD",
               "position": "Quality Control Manager",
               "mg_partner": "Chris Fussell"
@@ -23510,9 +23083,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 5,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Stan McChrystal"
           ],
@@ -25316,11 +24888,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Sam Angiuoli",
-              "position": "Head of Bioinformatics and Data Science, PGDx",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Guy Thomas Arancio",
               "position": "Confidential",
               "mg_partner": "Chris Fussell"
@@ -25338,9 +24905,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 4,
+          "connection_count": 3,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Jim Huggins",
             "Stan McChrystal"
@@ -25856,11 +25422,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Abby De Molina",
-              "position": "Senior Director and Technical Product Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Ginette Meluso",
               "position": "Head, Office of the CEO",
               "mg_partner": "Chris Fussell"
@@ -25873,9 +25434,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 2,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Stan McChrystal"
           ],
@@ -25902,7 +25462,7 @@
             {
               "name": "Tracey Schroeder",
               "role": "Chief Comms Officer",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
@@ -26034,11 +25594,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Tracey Schroeder",
-              "position": "Chief Communications & External Affairs Officer",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Maryam Ghousi",
               "position": "IT-Cybersecurity Analyst",
               "mg_partner": "Chris Fussell"
@@ -26051,9 +25606,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 2,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Stan McChrystal"
           ],
@@ -26356,11 +25910,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "Christopher Murphy",
-              "position": "Sales Manager",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "Taylor Smith",
               "position": "Sr. Strategic Sales Manager",
               "mg_partner": "Chris Fussell"
@@ -26373,9 +25922,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 2,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Chris Fussell",
             "Stan McChrystal"
           ],
@@ -27262,11 +26810,6 @@
           ],
           "company_connections": [
             {
-              "connection_name": "James Mitchell",
-              "position": "Private Wealth Director",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
               "connection_name": "James Cross",
               "position": "Co-Director of Private Investments, Managing Director",
               "mg_partner": "Stan McChrystal"
@@ -27274,9 +26817,8 @@
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 1,
           "partner_names": [
-            "Brendan Fitzgibbon",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -27677,24 +27219,11 @@
               "is_military": false
             }
           ],
-          "company_connections": [
-            {
-              "connection_name": "Sheila Dutrow",
-              "position": "Senior Cousel II",
-              "mg_partner": "Brendan Fitzgibbon"
-            },
-            {
-              "connection_name": "Holly Kilness, M.A.",
-              "position": "Director of U.S. Virology Strategy and Policy",
-              "mg_partner": "Brendan Fitzgibbon"
-            }
-          ],
+          "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
-          "connection_count": 2,
-          "partner_names": [
-            "Brendan Fitzgibbon"
-          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
           "pipeline_match": null
         },
         {
@@ -29360,19 +28889,11 @@
               "is_military": false
             }
           ],
-          "company_connections": [
-            {
-              "connection_name": "Brian McKeever",
-              "position": "Senior Manager, Total Rewards",
-              "mg_partner": "Brendan Fitzgibbon"
-            }
-          ],
+          "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
-          "connection_count": 1,
-          "partner_names": [
-            "Brendan Fitzgibbon"
-          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
           "pipeline_match": null
         },
         {
@@ -30798,7 +30319,7 @@
             {
               "name": "Brendan Hall",
               "role": "Director for Construction Risk",
-              "mg_point_of_contact": "Brendan Fitzgibbon",
+              "mg_point_of_contact": null,
               "is_military": false
             },
             {
@@ -30898,19 +30419,11 @@
               "is_military": false
             }
           ],
-          "company_connections": [
-            {
-              "connection_name": "Brendan Hall",
-              "position": "AVP, Risk Engineering - Construction West",
-              "mg_partner": "Brendan Fitzgibbon"
-            }
-          ],
+          "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
-          "connection_count": 1,
-          "partner_names": [
-            "Brendan Fitzgibbon"
-          ],
+          "has_connections": false,
+          "connection_count": 0,
+          "partner_names": [],
           "pipeline_match": null
         }
       ],
@@ -30934,10 +30447,6 @@
         {
           "partner": "Jeffery Jones",
           "company_count": 43
-        },
-        {
-          "partner": "Brendan Fitzgibbon",
-          "company_count": 39
         },
         {
           "partner": "Ryan Martin",
@@ -32467,7 +31976,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32489,7 +31998,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32517,7 +32026,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32551,7 +32060,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32573,7 +32082,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32595,7 +32104,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32617,7 +32126,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32645,7 +32154,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32667,7 +32176,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32689,7 +32198,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32711,7 +32220,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32733,7 +32242,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32755,7 +32264,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32783,7 +32292,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32805,7 +32314,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32827,7 +32336,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32849,7 +32358,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32871,7 +32380,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32893,7 +32402,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32915,7 +32424,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32937,7 +32446,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32959,7 +32468,7 @@
           ],
           "company_connections": [],
           "military_affiliations": [],
-          "has_connections": true,
+          "has_connections": false,
           "connection_count": 0,
           "partner_names": [
             "Charles Antelme"
@@ -32975,5 +32484,5 @@
       ]
     }
   ],
-  "partner_count": 8
+  "partner_count": 7
 }
