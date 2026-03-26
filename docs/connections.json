@@ -2882,6 +2882,32 @@
           "partner": "Ryan Martin",
           "company_count": 1
         }
+      ],
+      "partners": [
+        {
+          "partner": "Stan McChrystal",
+          "company_count": 18
+        },
+        {
+          "partner": "Chris Fussell",
+          "company_count": 9
+        },
+        {
+          "partner": "Jeffery Jones",
+          "company_count": 6
+        },
+        {
+          "partner": "Tom Seamands",
+          "company_count": 6
+        },
+        {
+          "partner": "Jim Huggins",
+          "company_count": 2
+        },
+        {
+          "partner": "Ryan Martin",
+          "company_count": 1
+        }
       ]
     },
     {
@@ -30452,6 +30478,32 @@
           "partner": "Ryan Martin",
           "company_count": 24
         }
+      ],
+      "partners": [
+        {
+          "partner": "Stan McChrystal",
+          "company_count": 133
+        },
+        {
+          "partner": "Chris Fussell",
+          "company_count": 104
+        },
+        {
+          "partner": "Tom Seamands",
+          "company_count": 75
+        },
+        {
+          "partner": "Jim Huggins",
+          "company_count": 63
+        },
+        {
+          "partner": "Jeffery Jones",
+          "company_count": 43
+        },
+        {
+          "partner": "Ryan Martin",
+          "company_count": 24
+        }
       ]
     },
     {
@@ -32477,6 +32529,12 @@
         }
       ],
       "partner_breakdown": [
+        {
+          "partner": "Charles Antelme",
+          "company_count": 67
+        }
+      ],
+      "partners": [
         {
           "partner": "Charles Antelme",
           "company_count": 67
