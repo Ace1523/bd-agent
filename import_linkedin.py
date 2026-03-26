@@ -45,6 +45,11 @@ EXCLUDED_COMPANIES = [
     "booz allen hamilton",
 ]
 
+# Partners to exclude from connection data
+EXCLUDED_PARTNERS = [
+    "brendan fitzgibbon",
+]
+
 # Manual overrides: add MG POC to specific leaders missing from LinkedIn data
 # Format: (region, company_name, leader_name) -> mg_point_of_contact
 MANUAL_POC_OVERRIDES = {
@@ -122,6 +127,8 @@ def parse_region(region_key, config, prospects):
         leader_name = (row[1] or "").strip().replace("*", "")
         role = (row[2] or "").strip().replace("*", "")
         mg_poc = (row[3] or "").strip().replace("*", "") if row[3] else None
+        if mg_poc and mg_poc.lower() in EXCLUDED_PARTNERS:
+            mg_poc = None
         if leader_name:
             companies[company_name]["leaders"].append({
                 "name": leader_name,
@@ -164,6 +171,8 @@ def parse_region(region_key, config, prospects):
         conn_name = (row[1] or "").strip()
         position = (row[2] or "").strip()
         partner = (row[4] or "").strip()
+        if partner and partner.lower() in EXCLUDED_PARTNERS:
+            continue
         if target in companies:
             companies[target]["company_connections"].append({
                 "connection_name": conn_name,
@@ -328,6 +337,8 @@ def parse_charlie_region(region_key, config, prospects):
             continue
         if company_name.lower() in EXCLUDED_COMPANIES:
             continue
+        if mg_contact and mg_contact.lower() in EXCLUDED_PARTNERS:
+            mg_contact = ""
 
         if company_name not in companies:
             companies[company_name] = {
