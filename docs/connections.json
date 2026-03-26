@@ -154,13 +154,19 @@
               "connection_name": "Vincent Crook",
               "position": "Account Executive",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Krag Hopps",
+              "position": "Business Plan Writing",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 13,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
             "Stan McChrystal",
@@ -373,14 +379,20 @@
               "connection_name": "Dianne Smith Post",
               "position": "Flight Attendant | mom | empire builder | FAA flight inspection",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Gary Dickinson",
+              "position": "APD A220",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 13,
           "partner_names": [
             "Chris Fussell",
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -602,13 +614,44 @@
               "connection_name": "Michael Frogg",
               "position": "Special Agent in Charge",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Jacob Elium",
+              "position": "Vice President Financial Planning and Analysis",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Christine Traubel",
+              "position": "Group Vice President",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Trisha Nickerson",
+              "position": "AVP Financial Planning & Analysis",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "John Fleps",
+              "position": "VP & Chief Safety Officer",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jason G. Pettway",
+              "position": "AVP Employee & Workplace Engagement",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alan Shaw",
+              "position": "President and Chief Executive Officer",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 4,
+          "connection_count": 10,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -771,13 +814,29 @@
               "connection_name": "Jack Rich",
               "position": "Regional Director of Distribution -",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Simon Morioka",
+              "position": "Joint Chief Executive",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Dr Katie Lansdell, MCMI ChMC",
+              "position": "Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Lingo Suwan Zheng, CFA",
+              "position": "Associate - Capital Markets & Advisory",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 6,
           "partner_names": [
             "Jeffery Jones",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal"
           ],
@@ -1006,12 +1065,24 @@
               "connection_name": "Michael (Mike) Terrell, MBA, PMP",
               "position": "Group Director Supply Chain Services - Procurement",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Amity Millhiser",
+              "position": "Board of Directors",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Elizabeth Jennings",
+              "position": "Privacy Analyst - Data Subject Requests (STA)",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 5,
           "partner_names": [
+            "Chris Jones",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -1318,12 +1389,24 @@
               "connection_name": "Tony Wilson",
               "position": "Vice President, Sales",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Harry G. Broadman",
+              "position": "Senior Economist",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Kimberly Jackson",
+              "position": "Senior International/Defense Researcher",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 3,
           "partner_names": [
+            "Chris Jones",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -1619,11 +1702,25 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Brittany Peterson",
+              "position": "Senior Project Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Rudolph Corbett",
+              "position": "Senior Program Lead & Engagement Manager \u00e2\u20ac\u201c Cloud Compute, Infrastructure & GenAI",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
-          "partner_names": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Chris Jones",
+            "Ryan Flynn"
+          ],
           "pipeline_match": null
         },
         {
@@ -2901,6 +2998,14 @@
           "company_count": 6
         },
         {
+          "partner": "Chris Jones",
+          "company_count": 5
+        },
+        {
+          "partner": "Ryan Flynn",
+          "company_count": 5
+        },
+        {
           "partner": "Jim Huggins",
           "company_count": 2
         },
@@ -3752,15 +3857,227 @@
               "connection_name": "Trevin Wright",
               "position": "Workplace Health & Safety Specialist",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Joe Schwappach",
+              "position": "Sr Strategic Supply Chain Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Joe Black",
+              "position": "Pathways Operations Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Aman Alexander",
+              "position": "Principal Product Manager - Technical",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Doug Stover",
+              "position": "Global Life Sciences BD",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Kevin Goff",
+              "position": "Senior Cloud Architect",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Rudy Lacayo, CPCC, CCMP\u00e2\u201e\u00a2",
+              "position": "Head of People Transformation, North Americas Delivery Team",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ameya Vaidya",
+              "position": "Software Development Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Sofia Kluch, Ph.D.",
+              "position": "Senior Manager of Central Science Insights",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Donald (Donnie) L. Bedney III",
+              "position": "Business Development Leader, Inclusive Experiences and Technology",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Daniela Yu",
+              "position": "Principal Data Scientist",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Rujuta Gandhi-Colella",
+              "position": "Senior Product Manager, Recipient Experience, Amazon Shipping",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Mohit Anand",
+              "position": "Senior Business Development Manager - Alexa",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Christian Johnson",
+              "position": "Principal Software Engineer",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Anjali Raja Kumar",
+              "position": "Enterprise Support Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Tanusha Chimirala",
+              "position": "Lead Data Scientist",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jason Fulford",
+              "position": "Sr Partner Account Manager - Public Sector",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Vinit Kulkarni",
+              "position": "Principal Technical Program Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Satyam Mehrotra",
+              "position": "Sr Manager, Product Management-Tech",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Steve Rentz",
+              "position": "Senior Technical Product Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "J Z",
+              "position": "Injury Prevention Specialist & Movement Efficiency Coach",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Joe Black",
+              "position": "Pathways Operations Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Helen Charlton",
+              "position": "Sales Account Manager - Amazon Ads",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Aman Alexander",
+              "position": "Principal Product Manager - Technical",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Hamid Mohmand",
+              "position": "Manager - Transfer Pricing",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jen Palacios",
+              "position": "Senior Strategy & Business Operations Program Manager, Inclusive eXperiences & Technology",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Shaylin Clay",
+              "position": "Senior Financial Analyst, FLDP",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Danice King",
+              "position": "Senior Product Marketing Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Funmi Esan (MBA)",
+              "position": "Operations Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jeffrey Teng",
+              "position": "Product Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Chris Sit",
+              "position": "Lead PM-T, Catalog and Fulfillment Tech - Amazon Furusato",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Timothy Akintayo",
+              "position": "Manager, Finance Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Anna Collura",
+              "position": "Senior Product Manager - Career Choice Global Associate Experience and Operations",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Rajiv Sagewan",
+              "position": "Investment Analytics",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "James Murdoch",
+              "position": "Head of Marketing, Amazon Canada",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Nikhil Shah",
+              "position": "Finance Manager - Hardware Engineering",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Kristen Sato Carman",
+              "position": "Senior Product Marketing Manager - Alexa Smart Home",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alexandra Kinney",
+              "position": "Principal Product Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Priyansha Saxena",
+              "position": "Product Lead (Tech)- Device Advertising",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jack Hutton",
+              "position": "Principal Product Manager - Technical",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michelle (Smith) McGrail",
+              "position": "Senior Manager- technical learning",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Joe Schwappach",
+              "position": "Sr Strategic Supply Chain Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Robert Stolz",
+              "position": "Solutions Architect",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 151,
+          "connection_count": 193,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -4497,15 +4814,97 @@
               "connection_name": "Rebecca Tocknell",
               "position": "Principal Program Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Paul Flatin",
+              "position": "Business Development Senior Manager | Microsoft Federal",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Joseph E. Beyer, Ph.D.",
+              "position": "Principal Solution Architect - Adoption & Change Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ljupco Georgiev",
+              "position": "Sr Digital Account Executive (SME&C) for Slovenia and Croatia",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Casandra Fritzsche",
+              "position": "Global Sr. Learning & Development Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alex Jacobs-Hajian",
+              "position": "Director Technology Strategy",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Vicky Jain",
+              "position": "Principal Software Eng. Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Bernardo Daza",
+              "position": "Senior Finance Manager, Microsoft AI | T&R | Experience+Devices | Resource Investment Strategy",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Chad Bennett",
+              "position": "Senior People Science Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Tom Nolan",
+              "position": "Principal",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Doyin Lawal",
+              "position": "Lead, Strategic Initiatives",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Erin Fontaine",
+              "position": "Scale Global Blackbelt, GenAI & Employee Experience - Americas",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Dayne A. Jervis",
+              "position": "Managing Director, Sales Management - FSI Capital Markets",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Tyrelle Barnes",
+              "position": "AI Transformation Leader and Global Black Belt",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Erik Urosa",
+              "position": "Group Manager, Impact Investments",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Cathy Zaragoza",
+              "position": "HR Data Analyst, People Analytics",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "TJ Devine",
+              "position": "Principal Group Product Manager, Experiences + Devices (E+D)",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 123,
+          "connection_count": 139,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -5840,15 +6239,21 @@
               "connection_name": "Ted Reihmer",
               "position": "Sr Program Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Daniel McGrory",
+              "position": "Business Development, Rotary & Mission Systems (RMS)",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 95,
+          "connection_count": 96,
           "partner_names": [
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -7013,15 +7418,27 @@
               "connection_name": "Tracy Banister",
               "position": "Joint Fires SME",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Mitch Brown",
+              "position": "Sr. Consultant",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Robert Fecteau",
+              "position": "Healthcare Clinical Business Analyst",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 88,
+          "connection_count": 90,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -8151,14 +8568,25 @@
               "connection_name": "Thomas Hines",
               "position": "BDOC Supervisor",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Chris Robinette",
+              "position": "Strategic Development Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Lindsey Borg",
+              "position": "Vice President, Integrated Marketing and Public Relations",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 78,
+          "connection_count": 80,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -8599,13 +9027,24 @@
               "connection_name": "Shane Dentinger",
               "position": "Project Manager Program Management Office",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Scott Clay",
+              "position": "Vice President - Customer Success",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Morgen Paul",
+              "position": "Enterprise Account Executive",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 77,
+          "connection_count": 79,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
             "Ryan Martin",
@@ -9107,15 +9546,47 @@
               "connection_name": "Trish Martinelli, PMP\u00c2\u00ae",
               "position": "Business Transformation Consultant",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Priscilla Benavides",
+              "position": "Talent Acquisition Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Bridget Deary",
+              "position": "Partner | Automation & Data Platforms",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Liwei Wang",
+              "position": "Design Lead",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Adrianne Eby",
+              "position": "Senior Managing Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Andrew Cobb",
+              "position": "Managing Strategy Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sarah Khederian Byerly, PMP",
+              "position": "Senior Managing Consultant",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 72,
+          "connection_count": 78,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -9888,15 +10359,21 @@
               "connection_name": "Stephanie Owens-Jefferson, MA/HRM, PMP, Army Veteran",
               "position": "Senior Consultant",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Jack Weiss",
+              "position": "Lead",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 65,
+          "connection_count": 66,
           "partner_names": [
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -10234,15 +10711,62 @@
               "connection_name": "Jake Henne",
               "position": "Named Account Executive - Local Government",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "David Cuthbertson",
+              "position": "Cloud Account Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Charles de Boinville",
+              "position": "Senior Federal Account Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Shelley Knapp",
+              "position": "RVP, Portfolio Leader Lifesciences Enterprise",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alex Sloan",
+              "position": "Account Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Mark Recher",
+              "position": "EVP & GM, Tableau & Analytics",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "William Holden",
+              "position": "Senior Renewal Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "George Aitken",
+              "position": "Enterprise Account Executive - Financial Services",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Steph Donnelly",
+              "position": "Director, Corporate Development - M&A Integration",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Molly Peek",
+              "position": "Enterprise Account Director, Ad Agencies",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 54,
+          "connection_count": 63,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -10614,14 +11138,31 @@
               "connection_name": "Teresa Cavanaugh",
               "position": "Sr Enterprise Account Executive- Federal",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Chris Traylor",
+              "position": "Client Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Pavlina Plasilova",
+              "position": "Head of Strategic Customer Engagements, Office of the Chairman & CEO",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Pavlina Plasilova",
+              "position": "Head of Strategic Customer Engagements, Office of the Chairman & CEO",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 56,
+          "connection_count": 59,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -10966,15 +11507,132 @@
               "connection_name": "Tom Skomba",
               "position": "Managing Director",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Shweta Patil",
+              "position": "Management Consultant",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alex Seitz",
+              "position": "Senior Strategy Consultant",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Erica Lacefield",
+              "position": "Associate Director - HR - Operations Lead, Global Learning & Leadership Development",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Kevin Simurda",
+              "position": "Global Category Lead",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Anubhav Shrivastava",
+              "position": "EMEA Head of HR - Accenture Operations",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Nicole D'Agostino",
+              "position": "Macroeconomic Research Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Megha Oberoi Sood",
+              "position": "Associate Director - Mergers and Acquisitions (HR)",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Eshna Dhar",
+              "position": "Strategy Consultant",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Nate Brown",
+              "position": "Managing Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Piyush Manocha",
+              "position": "Managing Director | S&C | Ind X | UKIA - Market Integration Lead | Data & AI Co-Lead",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Shelby Kan",
+              "position": "Global Leader - Accenture Client Account HR",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Dan Kundrat",
+              "position": "Americas Marketing & Communications - US Marketing Lead & Sports Partnerships Lead",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Simran Anand Kumar",
+              "position": "Vice President- Strategic Client Accounts HR",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Steve Ander",
+              "position": "Global Analytics Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Caroline Dey, MBA",
+              "position": "Global Leadership Development Program Lead",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Claire Kenkel",
+              "position": "Senior Manager, Strategy Activation",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Mandy Lewis",
+              "position": "Sales Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alex Seitz",
+              "position": "Senior Strategy Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alejandro Alonso Garcia",
+              "position": "Strategy Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "David Sanders",
+              "position": "Senior Strategy Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Mateusz Majewski",
+              "position": "IT Security Transformation Associate Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Rina Vishnupant Makode",
+              "position": "Management Consultant/Team Lead, Industry Consulting Team",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Amisha Patel",
+              "position": "Operations Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 59,
+          "connection_count": 82,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -11347,15 +12005,37 @@
               "connection_name": "Shawn Donahue",
               "position": "Compliance Officer",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Ryan Sparks",
+              "position": "Executive Vice President at Wells Fargo Home Lending",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Joshua Luerkens",
+              "position": "Financial Advisor, First Vice President \u00e2\u20ac\u201c Investment Officer",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Michelle Reist",
+              "position": "Managing Director & Talent Management Executive",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Scott Martin",
+              "position": "Director",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 54,
+          "connection_count": 58,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -11742,15 +12422,102 @@
               "connection_name": "Derwin Brown, LSSBB, DML",
               "position": "Vice President, Community Banking Program Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Maria Ladega",
+              "position": "Assistant Vice President",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Heather Awner",
+              "position": "Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jamie Hancock",
+              "position": "Head & Managing Director Canadian Capital Markets",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Stephanie Couch",
+              "position": "Managing Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sara Purcell",
+              "position": "Business Strategy and Initiatives Executive",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michelle Fullerton",
+              "position": "Communication Executive, Incident Response and Global Corporate Security and Executive Protection",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jon Wright",
+              "position": "AVP | Senior Business Control Specialist",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Nancy Fahmy",
+              "position": "Head of Investment Solutions Group",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Kristin Williams",
+              "position": "SVP, Talent Executive - Retail Banking",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Pete Thedinga",
+              "position": "Executive Coach",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Maggie Wardell",
+              "position": "Senior Vice President, Global Talent",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Anna Snider",
+              "position": "Head of Investment Selection, Chief Investment Office, Global Wealth And Investment Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michael Pelzar",
+              "position": "Head of Investments, Private Bank",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Steve Samuels",
+              "position": "Managing Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Susan Axelrod",
+              "position": "Chief Compliance Officer for Merrill and the Private Bank",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Matthew Card",
+              "position": "Media Relations Executive",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Chris Skafidas",
+              "position": "Vice President & Senior Credit Officer - Global Corporate & Investment Banking",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 52,
+          "connection_count": 69,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -12125,14 +12892,25 @@
               "connection_name": "William Thorne",
               "position": "Enterprise Business Strategist, Principal",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Lisa Wynnyk",
+              "position": "Principal Systems Engineer",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "John Godwin",
+              "position": "Principal Research Lead",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 53,
+          "connection_count": 55,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -12514,15 +13292,32 @@
               "connection_name": "Michael Discher",
               "position": "Sr. Director, GXP  - Americas",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Robert W. Erickson, Ph.D., PMP",
+              "position": "Senior Director, Program Management Space Systems",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Eric Estey",
+              "position": "Sr Manager, Program Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jenna Taylor (formerly Hickman)",
+              "position": "Senior Operations Program Manager - PMO Development & Engagement",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 46,
+          "connection_count": 49,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -12903,14 +13698,20 @@
               "connection_name": "Mark Meskimen",
               "position": "Business Development",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Michael Atcheson",
+              "position": "Director, Submarine Acoustic Systems Product Line",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 46,
+          "connection_count": 47,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -13250,14 +14051,26 @@
               "connection_name": "Tripp McCullar",
               "position": "Senior Manager, National Programs",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Tripp McCullar",
+              "position": "Senior Manager, National Programs",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "John Badman IV",
+              "position": "Principal",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 45,
+          "connection_count": 47,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -14264,14 +15077,51 @@
               "connection_name": "Tracy Wilks",
               "position": "Enterprise Application Sales Account Manager- DoD",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Jessica Krebs",
+              "position": "Senior Product Manager - Oracle Health & AI",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Chris M. Harrison",
+              "position": "Industry Executive Director, Financial Services",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jessica Scrimale",
+              "position": "Vice President, Product Strategy, AI Team",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Michelle Hill",
+              "position": "Director & Healthcare Sales Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Lieke van de Liefvoort",
+              "position": "Lead Learning Leader",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Dr. Deborah Morgan, Ed.D, Prosci",
+              "position": "Chief of Staff/Director of  Business Operations-Oracle Health Government Services",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jon Rosen",
+              "position": "Senior Principal Growth Strategist, Healthcare Markets",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 39,
+          "connection_count": 46,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -14582,15 +15432,62 @@
               "connection_name": "Eric Goldstein",
               "position": "Managing Vice President & Head of Cyber Risk",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Zoe Williams",
+              "position": "Principal Associate, EPTech Associate Experience - DIB and Onboarding",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Lisa Giordano",
+              "position": "Talent Acquisition - Retail Bank",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Tina Luo",
+              "position": "Senior Manager, Product Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Laura Bulat",
+              "position": "Relationship Manager - New Acquisitions Business Cards & Payments",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jason Krieger",
+              "position": "VP - Head of Customer Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ryan Leibowitz",
+              "position": "Vice President, Corporate Strategy",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Andrew Graf",
+              "position": "Software Delivery Lead",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alexander Kray",
+              "position": "Product Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Rosa Milani Silverlieb",
+              "position": "Senior Product Manager, Retail Bank, Money Management",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 32,
+          "connection_count": 41,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -14830,14 +15727,25 @@
               "connection_name": "Whit Wright",
               "position": "Head of Army Strategy and Growth",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Remick Kawawaki",
+              "position": "Enterprise Lead - Federal Health",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Anders Frid\u00c3\u00a9n",
+              "position": "Country Lead",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 38,
+          "connection_count": 40,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -15962,13 +16870,29 @@
               "connection_name": "Rich Jackson",
               "position": "Project Director",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Whitt Butler",
+              "position": "Americas Vice Chair, Consulting",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Randall (Randy) Beck",
+              "position": "Global Org & People Solution Suite Leader and Americas People Consulting Business Line Leader",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Angela Ciborowski",
+              "position": "Associate Director, Early Careers",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 28,
+          "connection_count": 31,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
             "Stan McChrystal",
@@ -16190,15 +17114,21 @@
               "connection_name": "Mary Lou Hall",
               "position": "Chief Data Scientist, Defense Portfolio",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Trevor Tomczak",
+              "position": "Technology Consulting Senior Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 27,
+          "connection_count": 28,
           "partner_names": [
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -16478,14 +17408,20 @@
               "connection_name": "John Uberti",
               "position": "Corporate Military Affairs-Army, RTX Government Relations",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Katie Calhoun",
+              "position": "Chief of Staff, Global Government Relations",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 22,
+          "connection_count": 23,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -16819,15 +17755,32 @@
               "connection_name": "Erik Moss, CFA, CAIA",
               "position": "Managing Director",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Kevin Tran",
+              "position": "Vice President - Aladdin Client Business",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Kate Truong",
+              "position": "Incoming Analyst",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Charlotte Suelau",
+              "position": "Vice President",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 20,
+          "connection_count": 23,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -17006,15 +17959,97 @@
               "connection_name": "Christopher Steinhauser",
               "position": "Senior Principal Solutions Architect",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Aaron Welker",
+              "position": "Global Lead Generation Publisher Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jack Malloy",
+              "position": "Account Executive - NSG",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Dundee",
+              "position": "Product Line Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Andrea Bingham",
+              "position": "Innovation Lead & Operations Team Work Leader",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Lis Blaber",
+              "position": "Innovation Lead - EMEA PreSales",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alex Graham",
+              "position": "Innovation Lead - Americas Presales",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Ed Maas",
+              "position": "Vice President, Presales Solution Architects, Dell Technologies Select",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "John Roese",
+              "position": "Chief AI Officer",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michael Koval",
+              "position": "Director, Customer PMO & Operations, US Federal",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Shivani Jain",
+              "position": "North America Channels - Data Center Specialty | Business Strategy",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michael Gray",
+              "position": "Global Cloud Strategist",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Timothy Dell",
+              "position": "Global PreSales Strategy Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Breanna Soutra",
+              "position": "Senior Analyst, SRO Operations & Fusion Center Logistics",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Ryan Shullaw",
+              "position": "VP, Americas Presales",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Saurabh Kapoor",
+              "position": "Director, Product Management & Strategy \u00e2\u20ac\u201c AI Compute & Networking Solutions",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jeffrey Bull",
+              "position": "Account Executive",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 19,
+          "connection_count": 35,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -17356,15 +18391,32 @@
               "connection_name": "Ed Jackson, PE",
               "position": "Senior Vice President and General Manager, Jacobs Federal",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Jeff Blair",
+              "position": "Senior Vice President, Head of Executive Search & Business Development",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Greg Drakulich, MBA, CFE, MA",
+              "position": "Program Director Accounting/Business",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Yates",
+              "position": "Sales Director, Energy & Power",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 17,
+          "connection_count": 20,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -17523,14 +18575,20 @@
               "connection_name": "Shwanda Napoleon",
               "position": "Technical Services Lead/Operations Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Obed Ampah",
+              "position": "Senior Full Stack Engineer",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 16,
+          "connection_count": 17,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -17738,13 +18796,24 @@
               "connection_name": "Raina Murdock",
               "position": "Senior Director, Learning Solutions Creation Center",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Tony Papirio",
+              "position": "Rare Disease Enablement Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Brian Metzger",
+              "position": "Director - Transformtion PMO QSEO",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 16,
+          "connection_count": 18,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -17928,13 +18997,30 @@
               "connection_name": "Betsy Sammons",
               "position": "Market Development Specialist",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Olaitan Oguntodu, MBA",
+              "position": "Senior Surgical Sales Representative",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Angela Huber",
+              "position": "Director Talent Acquisition, Events & Talent Intelligence",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Andrew Kennedy",
+              "position": "Senior Strategic Program Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 15,
+          "connection_count": 18,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -18228,14 +19314,51 @@
               "connection_name": "Tahera Z",
               "position": "Executive Advisor",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Carl Dawson FRSA",
+              "position": "Policy Fellow",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Michael Evans",
+              "position": "Solution Sales Senior Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ali Alnaqeeb",
+              "position": "Senior Manager of DevOps and Organizational Change Management (OCM)",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Douae Aghezzaf",
+              "position": "Investment and Wealth Management Intern",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Atith Pagdi",
+              "position": "Partner & Associate Managing Director, AI-Driven Transformation & Growth",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Joseph Craven",
+              "position": "Founder",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Mark Niemiec",
+              "position": "Chief Revenue Officer (CRO)",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 13,
+          "connection_count": 20,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -18338,14 +19461,31 @@
               "connection_name": "Chris Ernst, Ph.D.",
               "position": "SVP Talent, Chief Learning Officer",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Ty Lingley",
+              "position": "National Partner Leader",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Philip Benson",
+              "position": "Enterprise Account Executive - Financial Services",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ty Lingley",
+              "position": "National Partner Leader",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 15,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -18489,14 +19629,20 @@
               "connection_name": "Todd Vandegrift",
               "position": "Head of Strategic Initiatives, Adobe DX Customer Engineering & Success",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Harrison Boyd, PMP, CSM",
+              "position": "Global Executive: Strategy, Executive Engagement  & Thought Leadership",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 13,
           "partner_names": [
             "Chris Fussell",
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -18888,14 +20034,20 @@
               "connection_name": "Sheena Banks",
               "position": "Senior Executive Assistant",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Sheena Banks",
+              "position": "Senior Executive Assistant",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 13,
+          "connection_count": 14,
           "partner_names": [
             "Chris Fussell",
             "Jim Huggins",
+            "Ryan Flynn",
             "Ryan Martin",
             "Stan McChrystal",
             "Tom Seamands"
@@ -19041,13 +20193,19 @@
               "connection_name": "Jennifer Allen McFarren",
               "position": "AVP, Strategic Partnerships & Community Impact",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Brad Gillespie",
+              "position": "Global Marketing",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 13,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
             "Stan McChrystal",
             "Tom Seamands"
@@ -19216,14 +20374,26 @@
               "connection_name": "Christopher Grasso",
               "position": "Associate Director - Launch Project Management",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Christopher Grasso",
+              "position": "Associate Director - Launch Project Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Christopher Grasso",
+              "position": "Associate Director - Launch Project Management",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 13,
+          "connection_count": 15,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -19338,13 +20508,19 @@
               "connection_name": "Phil Nannery",
               "position": "Regional Sales Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Aaron Sawitsky",
+              "position": "Senior Product Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 13,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -19695,13 +20871,24 @@
               "connection_name": "Brendan Monahan",
               "position": "Head, US Resilience and Crisis Management",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Brendan Monahan",
+              "position": "Head, US Resilience and Crisis Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Kaiwan Raza",
+              "position": "Lead, Value & Access",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 12,
+          "connection_count": 14,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -19872,13 +21059,19 @@
               "connection_name": "Eddie Utuk",
               "position": "Senior Staff Project Manager, Global Business Operations - Genetic Science Group",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Rim Seffar",
+              "position": "Managing Consultant, Corporate Sustainability and Climate Change",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 10,
+          "connection_count": 11,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -20054,13 +21247,30 @@
               "connection_name": "Daniel Hedman, PMP, LSSGB",
               "position": "Senior Manager, Executive Protection",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Kerry Schmidt",
+              "position": "Director of Strategic Accounts",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Brooke Fineman",
+              "position": "Marketing Manager II, HCP Marketing, Parkinson\u00e2\u20ac\u2122s Disease",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Stephanie Banach",
+              "position": "Chief of Staff | R&D Quality Assurance",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 11,
+          "connection_count": 14,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -20376,15 +21586,26 @@
               "connection_name": "Conrad Holbert",
               "position": "Director, Technology and Cybersecurity Compliance",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Emmy Phillips",
+              "position": "Director, Enterprise Strategy",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Rayan Mansour",
+              "position": "Vice President, Global Dining Product Strategy and Operations (Resy, Tock, Rooam)",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 8,
           "partner_names": [
             "Chris Fussell",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -20543,15 +21764,37 @@
               "connection_name": "Tyler Steinhilber",
               "position": "US Oncology Access Strategy Portfolio Lead",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Alex O'Shaughnessy",
+              "position": "Project Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Sonny Shergill",
+              "position": "Vice President Commercial AI",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Renato Batista de Oliveira",
+              "position": "Diretor Jur\u00c3\u00addico e Estatut\u00c3\u00a1rio",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Maciej Szymaszek, Ph.D., MBA, PMP",
+              "position": "Head of Strategy & Innovation, Commercial AI - Enterprise AI",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 9,
+          "connection_count": 13,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -20941,13 +22184,19 @@
               "connection_name": "Brett Turk",
               "position": "Principal, Global Head of Business Continuity and Crisis Management",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Kendra White",
+              "position": "Senior Manager, Personal Wealth",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 9,
+          "connection_count": 10,
           "partner_names": [
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -21090,13 +22339,19 @@
               "connection_name": "Freddy Rios",
               "position": "Procurement Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Dorian Jordan",
+              "position": "Senior Product Sales Specialist",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 8,
+          "connection_count": 9,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -21257,14 +22512,26 @@
               "connection_name": "Don Alway",
               "position": "Corporate Vice President",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "John DiCalogero, MBA, CLU",
+              "position": "Head of Sales, Northeast Zone",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Megan Vega",
+              "position": "Vice President and Head of Communications, Investments",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 8,
+          "connection_count": 10,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -21726,14 +22993,126 @@
               "connection_name": "Amber Nacis",
               "position": "Diversity and Inclusion Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Matt Campbell",
+              "position": "Managing Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Firth",
+              "position": "Senior Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Anton Vincent",
+              "position": "President, Mars Snacking NA & Global Ice Cream",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Melissa Marshall",
+              "position": "SVP, People & Organization | Mars Snacking North America",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Seyi Adekanmbi",
+              "position": "Global Director, Change Management | Mars Snacking",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Cathryn Gunther",
+              "position": "Global Head of Culture and Associate Experience",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Laura Dixey",
+              "position": "Senior P&O Business Partner",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Crissy Powers FCIPD, MBA",
+              "position": "Sr. P&O Business Partner: Global Corporate Functions",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Abby Curnow-Chavez",
+              "position": "Managing Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Betsy Fischer",
+              "position": "Senior Director - Talent, Organization, and People",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Mitch LOR-FAIR",
+              "position": "Senior Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Colleen Dooley, SPHR",
+              "position": "Director Talent Acquisition",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Firth",
+              "position": "Senior Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alijah Arah",
+              "position": "Senior Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Andreas Lucido",
+              "position": "Federal Practice Leader",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Tyler Stone",
+              "position": "Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "William Roberti",
+              "position": "Managing Director & Senior Advisor",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Juan Carlos Nava",
+              "position": "Strategic Sourcing Manager | North America",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Asta Roques",
+              "position": "Senior Director Of Operations",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Siu-Lin T. Robinson",
+              "position": "Senior Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sofija Radovic",
+              "position": "Program Assistant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "William Sammons",
+              "position": "Managing Director",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 28,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -21842,13 +23221,19 @@
               "connection_name": "Charles Sweeney",
               "position": "Vice President and Assistant General Counsel",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Robin Camarote",
+              "position": "Senior Director, Bid Strategy and Proposals",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 7,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Ryan Martin",
             "Stan McChrystal"
           ],
@@ -22137,13 +23522,19 @@
               "connection_name": "Todd Bearden",
               "position": "Senior Hematology Specialist - Multiple Myeloma / Leukemia",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Garret Weston",
+              "position": "Managing Director - Head of Global Strategic Partnerships",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 7,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -22385,12 +23776,18 @@
               "connection_name": "Kate Murray",
               "position": "Administrative Assistant",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Rachael Blinn",
+              "position": "Assistant Vice President, Financial Lines",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 7,
           "partner_names": [
+            "Chris Jones",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -22523,14 +23920,20 @@
               "connection_name": "Charles Hoyt",
               "position": "Senior Director of Corporate Security",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Javar Christian",
+              "position": "Capital Forecasting Lead",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 7,
           "partner_names": [
             "Jeffery Jones",
             "Jim Huggins",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -22710,13 +24113,19 @@
               "connection_name": "Paul Owen",
               "position": "Army Programs Director",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "James M. Newman, PE",
+              "position": "BES Engineering Principal - New England",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 6,
+          "connection_count": 7,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Jim Huggins",
             "Stan McChrystal",
             "Tom Seamands"
@@ -23105,13 +24514,19 @@
               "connection_name": "Jeff Himmelright",
               "position": "Agile Release Train Engineer (Advanced Therapies)",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Michelle Dyos",
+              "position": "EMEA VP of Partner Sales",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 5,
+          "connection_count": 6,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -23190,13 +24605,19 @@
               "connection_name": "Helen Farrier",
               "position": "Senior Director International Communications",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Helen Farrier",
+              "position": "Senior Director International Communications",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 5,
+          "connection_count": 6,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -23373,13 +24794,19 @@
               "connection_name": "V.J. Tedesco III",
               "position": "Senior Military Operational Planning Analyst | Agile Development Product Owner",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Gary Price",
+              "position": "Chief Risk Officer",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 5,
+          "connection_count": 6,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -23577,12 +25004,18 @@
               "connection_name": "Brian Winningham",
               "position": "Lean Manager",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Steven Knighton",
+              "position": "VP General Manager",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 5,
+          "connection_count": 6,
           "partner_names": [
+            "Chris Jones",
             "Jeffery Jones",
             "Stan McChrystal"
           ],
@@ -24401,13 +25834,30 @@
               "connection_name": "Jack Fitzsimmons",
               "position": "Senior FP&A Manager",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Jill Hall",
+              "position": "Group Manager, Talent Development",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Lindsey Lawrence",
+              "position": "Principal Territory Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Elizabeth (Ellie) Cowger",
+              "position": "Field Clinical Representative - Cardiac Rhythm Management",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 4,
+          "connection_count": 7,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
+            "Ryan Flynn",
             "Stan McChrystal",
             "Tom Seamands"
           ],
@@ -24792,13 +26242,19 @@
               "connection_name": "Nick Munson",
               "position": "Project Procurement Manager",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Mindy Wells, PMP",
+              "position": "Sr. Program Manager Technology Group",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 4,
+          "connection_count": 5,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -25456,13 +26912,24 @@
               "connection_name": "Bret Hamilton",
               "position": "Director, Diversion Control & Security",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Chase Carlson",
+              "position": "Founder",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Christopher Brunson",
+              "position": "SVP, Global Total Rewards",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 4,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -25628,13 +27095,19 @@
               "connection_name": "Maryam Ghousi",
               "position": "IT-Cybersecurity Analyst",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Sarah E. Brown, RACR, RACS, DDI",
+              "position": "Team Lead, Talent Acquisition Sourcing",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 3,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -25944,13 +27417,29 @@
               "connection_name": "Marc Zavarella, MHA",
               "position": "Surgical Instruments - Orthopedic & Neurosurgical",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Christopher Reed Groscurth, Ph.D.",
+              "position": "Senior Director, Talent Strategy & Planning",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Nick Sandy",
+              "position": "Regional Sales Manager, Acute Care",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Annie Werner",
+              "position": "Sr. Manager, Marketing Communications - Customer Solutions",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 5,
           "partner_names": [
             "Chris Fussell",
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -26194,13 +27683,19 @@
               "connection_name": "Shah Rahman, MBA",
               "position": "Vice President - Area Manager | Resilience Water",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Paul Dennett",
+              "position": "Managing Director - Mobility UK & Ireland",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 3,
           "partner_names": [
             "Chris Fussell",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -26336,13 +27831,30 @@
               "connection_name": "Jeanette Saraiva",
               "position": "Director, Enterprise Strategy",
               "mg_partner": "Jeffery Jones"
+            },
+            {
+              "connection_name": "Nicole Lu",
+              "position": "Senior HRBP Manager, APAC Central Funtion",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Colleen Mikolajczak",
+              "position": "Data Engineering Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Kl\u00c3\u00a9e Aiken",
+              "position": "Director - Community and Capacity Building",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 5,
           "partner_names": [
-            "Jeffery Jones"
+            "Chris Jones",
+            "Jeffery Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -26511,12 +28023,18 @@
               "connection_name": "Philip Jones",
               "position": "Program Management Senior Advisor",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Emma Dore",
+              "position": "Managing Director",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 3,
           "partner_names": [
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -26714,13 +28232,19 @@
               "connection_name": "Joe Lariviere, PMP",
               "position": "Principal Manager - Project Management",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Nnamdi Ugwuoke (EMBA, PMP, CSM)",
+              "position": "Project Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 3,
           "partner_names": [
             "Jeffery Jones",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -26839,12 +28363,18 @@
               "connection_name": "James Cross",
               "position": "Co-Director of Private Investments, Managing Director",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Bret Imgrund",
+              "position": "Client Relationship Manager",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
+            "Chris Jones",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -27245,11 +28775,24 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Samuel Kitara",
+              "position": "Corporate Development",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Laura Okpala",
+              "position": "Executive Director, Head of US Reimbursement Policy | Government Affairs",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
-          "partner_names": [],
+          "has_connections": true,
+          "connection_count": 2,
+          "partner_names": [
+            "Ryan Flynn"
+          ],
           "pipeline_match": null
         },
         {
@@ -28178,13 +29721,29 @@
               "connection_name": "Chris Wood",
               "position": "Senior Project Manager",
               "mg_partner": "Chris Fussell"
+            },
+            {
+              "connection_name": "Mike McNicholas",
+              "position": "Director at AtkinsRealis",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alfonso Chao , III , AIA , NCARB , CPTED Practitioner",
+              "position": "Senior Architect IV",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "James Rose",
+              "position": "Senior Director",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 4,
           "partner_names": [
-            "Chris Fussell"
+            "Chris Fussell",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -28508,12 +30067,18 @@
               "connection_name": "Tim Keppler",
               "position": "Senior Consultant",
               "mg_partner": "Tom Seamands"
+            },
+            {
+              "connection_name": "Andrew Crane",
+              "position": "Pricing Analyst, Senior Consultant",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
+            "Chris Jones",
             "Tom Seamands"
           ],
           "pipeline_match": null
@@ -28714,12 +30279,34 @@
               "connection_name": "Dillard Myers",
               "position": "Vice President, Global Service Logistics and Operations Organization",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Di Yin Lu",
+              "position": "Senior Manager, Data Science",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Babs (Babalola) Williams",
+              "position": "Senior Program Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Lucy Jerse, MBA",
+              "position": "Executive Development Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Marc Scibelli",
+              "position": "Head of Product Design, Outshift by Cisco",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 5,
           "partner_names": [
+            "Chris Jones",
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -28844,13 +30431,24 @@
               "connection_name": "Jasmine Haselgrove, PhD",
               "position": "Senior Director, DBS - Medical Innovation Enablement",
               "mg_partner": "Chris Fussell"
+            },
+            {
+              "connection_name": "Angela Blake",
+              "position": "Senior Director - Leadership Development Portfolio",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Erica Summer",
+              "position": "Global Internal Communications Manager",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 3,
           "partner_names": [
-            "Chris Fussell"
+            "Chris Fussell",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -29568,12 +31166,18 @@
               "connection_name": "Eric Guerra",
               "position": "Senior Procurement Manager",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Alex Janzen OBE",
+              "position": "Chief Operating Officer",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -29714,12 +31318,18 @@
               "connection_name": "Prof. (hc). David Dent MBE, MBA, CMgr, CCMI, FIoD",
               "position": "Vice President and Global Lead Integrated Solutions Strategy (Ph 1-4 inc RWR)",
               "mg_partner": "Stan McChrystal"
+            },
+            {
+              "connection_name": "Dennis Mastro",
+              "position": "Outside Sales Representative",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
+            "Ryan Flynn",
             "Stan McChrystal"
           ],
           "pipeline_match": null
@@ -30008,12 +31618,18 @@
               "connection_name": "Monica Beshara",
               "position": "Talent, Senior Manager",
               "mg_partner": "Jeffery Jones"
+            },
+            {
+              "connection_name": "Sarah Macchia",
+              "position": "Senior Principal",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
+            "Chris Jones",
             "Jeffery Jones"
           ],
           "pipeline_match": null
@@ -30066,13 +31682,19 @@
               "connection_name": "Jack Huffard",
               "position": "Board Member & co-founder",
               "mg_partner": "Chris Fussell"
+            },
+            {
+              "connection_name": "Jack Huffard",
+              "position": "Board Member & co-founder",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
-            "Chris Fussell"
+            "Chris Fussell",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -30445,11 +32067,19 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Kaitlin Squier",
+              "position": "Property Director",
+              "mg_partner": "Chris Jones"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
-          "partner_names": [],
+          "has_connections": true,
+          "connection_count": 1,
+          "partner_names": [
+            "Chris Jones"
+          ],
           "pipeline_match": null
         }
       ],
@@ -30495,6 +32125,14 @@
         {
           "partner": "Jim Huggins",
           "company_count": 63
+        },
+        {
+          "partner": "Ryan Flynn",
+          "company_count": 53
+        },
+        {
+          "partner": "Chris Jones",
+          "company_count": 48
         },
         {
           "partner": "Jeffery Jones",
@@ -30741,13 +32379,30 @@
               "connection_name": "Jeremy Tozer",
               "position": "Wargaming Lead - Decision Advantage",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Robert W. Erickson, Ph.D., PMP",
+              "position": "Senior Director, Program Management Space Systems",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Eric Estey",
+              "position": "Sr Manager, Program Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jenna Taylor (formerly Hickman)",
+              "position": "Senior Operations Program Manager - PMO Development & Engagement",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 6,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -30817,13 +32472,115 @@
               "connection_name": "Huw Morgan MBE",
               "position": "Solution Design Lead",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Marisa Lucht",
+              "position": "Principal Analytical Consultant",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Tyler Gordon",
+              "position": "Executive Recruiting Practice Leader, Cloud GTM",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Yongwei Yang",
+              "position": "Quantitative UX Research Lead, Google Search",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Brian Boarini",
+              "position": "Senior Product Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Guillermo Peralta",
+              "position": "Industry Coalitions & Public Sector Partnerships; Global Data Center Market Development",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jim Kelly",
+              "position": "Vice President Federal, Google Public Sector",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Adriana Ortiz",
+              "position": "Google Cloud Marketing - Strategy & Operations",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michelle Crottier",
+              "position": "Core Finance, Senior Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Dennis Tseng",
+              "position": "Engagement Strategist, Connection",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sonali Gosain",
+              "position": "Deal Pricing Specialist, AI Infrastructure",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Nikhil George",
+              "position": "Product Manager | Photos GenAI Creativity and Editing",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sheri Senge Cunningham",
+              "position": "Head of AI Platform Services",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Henry Raether",
+              "position": "Senior Financial Analyst",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Graham Picard",
+              "position": "Product Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Todd Hummel",
+              "position": "Senior Product Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Dan Jimenez",
+              "position": "Product Support Manager, Reserve with Google",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Huw Morgan MBE",
+              "position": "Solution Design Lead",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Arie Esquenazi",
+              "position": "Cross Product Operations",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Rose Lichtenfels",
+              "position": "Product Partnerships",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Neil Joglekar",
+              "position": "Group Product Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 23,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -30855,13 +32612,60 @@
               "connection_name": "Jim Douglas MBE MSc",
               "position": "Lead Solutions Engineer",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "David Cuthbertson",
+              "position": "Cloud Account Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Charles de Boinville",
+              "position": "Senior Federal Account Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Shelley Knapp",
+              "position": "RVP, Portfolio Leader Lifesciences Enterprise",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alex Sloan",
+              "position": "Account Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Mark Recher",
+              "position": "EVP & GM, Tableau & Analytics",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "William Holden",
+              "position": "Senior Renewal Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "George Aitken",
+              "position": "Enterprise Account Executive - Financial Services",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Steph Donnelly",
+              "position": "Director, Corporate Development - M&A Integration",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Molly Peek",
+              "position": "Enterprise Account Director, Ad Agencies",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 3,
+          "connection_count": 12,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -30958,13 +32762,19 @@
               "connection_name": "Edward Birrell",
               "position": "Senior Manager, UK MoD Land Account Lead",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Trevor Tomczak",
+              "position": "Technology Consulting Senior Manager",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 3,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -30984,13 +32794,30 @@
               "connection_name": "Angus Beddall",
               "position": "EMEA Intelligence Associate",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Kevin Tran",
+              "position": "Vice President - Aladdin Client Business",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Kate Truong",
+              "position": "Incoming Analyst",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Charlotte Suelau",
+              "position": "Vice President",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 5,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31023,13 +32850,35 @@
               "connection_name": "Ross Carter",
               "position": "Support Solution Specialist",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Ramatchandiran Krishnaswamy",
+              "position": "Vice President - Financial Services",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Chenale Lewis (Smith), MBA",
+              "position": "Associate Business Risk Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Sri Harish Upperla",
+              "position": "Senior Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Ankit Pandey",
+              "position": "Senior Business Development Executive",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 6,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31095,13 +32944,25 @@
               "connection_name": "Rupert Jackson MBA",
               "position": "Project Management Officer",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Tripp McCullar",
+              "position": "Senior Manager, National Programs",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "John Badman IV",
+              "position": "Principal",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 4,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31147,13 +33008,19 @@
               "connection_name": "Derek Gower",
               "position": "Senior Manager - K9 Program",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Kendra White",
+              "position": "Senior Manager, Personal Wealth",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 2,
+          "connection_count": 3,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31168,13 +33035,30 @@
               "connection_name": "Luke Haughton",
               "position": "Environmental Underwriter",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Jordan Scott",
+              "position": "Director, RevOps & Analytics",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Erik Haig",
+              "position": "Investment Banking Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Emily Harrison",
+              "position": "Associate Director of Constituent Engagement - College of Liberal Arts & Sciences",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 4,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31397,13 +33281,19 @@
               "connection_name": "Gareth Williams",
               "position": "Cyber Security Consultant",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Andrew Crane",
+              "position": "Pricing Analyst, Senior Consultant",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -31425,13 +33315,60 @@
               "connection_name": "Jake Scott",
               "position": "Sales",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Zoe Williams",
+              "position": "Principal Associate, EPTech Associate Experience - DIB and Onboarding",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Lisa Giordano",
+              "position": "Talent Acquisition - Retail Bank",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Tina Luo",
+              "position": "Senior Manager, Product Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Laura Bulat",
+              "position": "Relationship Manager - New Acquisitions Business Cards & Payments",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jason Krieger",
+              "position": "VP - Head of Customer Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ryan Leibowitz",
+              "position": "Vice President, Corporate Strategy",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Andrew Graf",
+              "position": "Software Delivery Lead",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alexander Kray",
+              "position": "Product Manager",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Rosa Milani Silverlieb",
+              "position": "Senior Product Manager, Retail Bank, Money Management",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 10,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31488,13 +33425,24 @@
               "connection_name": "Gus Constantinou",
               "position": "Global Strategy Consultant",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Tom Melanson",
+              "position": "Director, Brand Hospitality - Focused Service and All Suites Brands",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Leonard Gooz",
+              "position": "Global Brand Head, Hilton Hotels & Resorts",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 3,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -31516,13 +33464,29 @@
               "connection_name": "Chris Wildgoose",
               "position": "Senior Business Consultant Defence",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Whitt Butler",
+              "position": "Americas Vice Chair, Consulting",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Randall (Randy) Beck",
+              "position": "Global Org & People Solution Suite Leader and Americas People Consulting Business Line Leader",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Angela Ciborowski",
+              "position": "Associate Director, Early Careers",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 4,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -31571,13 +33535,45 @@
               "connection_name": "Mark Everest",
               "position": "IBM iX Experience Orchestrator Lead",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Priscilla Benavides",
+              "position": "Talent Acquisition Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Bridget Deary",
+              "position": "Partner | Automation & Data Platforms",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Liwei Wang",
+              "position": "Design Lead",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Adrianne Eby",
+              "position": "Senior Managing Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Andrew Cobb",
+              "position": "Managing Strategy Consultant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sarah Khederian Byerly, PMP",
+              "position": "Senior Managing Consultant",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 7,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31599,13 +33595,35 @@
               "connection_name": "James Cruickshank",
               "position": "Senior Manager",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Tony Anzic, PMP\u00c2\u00ae",
+              "position": "Executive Director, Location Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Matthew Sherman",
+              "position": "Acquisition - Business Relationship Manager Sr.",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Trent S. Ulrich",
+              "position": "Executive Director, Operations and Enablement : Chase Offers",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ameerah Phillips",
+              "position": "Executive Director, Strategic Partnerships & Corporate Development",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 5,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31620,13 +33638,30 @@
               "connection_name": "Ram Singh",
               "position": "Project Programme and Portfolio Manager (Management Consultant  P3M )",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Jeff Blair",
+              "position": "Senior Vice President, Head of Executive Search & Business Development",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Greg Drakulich, MBA, CFE, MA",
+              "position": "Program Director Accounting/Business",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Yates",
+              "position": "Sales Director, Energy & Power",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 4,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31718,13 +33753,19 @@
               "connection_name": "Ben Baker MBE MSc MBA",
               "position": "Strategic Engagement",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Daniel McGrory",
+              "position": "Business Development, Rotary & Mission Systems (RMS)",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": "Lockheed Martin"
         },
@@ -31758,13 +33799,125 @@
               "connection_name": "Simon DB MCMI",
               "position": "Client Executive",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Matt Campbell",
+              "position": "Managing Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Firth",
+              "position": "Senior Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Anton Vincent",
+              "position": "President, Mars Snacking NA & Global Ice Cream",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Melissa Marshall",
+              "position": "SVP, People & Organization | Mars Snacking North America",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Seyi Adekanmbi",
+              "position": "Global Director, Change Management | Mars Snacking",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Cathryn Gunther",
+              "position": "Global Head of Culture and Associate Experience",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Laura Dixey",
+              "position": "Senior P&O Business Partner",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Crissy Powers FCIPD, MBA",
+              "position": "Sr. P&O Business Partner: Global Corporate Functions",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Abby Curnow-Chavez",
+              "position": "Managing Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Betsy Fischer",
+              "position": "Senior Director - Talent, Organization, and People",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Mitch LOR-FAIR",
+              "position": "Senior Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Colleen Dooley, SPHR",
+              "position": "Director Talent Acquisition",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Paul Firth",
+              "position": "Senior Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alijah Arah",
+              "position": "Senior Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Andreas Lucido",
+              "position": "Federal Practice Leader",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Tyler Stone",
+              "position": "Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "William Roberti",
+              "position": "Managing Director & Senior Advisor",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Juan Carlos Nava",
+              "position": "Strategic Sourcing Manager | North America",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Asta Roques",
+              "position": "Senior Director Of Operations",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Siu-Lin T. Robinson",
+              "position": "Senior Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sofija Radovic",
+              "position": "Program Assistant",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "William Sammons",
+              "position": "Managing Director",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 23,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -31814,13 +33967,24 @@
               "connection_name": "Hayley Philp (PIEMA REnvP)",
               "position": "Environmental Compliance and Carbon Lead",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Chris Robinette",
+              "position": "Strategic Development Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Lindsey Borg",
+              "position": "Vice President, Integrated Marketing and Public Relations",
+              "mg_partner": "Ryan Flynn"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 3,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": "Northrop Grumman"
         },
@@ -31955,13 +34119,19 @@
               "connection_name": "Rachel Webster MSyl",
               "position": "Security Consultant",
               "mg_partner": "Charles Antelme"
+            },
+            {
+              "connection_name": "Sarah Macchia",
+              "position": "Senior Principal",
+              "mg_partner": "Chris Jones"
             }
           ],
           "military_affiliations": [],
           "has_connections": true,
-          "connection_count": 1,
+          "connection_count": 2,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -32048,12 +34218,19 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Paul Dennett",
+              "position": "Managing Director - Mobility UK & Ireland",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 1,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32076,12 +34253,35 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Alex O'Shaughnessy",
+              "position": "Project Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Sonny Shergill",
+              "position": "Vice President Commercial AI",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Renato Batista de Oliveira",
+              "position": "Diretor Jur\u00c3\u00addico e Estatut\u00c3\u00a1rio",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Maciej Szymaszek, Ph.D., MBA, PMP",
+              "position": "Head of Strategy & Innovation, Commercial AI - Enterprise AI",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 4,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32110,12 +34310,100 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Maria Ladega",
+              "position": "Assistant Vice President",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Heather Awner",
+              "position": "Associate",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jamie Hancock",
+              "position": "Head & Managing Director Canadian Capital Markets",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Stephanie Couch",
+              "position": "Managing Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Sara Purcell",
+              "position": "Business Strategy and Initiatives Executive",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michelle Fullerton",
+              "position": "Communication Executive, Incident Response and Global Corporate Security and Executive Protection",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jon Wright",
+              "position": "AVP | Senior Business Control Specialist",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Nancy Fahmy",
+              "position": "Head of Investment Solutions Group",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Kristin Williams",
+              "position": "SVP, Talent Executive - Retail Banking",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Pete Thedinga",
+              "position": "Executive Coach",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Maggie Wardell",
+              "position": "Senior Vice President, Global Talent",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Anna Snider",
+              "position": "Head of Investment Selection, Chief Investment Office, Global Wealth And Investment Management",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Michael Pelzar",
+              "position": "Head of Investments, Private Bank",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Steve Samuels",
+              "position": "Managing Director",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Susan Axelrod",
+              "position": "Chief Compliance Officer for Merrill and the Private Bank",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Matthew Card",
+              "position": "Media Relations Executive",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Chris Skafidas",
+              "position": "Vice President & Senior Credit Officer - Global Corporate & Investment Banking",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 17,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32204,12 +34492,19 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Michael Atcheson",
+              "position": "Director, Submarine Acoustic Systems Product Line",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 1,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": "L3Harris Technologies"
         },
@@ -32292,12 +34587,95 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Paul Flatin",
+              "position": "Business Development Senior Manager | Microsoft Federal",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Joseph E. Beyer, Ph.D.",
+              "position": "Principal Solution Architect - Adoption & Change Management",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ljupco Georgiev",
+              "position": "Sr Digital Account Executive (SME&C) for Slovenia and Croatia",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Casandra Fritzsche",
+              "position": "Global Sr. Learning & Development Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Alex Jacobs-Hajian",
+              "position": "Director Technology Strategy",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Vicky Jain",
+              "position": "Principal Software Eng. Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Bernardo Daza",
+              "position": "Senior Finance Manager, Microsoft AI | T&R | Experience+Devices | Resource Investment Strategy",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Chad Bennett",
+              "position": "Senior People Science Manager",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Tom Nolan",
+              "position": "Principal",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Doyin Lawal",
+              "position": "Lead, Strategic Initiatives",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Erin Fontaine",
+              "position": "Scale Global Blackbelt, GenAI & Employee Experience - Americas",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Dayne A. Jervis",
+              "position": "Managing Director, Sales Management - FSI Capital Markets",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Tyrelle Barnes",
+              "position": "AI Transformation Leader and Global Black Belt",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Erik Urosa",
+              "position": "Group Manager, Impact Investments",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Cathy Zaragoza",
+              "position": "HR Data Analyst, People Analytics",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "TJ Devine",
+              "position": "Principal Group Product Manager, Experiences + Devices (E+D)",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 16,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32342,12 +34720,50 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Jessica Krebs",
+              "position": "Senior Product Manager - Oracle Health & AI",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Chris M. Harrison",
+              "position": "Industry Executive Director, Financial Services",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Jessica Scrimale",
+              "position": "Vice President, Product Strategy, AI Team",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Michelle Hill",
+              "position": "Director & Healthcare Sales Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Lieke van de Liefvoort",
+              "position": "Lead Learning Leader",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Dr. Deborah Morgan, Ed.D, Prosci",
+              "position": "Chief of Staff/Director of  Business Operations-Oracle Health Government Services",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jon Rosen",
+              "position": "Senior Principal Growth Strategist, Healthcare Markets",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 7,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32364,12 +34780,19 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Michael Long",
+              "position": "Bilingual Customer Service Core and Loan Consultant",
+              "mg_partner": "Chris Jones"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 1,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones"
           ],
           "pipeline_match": null
         },
@@ -32386,12 +34809,24 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Remick Kawawaki",
+              "position": "Enterprise Lead - Federal Health",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Anders Frid\u00c3\u00a9n",
+              "position": "Country Lead",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 2,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32430,12 +34865,49 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Leslie Anne Fendt",
+              "position": "Global Program Lead, Remote Vision Monitoring (Digital Health)",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "James Musick",
+              "position": "SVP/Head of Personalized Healthcare at Roche",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Marcelo Oliveira",
+              "position": "Senior Director (Global Commercial & Digital Health Strategy)",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Atif Elahi",
+              "position": "Digital Health Business Leader, Product Development",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Alexander Klein",
+              "position": "Program Lead Patients Insights",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Jacob Watkins",
+              "position": "Executive Director / Global Lead for Holistic Customer Experience",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Ling Kong",
+              "position": "Oncology Strategy Leader",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 7,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32452,12 +34924,50 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Carl Dawson FRSA",
+              "position": "Policy Fellow",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Michael Evans",
+              "position": "Solution Sales Senior Executive",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Ali Alnaqeeb",
+              "position": "Senior Manager of DevOps and Organizational Change Management (OCM)",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Douae Aghezzaf",
+              "position": "Investment and Wealth Management Intern",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Atith Pagdi",
+              "position": "Partner & Associate Managing Director, AI-Driven Transformation & Growth",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Joseph Craven",
+              "position": "Founder",
+              "mg_partner": "Ryan Flynn"
+            },
+            {
+              "connection_name": "Mark Niemiec",
+              "position": "Chief Revenue Officer (CRO)",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 7,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32474,12 +34984,30 @@
               "is_military": false
             }
           ],
-          "company_connections": [],
+          "company_connections": [
+            {
+              "connection_name": "Chris Traylor",
+              "position": "Client Director",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Pavlina Plasilova",
+              "position": "Head of Strategic Customer Engagements, Office of the Chairman & CEO",
+              "mg_partner": "Chris Jones"
+            },
+            {
+              "connection_name": "Pavlina Plasilova",
+              "position": "Head of Strategic Customer Engagements, Office of the Chairman & CEO",
+              "mg_partner": "Ryan Flynn"
+            }
+          ],
           "military_affiliations": [],
-          "has_connections": false,
-          "connection_count": 0,
+          "has_connections": true,
+          "connection_count": 3,
           "partner_names": [
-            "Charles Antelme"
+            "Charles Antelme",
+            "Chris Jones",
+            "Ryan Flynn"
           ],
           "pipeline_match": null
         },
@@ -32538,9 +35066,17 @@
         {
           "partner": "Charles Antelme",
           "company_count": 67
+        },
+        {
+          "partner": "Ryan Flynn",
+          "company_count": 26
+        },
+        {
+          "partner": "Chris Jones",
+          "company_count": 23
         }
       ]
     }
   ],
-  "partner_count": 7
+  "partner_count": 9
 }
