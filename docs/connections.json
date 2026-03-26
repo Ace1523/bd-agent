@@ -2964,12 +2964,20 @@
           "company_count": 9
         },
         {
+          "partner": "Jeffery Jones",
+          "company_count": 6
+        },
+        {
           "partner": "Tom Seamands",
           "company_count": 6
         },
         {
-          "partner": "Jeffery Jones",
-          "company_count": 6
+          "partner": "Chris Jones",
+          "company_count": 5
+        },
+        {
+          "partner": "Ryan Flynn",
+          "company_count": 5
         },
         {
           "partner": "Jim Huggins",
@@ -32101,6 +32109,14 @@
           "company_count": 63
         },
         {
+          "partner": "Ryan Flynn",
+          "company_count": 53
+        },
+        {
+          "partner": "Chris Jones",
+          "company_count": 48
+        },
+        {
           "partner": "Jeffery Jones",
           "company_count": 43
         },
@@ -35060,6 +35076,14 @@
         {
           "partner": "Charles Antelme",
           "company_count": 67
+        },
+        {
+          "partner": "Ryan Flynn",
+          "company_count": 26
+        },
+        {
+          "partner": "Chris Jones",
+          "company_count": 23
         }
       ],
       "partners": [
