@@ -4671,3 +4671,709 @@ McChrystal Group
 Sally — congrats on the COO role after 20 years building DRS. With a new CEO, Charleston facility, and double-digit growth, the next operating model needs to be intentionally designed. McChrystal Group helps with exactly this. Would value connecting.
 
 ---
+
+
+---
+
+# Outreach Package — Los Angeles Police Department
+
+**Target**: Emada Tingirides, Assistant Chief, Director of Office of Operations
+**Why this contact**: Leads operational transformation of community policing model across all 21 divisions. Most natural champion for McChrystal's operating model work — her CSP program is philosophically identical to Team of Teams
+**Company**: Los Angeles Police Department | **Score**: 90 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: RAND's 50 recommendations + World Cup in 14 months
+**Hook**: RAND organizational assessment + World Cup 2026 deadline creating implementation urgency
+
+Emada,
+
+RAND just handed LAPD 50+ reform recommendations, and the World Cup is 14 months out. That's not a reform timeline — it's a sprint.
+
+We built the operating model that let JSOC coordinate 20+ agencies with different chains of command in Iraq. The multi-agency coordination LAPD needs for the World Cup — USSS, FBI, LASD, CHP, National Guard — is that same challenge.
+
+We helped the Joint Special Operations Command move from siloed operations to shared consciousness without adding a single layer of bureaucracy. The result was a 17x increase in operational tempo.
+
+Would a 20-minute conversation about what that model looks like applied to LAPD's event corridor be worth your time?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When reform reports become reform reality
+**Hook**: Pattern of police reform assessments that fail in implementation — McChrystal bridges the gap
+
+Emada,
+
+Every major police department in the country has had a reform assessment. Very few have actually transformed. The difference isn't the quality of recommendations — it's whether the organization has the operating model to execute them.
+
+Your Community Safety Partnership works at 10 sites because it was built with the right principles — decentralized authority, trust-based relationships, empowered local leaders. Scaling that to all 21 divisions isn't a resource problem. It's an organizational design problem.
+
+We work with organizations navigating exactly this: turning a proven model in one unit into the operating system for the entire enterprise. We've done it in environments with higher stakes and tighter timelines than most companies ever face.
+
+I'd welcome a conversation about what that looks like for LAPD.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: CSP and the Team of Teams connection
+**Hook**: Community Safety Partnership philosophy mirrors McChrystal's Team of Teams — Tingirides as philosophical ally
+
+Emada,
+
+What you built with Connie Rice in the Community Safety Partnership — relationship-based policing, decentralized authority, empowered officers making judgment calls at the community level — is exactly what we call a Team of Teams.
+
+General McChrystal built the same principles into the most complex military operation in modern history. The language is different, but the DNA is identical: trust the people closest to the problem, give them the information they need, and get out of their way.
+
+The question we'd love to explore with you: how do you scale that DNA from 10 CSP sites to an entire department navigating a staffing crisis, a new command team, and the biggest security events in LAPD history?
+
+20 minutes whenever your schedule allows.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CSP/Team of Teams philosophical alignment
+
+Emada — your Community Safety Partnership work is one of the best examples of decentralized, trust-based policing I've seen. The principles mirror what we built at JSOC. Would love to connect and share notes.
+
+---
+
+
+---
+
+# Outreach Package — Seattle Police Department
+
+**Target**: Yvonne Underwood, Deputy Chief, Patrol Operations/Investigations/Metro Safety/Special Ops
+**Why this contact**: Sits at the operational nexus of SPD transformation, overseeing both traditional policing and bureaus that must integrate with CARE. Natural champion for cross-functional alignment
+**Company**: Seattle Police Department | **Score**: 79 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: When officers wave off the people you hired to help
+**Hook**: Documented CARE Department sabotage by SPD officers — integration crisis
+
+Yvonne,
+
+When officers are actively waving off CARE responders and a union rep is telling dispatchers CARE will be "disbanded" — that's not a policy problem. It's an organizational trust problem.
+
+We work with organizations where two groups that share the same mission are failing to operate as one team. We've seen it in military contexts where Special Operations and intelligence agencies had to learn to share information and coordinate in real time — despite different cultures, training, and incentive structures.
+
+The CARE-SPD integration challenge is that same problem: two operating models that need to become one system without either side losing what makes them effective.
+
+I'd welcome 20 minutes to share how organizations we've worked with solved this exact dynamic.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The post-consent decree operating model gap
+**Hook**: Consent decree termination creates self-governance challenge — need internal operating model to replace external oversight
+
+Yvonne,
+
+For 13 years, the consent decree was SPD's operating model. It enforced specific behaviors through external monitoring. Now that framework is gone — and the department needs to sustain reform through internal mechanisms that don't exist yet.
+
+We see this pattern across organizations: external pressure drives compliance, but when the pressure lifts, the behaviors aren't self-sustaining because they were imposed, not internalized. The solution isn't more policies — it's an operating model that makes the right behaviors organic.
+
+That's what we build: shared consciousness, empowered execution, and coordination mechanisms that work because people understand the "why," not because someone's watching.
+
+Would a brief conversation about what that looks like for a post-consent decree SPD be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Four chiefs in three years — building something that lasts
+**Hook**: Serial leadership turnover creating organizational cynicism — Barnes's decentralization instinct aligned with McChrystal
+
+Yvonne,
+
+Four chiefs in three years teaches an organization one thing: don't invest in the new leader's vision because they'll be gone in 18 months.
+
+Chief Barnes has the right instinct — decentralizing authority to precinct captains. But without a framework that outlasts any individual chief, decentralization becomes inconsistency. The operating model needs to be institutional, not personal.
+
+We've helped organizations build exactly that: a way of operating that survives leadership transitions because it's embedded in how teams work, not in who's in charge. It's the difference between a culture that depends on a chief and a culture that self-sustains.
+
+Happy to share what that process looks like over a quick call.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CARE-SPD integration as organizational design challenge
+
+Yvonne — the challenge of integrating civilian crisis response with traditional policing is one of the most interesting organizational design problems in public safety. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — NASA
+
+**Target**: Amit Kshatriya, Associate Administrator (COO)
+**Why this contact**: Operational leader implementing Isaacman's vision across 10 centers with a depleted workforce. Manages day-to-day transformation that McChrystal's operating model addresses
+**Company**: NASA | **Score**: 80 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 10 centers, 20% fewer people, one Ignition vision
+**Hook**: Ignition restructuring across 10 distributed centers with depleted workforce
+
+Amit,
+
+Ignition is the most ambitious NASA restructuring since the agency's founding — and you're implementing it across 10 field centers with 20% fewer people than you had 18 months ago.
+
+We built the operating model that made a distributed military organization with independent commands function as a single network. The challenge you're facing — getting 10 centers with deep institutional identities to coordinate on moon base construction, Artemis redesign, and contractor conversion simultaneously — is the same problem at a different scale.
+
+The lesson from our experience: you don't solve distributed coordination by adding layers or centralizing control. You solve it by building shared consciousness — making sure every center director sees the same picture and can act on it in real time.
+
+Would 20 minutes to discuss how that model translates to NASA's current situation be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The Voyager Declaration is a signal, not just a protest
+**Hook**: Voyager Declaration as organizational diagnostic — weakened Technical Authority mirrors Columbia/Challenger failure patterns
+
+Amit,
+
+287 scientists signed a public letter warning about safety. The last time NASA's safety culture failed at this level, we lost Columbia and her crew.
+
+The Voyager Declaration isn't just a protest — it's an organizational diagnostic. It tells you that information isn't flowing, that people closest to the risk don't feel heard, and that the hierarchy is suppressing exactly the dissent that prevents catastrophic decisions.
+
+We solved this problem in a military context where the stakes were equally high: how do you maintain necessary command hierarchy while ensuring critical safety information reaches decision-makers regardless of rank? The answer isn't more reporting channels — it's shared consciousness.
+
+I'd welcome a conversation about what that model looks like applied to NASA's Technical Authority structure.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Draken, JSOC, and the NASA transformation
+**Hook**: Isaacman's Draken International background creates natural McChrystal connection through military aviation
+
+Amit,
+
+Administrator Isaacman built Draken International providing adversary air training for USAF and NATO. General McChrystal built the operating model for Joint Special Operations Command. Both organizations solved the same problem: making independent units with different cultures coordinate under high-stakes, time-pressured conditions.
+
+NASA's 10 centers are those independent units. The Ignition vision is the mission. The question is: what operating model connects them?
+
+We've worked with organizations facing this exact challenge — not by centralizing control, but by building the information-sharing and coordination mechanisms that let distributed teams operate as one. Center Director Janet Petro, as an Army veteran, would recognize this approach immediately.
+
+Happy to share specifics over a brief call.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: inmail
+**Subject**: Distributed organization coordination at NASA
+**Hook**: 10-center distributed coordination challenge
+
+Amit — implementing Ignition across 10 centers with a depleted workforce is one of the most significant organizational challenges in the federal government. We built the operating model for exactly this kind of distributed coordination at JSOC. Would welcome a conversation.
+
+---
+
+
+---
+
+# Outreach Package — Sandoz
+
+**Target**: Tatiana Eliseeva, Chief Transformation Officer
+**Why this contact**: Owns the organizational transformation agenda for a newly independent company. Directly responsible for building standalone operating model, culture, and processes post-spinoff. This is the person feeling the pain of separation daily
+**Company**: Sandoz | **Score**: 83 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: Two units, one company — the coordination challenge
+**Hook**: March 2026 biosimilar/generics split creating dual operating model complexity
+
+Tatiana,
+
+Splitting Sandoz into separate biosimilar and generics units makes strategic sense — clear ownership, focused execution. But the units still share manufacturing, quality, supply chain, and talent. That's where most organizational splits break down.
+
+We've worked with organizations at exactly this inflection point: independent units that need to move fast on their own priorities while coordinating on shared infrastructure. The default outcome is silos. The designed outcome is shared consciousness with empowered execution.
+
+As CTO, you're the person who has to make both sides of that equation work — unit autonomy AND system-level coordination. We'd love to share how other organizations have solved this.
+
+20 minutes at your convenience.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The hardest part of a spinoff happens after the listing
+**Hook**: Post-spinoff identity building — transitioning from Novartis division culture to standalone Sandoz identity
+
+Tatiana,
+
+Sandoz completed the legal separation from Novartis in October 2023. But the organizational separation — building a culture that's genuinely Sandoz, not "ex-Novartis" — is a multi-year journey that most spinoffs underestimate.
+
+We see a pattern: spinoffs nail the structural separation (legal, IT, finance) but stall on the identity transformation. Employees keep operating with inherited habits, decision-making norms, and cultural assumptions from the parent company. The result is an organization that looks independent on paper but operates like a division.
+
+Building genuine standalone identity for 22,000 people across 100+ countries requires deliberate organizational design — shared consciousness, common operating rhythms, and a culture that's built, not inherited.
+
+Would a conversation about what that design process looks like be valuable?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Building Sandoz's operating model from scratch
+**Hook**: CTO role as transformation architect — peer-level engagement on operating model design
+
+Tatiana,
+
+Your career path — from CFO of a $10B division to Chief Transformation Officer of a newly independent company — puts you in rare company. You're not optimizing an existing system. You're building one.
+
+General McChrystal faced the same challenge when he took command of Joint Special Operations Command: an organization with talented people and proven capabilities that needed a fundamentally different operating model to succeed in a new environment. The solution wasn't better strategy — it was a better way of working together.
+
+We'd welcome the chance to share how that approach translates to what you're building at Sandoz. Especially with the Just-Evotec integration, the Slovenian hub, and the new biosimilar unit all running in parallel.
+
+Happy to find 20 minutes whenever works.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Post-spinoff transformation complexity
+
+Tatiana — building a standalone operating model for a $11B company post-spinoff while splitting into two units is one of the most complex transformation challenges in pharma. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Ochsner Health
+
+**Target**: Timothy Riddell, MD, EVP & Chief Operating Officer
+**Why this contact**: Brand new in COO role, inheriting 47 hospitals and 370+ clinics during CEO transition and massive integration challenge. Needs operating model support now
+**Company**: Ochsner Health | **Score**: 92 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: 47 hospitals, new COO, 90 days in
+**Hook**: New COO inheriting maximum operational complexity during CEO transition and Allegiance affiliation
+
+Tim,
+
+You've been COO for less than 90 days, inheriting 47 hospitals, 370 clinics, a CEO transition, and an affiliation that's about to add 12 more facilities you don't operationally control. That's not an onboarding curve — it's a vertical wall.
+
+We work with operational leaders at exactly this inflection point: the moment when the scope of what needs to coordinate exceeds what any single leader can manage through personal relationships and direct oversight. The solution isn't working harder — it's building an operating model that multiplies your reach.
+
+We've helped leaders in your position establish the coordination mechanisms that turn a 47-hospital system into a genuine network — not just a collection of facilities that share a logo.
+
+Would 20 minutes to discuss what that looks like be helpful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: The federated health system coordination challenge
+**Hook**: Ochsner's mix of owned/merged/affiliated entities as novel organizational model requiring new coordination approach
+
+Tim,
+
+Ochsner is building something most health systems haven't figured out: a federated model where you own some hospitals, merged others, and are affiliating with entities that maintain independent ownership. Each layer has different governance, control, and culture dynamics.
+
+The hardest organizational challenge isn't managing what you control — it's coordinating what you don't. The Allegiance affiliation puts Ochsner's brand, clinical expertise, and EPIC access into facilities where you have influence but not authority.
+
+We've worked with organizations facing this exact structure — entities with different ownership that must operate as one system. The military calls it "unity of effort without unity of command." It's the hardest coordination problem, and it's solvable.
+
+Happy to share how over a brief conversation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From 28 years at Ochsner to running the whole operation
+**Hook**: Riddell's deep Ochsner roots and physician background as COO during peak complexity
+
+Tim,
+
+28 years inside Ochsner gives you something no outside hire has — the institutional knowledge of how this system actually works. But the COO role at this moment asks you to do something different from anything you've done before: coordinate across entities and geographies at a scale that requires a different kind of operating model.
+
+General McChrystal had a similar transition — from leading teams he knew intimately to building an organization that could coordinate across units he'd never served in. The insight that changed everything: the leader's job shifts from directing operations to designing the system that enables operations.
+
+We'd welcome the chance to share what that shift looks like in practice — and how leaders with deep institutional knowledge can leverage it at the system level.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: New COO at peak complexity
+
+Tim — congratulations on the COO role. Coordinating 47 hospitals plus a new affiliation model is one of the most interesting operational challenges in healthcare. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Banner Health
+
+**Target**: Adrienne Moore, DrPH, SVP, Strategy & Growth
+**Why this contact**: Brand new role created to drive growth strategy — defines how Banner grows and transforms. Needs cross-functional alignment to execute. Her strategic mandate touches every part of the organization
+**Company**: Banner Health | **Score**: 88 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: New role, new mandate, 55,000 people to align
+**Hook**: Newly created SVP Strategy & Growth role — building growth playbook from scratch
+
+Adrienne,
+
+A brand-new SVP of Strategy & Growth role means Banner's leadership team recognized that the current operating model won't support the acceleration agenda. Now you get to build the playbook.
+
+The challenge: strategy, innovation, M&A, and market growth all require coordinating across Banner's six-state footprint — operations, finance, regional leadership, technology, and Banner|Aetna. That cross-functional alignment doesn't happen by default, especially when the organizational model is still evolving.
+
+We work with leaders in newly created strategic roles who need to build cross-functional coordination fast. We can share what works and what doesn't in organizations of Banner's scale and complexity.
+
+Would 20 minutes be worthwhile?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When $1B in technology meets organizational reality
+**Hook**: $1B tech investment requires organizational change capacity that may not exist — technology alone doesn't transform
+
+Adrienne,
+
+Banner is committing $1 billion to technology transformation over five years. BannerWise AI is deployed to all 55,000 employees. That's a bold investment.
+
+But here's the pattern we see: organizations that invest in technology without proportionally investing in organizational change capacity get expensive tools that nobody uses the way they were designed. The technology works. The organization doesn't adapt.
+
+The organizations that get the return on technology investments are the ones that build the coordination, trust, and adaptability to absorb change at scale. That's not an IT problem — it's an operating model problem.
+
+We'd welcome a conversation about how Banner is thinking about the organizational side of the technology equation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: From finance to strategy — the coordination view
+**Hook**: Moore's finance background gives her the analytical lens; McChrystal gives her the organizational tools
+
+Adrienne,
+
+Your path from SVP of Finance to SVP of Strategy & Growth gives you something most strategy leaders don't have: you know where the money goes, where it gets stuck, and where the organizational friction eats the return on investment.
+
+That analytical lens is powerful for setting strategy. The complementary challenge is building the organizational coordination to execute it — getting operations, regional leaders, technology, and Banner|Aetna to align on growth initiatives without creating a coordination bottleneck at the top.
+
+We work with strategic leaders who need that organizational alignment to move from planning to execution. General McChrystal built his reputation on exactly this — turning strategic clarity into operational reality at scale.
+
+Happy to find time for a conversation whenever your schedule allows.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Newly created strategic growth role
+
+Adrienne — congratulations on the new SVP Strategy & Growth role. Building the growth playbook for a $16B, six-state system is a fascinating challenge. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — Baker Hughes
+
+**Target**: Muzzamil Khider Ahmed, Chief People & Culture Officer
+**Why this contact**: Owns people/culture transformation during massive restructuring and Chart integration. New to ELT, building his agenda — needs to demonstrate impact quickly. Direct buyer for McChrystal
+**Company**: Baker Hughes | **Score**: 86 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: $13.6B integration + a culture you're still building
+**Hook**: Chart Industries acquisition hitting during CHRO transition and organizational restructuring
+
+Muzzamil,
+
+You've been elevated to the executive leadership team as Chief People & Culture Officer at the exact moment Baker Hughes announces its largest acquisition in history. That's not a coincidence — it's a signal that leadership knows the Chart integration will be won or lost on the people and culture side, not the financial side.
+
+We work with people and culture leaders navigating post-merger integration at scale. The insight from our experience: integration management offices handle the process. What they miss is the operating model — how legacy Baker Hughes teams, IET, OFSE, and soon Chart actually coordinate, share information, and make decisions as one organization.
+
+We'd welcome 20 minutes to share what that operating model design looks like in practice.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: When four companies become two — and then absorb a third
+**Hook**: Sequential restructuring (4->2 segments) + mega-acquisition creating compound organizational complexity
+
+Muzzamil,
+
+Baker Hughes restructured from four product companies to two segments. Now it's absorbing Chart Industries into IET as a standalone unit. That's three organizational identities that need to coordinate — and each one thinks it's the most important.
+
+The pattern we see in organizations going through this: the org chart gets redesigned, cost synergies get targeted, and integration milestones get tracked. What gets missed is how the humans in OFSE, IET, and Chart actually learn to work together — share information, make joint decisions, and build trust across legacy boundaries.
+
+That's the layer we work in. Not strategy, not process — the organizational operating system that connects the people to the plan.
+
+Happy to share specifics whenever you have time.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: Building a culture during the most complex year in company history
+**Hook**: New CPCO on ELT with departing CHRO — building his agenda and legacy during peak transformation
+
+Muzzamil,
+
+Your promotion to the executive leadership team and elevation of "People & Culture" to a C-suite function tells a clear story: Baker Hughes knows that the next phase of transformation is about people, not just process.
+
+You're building your agenda at a moment when every decision you make — on Chart integration culture, on OFSE-IET coordination, on leadership development — will define how 56,000+ people experience the next three years. That's a significant opportunity to shape the company.
+
+General McChrystal faced a similar moment when he took command of JSOC — inheriting an organization with talented people who weren't yet operating as one team. The operating model he built transformed performance without adding headcount.
+
+We'd value the chance to share that approach and learn how you're thinking about your mandate.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: CPCO elevation during Chart acquisition
+
+Muzzamil — your elevation to the ELT as CPCO during Baker Hughes' biggest acquisition signals something important about the company's priorities. Would welcome connecting.
+
+---
+
+
+---
+
+# Outreach Package — The Home Depot
+
+**Target**: Stephanie Smith, EVP, Human Resources
+**Why this contact**: Unique background: moved from running supply chain to running HR. Understands operational complexity AND people strategy. New to HR role, building agenda. Perfect McChrystal buyer — knows operational pain and now owns the people/culture lever
+**Company**: The Home Depot | **Score**: 87 | **Fit**: strong
+
+---
+
+## Version A — Trigger-based
+**Subject**: From supply chain to HR — at exactly the right moment
+**Hook**: Smith's unique supply chain-to-HR move during Pro transformation + multi-acquisition integration
+
+Stephanie,
+
+Moving from SVP Supply Chain to EVP Human Resources is rare — and it might be exactly what Home Depot needs right now. The Pro transformation isn't just a commercial strategy. It's an organizational coordination challenge across stores, SRS, GMS, the sales force, digital, and delivery.
+
+You've seen that coordination challenge from the operational side. Now you own the people and culture lever that makes it work — or doesn't.
+
+We work with organizations facing this exact intersection: a strategic transformation that requires cross-functional coordination the existing culture wasn't designed for. The insight: you can't get new organizational outcomes with the old organizational operating model.
+
+Would 20 minutes to discuss what we've seen work be valuable?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Independence without coordination is just fragmentation
+**Hook**: SRS/GMS deliberate independence model creating synergy capture paradox
+
+Stephanie,
+
+Home Depot's strategy with SRS and GMS is smart: let them operate independently, preserve what made them successful, and find synergies without disruption. It's the right instinct.
+
+But here's the pattern we see: "let them run independently" becomes "they run independently" — and the synergies that justified $24 billion in acquisitions remain theoretical. Independence without coordination isn't a strategy. It's fragmentation by another name.
+
+The U.S. military solved this exact problem: independent service branches (Army, Navy, Air Force, Marines) that must coordinate in theater without centralizing command. The model that made it work is what we bring to organizations like yours.
+
+Happy to share how that translates to SRS, GMS, and Home Depot stores working as one system for professional customers.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: A fellow believer in the operations-people connection
+**Hook**: Smith's operational background creates natural affinity with McChrystal's approach — not theoretical, but operational
+
+Stephanie,
+
+Most HR leaders come from HR. You came from supply chain operations — which means you know that culture isn't built in workshops. It's built in how people actually coordinate, communicate, and make decisions every day.
+
+That's exactly how we think about organizational transformation. Not programs. Not training modules. The actual operating system — the rhythms, information flows, and decision rights that determine whether 470,000 people work as one team or as 2,300 separate stores.
+
+General McChrystal built his career on this principle: change how people work together, and the culture follows. We'd welcome the chance to connect and share how that applies to Home Depot's Pro transformation.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Supply chain-to-HR pivot during Pro transformation
+
+Stephanie — your move from supply chain leadership to HR during Home Depot's Pro transformation is one of the most interesting career pivots I've seen. The operational perspective you bring to culture is exactly what this moment needs. Would love to connect.
+
+---
+
+
+---
+
+# Outreach Package — ADB Safegate
+
+**Target**: Joe Pokoj, COO / CEO Americas
+**Why this contact**: Dual-hatted operator who feels lean staffing and cross-product coordination pain daily. Pragmatic buyer — delivering JFK T1 while coordinating 900-person global operation
+**Company**: ADB Safegate | **Score**: 65 | **Fit**: moderate
+
+---
+
+## Version A — Trigger-based
+**Subject**: JFK, Munich, Western Sydney — simultaneously
+**Hook**: Simultaneous marquee contract delivery with ~900 people creating existential execution risk
+
+Joe,
+
+JFK New Terminal One. Munich Airport next-gen ATC. Western Sydney International. Vienna Tower modernization. All in active delivery. All brand-defining. All with roughly 900 people.
+
+That's not a staffing challenge — it's a coordination challenge. When you're this lean, every handoff between lighting, gates, tower, and digital teams either works perfectly or creates a delay that ripples across the project.
+
+We built operating models for organizations with the same profile: small teams, global operations, safety-critical environments, zero margin for coordination failure. The approach lets lean organizations execute at a scale that their headcount shouldn't allow.
+
+Would 20 minutes to discuss what that model looks like be useful?
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version B — Insight-based
+**Subject**: Platform vision, product-line reality
+**Hook**: Airside 4.0 promises integrated platform but org structure still reflects legacy product-line silos
+
+Joe,
+
+Airside 4.0 is a platform vision — integrated airport performance across lighting, gates, tower, and digital. But ADB Safegate was built from acquisitions that each brought their own engineering culture and product focus.
+
+We see this pattern in every organization transitioning from products to platform: the technology integration happens faster than the organizational integration. The customer sees "one Airside 4.0," but internally, the lighting team and the digital team are still operating with different priorities, timelines, and communication habits.
+
+The organizations that succeed at this transition build the team coordination before (or alongside) the technical integration. That's our expertise.
+
+Happy to share specifics whenever your schedule allows.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## Version C — Warm angle
+**Subject**: 900 people, 175 countries — the Special Operations parallel
+**Hook**: ADB Safegate's lean global profile mirrors military special operations — small teams, global, high-stakes, perfect coordination required
+
+Joe,
+
+Your dual role as COO and CEO Americas tells me something about ADB Safegate: you're lean enough that senior leaders wear multiple hats, and global enough that coordination across time zones is a daily reality.
+
+That profile — small, globally distributed, operating in high-stakes environments where precision matters — is exactly how Special Operations units are structured. General McChrystal built an operating model for that world: how do you get 900 people in 175 countries to coordinate like a single team without adding layers of management?
+
+The answer isn't more process. It's shared consciousness — making sure everyone sees the same picture and can act on it in real time.
+
+We'd welcome the chance to share how that translates to airport performance delivery.
+
+Best,
+[Name]
+McChrystal Group
+
+---
+
+## LinkedIn Message
+**Type**: connection_request
+**Hook**: Lean global execution on marquee contracts
+
+Joe — delivering Airside 4.0 at JFK, Munich, and Western Sydney simultaneously with a lean global team is exactly the kind of coordination challenge we specialize in. Would love to connect.
+
+---

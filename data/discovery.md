@@ -1465,3 +1465,525 @@ Leonardo DRS's CTO was just named a 2026 Defense News 'Technology Disrupter' —
 **Why They Fit**
 
 New CEO, new COO, double-digit growth, $8.73B backlog, and critical roles on Columbia-class submarine and AEGIS systems — a mid-market defense electronics company scaling rapidly under new leadership within a European parent company's governance structure.
+
+
+---
+
+# Discovery Report — March 26, 2026 10:25
+
+- **Prospects found**: 9
+- **Score range**: 65–92
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | Los Angeles Police Department | Tier 3 | 90 | $3.3B | 11K+ | Leadership Change, Reorg, Transformation, Hiring Surge |
+| 2 | Seattle Police Department | Tier 3 | 79 | $462M | 1K+ | Hiring Surge, Transformation, Leadership Change, Reorg |
+| 3 | NASA | Tier 1 | 80 | $24.8B | 14K+ | Reorg, Earnings Miss, Leadership Change |
+| 4 | Sandoz | Tier 1 | 83 | $11.2B | 22K+ | M And A, Transformation, Hiring Surge |
+| 5 | Ochsner Health | Tier 1 | 92 | $7.7B | 40K+ | M And A, Partnership, Transformation |
+| 6 | Banner Health | Tier 1 | 88 | $14.1B | 55K+ | Transformation, Hiring Surge, Leadership Change, Rapid Growth |
+| 7 | Baker Hughes | Tier 1 | 86 | $27.7B | 56K+ | Reorg, Transformation, Leadership Change, Rapid Growth |
+| 8 | The Home Depot | Tier 2 | 87 | $159.0B | 470K+ | Transformation, Earnings Miss, Partnership |
+| 9 | ADB Safegate | Tier 2 | 65 | $440M | 900 | Funding, Transformation, Partnership |
+
+## Tier 1 — Conventional
+
+### NASA — Score 80
+
+- **Revenue**: $24.8B
+- **Employees**: 14K+
+- **Industry**: Federal Agency
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Reorg** (2025-06-25): Project Athena: new administrator proposing top-level agency reorganization to cut bureaucracy and push commercial approach to space missions
+- **Earnings Miss** (2025-05-01): FY2026 budget proposed at $18.8B — a 24% cut from FY2025, lowest inflation-adjusted funding since 1961; science budget cut 47%
+- **Reorg** (2025-07-26): Nearly 4,000 employees departed through deferred resignation program and layoffs — 20% workforce reduction across all centers
+- **Leadership Change** (2025-10-01): New NASA administrator taking over after year of leadership uncertainty, proposing fundamentally different agency operating model
+
+**Entry Point**
+
+Janet Petro, Center Director at Kennedy Space Center — oversees one of NASA's largest centers and is navigating workforce reductions while maintaining launch operations, making her a champion-level leader who feels the transformation pain daily.
+
+**Conversation Hook**
+
+Project Athena is asking NASA to cut bureaucracy and move faster with fewer people — that's the exact transformation JSOC went through, and the lesson is that speed requires shared consciousness, not just fewer layers.
+
+**Why They Fit**
+
+NASA is undergoing the most dramatic organizational transformation in its history — simultaneous 24% budget cuts, 20% workforce reduction, top-level reorganization (Project Athena), and a pivot to commercial partnerships — creating exactly the kind of VUCA environment where McChrystal's operating model expertise is most needed.
+
+### Sandoz — Score 83
+
+- **Revenue**: $11.2B
+- **Employees**: 22K+
+- **Industry**: Pharmaceuticals
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2023-10-04): Completed spinoff from Novartis in October 2023, becoming the world's largest standalone generics/biosimilars company
+- **Transformation** (2024-11-01): Building standalone corporate identity, culture, and operating model after decades as Novartis division; new Basel HQ inaugurated November 2024
+- **M And A** (2025-11-01): Acquired Just-Evotec Biologics (JEB) including biologics manufacturing facility in Toulouse — first major standalone acquisition signaling growth strategy
+- **Hiring Surge** (2025-06-01): Investing $90M in new Biosimilar Technical Development Center in Slovenia, due 2026 — significant capacity buildout requiring organizational scaling
+
+**Entry Point**
+
+Muzzamil Khider Ahmed, Chief People and Culture Officer — newly promoted to the executive leadership team, directly responsible for building Sandoz's standalone culture and organizational identity post-spinoff.
+
+**Conversation Hook**
+
+Sandoz just completed the hardest part of a spinoff — legal separation. Now comes the harder part: building a culture and operating model that's Sandoz, not 'ex-Novartis.' That identity transformation is where most spinoffs stall.
+
+**Why They Fit**
+
+Sandoz is in the critical post-spinoff identity-building phase — establishing standalone operations, culture, and leadership after decades as a Novartis division. The transition from division to independent company is a textbook organizational transformation where McChrystal's Team of Teams model accelerates the shift from inherited hierarchy to purpose-built operating model.
+
+### Ochsner Health — Score 92
+
+- **Revenue**: $7.7B
+- **Employees**: 40K+
+- **Industry**: Healthcare System
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2024-06-01): Completed merger with Rush Health Systems adding 7 hospitals and 30+ clinics in Mississippi/Alabama region
+- **Partnership** (2025-12-01): Signed affiliation agreement with Allegiance Health Management covering 12+ rural hospitals in Louisiana/Mississippi for shared clinical expertise and EPIC rollout
+- **Transformation** (2025-06-01): System-wide EPIC EHR deployment and digital tools rollout across all affiliated hospitals as integration platform
+- **Partnership** (2025-05-06): Launched Medicare Advantage engagement solution with Vitality Group — first client for innovative value-based care model
+
+**Entry Point**
+
+Chief Operating Officer or SVP of Integration — the leader managing the operational integration of newly merged systems (Rush Health, Allegiance) who faces daily coordination challenges across geographically dispersed facilities.
+
+**Conversation Hook**
+
+Ochsner just signed a deal to affiliate with 12+ rural hospitals while still integrating Rush Health's 7 — that's simultaneous integration across vastly different operating environments, exactly where the Team of Teams model prevents the 'hub and spoke' trap.
+
+**Why They Fit**
+
+Ochsner is in rapid-expansion mode — integrating Rush Health's 7 hospitals, affiliating with Allegiance's 12+ rural hospitals, and deploying system-wide EPIC and digital tools — creating the classic post-merger integration challenge where disparate cultures and operating models must unify under shared consciousness.
+
+### Banner Health — Score 88
+
+- **Revenue**: $14.1B
+- **Employees**: 55K+
+- **Industry**: Healthcare System
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Transformation** (2026-01-01): CEO Amy Perry declared 'accelerating is the key going into 2026' — strategic pivot from fee-for-service to value-based care, prevention, and long-term outcomes
+- **Hiring Surge** (2026-02-02): Created new SVP of Strategy and Growth role (Adrienne Moore, started Feb 2026) plus new SVP of Finance — executive team buildout signaling strategic shift
+- **Leadership Change** (2026-02-01): Two senior executive additions in Q1 2026 reshaping strategy and finance leadership as Banner repositions for growth
+- **Rapid Growth** (2025-09-30): $338M operating income through first three quarters of 2025 (2.8% margin, up from 1.8%) — financial momentum creating budget for transformation investments
+
+**Entry Point**
+
+Adrienne Moore, SVP of Strategy and Growth (started Feb 2026) — newly created role overseeing M&A, market strategy, and innovation. She's building the playbook and would be receptive to external operating model expertise.
+
+**Conversation Hook**
+
+Banner created a brand-new SVP of Strategy & Growth role in February 2026 — that's a signal the leadership team knows the current operating model won't support their acceleration goals. McChrystal can help design the cross-functional alignment that makes the strategy executable.
+
+**Why They Fit**
+
+Banner Health is entering 2026 with a mandate to 'accelerate' — transforming from fee-for-service to value-based care while managing rising costs, regulatory volatility, and workforce challenges. New SVP of Strategy & Growth role signals M&A ambitions. CEO Perry's 'One Team' culture push is exactly the kind of alignment initiative McChrystal specializes in.
+
+### Baker Hughes — Score 86
+
+- **Revenue**: $27.7B
+- **Employees**: 56K+
+- **Industry**: Energy Services
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Reorg** (2024-09-03): Major restructuring: simplified from four product companies into two reporting segments (OFSE and IET), targeting $150M+ in cost savings
+- **Transformation** (2025-01-01): Targeting 20% IET margins by 2026 and 20% company-wide margins by 2028 — transformation actions drove over half of 1.7pp margin improvement in 2024
+- **Leadership Change** (2024-09-03): CHRO Deanna Jones transitioned out; new Chief People and Culture Officer promoted to executive leadership team
+- **Rapid Growth** (2025-01-31): Record revenues and EBITDA for second consecutive year; 20%+ EBITDA growth; $40B IET order target over three years
+
+**Entry Point**
+
+Chief People and Culture Officer — managing the human side of the restructuring: integrating teams across legacy product companies while building a unified culture.
+
+**Conversation Hook**
+
+Baker Hughes is trying to capture $150M in cost savings by merging four product companies into two — but the real challenge isn't the org chart, it's making the people in OFSE and IET actually operate as integrated teams instead of four companies wearing two labels.
+
+**Why They Fit**
+
+Baker Hughes is in the middle of a fundamental restructuring — collapsing four product companies into two segments to drive $150M+ in cost savings while simultaneously pursuing aggressive margin targets and energy transition positioning. This is a classic organizational simplification challenge where siloed legacy structures must give way to integrated cross-functional operations.
+
+## Tier 2 — Adjacent
+
+### The Home Depot — Score 87
+
+- **Revenue**: $159.0B
+- **Employees**: 470K+
+- **Industry**: Retail
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Transformation** (2025-06-01): 'One Supply Chain' transformation: 200 facilities added over 8 years, 55% of deliveries now same/next-day (tripled from 2022), fundamental network redesign
+- **Transformation** (2025-12-09): Strategic pivot to 'win the pro' — professional contractor segment requires different operating model for delivery, credit, and relationship management
+- **Earnings Miss** (2025-09-01): Fiscal 2025 earnings projected to decline 1.3% YoY; consumer weakness in home improvement spending amid high interest rates
+- **Partnership** (2025-03-01): Aggressive supply chain diversification away from China to limit tariff impact — forcing multi-country sourcing coordination
+
+**Entry Point**
+
+SVP of Supply Chain or VP of One Supply Chain Operations — the leader managing the integration of nearly 200 new facilities into existing operations and coordinating across store ops, distribution, and last-mile delivery.
+
+**Conversation Hook**
+
+Home Depot tripled same-day delivery by adding nearly 200 facilities in 8 years — but now the 'One Supply Chain' vision has to connect all those nodes into a coordinated system. That's the difference between adding capacity and building an integrated operating model.
+
+**Why They Fit**
+
+Home Depot is executing a complex, multi-year supply chain and go-to-market transformation — adding 200 facilities, tripling same-day delivery, and pivoting toward the pro customer segment — while managing tariff uncertainty and fierce competition from Lowe's. The 'One Supply Chain' vision requires unprecedented cross-functional coordination across stores, distribution centers, and market delivery operations.
+
+### ADB Safegate — Score 65
+
+- **Revenue**: $440M
+- **Employees**: 900
+- **Industry**: Airport Technology
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Funding** (2017-07-15): Carlyle Group acquired ADB Safegate for $1B in 2017; CPP Investments joined as co-investor — now 8+ years into PE ownership, approaching typical exit timeline
+- **Transformation** (2025-01-01): Airside 4.0 platform launch: integrating gate, airfield, and tower solutions into unified digital offering — requires cross-functional product coordination
+- **Partnership** (2025-03-01): Won 2025 Airport Technology Excellence Awards for Strategic Storytelling, Intelligent Infrastructure R&D, and Community Innovation — signals market positioning for exit
+
+**Entry Point**
+
+Chief Operating Officer or VP of Global Operations — responsible for coordinating delivery across 175 countries and integrating the Gate/Airfield/Tower product lines into the unified Airside 4.0 platform.
+
+**Conversation Hook**
+
+ADB Safegate has been under Carlyle ownership since 2017 — that's a long hold for PE, which means the next 12-18 months likely bring a strategic event (exit, secondary, bolt-on). McChrystal can help prepare the operating model for whatever comes next.
+
+**Why They Fit**
+
+ADB Safegate is a PE-backed airport technology company navigating the classic Carlyle playbook — consolidate a niche market, drive operational efficiency, and position for exit. With 8+ years under Carlyle ownership, the company is likely approaching a strategic inflection: either a secondary sale, IPO, or further bolt-on acquisitions requiring organizational integration.
+
+## Tier 3 — Unconventional
+
+### Los Angeles Police Department — Score 90
+
+- **Revenue**: $3.3B
+- **Employees**: 11K+
+- **Industry**: Law Enforcement
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **Leadership Change** (2024-11-01): Chief Jim McDonnell took over in November 2024, elevated three deputy chiefs and resurrected a dormant bureau in his first major restructuring
+- **Reorg** (2025-01-15): RAND organizational assessment delivered 50+ reform proposals covering staffing, discipline, morale, and organizational simplification
+- **Transformation** (2025-03-01): City commission proposed expanding City Council oversight power over LAPD, fundamentally changing governance structure
+- **Hiring Surge** (2025-04-01): Civilian workforce at lowest level in 20+ years (2,650); 409 civilian positions proposed for elimination in FY2025-26 budget while sworn attrition outpaces hiring
+
+**Entry Point**
+
+Deputy Chief Emada Tingirides — newly elevated by Chief McDonnell, overseeing community-facing bureaus where culture reform and cross-functional coordination are most critical.
+
+**Conversation Hook**
+
+RAND's 50+ reform proposals for LAPD mirror the kind of organizational simplification McChrystal Group implemented at JSOC — the challenge isn't the recommendations, it's building the operating model to execute them simultaneously while staffing hits 30-year lows.
+
+**Why They Fit**
+
+New chief executing major leadership shake-up while navigating 30-year low in staffing, RAND-recommended organizational restructuring, and proposed governance changes shifting City Council oversight power — a convergence of culture reform, restructuring, and leadership transition that maps directly to McChrystal's crisis leadership and organizational transformation capabilities.
+
+### Seattle Police Department — Score 79
+
+- **Revenue**: $462M
+- **Employees**: 1K+
+- **Industry**: Law Enforcement
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **Hiring Surge** (2025-10-27): Hiring surge: 150+ new officers in 2025 (6x increase from prior years), 3,300+ applicants, $26M budget add for 86 net new officers in 2026
+- **Transformation** (2025-12-11): CARE Department permanently expanded with direct dispatch authority, 24 new crisis responder positions, civilian investigators for accountability
+- **Leadership Change** (2025-11-01): Chief Shon Barnes faces uncertain future under incoming Mayor-elect Katie Wilson; leadership transition creates strategic inflection point
+- **Reorg** (2025-04-01): Internal email from top official describes department as 'increasingly unstable' amid rapid organizational changes
+
+**Entry Point**
+
+Deputy Chief Eric Barden — oversees operational transformation and is central to integrating the CARE Department model with traditional policing operations.
+
+**Conversation Hook**
+
+SPD is trying to do something no major department has done: build a permanent civilian crisis response unit that operates alongside sworn officers with direct dispatch authority — that's a Team of Teams coordination challenge at its core.
+
+**Why They Fit**
+
+SPD is simultaneously rebuilding from a staffing crisis, integrating a parallel civilian crisis response unit (CARE Department), and facing leadership uncertainty under an incoming mayor — a complex transformation requiring cross-functional coordination between sworn, civilian, and crisis response teams.
+
+
+---
+
+# Discovery Report — March 26, 2026 10:25
+
+- **Prospects found**: 9
+- **Score range**: 65–92
+
+## Summary
+
+| # | Company | Tier | Score | Revenue | Employees | Signals |
+|---|---------|------|------:|--------:|----------:|---------|
+| 1 | Los Angeles Police Department | Tier 3 | 90 | $3.3B | 11K+ | Leadership Change, Reorg, Transformation, Hiring Surge |
+| 2 | Seattle Police Department | Tier 3 | 79 | $462M | 1K+ | Hiring Surge, Transformation, Leadership Change, Reorg |
+| 3 | NASA | Tier 1 | 80 | $24.8B | 14K+ | Reorg, Earnings Miss, Leadership Change |
+| 4 | Sandoz | Tier 1 | 83 | $11.2B | 22K+ | M And A, Transformation, Hiring Surge |
+| 5 | Ochsner Health | Tier 1 | 92 | $7.7B | 40K+ | M And A, Partnership, Transformation |
+| 6 | Banner Health | Tier 1 | 88 | $14.1B | 55K+ | Transformation, Hiring Surge, Leadership Change, Rapid Growth |
+| 7 | Baker Hughes | Tier 1 | 86 | $27.7B | 56K+ | Reorg, Transformation, Leadership Change, Rapid Growth |
+| 8 | The Home Depot | Tier 2 | 87 | $159.0B | 470K+ | Transformation, Earnings Miss, Partnership |
+| 9 | ADB Safegate | Tier 2 | 65 | $440M | 900 | Funding, Transformation, Partnership |
+
+## Tier 1 — Conventional
+
+### NASA — Score 80
+
+- **Revenue**: $24.8B
+- **Employees**: 14K+
+- **Industry**: Federal Agency
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Reorg** (2025-06-25): Project Athena: new administrator proposing top-level agency reorganization to cut bureaucracy and push commercial approach to space missions
+- **Earnings Miss** (2025-05-01): FY2026 budget proposed at $18.8B — a 24% cut from FY2025, lowest inflation-adjusted funding since 1961; science budget cut 47%
+- **Reorg** (2025-07-26): Nearly 4,000 employees departed through deferred resignation program and layoffs — 20% workforce reduction across all centers
+- **Leadership Change** (2025-10-01): New NASA administrator taking over after year of leadership uncertainty, proposing fundamentally different agency operating model
+
+**Entry Point**
+
+Janet Petro, Center Director at Kennedy Space Center — oversees one of NASA's largest centers and is navigating workforce reductions while maintaining launch operations, making her a champion-level leader who feels the transformation pain daily.
+
+**Conversation Hook**
+
+Project Athena is asking NASA to cut bureaucracy and move faster with fewer people — that's the exact transformation JSOC went through, and the lesson is that speed requires shared consciousness, not just fewer layers.
+
+**Why They Fit**
+
+NASA is undergoing the most dramatic organizational transformation in its history — simultaneous 24% budget cuts, 20% workforce reduction, top-level reorganization (Project Athena), and a pivot to commercial partnerships — creating exactly the kind of VUCA environment where McChrystal's operating model expertise is most needed.
+
+### Sandoz — Score 83
+
+- **Revenue**: $11.2B
+- **Employees**: 22K+
+- **Industry**: Pharmaceuticals
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2023-10-04): Completed spinoff from Novartis in October 2023, becoming the world's largest standalone generics/biosimilars company
+- **Transformation** (2024-11-01): Building standalone corporate identity, culture, and operating model after decades as Novartis division; new Basel HQ inaugurated November 2024
+- **M And A** (2025-11-01): Acquired Just-Evotec Biologics (JEB) including biologics manufacturing facility in Toulouse — first major standalone acquisition signaling growth strategy
+- **Hiring Surge** (2025-06-01): Investing $90M in new Biosimilar Technical Development Center in Slovenia, due 2026 — significant capacity buildout requiring organizational scaling
+
+**Entry Point**
+
+Muzzamil Khider Ahmed, Chief People and Culture Officer — newly promoted to the executive leadership team, directly responsible for building Sandoz's standalone culture and organizational identity post-spinoff.
+
+**Conversation Hook**
+
+Sandoz just completed the hardest part of a spinoff — legal separation. Now comes the harder part: building a culture and operating model that's Sandoz, not 'ex-Novartis.' That identity transformation is where most spinoffs stall.
+
+**Why They Fit**
+
+Sandoz is in the critical post-spinoff identity-building phase — establishing standalone operations, culture, and leadership after decades as a Novartis division. The transition from division to independent company is a textbook organizational transformation where McChrystal's Team of Teams model accelerates the shift from inherited hierarchy to purpose-built operating model.
+
+### Ochsner Health — Score 92
+
+- **Revenue**: $7.7B
+- **Employees**: 40K+
+- **Industry**: Healthcare System
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **M And A** (2024-06-01): Completed merger with Rush Health Systems adding 7 hospitals and 30+ clinics in Mississippi/Alabama region
+- **Partnership** (2025-12-01): Signed affiliation agreement with Allegiance Health Management covering 12+ rural hospitals in Louisiana/Mississippi for shared clinical expertise and EPIC rollout
+- **Transformation** (2025-06-01): System-wide EPIC EHR deployment and digital tools rollout across all affiliated hospitals as integration platform
+- **Partnership** (2025-05-06): Launched Medicare Advantage engagement solution with Vitality Group — first client for innovative value-based care model
+
+**Entry Point**
+
+Chief Operating Officer or SVP of Integration — the leader managing the operational integration of newly merged systems (Rush Health, Allegiance) who faces daily coordination challenges across geographically dispersed facilities.
+
+**Conversation Hook**
+
+Ochsner just signed a deal to affiliate with 12+ rural hospitals while still integrating Rush Health's 7 — that's simultaneous integration across vastly different operating environments, exactly where the Team of Teams model prevents the 'hub and spoke' trap.
+
+**Why They Fit**
+
+Ochsner is in rapid-expansion mode — integrating Rush Health's 7 hospitals, affiliating with Allegiance's 12+ rural hospitals, and deploying system-wide EPIC and digital tools — creating the classic post-merger integration challenge where disparate cultures and operating models must unify under shared consciousness.
+
+### Banner Health — Score 88
+
+- **Revenue**: $14.1B
+- **Employees**: 55K+
+- **Industry**: Healthcare System
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Transformation** (2026-01-01): CEO Amy Perry declared 'accelerating is the key going into 2026' — strategic pivot from fee-for-service to value-based care, prevention, and long-term outcomes
+- **Hiring Surge** (2026-02-02): Created new SVP of Strategy and Growth role (Adrienne Moore, started Feb 2026) plus new SVP of Finance — executive team buildout signaling strategic shift
+- **Leadership Change** (2026-02-01): Two senior executive additions in Q1 2026 reshaping strategy and finance leadership as Banner repositions for growth
+- **Rapid Growth** (2025-09-30): $338M operating income through first three quarters of 2025 (2.8% margin, up from 1.8%) — financial momentum creating budget for transformation investments
+
+**Entry Point**
+
+Adrienne Moore, SVP of Strategy and Growth (started Feb 2026) — newly created role overseeing M&A, market strategy, and innovation. She's building the playbook and would be receptive to external operating model expertise.
+
+**Conversation Hook**
+
+Banner created a brand-new SVP of Strategy & Growth role in February 2026 — that's a signal the leadership team knows the current operating model won't support their acceleration goals. McChrystal can help design the cross-functional alignment that makes the strategy executable.
+
+**Why They Fit**
+
+Banner Health is entering 2026 with a mandate to 'accelerate' — transforming from fee-for-service to value-based care while managing rising costs, regulatory volatility, and workforce challenges. New SVP of Strategy & Growth role signals M&A ambitions. CEO Perry's 'One Team' culture push is exactly the kind of alignment initiative McChrystal specializes in.
+
+### Baker Hughes — Score 86
+
+- **Revenue**: $27.7B
+- **Employees**: 56K+
+- **Industry**: Energy Services
+- **Tier**: Tier 1 — Conventional
+
+**Signals**
+
+- **Reorg** (2024-09-03): Major restructuring: simplified from four product companies into two reporting segments (OFSE and IET), targeting $150M+ in cost savings
+- **Transformation** (2025-01-01): Targeting 20% IET margins by 2026 and 20% company-wide margins by 2028 — transformation actions drove over half of 1.7pp margin improvement in 2024
+- **Leadership Change** (2024-09-03): CHRO Deanna Jones transitioned out; new Chief People and Culture Officer promoted to executive leadership team
+- **Rapid Growth** (2025-01-31): Record revenues and EBITDA for second consecutive year; 20%+ EBITDA growth; $40B IET order target over three years
+
+**Entry Point**
+
+Chief People and Culture Officer — managing the human side of the restructuring: integrating teams across legacy product companies while building a unified culture.
+
+**Conversation Hook**
+
+Baker Hughes is trying to capture $150M in cost savings by merging four product companies into two — but the real challenge isn't the org chart, it's making the people in OFSE and IET actually operate as integrated teams instead of four companies wearing two labels.
+
+**Why They Fit**
+
+Baker Hughes is in the middle of a fundamental restructuring — collapsing four product companies into two segments to drive $150M+ in cost savings while simultaneously pursuing aggressive margin targets and energy transition positioning. This is a classic organizational simplification challenge where siloed legacy structures must give way to integrated cross-functional operations.
+
+## Tier 2 — Adjacent
+
+### The Home Depot — Score 87
+
+- **Revenue**: $159.0B
+- **Employees**: 470K+
+- **Industry**: Retail
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Transformation** (2025-06-01): 'One Supply Chain' transformation: 200 facilities added over 8 years, 55% of deliveries now same/next-day (tripled from 2022), fundamental network redesign
+- **Transformation** (2025-12-09): Strategic pivot to 'win the pro' — professional contractor segment requires different operating model for delivery, credit, and relationship management
+- **Earnings Miss** (2025-09-01): Fiscal 2025 earnings projected to decline 1.3% YoY; consumer weakness in home improvement spending amid high interest rates
+- **Partnership** (2025-03-01): Aggressive supply chain diversification away from China to limit tariff impact — forcing multi-country sourcing coordination
+
+**Entry Point**
+
+SVP of Supply Chain or VP of One Supply Chain Operations — the leader managing the integration of nearly 200 new facilities into existing operations and coordinating across store ops, distribution, and last-mile delivery.
+
+**Conversation Hook**
+
+Home Depot tripled same-day delivery by adding nearly 200 facilities in 8 years — but now the 'One Supply Chain' vision has to connect all those nodes into a coordinated system. That's the difference between adding capacity and building an integrated operating model.
+
+**Why They Fit**
+
+Home Depot is executing a complex, multi-year supply chain and go-to-market transformation — adding 200 facilities, tripling same-day delivery, and pivoting toward the pro customer segment — while managing tariff uncertainty and fierce competition from Lowe's. The 'One Supply Chain' vision requires unprecedented cross-functional coordination across stores, distribution centers, and market delivery operations.
+
+### ADB Safegate — Score 65
+
+- **Revenue**: $440M
+- **Employees**: 900
+- **Industry**: Airport Technology
+- **Tier**: Tier 2 — Adjacent
+
+**Signals**
+
+- **Funding** (2017-07-15): Carlyle Group acquired ADB Safegate for $1B in 2017; CPP Investments joined as co-investor — now 8+ years into PE ownership, approaching typical exit timeline
+- **Transformation** (2025-01-01): Airside 4.0 platform launch: integrating gate, airfield, and tower solutions into unified digital offering — requires cross-functional product coordination
+- **Partnership** (2025-03-01): Won 2025 Airport Technology Excellence Awards for Strategic Storytelling, Intelligent Infrastructure R&D, and Community Innovation — signals market positioning for exit
+
+**Entry Point**
+
+Chief Operating Officer or VP of Global Operations — responsible for coordinating delivery across 175 countries and integrating the Gate/Airfield/Tower product lines into the unified Airside 4.0 platform.
+
+**Conversation Hook**
+
+ADB Safegate has been under Carlyle ownership since 2017 — that's a long hold for PE, which means the next 12-18 months likely bring a strategic event (exit, secondary, bolt-on). McChrystal can help prepare the operating model for whatever comes next.
+
+**Why They Fit**
+
+ADB Safegate is a PE-backed airport technology company navigating the classic Carlyle playbook — consolidate a niche market, drive operational efficiency, and position for exit. With 8+ years under Carlyle ownership, the company is likely approaching a strategic inflection: either a secondary sale, IPO, or further bolt-on acquisitions requiring organizational integration.
+
+## Tier 3 — Unconventional
+
+### Los Angeles Police Department — Score 90
+
+- **Revenue**: $3.3B
+- **Employees**: 11K+
+- **Industry**: Law Enforcement
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **Leadership Change** (2024-11-01): Chief Jim McDonnell took over in November 2024, elevated three deputy chiefs and resurrected a dormant bureau in his first major restructuring
+- **Reorg** (2025-01-15): RAND organizational assessment delivered 50+ reform proposals covering staffing, discipline, morale, and organizational simplification
+- **Transformation** (2025-03-01): City commission proposed expanding City Council oversight power over LAPD, fundamentally changing governance structure
+- **Hiring Surge** (2025-04-01): Civilian workforce at lowest level in 20+ years (2,650); 409 civilian positions proposed for elimination in FY2025-26 budget while sworn attrition outpaces hiring
+
+**Entry Point**
+
+Deputy Chief Emada Tingirides — newly elevated by Chief McDonnell, overseeing community-facing bureaus where culture reform and cross-functional coordination are most critical.
+
+**Conversation Hook**
+
+RAND's 50+ reform proposals for LAPD mirror the kind of organizational simplification McChrystal Group implemented at JSOC — the challenge isn't the recommendations, it's building the operating model to execute them simultaneously while staffing hits 30-year lows.
+
+**Why They Fit**
+
+New chief executing major leadership shake-up while navigating 30-year low in staffing, RAND-recommended organizational restructuring, and proposed governance changes shifting City Council oversight power — a convergence of culture reform, restructuring, and leadership transition that maps directly to McChrystal's crisis leadership and organizational transformation capabilities.
+
+### Seattle Police Department — Score 79
+
+- **Revenue**: $462M
+- **Employees**: 1K+
+- **Industry**: Law Enforcement
+- **Tier**: Tier 3 — Unconventional
+
+**Signals**
+
+- **Hiring Surge** (2025-10-27): Hiring surge: 150+ new officers in 2025 (6x increase from prior years), 3,300+ applicants, $26M budget add for 86 net new officers in 2026
+- **Transformation** (2025-12-11): CARE Department permanently expanded with direct dispatch authority, 24 new crisis responder positions, civilian investigators for accountability
+- **Leadership Change** (2025-11-01): Chief Shon Barnes faces uncertain future under incoming Mayor-elect Katie Wilson; leadership transition creates strategic inflection point
+- **Reorg** (2025-04-01): Internal email from top official describes department as 'increasingly unstable' amid rapid organizational changes
+
+**Entry Point**
+
+Deputy Chief Eric Barden — oversees operational transformation and is central to integrating the CARE Department model with traditional policing operations.
+
+**Conversation Hook**
+
+SPD is trying to do something no major department has done: build a permanent civilian crisis response unit that operates alongside sworn officers with direct dispatch authority — that's a Team of Teams coordination challenge at its core.
+
+**Why They Fit**
+
+SPD is simultaneously rebuilding from a staffing crisis, integrating a parallel civilian crisis response unit (CARE Department), and facing leadership uncertainty under an incoming mayor — a complex transformation requiring cross-functional coordination between sworn, civilian, and crisis response teams.

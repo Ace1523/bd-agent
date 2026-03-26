@@ -148,41 +148,15 @@ Comprehensive dossiers a Senior Partner can read in under 10 minutes. Ten sectio
    - **Brand threats** — competitive disintermediation, invisibility risks, market perception gaps. Where is the brand vulnerable, and does that vulnerability trace back to an organizational problem?
    - **Major brand investments** — sponsorships, partnerships, campaigns that create organizational coordination demands (e.g., global event activations requiring cross-functional teamwork)
    - The through-line: brand insights should connect back to McChrystal fit — brands that promise cross-functional agility, global coordination, or cultural transformation but lack the operating model to deliver are prime engagement targets
-9. **Deep McChrystal Group Fit Analysis** — the most important section. Goes beyond the Sec 6 Fit Assessment to build the full strategic case a Senior Partner reads to decide whether to pursue. Must include ALL of the following subsections (reference the Visa Inc. dossier as the gold standard):
+9. **Deep McChrystal Group Fit Analysis** — the most important section. The full strategic case a Senior Partner reads to decide whether to pursue. Reference the Visa Inc. dossier as gold standard. Must include ALL 6 subsections:
+   - **9a. Fit Dimensions** (3-6) — each with specific problem, why McChrystal vs. competitors (not "we're better" but "McKinsey solves strategy; we solve the operating model"), timing/urgency
+   - **9b. Cumulative Case** — synthesize dimensions into thesis, reinforcing signal chain, revenue potential estimate ($X initial → $Y expanded → $Z ongoing)
+   - **9c. Enterprise Issues** (5-8) — deep on specific organizational dysfunction mechanisms, each connected to a McChrystal capability
+   - **9d. Expected Outcomes** (5-7) — measurable results a Senior Partner could put in a proposal (e.g., "reduce cross-functional decision cycle time by 40-60%")
+   - **9e. Stakeholder & Business Unit Map** — table format (Business Unit | Leader | Function | McChrystal Relevance), all major units, engagement priority list
+   - **9f. Opportunity Thesis** — signal convergence (why now), structural paradox (why McChrystal not McKinsey), phased engagement with dollar ranges, competitive displacement strategy, multi-threaded pursuit map (2-3 parallel outreach threads + warm intro vectors)
 
-   **9a. Fit Dimensions (3-6 reinforcing dimensions)**
-   - Each dimension gets its own `### Fit Dimension N: Title` subsection
-   - For each: the specific problem, why McChrystal is uniquely positioned vs. competitors (McKinsey, Deloitte, Korn Ferry, etc.), and timing/urgency factors
-   - Competitor displacement logic per dimension — not "we're better than McKinsey" but "McKinsey solves strategy; we solve the operating model that lets strategy execute"
-
-   **9b. Cumulative Case — Why [Company] Is a Top Pipeline Opportunity**
-   - Synthesize all dimensions into a clear thesis
-   - List the reinforcing signal chain (how each dimension amplifies the others)
-   - Include revenue potential estimate ($X initial, $Y expanded, $Z ongoing)
-
-   **9c. Enterprise Issues & Organizational Challenges**
-   - 5-8 detailed problem areas, each its own numbered subsection with a bold title
-   - Go deep on the specific organizational dysfunction — not generic "they have silos" but the exact mechanism of how the dysfunction manifests (e.g., "eliminated scrum masters during a layoff that demanded more coordination, not less")
-   - Connect each issue to a McChrystal capability
-
-   **9d. Expected Outcomes from McChrystal Group Engagement**
-   - 5-7 concrete, measurable outcomes a Senior Partner could put in a proposal
-   - Each outcome: bold title, 2-3 sentence description of what McChrystal would deliver, specific measurable result (e.g., "reduce cross-functional decision-making cycle time by 40-60%")
-
-   **9e. Key Stakeholders & Business Unit Map**
-   - Table format: Business Unit | Leader | Function | McChrystal Relevance
-   - Cover all major business units, not just the C-suite
-   - Flag which units are priority engagement targets and why
-   - Include a stakeholder engagement priority list (numbered, with rationale for each)
-
-   **9f. Opportunity Thesis**
-   - **Strategic Signal Convergence — Why Now**: explain how multiple signals compound each other's organizational impact. Use a signal chain showing causation (→ arrows)
-   - **The Structural Paradox — Why McChrystal, Not McKinsey**: articulate why incumbent advisors can't solve this problem. Be specific about which firms are likely engaged and why they leave a gap
-   - **Phased Engagement Hypothesis — Land and Expand**: 3-phase plan with dollar ranges, timelines, and specific scope for each phase. Phase 1 must be a bounded beachhead. Explain why this specific beachhead (not just "start small")
-   - **Competitive Displacement Strategy**: how to get past procurement, bypass incumbent advisor relationships, and position McChrystal as a complement not a competitor
-   - **Multi-Threaded Pursuit Map**: 2-3 parallel outreach threads targeting different contacts with different angles, plus warm introduction vectors (McChrystal personal network, board connections, conference proximity, military/veteran angles)
-
-   Quality standard: every claim must be grounded in specific facts from earlier dossier sections or web research — no generic assertions about "McChrystal's unique capabilities"
+   Quality standard: every claim grounded in facts from earlier sections or web research — no generic assertions
 
 **Fit Rating Criteria:**
 - **Strong** — Problem directly maps to a McChrystal capability AND at least 2 of: active trigger event (last 6 months), clear economic buyer identified, budget likely exists (revenue >$1B or known transformation spend), low competitive barrier, organizational urgency (crisis, deadline, board pressure)
@@ -317,6 +291,7 @@ Replace semantics ensure stale articles are removed on refresh.
 - Report: `bd/market/report.py` — `generate_market_report()`
 - Save: `bd/save.py` — `save_market_intelligence()`, `clear_market_intelligence()`
 - Status: `python3 populate_markets.py --status` — prints freshness table for all sectors
+- Candidate scan: `python3 scan_candidates.py` — shows new vs. already-tracked prospect candidates from market intel
 
 ### Phase 4: Proposals (coming soon)
 AI-drafted proposals using McChrystal Group's historical proposals as reference material. Claude Code is the engine — no training pipeline, no APIs.
@@ -343,37 +318,15 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 
 ### Execution Strategy
 
-**Step 0: Mine Market Intelligence**
-- Before discovery, scan `market_intelligence` in `dashboard.json` for companies mentioned in articles that show ICP signals
-- Cross-reference against existing prospects in `dashboard.json` to avoid duplicates
-- Populate `prospect_candidates` on each `MarketSector` with companies worth investigating
-- Best candidates become Source A in discovery; fresh web research becomes Source B
+**Step 0: Mine Market Intelligence** — scan `market_intelligence` in `dashboard.json` for prospect candidates, cross-reference against existing pipeline to avoid duplicates. Use `python3 scan_candidates.py` for a quick view. Best candidates become Source A; fresh web research becomes Source B.
 
-**Step 1: Discover (sequential, thorough)**
-- Claude Code performs web research to identify prospects — this is NOT delegated to subagents because prospect selection requires judgment, cross-referencing, and deduplication against existing prospects in `dashboard.json`
-- For each prospect: verify with multiple sources, confirm revenue/employee data, identify specific trigger events with dates, find named leadership contacts
-- Do NOT select generic Fortune 500 companies — every prospect must have a specific, current reason McChrystal Group should reach out NOW
-- Build `Prospect` objects, score with `score_prospect()`, generate report with `generate_report()`
+**Step 1: Discover (sequential, main conversation)** — Claude Code performs web research directly (NOT subagents — requires judgment and deduplication). Verify each prospect with multiple sources, confirm revenue/employees, identify trigger events with dates. No generic Fortune 500 — every prospect needs a specific, current reason to reach out NOW. Build `Prospect` objects → `score_prospect()` → `generate_report()`.
 
-**Step 2: Research (parallel subagents for research, main conversation saves)**
-- Split prospects into batches of 3-4 companies
-- Launch 2-3 subagents in parallel — each does web research and returns structured dossier data as text (subagents do NOT run Python or save files — they lack Bash permission)
-- Main conversation receives research results from subagents, then builds `Dossier` objects and calls `generate_dossier_report()` in batches of 2-3 using inline Python scripts
-- Each subagent must search for: recent news (last 6 months), leadership bios, Glassdoor/culture signals, financial data, competitor presence, McChrystal-specific fit angles, brand value/rankings, CMO/marketing strategy, brand campaigns, sponsorships, and competitive brand positioning
-- Subagent prompt must include: company name, industry, revenue, employee count, tier, signals, and the full dossier section requirements from Phase 2
-- **Brand Insights (Sec 8)** — subagents must research the company's brand value (Kantar, Interbrand rankings if available), current brand strategy and campaigns, CMO vision, brand threats (competitive disintermediation, market perception gaps), and major brand investments (sponsorships, partnerships). Connect every insight back to an organizational coordination challenge McChrystal can address
-- **Deep McChrystal Fit Analysis (Sec 9)** — this is the most critical section and must match the depth of the Visa Inc. dossier. Subagents must produce ALL six subsections (9a–9f): fit dimensions with competitor displacement logic, cumulative case with revenue estimate, enterprise issues (5-8 detailed problems), expected outcomes (5-7 measurable deliverables), key stakeholders & business unit map (table format covering all major units), and full opportunity thesis (signal convergence, structural paradox, phased engagement with dollar ranges, competitive displacement strategy, multi-threaded pursuit map with 2-3 parallel outreach threads). This is the section a Senior Partner reads to decide whether to pursue — it must be specific, strategic, and non-generic. Every claim grounded in facts from earlier sections or web research
+**Step 2: Research (parallel subagents, main conversation saves)** — batch 3-4 companies per subagent (2-3 in parallel). Subagents do web research only (no Bash). Prompt must include company details + full dossier section requirements from Phase 2. Subagents must cover: recent news, leadership bios, Glassdoor/culture, financials, competitor presence, brand insights (Sec 8), and deep fit analysis (Sec 9 — all 6 subsections at Visa Inc. quality). Main conversation builds `Dossier` objects and calls `generate_dossier_report()`.
 
-**Step 3: Outreach (main conversation builds and saves)**
-- Outreach does not require web research per prospect — dossier data is already available in `dashboard.json`
-- Main conversation builds all `OutreachPackage` objects directly using inline Python scripts, in batches of 5 companies per script
-- Each package: loads dossier data from `dashboard.json`, builds `OutreachPackage` with 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage`, calls `generate_outreach_report()`
-- Target contact must be a champion-level contact (VP/SVP/CTO/Head of Strategy), NOT the CEO
+**Step 3: Outreach (main conversation)** — no web research needed, dossier data already in `dashboard.json`. Build `OutreachPackage` objects in batches of 5 using inline Python. Each: 3 `ColdEmail` versions (A/B/C) + 1 `LinkedInMessage`. Target champion-level contacts (VP/SVP/CTO), NOT the CEO.
 
-**Step 4: Verify & Deploy**
-- Run `pipeline_status()` to confirm all prospects have dossiers and outreach
-- Verify `dashboard.json` has the correct count of outreach packages
-- Push to GitHub to update the live dashboard
+**Step 4: Verify & Deploy** — `pipeline_status()` to confirm completeness, push to GitHub.
 
 **Research quality gates (every step):**
 - Every fact should come from a web search, not from model knowledge — model knowledge is used to frame and contextualize, not as a primary source
@@ -394,6 +347,7 @@ Claude Code can run the full BD pipeline (discover -> research -> outreach) with
 - `bd/pipeline.py` — `get_existing_prospects()`, `pipeline_status()`, `clear_phase()`, `generate_missing_pdfs()` for orchestration
 - `bd/save.py` — saves Markdown reports + updates dashboard JSON + auto-generates PDF dossiers; `clear_outreach()` resets outreach data; `save_market_intelligence()` / `clear_market_intelligence()` for market data
 - `generate_dossier_pdf.py` — `generate_pdf()`, `generate_pdf_from_dossier()`, `find_dossier()` — branded PDF dossier generation with McChrystal branding, ICP scoring methodology, and Latin-1 text handling
+- `scan_candidates.py` — extracts `prospect_candidates` from market intelligence sectors, fuzzy-matches against existing pipeline, prints new vs. already-tracked candidates grouped by sector. Run: `python3 scan_candidates.py`
 - `import_linkedin.py` — reads ATL_BD enriched Excel workbooks, writes `docs/connections.json`. Run: `python3 import_linkedin.py`. Includes multi-board leader propagation: if a leader appears at multiple target companies and has an MG contact at one, that contact is automatically applied to all their companies. Also excludes companies in `EXCLUDED_COMPANIES` list (currently: Booz Allen Hamilton)
 - `docs/` — static HTML/CSS/JS dashboard, deployed via GitHub Pages at https://ace1523.github.io/bd-agent/
 - `docs/connections.html` — standalone LinkedIn Connections page (light theme), also embedded in main dashboard via iframe
@@ -452,6 +406,7 @@ Categories are derived at render time from the existing `industry` field via `ca
 - Industry category filter pills on Pipeline, Research, and Outreach views — "All" groups cards by category with subheaders; clicking a category filters to just those cards
 - Company search bar (top-right nav) — searches across all views, clicking a result navigates and auto-expands the card
 - Click-to-expand cards on Pipeline, Research, and Outreach views
+- **Warm Path auto-matching** — on page load, `buildWarmPathsMap()` indexes all companies from `connections.json`, then every Pipeline/Research/Outreach card calls `getWarmPaths(companyName)` with fuzzy substring matching. If a prospect matches a LinkedIn connections company, a "Warm Path" badge appears showing MG partner names and connection counts, with a deep link to the Connections tab. Star (★) indicates executive-level MG contact. Fully automatic — any new prospect added to the pipeline is checked against connections on next render
 - All data reads from `docs/dashboard.json` which is synced from `data/dashboard.json` by `save.py`
 - Color palette: McChrystal orange (`#da6123`) for brand accents, muted neutrals for UI elements
 

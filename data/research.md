@@ -8997,3 +8997,1638 @@ Leonardo DRS is the highest-conviction prospect in the defense batch — ICP-swe
 - **Thread 2**: Naval Power Systems leader — Charleston facility. Angle: "Building a nuclear submarine propulsion manufacturing culture from scratch — what's the organizational design for that?" Technical, specific, shows understanding.
 - **Thread 3**: John Baylouny (CEO) — executive sponsor via defense industry network. New CEO is establishing his approach; a McChrystal introduction through defense network connections creates early relationship.
 - **Warm Introduction Vectors**: Naval community (submarine warfare, NAVSEA); defense electronics conferences; McChrystal's military connections with Navy programs that use DRS equipment; Charleston SC defense/military community.
+
+
+---
+
+# Research Dossier — Los Angeles Police Department
+
+## Organization Snapshot
+
+- **Legal Name**: City of Los Angeles Police Department
+- **Headquarters**: 100 W. 1st Street, Los Angeles, CA 90012
+- **Founded**: 1869
+- **Industry**: Law Enforcement
+- **Revenue**: $3.3B
+- **Employees**: 11K+
+- **Ownership**: Municipal government agency under the City of Los Angeles; governed by the Board of Police Commissioners (civilian oversight appointed by the Mayor)
+- **Geographic Footprint**: 473 square miles across 21 geographic patrol divisions (4 bureaus: Central, South, Valley, West), serving ~4 million residents. Third-largest municipal police department in the US
+- **ICP Score**: 90
+- **Tier**: Tier 3
+
+## Financial Health & Growth Stage
+
+**Budget:** ~$3.3B for FY 2025-2026, largest line item in City of LA General Fund (~40% of General Fund, ~47% of discretionary funds)
+
+**Fiscal pressures:** City faces ~$800M budget shortfall from lower-than-projected revenues, wildfire recovery costs, and volatile stock markets. Mayor Bass initially proposed eliminating 409 civilian positions
+
+**Resolution:** Police Protective League agreed to overtime-as-PTO deal, averting civilian layoffs
+
+**Supplemental funding:** $625M congressional allocation for 2026 World Cup security; $1B for 2028 Olympics security
+
+**Recruitment:** Plans 13 academy classes producing 585 new recruits in FY 2025-2026 — target of 45 officers/month that LAPD has not consistently reached
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Emada Tingirides** — Assistant Chief, Director of Office of Operations
+- Tenure: 30-year LAPD veteran, elevated 2025
+- Background: Designed the Community Safety Partnership program with civil rights attorney Connie Rice. M.A.S. Criminology UC Irvine. Public Official of the Year (Governing Magazine 2015)
+- Why target: Leads operational transformation of community policing model across all 21 divisions. Most natural champion for McChrystal's operating model work — her CSP program is philosophically identical to Team of Teams
+- Notes: Oversees all 21 patrol divisions, CSP Bureau, and youth outreach
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Jim McDonnell | Chief of Police | Since November 2024 | 29-year LAPD veteran; former Long Beach Police Chief and LA County Sheriff. Boston native, B.A. Criminal Justice from St. Anselm College | Executive sponsor, not outreach target. Data-driven reform approach |
+| Emada Tingirides | Assistant Chief, Director of Office of Operations | 30-year LAPD veteran, elevated 2025 | Designed the Community Safety Partnership program with civil rights attorney Connie Rice. M.A.S. Criminology UC Irvine. Public Official of the Year (Governing Magazine 2015) | Oversees all 21 patrol divisions, CSP Bureau, and youth outreach; [Profile](https://www.linkedin.com/in/emada-tingirides-a3b48379) |
+| Michael Rimkunas | Deputy Chief | Elevated 2025 | Promoted in McDonnell's first major leadership shake-up | Specific bureau assignment unavailable |
+| Scott Harrelson | Deputy Chief | Elevated 2025 | Promoted in McDonnell's first major leadership shake-up | Specific bureau assignment unavailable |
+| German Hurtado | Deputy Chief, Central Bureau | Promoted 2025 | Newly promoted in 2025 reorganization | Receptive to new frameworks as new appointee |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Highly hierarchical paramilitary command structure. 4 geographic bureaus (Central, South, Valley, West) plus specialized bureaus (Detective, Counter-Terrorism, Training, Community Safety Partnership). Multiple layers between patrol officers and Chief's office
+
+**RAND findings:** Morale is low department-wide — driven by staffing shortfalls, cumbersome complaint/discipline system, disconnected leadership. Glassdoor: 3.4/5 overall, 2.6/5 culture.
+
+**Key issues:** Discipline system seen as punitive not developmental; suburban agencies competing for talent with better quality of life; community trust varies dramatically by division (Watts/South LA deeply distrusting vs. West LA stronger). Post-wildfire strain further stretched depleted force.
+
+**Transformation programs:** Community Safety Partnership (CSP) operating at 10 sites; RAND-driven reorganization pending; World Cup/Olympics preparation driving cross-agency exercises
+
+## Recent News & Trigger Events
+
+- [2024-11-08] — **Chief Jim McDonnell sworn in as 59th Chief of Police** — First new permanent chief in years — leadership change with reform mandate from Mayor Bass. Prime engagement window
+- [2025-01-15] — **Palisades/Eaton wildfires devastate Los Angeles** — Exposed cross-functional coordination challenges and resource allocation gaps under extreme stress — direct Team of Teams application
+- [2025-03-01] — **RAND Corporation delivers organizational assessment with 50+ reform proposals** — External validation of organizational dysfunction McChrystal can address — RAND diagnoses, McChrystal implements operating model solutions
+- [2025-04-01] — **City budget crisis threatens 409 LAPD civilian layoffs amid $800M shortfall** — Resource-constrained transformation requires efficiency-through-alignment — doing more with less through better coordination
+- [2025-06-01] — **McDonnell executes first major leadership shake-up: elevates Tingirides, Rimkunas, Harrelson** — New leadership team needs shared operating model and common language for transformation
+- [2025-07-01] — **Staffing projected to hit 30-year low (~8,620 by mid-2026)** — Forces rethinking of how work gets done with fewer people — cross-functional collaboration, civilian-sworn integration, empowered execution
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Active trigger events (new chief, RAND assessment, budget crisis, wildfire aftermath), clear entry through multi-agency event coordination, federal event security funding ($625M), low competitive barrier, and deadline-driven urgency (World Cup June 2026 is 14 months away)
+
+**Primary Problem**: LAPD must simultaneously transform its internal operating model (RAND recommendations), rebuild a depleted workforce, maintain public safety during a fiscal crisis, and prepare for the most complex security operations in department history (World Cup 2026, Olympics 2028) — all under a new chief with a new command team
+
+**Best Capability Fit**: Team of Teams operating model for cross-functional and multi-agency coordination; leadership development for newly constituted command staff; organizational design to simplify hierarchical structure; crisis leadership for the 2026-2028 event corridor
+
+**Likely Objections**
+
+- We're a government agency — we can't afford boutique consulting
+- RAND already gave us the playbook
+- We've been through reform cycles before
+- Political sensitivity around outside influence on policing
+
+**Competitive Landscape**
+
+- RAND Corporation (engaged for assessment — diagnoses, doesn't implement)
+- Police Executive Research Forum (PERF — thought leadership, not sustained engagement)
+- No sustained organizational transformation firm engaged
+
+## Conversation Entry Points
+
+- **Q**: Chief McDonnell, you've got 50 RAND recommendations, a new command team, and the World Cup 14 months out — how are you sequencing the transformation so you don't have to choose between reform and readiness?
+  *Framing*: Position as 'the implementation partner RAND can't be' — RAND diagnosed, McChrystal operationalizes
+- **Q**: You built CSP from scratch with Connie Rice — that relationship-based model is essentially Team of Teams at the division level. As you scale that philosophy across all 21 divisions with a depleted force, what's the biggest structural barrier?
+  *Framing*: For AC Tingirides — connect CSP philosophy to McChrystal's operating model
+- **Q**: The World Cup and Olympics require LAPD to lead coordination across 20+ agencies with different cultures and chains of command. How are you building the shared consciousness to operate as a single network?
+  *Framing*: Use JSOC multi-agency analogy — McChrystal literally solved this problem in Iraq
+
+**Recommended First Meeting Framing**: Position as 'the implementation partner that turns RAND's diagnosis into operational reality.' Frame around event corridor deadline: 'You don't have time for multi-year transformation — you need an operating model that delivers results by June 2026.'
+
+## Brand Insights & Market Positioning
+
+**Brand value:** One of the most recognized law enforcement brands globally. Brand recognition is both asset and liability — expectations sky-high while trust varies dramatically by community.
+
+**Brand identity evolution:** Under McDonnell, repositioning from enforcement-first toward community partnership model anchored by CSP. But the brand promise of 'community safety through partnership' runs ahead of operational reality — CSP at 10 sites while 21 divisions still operate traditionally.
+
+**Brand threats:** Suburban agencies competing for talent; high-profile use-of-force incidents can undo years of trust-building; the Jeremy Flores shooting deepened distrust in Boyle Heights.
+
+**Major brand investments:** 2026 World Cup and 2028 Olympics are the most significant brand moments in LAPD history — performance will define LAPD's brand for a generation.
+
+**McChrystal connection:** LAPD's brand gap — promising community partnership at scale while delivering it at only 10 sites — is fundamentally an organizational design problem requiring Team of Teams operating model.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Fit Dimension 1: Multi-Agency Event Coordination (World Cup 2026 / Olympics 2028)**
+LAPD must lead the largest domestic security operations in its history, coordinating with 20+ agencies (USSS, FBI, LASD, CHP, National Guard). The challenge is creating shared consciousness across agencies with different cultures, chains of command, and communication systems. McChrystal is uniquely positioned — this is literally JSOC's origin challenge. Timing: World Cup is June 2026 — 14 months away.
+
+**Fit Dimension 2: RAND Implementation Gap**
+RAND delivered 50+ recommendations but is a think tank, not an implementation partner. The gap between "50 recommendations" and "transformed organization" is exactly where McChrystal operates. No competitor is positioned for this specific implementation role.
+
+**Fit Dimension 3: New Leadership Team Alignment**
+McDonnell reorganized his entire command staff in 2025. This new team needs a shared operating framework and common language. McChrystal's methodology is designed for newly constituted teams that must perform immediately under pressure.
+
+**Fit Dimension 4: Doing More With Less**
+At 30-year staffing lows and frozen budget, LAPD cannot hire its way out. The department needs to rethink how work is distributed and how sworn-civilian roles integrate. McChrystal's empowered execution model is designed for resource-constrained environments.
+
+**Fit Dimension 5: Community Trust Through Organizational Change**
+CSP works at 10 sites but hasn't scaled because the surrounding structure still operates hierarchically. Scaling requires decentralized authority, shared information, and empowered local leaders.
+
+### 9b. Cumulative Case
+
+**Thesis:** LAPD faces a once-in-a-generation convergence — new chief, RAND mandate, fiscal crisis, staffing emergency, and a hard deadline (World Cup 2026) — demanding exactly the rapid organizational transformation McChrystal was built to deliver.
+
+**Signal chain:** New Chief (Nov 2024) -> RAND 50+ recommendations (Mar 2025) -> Budget crisis (Apr 2025) -> Leadership shake-up (Mid 2025) -> 30-year staffing low -> World Cup deadline (Jun 2026) -> Olympics (2028)
+
+**Revenue potential:** Phase 1 (World Cup readiness): $750K-$1.2M | Phase 2 (org transformation): $1M-$2M | Phase 3 (Olympics + culture): $1.5M-$3M | Total: $3.25M-$6.2M over 3 years
+
+### 9c. Enterprise Issues
+
+1. **Hierarchical Paralysis** — Multiple layers between street and decision-making authority. RAND identified organizational complexity as a barrier to agility
+2. **Discipline System as Morale Destroyer** — Cumbersome, punitive complaints process; supervisors lack authority for nondisciplinary cases
+3. **Sworn-Civilian Integration Failure** — When civilian positions cut, sworn backfill technical roles (DNA analysis, DUI processing), pulling them off patrol
+4. **Division-Level Isolation** — 21 divisions as semi-autonomous fiefdoms with limited shared consciousness
+5. **Recruitment Pipeline Breakdown** — Target 45/month, actual 21-30; year-long hiring timelines
+6. **Multi-Agency Coordination Deficit** — Current exercises test tactical response but not sustained shared consciousness
+7. **Community Trust Varies 10x Across Divisions** — No systematic approach to measuring or improving trust
+8. **Post-Wildfire Operational Debt** — January 2025 response consumed enormous resources during peak depletion
+
+### 9d. Expected Outcomes
+
+1. **World Cup-Ready Multi-Agency Operating Model** — Reduce cross-agency decision time by 50-70%. Deliverable by April 2026
+2. **RAND Implementation Roadmap** — 15-20 of 50+ recommendations implemented within 12 months
+3. **Command Team Alignment** — Reduce chief-to-division info lag from days to hours; 40%+ alignment improvement
+4. **Division-Level Empowerment** — Pilot in 3 divisions, 30%+ improvement in division-level decision response time
+5. **Civilian-Sworn Integration** — Free 50-100 sworn officers from backfill duties within 12 months
+6. **Discipline System Redesign** — 40% reduction in formal complaint escalations
+7. **Scalable CSP Model** — Deploy to 5 additional divisions within 18 months
+
+### 9e. Key Stakeholders & Business Unit Map
+
+| Unit | Leader | Function | McChrystal Relevance |
+|------|--------|----------|---------------------|
+| Office of Chief | Chief Jim McDonnell | Strategy, reform mandate | Executive sponsor |
+| Office of Operations | AC Emada Tingirides | All 21 patrol divisions, CSP | PRIMARY TARGET — operational transformation |
+| South Bureau | DC Marc Reina | Geographic patrol | Recently reassigned, brings change perspective |
+| Central Bureau | DC German Hurtado | Geographic patrol | Newly promoted, receptive |
+| Counter-Terrorism/Special Ops | [TBD] | Events, Olympics/World Cup | Direct multi-agency coordination relevance |
+| Training Bureau | [TBD] | Recruitment, academy | RAND implementation, hiring pipeline |
+| CSP Bureau | [Reports to Tingirides] | Relationship-based policing | Proving ground for decentralized model |
+| Board of Police Commissioners | [5 commissioners] | Civilian oversight | Must be briefed early — gate-keeper |
+| Police Protective League | [Union leadership] | Officer union | Critical stakeholder for buy-in |
+
+### 9f. Opportunity Thesis
+
+**Why Now:** New Chief -> RAND Assessment -> Budget Crisis -> Wildfire Aftermath -> Leadership Reorganization -> 30-Year Staffing Low -> World Cup Hard Deadline (Jun 2026) -> Olympics (2028). Each signal amplifies the others.
+
+**Why McChrystal, Not McKinsey:** RAND did the diagnostic. McKinsey/Deloitte optimize processes. LAPD's problem is how a paramilitary hierarchy operates in a VUCA environment. McChrystal uniquely combines: military credibility with police command, multi-agency coordination from JSOC, proven Team of Teams operating model, and implementation capability.
+
+**Phased Engagement:**
+- Phase 1 (6 months, $750K-$1.2M): World Cup readiness — multi-agency shared consciousness model. Hard deadline creates urgency, federal dollars fund it
+- Phase 2 (12 months, $1M-$2M): RAND implementation, command team alignment, division empowerment
+- Phase 3 (18 months, $1.5M-$3M): Olympics preparation, culture embedding across 21 divisions
+
+**Multi-Threaded Pursuit:**
+- Thread 1: AC Tingirides via CSP/Team of Teams alignment — policing conferences or reform networks
+- Thread 2: Counter-Terrorism/Special Ops via World Cup/Olympics coordination — McChrystal's JSOC proof point
+- Thread 3: LA Police Foundation (commissioned RAND study) as institutional warm introduction to Chief McDonnell
+
+
+---
+
+# Research Dossier — Seattle Police Department
+
+## Organization Snapshot
+
+- **Legal Name**: City of Seattle Police Department
+- **Headquarters**: 610 5th Avenue, Seattle, WA 98104
+- **Founded**: 1886
+- **Industry**: Law Enforcement
+- **Revenue**: $462M
+- **Employees**: 1K+
+- **Ownership**: Municipal government agency under the City of Seattle; overseen by Community Police Commission, Office of Inspector General, and Office of Police Accountability
+- **Geographic Footprint**: 83.78 square miles across 5 precincts (North, East, South, Southwest, West), serving ~750,000 residents
+- **ICP Score**: 79
+- **Tier**: Tier 3
+
+## Financial Health & Growth Stage
+
+**Budget:** $457.9M (2025), $462-486M (2026) — 15.7% increase from 2024
+
+**Key investments:** $26M for 86 net new officers in 2026; $10M one-time for overtime hot-spot patrols; $36M CARE Department investment
+
+**Overtime pressures:** Budget grew from $37M (2023) to $54M (2024) due to staffing shortfalls
+
+**Public sentiment:** Politically contentious — Council debated police vs. social services; SPOG contract approved with 3 dissenting votes
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Yvonne Underwood** — Deputy Chief, Patrol Operations/Investigations/Metro Safety/Special Ops
+- Tenure: Promoted 2025
+- Background: Oversees 4 major bureaus — operational nexus of SPD's transformation
+- Why target: Sits at the operational nexus of SPD transformation, overseeing both traditional policing and bureaus that must integrate with CARE. Natural champion for cross-functional alignment
+
+**Amy Barden** — Chief, CARE Department
+- Tenure: Multi-year
+- Background: Leads civilian crisis response alternative — 5,000+ annual crisis responses that SPOG members have documented undermining
+- Why target: Represents civilian side of the transformation — experiencing organizational sabotage directly. Would champion integration work
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Shon Barnes | Chief of Police | Since February 2025 | Ph.D. Leadership Studies NC A&T; M.S. Criminal Justice U. Cincinnati. Former Madison WI chief. DOJ subject matter expert on police leadership. No military background | Executive sponsor — academic, reform-oriented. Fourth chief in three years |
+| Yvonne Underwood | Deputy Chief, Patrol Operations/Investigations/Metro Safety/Special Ops | Promoted 2025 | Oversees 4 major bureaus — operational nexus of SPD's transformation | — |
+| Amy Barden | Chief, CARE Department | Multi-year | Leads civilian crisis response alternative — 5,000+ annual crisis responses that SPOG members have documented undermining | — |
+| Andre Sayles | Deputy Chief | Hired 2025 | External hire by Barnes — signals intent to bring new perspectives | — |
+| Mike Fields | Executive Director of Human Resources | Multi-year | Reports directly to Chief; leads all HR initiatives during hiring surge and retention challenges | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: 5 precincts, multiple specialized bureaus. Barnes decentralized authority to precinct captains — philosophically aligned with McChrystal's empowered execution model
+
+**Post-consent decree identity crisis:** 13 years of federal oversight (2012-2025) enforced behaviors without changing beliefs. Now must self-govern accountability.
+
+**Gender discrimination:** 30x30 report documented pervasive sexual harassment and discrimination against women officers (only 14.4% women, declining). Former Chief Diaz named in harassment lawsuit.
+
+**Internal instability:** Assistant chief demoted Jan 2025; another on medical leave 'due to chaos.' COO described department as 'increasingly unstable.'
+
+**SPOG resistance to CARE:** Union rep told dispatchers CARE would be 'disbanded in 2025.' Officers actively wave off civilian responders. New SPOG contract limits CARE expansion.
+
+**Glassdoor:** Mixed — good pay, supportive command staff under Barnes. 73% of exit interviews cited city leadership as reason for leaving. 'Morale and retention will never be achieved in the political climate of Seattle.'
+
+## Recent News & Trigger Events
+
+- [2025-02-01] — **Chief Shon Barnes starts as Seattle's new police chief** — Fourth chief in three years — reform-oriented academic leader receptive to McChrystal's operating model
+- [2025-04-01] — **SPD described as 'increasingly unstable' in internal communications** — Documents the organizational dysfunction Barnes inherited — validates need for external transformation support
+- [2025-09-03] — **Federal consent decree terminated after 13 years** — Inflection point — SPD must sustain reforms without external enforcement. Needs internal operating model to replace external oversight
+- [2025-10-01] — **Report documents officers systematically undermining CARE Department** — Textbook case of organizational resistance — one part of the system actively sabotaging another. McChrystal's shared consciousness work designed for exactly this
+- [2025-10-15] — **SPOG contract approved with CARE limitations; 3 Council members dissent** — Contract formalizes tension between traditional policing and alternative response — requires leadership alignment and culture change
+- [2025-12-01] — **Record hiring year: 167 officers hired, net +94, lowest attrition since 2016** — Success creates new challenge — integrating 167 new officers into a department in cultural transition
+
+## McChrystal Fit Assessment
+
+**Rating**: Moderate
+ — Clear McChrystal fit (SPD-CARE integration is Team of Teams), clear champions (Barnes, Underwood, Barden). Moderated by: political sensitivity around policing consulting in Seattle, SPOG resistance, budget is adequate but spending politically fraught
+
+**Primary Problem**: SPD must integrate two fundamentally different operating models — traditional armed police response and civilian CARE crisis response — while rebuilding culture scarred by 13 years of oversight, four chiefs in three years, gender discrimination, and active union resistance
+
+**Best Capability Fit**: Cross-functional alignment between SPD and CARE (breaking active sabotage); organizational culture change post-consent decree; leadership development for Barnes's new team; Team of Teams connecting 5 precincts with civilian response
+
+**Likely Objections**
+
+- We just got out of federal oversight — we don't need another outside entity
+- Budget scrutiny on consulting spending
+- SPOG resistance to external influence
+- We've already turned the corner (2025 hiring/crime stats)
+
+**Competitive Landscape**
+
+- University-based police reform advisors (Barnes's academic network)
+- DOJ technical assistance programs
+- 21st Century Policing consultants
+- No sustained organizational transformation firm engaged [INFERRED]
+
+## Conversation Entry Points
+
+- **Q**: You're overseeing four bureaus that all need to coordinate with CARE responders — but your officers are actively waving them off. How do you build shared consciousness between two systems that the union contract structurally separates?
+  *Framing*: For Deputy Chief Underwood — concrete operational problem
+- **Q**: You've decentralized authority to precinct captains, which mirrors exactly how we think about empowered execution. But how do you maintain shared consciousness across 5 precincts when the consent decree framework that enforced consistency is gone?
+  *Framing*: For Chief Barnes — academic engagement with Team of Teams framework
+- **Q**: SPD is trying to do something no major department has done: build a permanent civilian crisis response unit with direct dispatch authority alongside sworn officers. What's the operating model for making that work?
+  *Framing*: CARE integration as the concrete entry point
+
+**Recommended First Meeting Framing**: Position as 'the operating model for post-consent decree sustainability.' Frame around SPD-CARE integration — concrete, urgent, politically aligned with both progressive (CARE expansion) and moderate (effective policing) priorities.
+
+## Brand Insights & Market Positioning
+
+SPD's brand defined by 2020 CHOP/CHAZ incident and subsequent 'defund' era mass exodus (400+ officers lost 2020-2023). Under Barnes, repositioning from 'department under oversight' to 'department that chose reform.' 2025 crime reduction (18%) and hiring surge are proof points.
+
+Brand tension: Needs to recruit aggressively (employer brand) while transforming culture (community brand). CARE represents brand evolution toward diversified public safety, but SPOG resistance means 'compassionate, modern policing' promise runs ahead of internal reality.
+
+McChrystal connection: Brand gap mirrors organizational gap — promises modern, integrated policing but structurally operates as traditional department with civilian alternative bolted on.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Fit Dimension 1: SPD-CARE Integration** — Officers actively undermining civilian responders. Not a policy problem — a trust and shared consciousness failure. McChrystal uniquely positioned: core Team of Teams challenge of two organizations that must operate as one.
+
+**Fit Dimension 2: Post-Consent Decree Operating Model** — 13 years of external enforcement now gone. SPD needs internal mechanisms to sustain reform. McChrystal replaces external enforcement with internal shared consciousness.
+
+**Fit Dimension 3: New Leadership Team Formation** — Almost entirely new command team (Underwood, Sayles, Powell, Fields). Must gel quickly under political pressure from new mayor while managing union resistance. McChrystal builds team operating models, not individual coaching.
+
+**Fit Dimension 4: Culture Transformation** — 30x30 report (sexual harassment), exit interviews (73% cite city leadership), internal instability. Barnes's decentralization is the right instinct but needs a framework.
+
+### 9b. Cumulative Case
+Leadership instability (4 chiefs) -> New chief with reform mandate (Feb 2025) -> Consent decree termination (Sep 2025) -> CARE sabotage (Oct 2025) -> Record hiring requiring cultural onboarding -> New mayor (Jan 2026)
+
+Revenue potential: Phase 1 (SPD-CARE pilot): $350K-$500K | Phase 2 (department-wide): $600K-$1M | Phase 3 (culture embedding): $400K-$750K | Total: $1.35M-$2.25M
+
+### 9c. Enterprise Issues
+1. Active internal sabotage of CARE integration
+2. Post-consent decree sustainability gap
+3. Serial leadership turnover trauma (4 chiefs in 3 years)
+4. Gender discrimination and cultural toxicity (30x30 report)
+5. Union resistance as structural obstacle
+6. Precinct isolation and inconsistency
+7. Mass onboarding culture challenge (167 new officers)
+
+### 9d. Expected Outcomes
+1. Integrated SPD-CARE dispatch model — acceptance rate to 85%+; behavioral health response time reduced 30%
+2. Post-consent decree self-governance framework — quarterly self-assessment matching consent decree compliance
+3. Command team alignment — shared framework in 6 months; decision cycle time reduced 30-50%
+4. Precinct-to-precinct shared consciousness — monthly knowledge sharing; 60%+ best practice adoption
+5. Culture transformation dashboard — 15-20% improvement in key metrics within 18 months
+6. New officer integration program — 90%+ retention at 18 months; 75%+ CARE buy-in
+
+### 9e. Key Stakeholders
+| Unit | Leader | Function | Relevance |
+|------|--------|----------|-----------|
+| Chief's Office | Shon Barnes | Strategy, reform vision | Executive sponsor |
+| Patrol/Investigations | DC Yvonne Underwood | Frontline operations | PRIMARY TARGET |
+| CARE Department | Amy Barden | Civilian crisis response | SECONDARY TARGET |
+| Special Ops | AC Davis | Specialized units | High-risk coordination |
+| Human Resources | Mike Fields | Recruitment, onboarding | Mass hiring integration |
+| SPOG | Union leadership | Labor agreements | Navigate, don't fight |
+
+### 9f. Opportunity Thesis
+**Why Now:** Consent decree exit (Sep 2025) -> documented CARE sabotage (Oct 2025) -> SPOG contract limiting integration -> record hiring requiring onboarding -> new mayor (Jan 2026). First time in 13 years SPD must self-govern.
+
+**Why McChrystal:** University researchers write policy papers; DOJ programs provide technical assistance; McKinsey/Deloitte would be politically toxic in Seattle's policing context. McChrystal is differentiated by not being traditional consultancy, having proven cross-functional integration model, and being able to speak credibly to both police and civilians.
+
+**Phased Engagement:** Phase 1 (4-6 months, $350K-$500K): SPD-CARE integration pilot in 1-2 precincts | Phase 2 (12 months, $600K-$1M): Department-wide operating model | Phase 3 (12 months, $400K-$750K): Culture embedding + scaling
+
+**Pursuit Map:** Thread 1: DC Underwood via CARE integration. Thread 2: CARE Chief Barden (civilian side). Thread 3: Chief Barnes via academic/policing conferences.
+
+
+---
+
+# Research Dossier — NASA
+
+## Organization Snapshot
+
+- **Legal Name**: National Aeronautics and Space Administration
+- **Headquarters**: 300 E Street SW, Washington, D.C. 20546
+- **Founded**: 1958
+- **Industry**: Federal Agency
+- **Revenue**: $24.8B
+- **Employees**: 14K+
+- **Ownership**: Independent federal agency of the United States executive branch
+- **Geographic Footprint**: 10 field centers: Johnson (Houston), Kennedy (FL), Marshall (AL), Goddard (MD), JPL (CA), Ames (CA), Glenn (OH), Langley (VA), Stennis (MS), Armstrong (CA). International partnerships with ESA, JAXA, CSA
+- **ICP Score**: 80
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Budget:** $24.4B FY2026 (congressional allocation, down from $24.8B FY2025). White House proposed $18.8B (24% cut, smallest since 1961) — Congress rejected with bipartisan 82-15 Senate vote
+
+**Key dynamics:** Science Mission Directorate was targeted for 47% cut; Congress preserved most science funding. Artemis has ~$6B in cost overruns and 6+ years of schedule delays per OIG
+
+**Contract terminations:** $420M in consulting contracts cancelled (Booz Allen, Deloitte, Guidehouse, McKinsey — none had been funded)
+
+**Infrastructure:** Goddard campus consolidating (13 buildings closing, 25% reduction)
+
+**Trajectory:** Shifting from government-funded operations toward commercial partnerships (SpaceX, Blue Origin for lunar landers; buying data from commercial providers)
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Amit Kshatriya** — Associate Administrator (COO)
+- Tenure: 2025
+- Background: NASA's highest-ranking civil servant. Exploration-focused (Moon-to-Mars program veteran). Selected by Acting Administrator Duffy
+- Why target: Operational leader implementing Isaacman's vision across 10 centers with a depleted workforce. Manages day-to-day transformation that McChrystal's operating model addresses
+
+**Janet Petro** — Director, Kennedy Space Center
+- Tenure: Multi-year
+- Background: U.S. Army veteran (retired Colonel). Former acting NASA Administrator (Jan-Jul 2025). Manages Artemis launch facility
+- Why target: Military veteran with institutional credibility — bridges McChrystal's military roots with NASA's civilian culture. Manages center where Artemis II is grounded
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Jared Isaacman | NASA Administrator | Since December 2025 | Billionaire entrepreneur: founded Shift4 Payments at 16, founded Draken International (military adversary air training for USAF/NATO). Commercial astronaut: Inspiration4, Polaris Dawn (first private spacewalk). 7,000+ military jet flight hours. No government experience | Executive sponsor at political level. Military aviation background creates natural McChrystal connection |
+| Amit Kshatriya | Associate Administrator (COO) | 2025 | NASA's highest-ranking civil servant. Exploration-focused (Moon-to-Mars program veteran). Selected by Acting Administrator Duffy | — |
+| Janet Petro | Director, Kennedy Space Center | Multi-year | U.S. Army veteran (retired Colonel). Former acting NASA Administrator (Jan-Jul 2025). Manages Artemis launch facility | — |
+| Casey Swails | Deputy Associate Administrator | 2025 | Advisor for day-to-day operations and long-term strategic direction across 10 centers | — |
+| Tom Cremins | Associate Administrator for Space Security Interests | Multi-year | Military/intelligence background [INFERRED from role] | Defense/intelligence bridge — McChrystal network overlap |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Matrix organization: 10 geographically distributed field centers with significant autonomy, cross-cut by mission directorates (Science, Exploration, Space Operations, Aeronautics, Space Technology, Mission Support). Creates chronic center-vs-headquarters tension and duplicated capabilities
+
+**Best Place to Work collapse:** Rated #1 in federal government for 13 consecutive years (81.6/100 in 2024). Plummeted to 46.4/100 in 2025 — catastrophic drop reflecting workforce exodus, budget uncertainty, and cultural upheaval.
+
+**Voyager Declaration (July 2025):** 287 scientists/employees publicly rebuked 'rapid and wasteful changes,' warning of weakened Technical Authority (safety oversight created after Columbia disaster), 'culture of organizational silence,' and risks to astronaut safety. Goddard Center Director resigned hours after letter published.
+
+**Chain-of-command tensions:** Isaacman returning to strict hierarchy — but this has 'troubled history at NASA' (Columbia, Challenger disasters partly attributed to rigid hierarchies preventing safety concerns from reaching decision-makers).
+
+**Knowledge loss:** With 4,000 employees departing, critical institutional knowledge about decades-old systems and safety protocols is walking out the door.
+
+**Contractor conversion:** Plans to convert contractor positions to federal employees — massive workforce identity change.
+
+## Recent News & Trigger Events
+
+- [2025-05-01] — **White House proposes 24% NASA budget cut to $18.8B — smallest since 1961** — Even though Congress rejected, the uncertainty paralyzed planning for months
+- [2025-07-26] — **Voyager Declaration: 287 sign dissent letter; Goddard Director resigns** — Organizational dysfunction McChrystal addresses — hierarchy silencing dissent, fear culture, threatened mission safety
+- [2025-07-26] — **~4,000 NASA employees depart through deferred resignation program (~20% workforce)** — Massive organizational disruption — 20% knowledge loss requires fundamental redesign of how remaining workforce operates
+- [2025-09-01] — **NASA terminates $420M in consulting contracts (Booz Allen, Deloitte, Guidehouse, McKinsey)** — Traditional consulting landscape cleared — no incumbent advisory firms. Field is open for McChrystal
+- [2025-12-17] — **Jared Isaacman confirmed as 15th NASA Administrator (67-30 vote)** — New administrator with commercial vision and military aviation background — natural McChrystal connection
+- [2026-03-24] — **NASA 'Ignition' event: sweeping program restructuring, $20B moon base plan, Gateway paused, Artemis redesigned** — Most significant restructuring since post-Columbia era. Every center, directorate, program affected
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Active trigger events (new administrator, 20% workforce loss, Ignition restructuring, Artemis grounding), clear economic buyer (Kshatriya), competitive landscape completely cleared, Isaacman-McChrystal military aviation connection. Budget exists ($24.4B). Organizational urgency at maximum
+
+**Primary Problem**: NASA must execute the most significant organizational transformation since its founding — consolidating centers, converting workforce, restructuring Artemis, building a moon base, pivoting to commercial — with 20% fewer people, new administrator with no government experience, demoralized workforce, weakened safety oversight, and active internal dissent
+
+**Best Capability Fit**: Distributed organization operating model across 10 centers; shared consciousness to replace rigid hierarchy (preventing Columbia/Challenger-type failures); workforce transformation; bridging entrepreneurial vision with government rigor; program execution under restructuring
+
+**Likely Objections**
+
+- We just cancelled all consulting contracts
+- Political sensitivity under current administration
+- Our problems are budget and political, not organizational
+- Isaacman's entrepreneurial orientation may resist structured advisory
+
+**Competitive Landscape**
+
+- All four previous advisory firms terminated (Booz Allen, Deloitte, Guidehouse, McKinsey) — field cleared
+- Bryce Space (aerospace-specific)
+- Grant Thornton (government transformation)
+- Aerospace Safety Advisory Panel (safety input only)
+
+## Conversation Entry Points
+
+- **Q**: You're implementing the Ignition vision across 10 centers with 20% fewer people and a workforce that just sent a public dissent letter about safety. How do you build shared consciousness across that distributed system when trust has been fractured?
+  *Framing*: For AA Kshatriya — addresses the core distributed-organization challenge
+- **Q**: You ran Draken International — adversary air training requires the same kind of cross-organizational coordination we built at JSOC. NASA's 10 centers are like 10 service branches that need to fight as one. What's your operating model for making that work?
+  *Framing*: For Isaacman — military aviation language he understands
+- **Q**: The Voyager Declaration warned about weakened Technical Authority. That's exactly the kind of hierarchy failure we solved at JSOC — where dissent channels and shared consciousness prevent catastrophic decisions.
+  *Framing*: Safety culture angle — connects Columbia/Challenger history to McChrystal's methodology
+
+**Recommended First Meeting Framing**: Position as 'the organizational operating system for NASA's transformation' — Isaacman has the vision, Congress has the budget ($24.4B), but implementation requires Team of Teams across 10 centers with a depleted, demoralized workforce. Frame around Columbia/Challenger parallel for safety culture.
+
+## Brand Insights & Market Positioning
+
+**Brand value:** NASA consistently ranks as one of the most trusted US government brands — #1 in public favorability.
+
+**Identity evolution:** Pivoting from 'NASA does' to 'NASA enables' — partnering with commercial companies rather than building/operating own systems. Fundamental identity shift creating internal tension.
+
+**Brand threats:** Voyager Declaration publicly challenged leadership for the first time in decades. 20% exodus reinforces 'NASA in decline' narrative. Artemis delays damage 'NASA executes audacious missions' promise.
+
+**Brand gap:** Promises audacious exploration (moon base, Mars) while reality is depleted workforce, grounded rocket, and organizational chaos. The gap between 'permanent moon base' announcement and 'can't fix a helium leak' is a brand credibility challenge.
+
+**McChrystal connection:** NASA has the mission, budget (Congress stepped in), and vision (Isaacman's Ignition). What it lacks is the operating model to execute with 20% fewer people and fractured trust.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Fit Dimension 1: Distributed Operating Model Across 10 Centers** — Each center has deep institutional identity and autonomy. McChrystal uniquely positioned — this is the foundational JSOC problem of multiple organizations needing to function as one. McKinsey reorganizes org charts; McChrystal builds operating models for distributed organizations.
+
+**Fit Dimension 2: Safety Culture Restoration** — Voyager Declaration warns of weakened Technical Authority. Columbia and Challenger resulted from rigid hierarchies suppressing dissent. McChrystal solved exactly this: maintaining hierarchy while creating shared consciousness where critical info reaches decision-makers regardless of rank.
+
+**Fit Dimension 3: Workforce Transformation** — 4,000 departed + contractor-to-civil-service conversion. Remaining 14,000 must do work of 18,000. McChrystal's 'empowered execution' model designed for resource-constrained environments.
+
+**Fit Dimension 4: Bridging Entrepreneurial Vision and Government Operations** — Isaacman brings 'move fast' mindset to 68-year safety-critical culture. McChrystal bridges military/government rigor with decisiveness and speed.
+
+**Fit Dimension 5: Program Execution Under Restructuring** — Artemis II grounded while entire program restructured. Engineers must fix helium leaks while organizational context shifts beneath them.
+
+### 9b. Cumulative Case
+DOGE workforce reduction -> Budget crisis -> Voyager Declaration -> All consulting contracts terminated -> Isaacman confirmed -> Ignition restructuring -> Artemis II grounded -> Contractor conversion. Compound effect: most ambitious program since Apollo with most disrupted organization since founding.
+
+Revenue potential: Phase 1 ($1M-$2M): Center coordination + leadership alignment | Phase 2 ($2M-$3.5M): Safety culture + Artemis execution | Phase 3 ($2M-$4M): Full agency embedding | Total: $5M-$9.5M
+
+### 9c. Enterprise Issues
+1. 10-Center coordination failure — duplicated capabilities, center-vs-HQ tension
+2. Safety culture erosion — Voyager Declaration, weakened Technical Authority
+3. Institutional knowledge hemorrhage — 20% workforce departure
+4. Cultural collision: entrepreneurial administrator vs. safety-critical bureaucracy
+5. Contractor-to-civil-service identity disruption
+6. Artemis program execution amid total restructuring
+7. Political whiplash and planning uncertainty
+8. Distributed morale crisis (81.6 -> 46.4 satisfaction score)
+
+### 9d. Expected Outcomes
+1. 10-center shared consciousness — reduce cross-center decision time by 40-60%
+2. Safety culture framework — dissent channels instrumented, safety concern escalation reduced to 48 hours
+3. Artemis execution framework — zero additional cost growth from organizational friction
+4. Workforce transformation integration — converted employees productive within 6 months, 85%+ retention
+5. Administrator-civil service bridge — structured daily decision cycles replacing ad hoc communication
+6. Knowledge preservation system — critical gaps identified across all 10 centers within 6 months
+7. Distributed morale recovery — satisfaction scores from 46.4 toward 65+ within 18 months
+
+### 9e. Key Stakeholders
+| Unit | Leader | Function | Relevance |
+|------|--------|----------|-----------|
+| Administrator | Jared Isaacman | Vision, political direction | Executive sponsor. Aviation background = McChrystal connection |
+| Associate Administrator | Amit Kshatriya | Operations across 10 centers | PRIMARY TARGET |
+| Deputy AA | Casey Swails | Strategic direction, center coordination | Key operational ally |
+| Kennedy Space Center | Janet Petro | Launch operations, Artemis | SECONDARY TARGET — Army Colonel veteran |
+| Space Security | Tom Cremins | Military/intelligence coordination | Network overlap with McChrystal |
+| Exploration Systems | [TBD] | SLS, Orion, landing systems | Epicenter of Artemis restructuring |
+| Science Directorate | [TBD] | Earth/planetary science | Survived budget threat, lowest morale |
+| Goddard | [New director] | Science missions | Most disrupted center |
+| Marshall | [TBD] | SLS production, propulsion | Owns the rocket with the helium leak |
+
+### 9f. Opportunity Thesis
+**Why Now:** All consulting contracts terminated while the most ambitious reorganization in NASA history is underway. The field is cleared. 20% workforce loss + Ignition restructuring + Artemis grounding + Voyager Declaration = organizational crisis requiring external support.
+
+**Why McChrystal:** Not a traditional consultancy (politically toxic at NASA now). Military/aviation credibility with Isaacman (Draken International). Proven distributed-organization model. Safety culture expertise (JSOC's lesson on dissent channels). Implementation, not advisory.
+
+**Phased Engagement:** Phase 1 (6-9 months, $1M-$2M): Center coordination + Kshatriya team alignment | Phase 2 (12-18 months, $2M-$3.5M): Safety culture + Artemis framework | Phase 3 (18-24 months, $2M-$4M): Full agency transformation
+
+**Pursuit Map:** Thread 1: Kshatriya via 10-center coordination challenge. Thread 2: Janet Petro (KSC, Army Colonel) via military veteran networks. Thread 3: Isaacman via military aviation/Draken connection — personal introduction through mutual contacts.
+
+
+---
+
+# Research Dossier — Sandoz
+
+## Organization Snapshot
+
+- **Legal Name**: Sandoz Group AG
+- **Headquarters**: Basel, Switzerland
+- **Founded**: 1886
+- **Industry**: Pharmaceuticals
+- **Revenue**: $11.2B
+- **Employees**: 22K+
+- **Ownership**: Publicly traded (SIX: SDZ, OTC: SDZNY). 100% free float following Novartis spinoff distribution. Major holders: BlackRock (~4.9%), Norges Bank (~3.1%), Vanguard and UBS (2-3% each)
+- **Geographic Footprint**: Products sold in 100+ countries; 15 manufacturing sites across Europe (Austria, Slovenia, Spain, France); major hubs in Europe, North America, and International (Asia, Africa, Latin America, Middle East)
+- **ICP Score**: 83
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue:** FY 2025 net sales $11.1B (up 7% YoY). First time exceeding $11B. Biosimilars: $3.3B (up 15%, 17 consecutive quarters of growth)
+
+**Profitability:** Core EBITDA margin expanding; stock up 63% over past year. Stock gained 24.79% on FY 2025 results day
+
+**2026 Guidance:** Mid-to-high single digit net sales growth; ~100bps EBITDA margin expansion
+
+**Mid-term (2028):** Sustained mid-single-digit growth, EBITDA 24-26%
+
+**CapEx:** Peaking ~$1.1B in 2026 (Slovenian hub), moderating thereafter
+
+**Pressures:** Generic pricing pressure, biosimilar manufacturing complexity, currency headwinds, Just-Evotec integration
+
+**Tailwinds:** 'Golden decade' patent cliffs ($340B generics + $322B biosimilars), standalone focus, vertical integration
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Tatiana Eliseeva** — Chief Transformation Officer
+- Tenure: Multi-year
+- Background: Previously CFO of Sandoz's $10B generics division under Novartis. MBA University of Rhode Island, ACCA qualified. Early career at Dirol/Cadbury. Russian-born, international background
+- Why target: Owns the organizational transformation agenda for a newly independent company. Directly responsible for building standalone operating model, culture, and processes post-spinoff. This is the person feeling the pain of separation daily
+
+**Inge Maes** — Global Head, People & Organization
+- Tenure: Multi-year
+- Background: Trained as veterinarian in Belgium; joined Novartis 2002 in R&D before transitioning to HR. Extensive international experience across organizational design, team effectiveness, talent, culture change
+- Why target: Leads people and culture for a company building identity from scratch post-spinoff. Culture, retention, organizational design are her daily mandate
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Richard Saynor | Chief Executive Officer | Since July 2019 | British national. Led separation from Novartis and public listing. Built biosimilar strategy | Executive sponsor, not primary target |
+| Tatiana Eliseeva | Chief Transformation Officer | Multi-year | Previously CFO of Sandoz's $10B generics division under Novartis. MBA University of Rhode Island, ACCA qualified. Early career at Dirol/Cadbury. Russian-born, international background | — |
+| Inge Maes | Global Head, People & Organization | Multi-year | Trained as veterinarian in Belgium; joined Novartis 2002 in R&D before transitioning to HR. Extensive international experience across organizational design, team effectiveness, talent, culture change | — |
+| Remco Steenbergen | Chief Financial Officer | Since July 2024 | Former Group CFO of Deutsche Lufthansa (2021-2024) and Barry Callebaut. Post-doctoral Accounting (Erasmus); MBA from IMD. Was Sandoz board member before stepping into CFO role | — |
+| Armin Metzger | President, Biosimilar Development, Manufacturing & Supply | Joining April 2026 | Former EVP, Chief Technical Operations Officer at Ferring Pharmaceuticals (since 2016). Nearly 20 years at Merck/Merck Serono. External hire joining Executive Committee | New external hire — integration support opportunity |
+| Claire D'Abreu-Hayling | President, Generics Development & CSO | Multi-year, expanded role March 2026 | Retained CSO role while adding generics development leadership in organizational restructuring | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Recently restructured (March 2026) from unified operations into separate biosimilar and generics units with distinct presidents and P&L-like accountability. Goal: 'clear ownership, fast decision-making, stronger alignment'
+
+**Glassdoor:** 4.0/5.0 (852 reviews); 79% recommend. Culture 3.9/5.0
+
+**Post-spinoff concerns:** 'Revolving door at leadership positions,' restructuring eroding culture and job stability. One review: 'no actual culture, only words on slides'
+
+**Positives:** Great people and teams, easy to fit in, good benefits, competitive salaries
+
+**Manufacturing consolidation:** 18 to 15 sites — operational optimization pressure alongside cultural strain
+
+**McChrystal fit signal:** Company explicitly in phase of building standalone identity after 20+ years as Novartis division. 'No actual culture' feedback = exactly the shared consciousness and identity challenge McChrystal specializes in
+
+## Recent News & Trigger Events
+
+- [2023-10-04] — **Spinoff from Novartis completed — Sandoz becomes independent public company** — Foundational identity event — building standalone culture for 22,000 people in 100+ countries
+- [2024-07-01] — **CFO leadership change: Remco Steenbergen replaces Colin Bond** — External hire from Lufthansa brings different cultural DNA into leadership team
+- [2025-11-01] — **Launch of Tyruko — first MS biosimilar in US market** — High-stakes launch requiring cross-functional coordination across commercial, regulatory, medical, and supply chain
+- [2025-12-01] — **Completed acquisition of Just-Evotec Biologics (Toulouse, France) for ~$650M** — Post-acquisition integration of new team, technology, and site into existing manufacturing network
+- [2026-02-01] — **FY 2025 results: record $11.1B revenue; stock surges 24.79% in single day** — Growth creates organizational stress — scaling a newly independent company at record pace demands operating model maturity
+- [2026-03-01] — **Major organizational restructuring: separate biosimilar and generics units; 3 new executive committee roles; external hire Armin Metzger** — Textbook operating model redesign moment — requires cross-functional alignment, new unit coordination, and integration of external leaders
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Direct transformation signal (spinoff + reorg + acquisition integration), clear economic buyer (CTO Eliseeva), budget exists ($11B revenue), organizational urgency (building identity while scaling at record pace)
+
+**Primary Problem**: Building a cohesive, high-performing organizational identity and operating model from scratch after 20+ years as a Novartis division, while simultaneously executing complex growth strategy (biosimilar pipeline, manufacturing buildout, acquisitions) at scale across 100+ countries
+
+**Best Capability Fit**: Team of Teams operating model for newly split biosimilar/generics units; post-spinoff identity and culture building; cross-functional alignment across manufacturing network; leadership team integration of external hires
+
+**Likely Objections**
+
+- We're Swiss/European — do American military frameworks translate?
+- We have a Chief Transformation Officer already
+- We're post-spinoff, focused on cost discipline
+
+**Competitive Landscape**
+
+- McKinsey likely engaged on strategy (biosimilar market entry, M&A)
+- Deloitte/EY potentially on post-separation IT/finance systems
+- Korn Ferry/Spencer Stuart for executive search
+- No competitor for 'operating model + culture at scale' space
+
+## Conversation Entry Points
+
+- **Q**: You've just split into separate biosimilar and generics units — how are you maintaining coordination and shared consciousness across what are now essentially two operating companies within one?
+  *Framing*: Directly addresses March 2026 restructuring
+- **Q**: Building a standalone culture for 22,000 people across 100+ countries in under 3 years is one of the hardest things in corporate transformation. What does 'Sandoz culture' mean to the frontline employee in your Austrian facility vs. your US commercial team?
+  *Framing*: Gets at identity-building challenge Glassdoor suggests isn't solved
+- **Q**: With the Just-Evotec acquisition, Slovenian hub construction, and new biosimilar unit all running simultaneously — how is your leadership team managing the bandwidth challenge of multiple transformations at once?
+  *Framing*: Opens door to Team of Teams coordination discussion
+
+**Recommended First Meeting Framing**: 'We work with organizations navigating exactly what you're living — building a high-performing operating model during simultaneous transformation on multiple fronts.'
+
+## Brand Insights & Market Positioning
+
+**Brand:** Global #1 in biosimilars by revenue, top-3 generics globally. 'Pure play' positioning differentiates vs. Teva (pivoting to innovative drugs).
+
+**Identity evolution:** Transitioning from 'Novartis's generic division' to 'world's leading independent generics/biosimilars company.' Must stand alone in investor, talent, and healthcare markets simultaneously.
+
+**Threats:** Teva's innovation pivot redefining competitive narrative; generic pricing pressure; post-spinoff brand lacks standalone recognition in many markets.
+
+**Major investments:** $1B+ Slovenian biosimilar hub — positions Sandoz as European biosimilar leader. 'Golden decade' narrative ties identity to $650B market opportunity.
+
+**McChrystal connection:** Brand promise of being world's most capable off-patent medicines company requires cross-functional execution (R&D + manufacturing + regulatory + commercial) across dozens of markets. Gap between promise and organizational capability = McChrystal's territory.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Fit Dimension 1: Post-Spinoff Identity Building** — 22,000 employees who spent decades as Novartis division need standalone identity. Glassdoor: 'no actual culture, only words on slides.' McKinsey defines what Sandoz should be; McChrystal builds the connective tissue that makes 22,000 people behave as one organization. Timing: 2.5 years post-spinoff with culture gaps still visible.
+
+**Fit Dimension 2: Biosimilar/Generics Unit Split** — March 2026 restructuring creates two units sharing manufacturing, supply chains, quality, and talent. Classic coordination problem McChrystal's Team of Teams solves. Deloitte designs the org chart; McChrystal ensures it works through cross-functional mechanisms.
+
+**Fit Dimension 3: Post-Acquisition Integration (Just-Evotec)** — Toulouse team with different technology, culture, and norms. Integration requires cultural trust-building McChrystal specializes in, not just systems alignment.
+
+**Fit Dimension 4: Multi-Site Manufacturing Coordination** — Simultaneous $1B+ Slovenian hub, Toulouse acquisition, 18->15 site consolidation, and biosimilar launches. Requires overarching operating model across engineering, quality, regulatory, supply chain, and commercial.
+
+**Fit Dimension 5: External Executive Integration** — Steenbergen (Lufthansa) and Metzger (Ferring) bring different operating assumptions into a team of Novartis veterans. Cultural heterogeneity at the top cascades through the organization.
+
+### 9b. Cumulative Case
+Spinoff (Oct 2023) -> culture vacuum -> CFO change (Jul 2024) -> Glassdoor drift signals -> Just-Evotec acquisition (Dec 2025) -> unit split (Mar 2026) -> external exec hire (Apr 2026) -> $1.1B CapEx peak (2026). All converging in Q1-Q2 2026.
+
+Revenue: Phase 1: $750K-$1.2M (exec alignment + operating model diagnostic) | Phase 2: $2M-$3.5M (Team of Teams across both units) | Phase 3: $500K-$1M/year (ongoing advisory) | Total: $3.25M-$5.7M
+
+### 9c. Enterprise Issues
+1. Post-spinoff cultural vacuum — 'no actual culture, only words on slides'
+2. Dual operating model complexity post-restructuring (biosimilar vs. generics sharing infrastructure)
+3. External executive integration at leadership level
+4. Post-acquisition cultural integration (Just-Evotec)
+5. Manufacturing network coordination under transformation pressure
+6. Geographic and cultural dispersion (100+ countries, flat structure)
+7. Scale-up execution risk on biosimilar pipeline (~60% of $322B opportunity)
+
+### 9d. Expected Outcomes
+1. Unified Sandoz operating identity — 15-20% culture survey improvement; Glassdoor to 4.3+; 10-15% turnover reduction
+2. Cross-unit coordination model — 40-50% reduction in cross-unit decision cycle time
+3. Executive committee effectiveness — 30-40% reduction in escalation time
+4. Just-Evotec integration — milestones on schedule; Toulouse retention 90%+
+5. Manufacturing operating rhythm — 85%+ capital project milestone achievement
+6. Biosimilar launch framework — 25-30% reduction in launch prep cycle time
+7. Organizational resilience — 20% reduction in leadership burnout indicators
+
+### 9e. Key Stakeholders
+| Function | Leader | Title | Relevance |
+|----------|--------|-------|-----------|
+| CEO Office | Richard Saynor | CEO | Executive sponsor |
+| Transformation | Tatiana Eliseeva | CTO | PRIMARY TARGET — owns transformation |
+| People & Org | Inge Maes | Global Head P&O | PRIORITY TARGET — culture owner |
+| Finance | Remco Steenbergen | CFO | Budget holder, external hire |
+| Biosimilar DMS | Armin Metzger | President (Apr 2026) | External hire needing integration support |
+| Generics Dev | Claire D'Abreu-Hayling | President & CSO | Newly expanded role |
+| Generics Mfg | Glenn Gerecke | President | Restructured role |
+
+### 9f. Opportunity Thesis
+**Why Now:** All signals converging Q1-Q2 2026. Maximum urgency intervention point before cultural entropy sets in.
+
+**Why McChrystal:** McKinsey solves STRATEGY. Deloitte/EY solve SYSTEMS. Korn Ferry solves TALENT. Nobody solves the OPERATING MODEL — how 22,000 people coordinate as one organization. The more they optimize individual parts (unit split, exec hires), the more they need system-level coordination.
+
+**Phased Engagement:** Phase 1 (3-4 months, $750K-$1.2M): Exec committee alignment + cross-unit coordination blueprint | Phase 2 (8-12 months, $2M-$3.5M): Team of Teams across 100+ senior leaders | Phase 3 (ongoing, $500K-$1M/year): Culture embedding
+
+**Pursuit Map:** Thread 1: Tatiana Eliseeva (CTO) via transformation mandate. Thread 2: Inge Maes (P&O) via culture/organizational design. Thread 3: Armin Metzger in his first 90 days (Apr-Jun 2026).
+
+
+---
+
+# Research Dossier — Ochsner Health
+
+## Organization Snapshot
+
+- **Legal Name**: Ochsner Clinic Foundation (d/b/a Ochsner Health)
+- **Headquarters**: New Orleans, Louisiana
+- **Founded**: 1942
+- **Industry**: Healthcare System
+- **Revenue**: $7.7B
+- **Employees**: 40K+
+- **Ownership**: Nonprofit 501(c)(3) organization
+- **Geographic Footprint**: Primary operations across Louisiana, Mississippi, Alabama, and the Gulf South; 47 hospitals, 370+ health and urgent care centers
+- **ICP Score**: 92
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue:** FY 2024 operating revenue $7.7B (up 5.7% from 2023)
+
+**Operating income:** $157.8M (2.0% margin) in 2024, up from $104M (1.4%) in 2023 — significant improvement but thin margins
+
+**Credit:** Moody's A3, stable outlook
+
+**Pressures:** Rising labor costs, Medicaid reimbursement volatility, hurricane/disaster risk, integration complexity, rural hospital economics
+
+**Tailwinds:** Dominant Gulf South market position, digital health leadership, growing managed care component, population growth
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Timothy Riddell, MD** — EVP & Chief Operating Officer
+- Tenure: Since January 2026
+- Background: Family medicine physician; 28 years within Ochsner (since residency 1997). Previously Regional CEO for Northshore/Mississippi Gulf Coast; CMO for multiple regions
+- Why target: Brand new in COO role, inheriting 47 hospitals and 370+ clinics during CEO transition and massive integration challenge. Needs operating model support now
+
+**Tracey Schiro, MBA** — EVP, Chief People & Culture Officer
+- Tenure: Since 2007, promoted to current role 2025
+- Background: MBA University of New Orleans. Joined as AVP Compensation/Benefits; progressive career through VP HR Ops, SVP & CHRO
+- Why target: Leads people and culture across rapidly expanding system integrating multiple acquired organizations with different cultures
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Pete November | President & CEO | Since November 2025 | Attorney (equity partner at Alston & Bird 14 years); then SVP General Counsel, EVP Digital Health, EVP & CFO at Ochsner. Named AHA Board of Trustees (Nov 2025) | Executive sponsor. New CEO establishing his leadership model |
+| Timothy Riddell, MD | EVP & Chief Operating Officer | Since January 2026 | Family medicine physician; 28 years within Ochsner (since residency 1997). Previously Regional CEO for Northshore/Mississippi Gulf Coast; CMO for multiple regions | — |
+| Tracey Schiro, MBA | EVP, Chief People & Culture Officer | Since 2007, promoted to current role 2025 | MBA University of New Orleans. Joined as AVP Compensation/Benefits; progressive career through VP HR Ops, SVP & CHRO | [Profile](https://www.linkedin.com/in/tracey-schiro-mba-3343a426) |
+| Scott Posecai, CPA | EVP, CFO & Treasurer | CFO since 2006; 35+ years at Ochsner | CPA. Previously oil and gas finance (accounting, treasury, international tax) | — |
+| Denise Basow, MD | EVP & Chief Digital Officer | Multi-year | Leads innovationOchsner, virtual care, remote patient monitoring, chronic disease management | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Large multi-regional system with regional CEOs and CMOs. Recently reorganized with new COO (Riddell) and executive team under new CEO (November). Mix of fully owned, merged (Rush Health), and affiliated (Allegiance) entities creating a federated structure
+
+**Glassdoor:** 3.7/5.0 (2,198 reviews); 74% recommend; Culture 3.8/5.0
+
+**Great Place to Work:** 82% say it's a great place (May 2025)
+
+**Positives:** Good benefits, team environment, leadership engagement, employee programs
+
+**Concerns:** Short staffing, starting pay rates, last-minute schedule changes (common healthcare complaints)
+
+**M7 Platform:** Deployed across all 47 hospitals' nursing units by end 2025, filling 2,000+ shifts/week automatically
+
+**Integration challenge:** Multiple merged/affiliated entities (Lafayette General, Rush Health, Allegiance) each with legacy cultures needing unification under one Ochsner identity
+
+## Recent News & Trigger Events
+
+- [2025-11-01] — **Pete November becomes CEO; executive team reshuffled** — CEO transition — highest-impact organizational moment. New CEO establishing vision and team dynamics for 40,000-person system
+- [2025-12-18] — **Allegiance Health affiliation LOI signed — 12+ rural hospitals in LA/MS** — Federated operating challenge — how to coordinate entities you don't own. Classic Team of Teams
+- [2026-01-01] — **Timothy Riddell named EVP & COO, replacing 13-year COO Mike Hulefeld** — New COO inheriting massive scope during peak transformation. Needs operating model clarity immediately
+- [2026-02-01] — **M7 workforce platform fully deployed across all 47 hospitals** — Technology deployment at scale creates change management and cross-unit coordination demands
+- [2025-05-06] — **Vitality partnership launches Medicare Advantage engagement solution** — Value-based care innovation requiring cross-functional coordination
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — CEO transition (Nov 2025), new COO (Jan 2026), active affiliation (Allegiance), clear buyers identified (Riddell, Schiro), revenue >$7B, organizational urgency (integration + transformation + leadership transition simultaneously)
+
+**Primary Problem**: New CEO leading 40,000-person system through simultaneous challenges: integrating multiple acquired/affiliated entities, transitioning to value-based care, deploying system-wide technology, and establishing new leadership team — all while maintaining clinical quality across 47 hospitals
+
+**Best Capability Fit**: Team of Teams for federated health system; leadership alignment for newly appointed executive team; organizational design for multi-entity coordination; cross-functional alignment for value-based care transformation
+
+**Likely Objections**
+
+- We're a nonprofit with 2% margins — can we afford boutique advisory?
+- We have an internal Leadership Institute
+- Healthcare is different from military
+
+**Competitive Landscape**
+
+- McKinsey/Deloitte likely on strategy and IT transformation
+- Vizient or Chartis Group for clinical operations
+- Huron Consulting for financial/operational performance
+- No competitor for 'operating model for federated, multi-entity health system with new leadership'
+
+## Conversation Entry Points
+
+- **Q**: You're building a federated healthcare system — entities you own, entities you've merged, entities you're affiliating with — all needing to coordinate without single command-and-control. How are you thinking about the operating model that holds that together?
+  *Framing*: Team of Teams challenge in healthcare terms
+- **Q**: Pete's first year as CEO with a new COO, new executive team structure, and Allegiance coming online — what rhythm are you establishing for how this leadership team operates?
+  *Framing*: Operating rhythm and leadership alignment
+- **Q**: You've deployed M7 across 47 hospitals and you're scaling digital medicine — but the technology only works if the organizational model supports it. How is clinical leadership adapting to a data-driven, value-based operating model?
+  *Framing*: Technology-to-organization bridge
+
+**Recommended First Meeting Framing**: 'We work with large, complex organizations navigating multiple integrations, leadership transition, and operating model transformation simultaneously.'
+
+## Brand Insights & Market Positioning
+
+**Brand:** Dominant Gulf South healthcare brand; #1 hospital in Louisiana by U.S. News for 14 consecutive years. Limited direct competition.
+
+**Evolution:** From 'Louisiana's best hospital system' to 'Gulf South's leading integrated health system' — now encompasses hospitals, clinics, health plans, digital health, and research.
+
+**Threats:** Rapid expansion risks diluting quality promise; rural affiliations may create 'two-tier' perception; HCA/Tenet competing in adjacent markets.
+
+**Investments:** $132M Neuroscience Institute (opening late 2026); digital health platform driving national recognition.
+
+**McChrystal connection:** Delivering consistent 'Ochsner experience' across 47 hospitals, 370 clinics, and 12+ affiliated rural hospitals with different ownership/culture requires exactly the cross-organizational coordination McChrystal builds.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Dim 1: New CEO Leadership Team Alignment** — Pete November's team has been together <5 months. Quality of their operating rhythm will determine transformation success. McChrystal builds team operating models; Korn Ferry coaches individuals.
+
+**Dim 2: Federated Health System Operating Model** — Mix of owned, merged, and affiliated entities. Can't command-and-control an entity you don't own — need shared consciousness and trust-based cooperation. McChrystal's core capability. Chartis designs governance; McChrystal makes it work in practice.
+
+**Dim 3: Value-Based Care Transformation** — Fee-for-service to outcomes-driven changes how every function operates. Cross-functional alignment at scale. McKinsey designs VBC strategy; McChrystal solves the organizational design problem.
+
+**Dim 4: Multi-Entity Cultural Integration** — Lafayette General, Rush Health, now Allegiance — each with distinct cultures. McChrystal builds common language, operating rhythms, and trust networks across boundaries.
+
+### 9b. Cumulative Case
+CEO transition (Nov 2025) -> exec reshuffle -> COO change (Jan 2026) -> Allegiance LOI (Dec 2025) -> EPIC deployment -> VBC pivot -> M7 across 47 hospitals. All converging in Q1 2026 during new CEO's first 6 months = maximum receptivity window.
+
+Revenue: Phase 1: $500K-$800K (exec alignment) | Phase 2: $1.5M-$2.5M (federated system operating model) | Phase 3: $400K-$750K/year | Total: $2.4M-$4.05M
+
+### 9c. Enterprise Issues
+1. New executive team operating rhythm not established (<5 months together)
+2. Federated system coordination challenge (owned + merged + affiliated)
+3. COO transition during maximum operational complexity
+4. Value-based care operating model immaturity
+5. Rural health extension without operational control (Allegiance)
+6. Digital transformation organizational strain (EPIC + M7 + AI simultaneously)
+7. Post-acquisition cultural integration debt (Lafayette General, Rush Health)
+
+### 9d. Expected Outcomes
+1. Executive team operating model — decision cycle time reduced 30-40%
+2. Federated coordination framework — Allegiance integration milestones on schedule
+3. Regional leadership alignment — clinical variation reduced 20-30%
+4. VBC cross-functional coordination — care gap closure improved 15-20%
+5. Technology change management — adoption rates >85% within 6 months of deployment
+6. Cultural integration measurement — merged facility engagement trending to system averages
+
+### 9e. Key Stakeholders
+| Function | Leader | Title | Relevance |
+|----------|--------|-------|-----------|
+| CEO Office | Pete November | President & CEO | Executive sponsor |
+| Operations | Timothy Riddell, MD | EVP & COO | PRIMARY TARGET — new in role, maximum complexity |
+| People & Culture | Tracey Schiro, MBA | EVP CPCO | PRIORITY TARGET — culture integration mandate |
+| Finance | Scott Posecai, CPA | EVP CFO | Budget holder, 35 years at Ochsner |
+| Digital Health | Denise Basow, MD | EVP CDO | Technology transformation stakeholder |
+
+### 9f. Opportunity Thesis
+**Why Now:** New CEO's first 6 months = maximum receptivity. New COO <3 months in. Federated model (Allegiance) creating unprecedented coordination challenge. Leaders are most open to advisory input before default patterns establish.
+
+**Why McChrystal:** Traditional consulting assumes hierarchical authority. McChrystal builds coordination without authority — shared consciousness across organizational boundaries. No other firm specializes in this for healthcare.
+
+**Phased Engagement:** Phase 1 (3-4 months, $500K-$800K): Exec team alignment | Phase 2 (8-12 months, $1.5M-$2.5M): Federated system + VBC operating model | Phase 3 ($400K-$750K/year): Ongoing advisory + Leadership Institute integration
+
+**Pursuit Map:** Thread 1: COO Riddell via operational complexity. Thread 2: CHRO Schiro via culture integration. Thread 3: CEO November via AHA Board/healthcare CEO networks.
+
+
+---
+
+# Research Dossier — Banner Health
+
+## Organization Snapshot
+
+- **Legal Name**: Banner Health
+- **Headquarters**: Phoenix, Arizona
+- **Founded**: 1999
+- **Industry**: Healthcare System
+- **Revenue**: $14.1B
+- **Employees**: 55K+
+- **Ownership**: Nonprofit 501(c)(3) organization
+- **Geographic Footprint**: Operations across six states: Arizona (primary), Colorado, Wyoming, Nebraska, Nevada, and Northern Colorado. 33 hospitals (30 acute care, 3 rehabilitation). Largest employer in Arizona
+- **ICP Score**: 88
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue:** FY 2025 $16.0B (up from $15.6B in 2024, $14.1B in 2023)
+
+**Operating income:** $444M (2.8% margin) in 2025, up from $362M (2.3%) in 2024 — consistent improvement
+
+**Net income:** $1.45B in 2025
+
+**Technology investment:** $1B committed over 5 years
+
+**Pressures:** Rising labor costs, Colorado market restructuring (351 workers displaced), leadership role eliminations, Medicaid/Medicare volatility
+
+**Tailwinds:** Fast-growing Arizona population, Banner|Aetna gaining traction, AI/technology leadership, University of Arizona partnership, Fortune Most Innovative Companies (3 consecutive years)
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Adrienne Moore, DrPH** — SVP, Strategy & Growth
+- Tenure: Since February 2026
+- Background: Previously SVP Finance at Banner (9 years); 15+ years at Adventist Health. Doctorate in Public Health (Loma Linda). Degrees in healthcare management, finance, accounting
+- Why target: Brand new role created to drive growth strategy — defines how Banner grows and transforms. Needs cross-functional alignment to execute. Her strategic mandate touches every part of the organization
+
+**Julie Ann Alvarado-Dubek** — EVP, Chief Administrative & People Officer
+- Tenure: 14 years at Banner
+- Background: 30+ years senior HR leadership. Previous: Fender Musical Instruments, Freescale Semiconductor, Motorola. Leads 'Banner experience' for 55,000+ team members
+- Why target: Owns culture for 55,000 employees during restructuring, leadership role elimination, and CEO transition. Glassdoor reviews cite HR leadership issues — she's at the center of the organizational challenge
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Amy Perry | President & CEO | Since mid-2024 | Previously Banner Health President & COO (joined November 2021). Named Modern Healthcare's 100 Most Influential (2 consecutive years) | Executive sponsor. 'Accelerate' mandate for 2026 |
+| Adrienne Moore, DrPH | SVP, Strategy & Growth | Since February 2026 | Previously SVP Finance at Banner (9 years); 15+ years at Adventist Health. Doctorate in Public Health (Loma Linda). Degrees in healthcare management, finance, accounting | [Profile](https://www.linkedin.com/in/adriennemooredrph/) |
+| Julie Ann Alvarado-Dubek | EVP, Chief Administrative & People Officer | 14 years at Banner | 30+ years senior HR leadership. Previous: Fender Musical Instruments, Freescale Semiconductor, Motorola. Leads 'Banner experience' for 55,000+ team members | — |
+| Michael Reagin, CHCIO, MBA | EVP, Chief Technology Officer | Since June 2024 | 27 years IT/digital healthcare leadership. Previous: CIIO Sharp HealthCare, SVP CIIO Sentara Health, CIO Cleveland Clinic Abu Dhabi, CTO Providence Health. Banner's first-ever CTO | Leads $1B tech investment and BannerWise/Anthropic partnership |
+| Don Stanziano, MHA | SVP, Chief Marketing Officer | Since July 2024 | Previously CMO at Geisinger; 16 years at Scripps Health as VP Marketing. Career includes congressional press secretary and TV/newspaper journalist | Leading first brand campaign in 8 years ('It's Another Banner Day') |
+| Staci Dickerson | EVP, Chief Financial Officer | Since July 2023 | Previously SVP Finance/CFO at Sharp HealthCare. EY and Arthur Andersen background | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Recently restructured regional leadership — consolidated Arizona West/East into 'Arizona Community Delivery.' Eliminated SVP Partnership role after 10 months; created new SVP Strategy & Growth. Six-state footprint with regional leadership structures
+
+**Glassdoor:** 3.5/5.0 (4,162 reviews); only 56% recommend. Culture 3.4/5.0 — notably below peers
+
+**Key concerns:** 'Went from amazing family culture to cold you-are-just-a-number culture.' 'RIFs becoming the norm at least once a year to meet margins for bonuses.' 'Upper management seems very disconnected.' 'HR senior leadership is amongst the worst — creating a toxic fear-based culture.' 'Always understaffed, low pay, excessive work.'
+
+**Positives:** Good benefits, collaborative unit-level culture, focus on development and succession
+
+**Restructuring events:** Colorado realignment (McKee ED closed Nov 2025, 351 workers displaced); SVP Partnership role eliminated after 10 months (Aug 2025); 'relatively small' number of leadership positions eliminated
+
+**McChrystal fit:** Severe gap between leadership's transformation ambition and frontline reality. New CEO attempting culture change while simultaneously restructuring and eliminating roles — exactly the challenge McChrystal addresses
+
+## Recent News & Trigger Events
+
+- [2024-06-01] — **Amy Perry becomes CEO after Peter Fine's 24-year retirement** — Foundational transition — entire leadership culture must evolve after longest single-leader tenure
+- [2025-07-01] — **First brand campaign in 8 years: 'It's Another Banner Day'** — Brand repositioning from 'access and convenience' to 'clinical excellence' — requires organizational capability to deliver
+- [2025-08-01] — **SVP Partnership role eliminated after only 10 months (Mark Garvin departure)** — Rapid role creation/elimination signals organizational model isn't settled
+- [2025-11-01] — **Colorado restructuring: McKee Medical Center ED closes; 351 workers displaced** — Restructuring creates organizational trauma — workforce trust eroded; remaining employees need cultural rebuilding
+- [2025-12-01] — **BannerWise AI platform deployed to all 55,000+ employees (Anthropic partnership)** — Enterprise-wide technology deployment requires massive change management across six states
+- [2026-02-02] — **Adrienne Moore named SVP Strategy & Growth (newly created role); Shelby Arveson named SVP Finance** — Organizational strategy function rebuilt from scratch — strategic direction still being defined under new CEO
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — CEO transition (2024), active restructuring, $1B tech investment creating organizational stress, severe Glassdoor signals, clear buyers (Moore, Alvarado-Dubek), $16B revenue, organizational urgency (culture crisis + transformation + growth mandate simultaneously)
+
+**Primary Problem**: New CEO executing ambitious transformation ($1B tech investment, VBC pivot, brand repositioning) across 55,000-person, six-state system with significant cultural challenges (fear-based HR, disconnected management, annual RIFs) and leadership instability (role eliminations, rapid exec hiring/departures)
+
+**Best Capability Fit**: Culture transformation at scale; organizational design and stabilization; leadership alignment for almost-entirely-new C-suite; cross-functional coordination for Banner|Aetna payer-provider integration
+
+**Likely Objections**
+
+- We're already investing $1B in technology transformation
+- We've been restructuring — change fatigue
+- Our Glassdoor scores are what they are
+
+**Competitive Landscape**
+
+- Anthropic (tech partner, not consulting competitor)
+- McKinsey/Deloitte likely on strategy and transformation architecture
+- Huron Consulting for operational performance
+- Korn Ferry/Spencer Stuart for executive search
+- No competitor for 'culture transformation + operating model redesign during active restructuring'
+
+## Conversation Entry Points
+
+- **Q**: You're asking 55,000 people to absorb a $1 billion technology investment, a value-based care pivot, and a brand repositioning — simultaneously. How is the leadership structure at regional and facility level keeping pace with transformation?
+  *Framing*: Gets at disconnect between C-suite ambition and frontline reality
+- **Q**: Banner|Aetna is one of the most interesting 'payvider' models in the country — but making clinical and insurance sides work as one requires a different operating model than either would need alone. How are you breaking down that boundary?
+  *Framing*: Cross-functional coordination using Banner's own innovative structure
+- **Q**: You created a new SVP Strategy & Growth role after eliminating the SVP Partnership role — which suggests organizational design for how Banner drives growth is still evolving. What's the vision for how strategy, operations, and regional leadership align?
+  *Framing*: Directly addresses organizational design instability
+
+**Recommended First Meeting Framing**: 'We work with organizations attempting exactly what you're doing — transforming culture, technology, and operating model at scale. We'd like to understand how you're thinking about the organizational model that makes your $1 billion technology bet pay off.'
+
+## Brand Insights & Market Positioning
+
+**Brand:** Largest AZ employer, one of largest US health systems ($16B). Fortune Most Innovative Companies (3 years). However, brand historically known for 'access and convenience' not clinical excellence.
+
+**Evolution:** 'It's Another Banner Day' campaign (summer 2025) — first in 8 years, shifting to clinical excellence positioning. Brand evolution parallels organizational transformation — promising something the system is still building. CMO Stanziano's 'glocal' strategy (global consistency + local relevance) mirrors the multi-state coherence challenge.
+
+**Threats:** Colorado closures risk community trust; Glassdoor scores (3.5, fear-based culture) undermine employer brand; Arizona competitors (HCA, CommonSpirit, Abrazo) investing in market position; Banner|Aetna dual identity risks consumer confusion.
+
+**McChrystal connection:** Marketing says 'clinical excellence and innovation.' Glassdoor says 'cold, fear-based, disconnected.' Brand-organization gap is unsustainable — employees who feel devalued can't deliver what the brand promises. McChrystal bridges this.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Dim 1: Post-CEO-Transition Culture Transformation** — Peter Fine led 24 years. Perry attempting shift from Fine's legacy to tech-forward, VBC model. Glassdoor: 'cold,' 'fear-based,' 'disconnected upper management.' McChrystal specializes in culture transformation in organizations with broken trust. Korn Ferry coaches individuals; McChrystal changes how leaders at every level operate.
+
+**Dim 2: Multi-State Operating Model Coherence** — Six states, recently restructured regions. Shared consciousness across diverse markets (urban Phoenix, rural Wyoming, competitive Colorado) while allowing regional autonomy. McKinsey redesigns on paper; McChrystal builds human coordination.
+
+**Dim 3: Payer-Provider Integration (Banner|Aetna)** — 50/50 JV requiring unprecedented coordination between clinical ops and insurance ops. McChrystal's cross-functional alignment directly applicable. Different incentive structures, professional cultures, operational rhythms.
+
+**Dim 4: Technology Transformation Change Absorption** — $1B investment requiring 55,000 employees across six states to change how they work. Fails for organizational reasons, not technology reasons. McChrystal builds capacity to absorb transformation.
+
+**Dim 5: Organizational Design Stabilization** — Created and eliminated senior roles in months, restructured regions, closed facilities. Serial reorganization signals model isn't settled. McChrystal helps arrive at stable, effective design.
+
+### 9b. Cumulative Case
+Fine retirement -> Perry CEO (mid-2024) -> entirely new C-suite -> $1B tech investment -> SVP role created/eliminated in 10 months -> Colorado restructuring/351 displaced -> first brand campaign in 8 years -> VBC acceleration -> Glassdoor 'fear-based culture' -> culture crisis + transformation ambition = maximum tension.
+
+Revenue: Phase 1: $750K-$1.2M (exec alignment + culture diagnostic) | Phase 2: $2.5M-$4M (Team of Teams across six states) | Phase 3: $500K-$1M/year | Total: $3.75M-$6.2M
+
+### 9c. Enterprise Issues
+1. Cultural debt from 24-year leadership era ('fear-based,' 'you are just a number')
+2. Almost entirely new C-suite without established operating rhythms
+3. Serial organizational design without stabilization
+4. $1B tech investment without proportional organizational change investment
+5. Payer-provider silo in Banner|Aetna model
+6. Brand-culture disconnect ('clinical excellence' vs. 'fear-based culture')
+7. Colorado market trauma (facility closures, 351 displaced)
+8. Value-based care transition organizational immaturity
+
+### 9d. Expected Outcomes
+1. Executive team operating effectiveness — decision cycle time reduced 35-45%; eliminate serial reorg pattern
+2. Six-state cultural transformation — Glassdoor Culture from 3.4 to 4.0+; 'would recommend' from 56% to 70%+
+3. Payer-provider coordination for Banner|Aetna — membership growth acceleration; friction reduced
+4. Technology organizational readiness — BannerWise adoption >80%; clinician admin reduction on track
+5. Colorado market recovery — engagement scores recovered to system average within 12 months
+6. Regional leadership alignment — cross-regional coordination improved 30%
+7. Stable organizational design — no unplanned role eliminations within 18 months
+
+### 9e. Key Stakeholders
+| Function | Leader | Title | Relevance |
+|----------|--------|-------|-----------|
+| CEO Office | Amy Perry | President & CEO | Executive sponsor — 'accelerate' mandate |
+| Strategy & Growth | Adrienne Moore, DrPH | SVP | PRIMARY TARGET — new role, new mandate |
+| People & Culture | Julie Ann Alvarado-Dubek | EVP CAPO | PRIORITY TARGET — culture owner, Glassdoor signals |
+| Technology | Michael Reagin | EVP CTO | $1B tech investment needs org readiness |
+| Marketing | Don Stanziano | SVP CMO | Brand-culture alignment ally |
+| Finance | Staci Dickerson | EVP CFO | Budget holder |
+| Banner|Aetna | [JV leadership] | JV CEO | Payer-provider coordination |
+
+### 9f. Opportunity Thesis
+**Why Now:** Perry 18 months in — mandate but still early. Almost entirely new C-suite. $1B tech investment. Glassdoor culture crisis. Colorado restructuring trauma. Brand campaign promising what culture can't deliver. Maximum tension = maximum receptivity.
+
+**Why McChrystal:** Banner invested in strategy (McKinsey), technology (Anthropic), talent (Korn Ferry). Nobody invested in the ORGANIZATIONAL OPERATING MODEL that makes all other investments work. The structural paradox: invested in everything except the connective tissue.
+
+**Phased Engagement:** Phase 1 (3-4 months, $750K-$1.2M): C-suite alignment + culture diagnostic | Phase 2 (10-14 months, $2.5M-$4M): Team of Teams across six states + Banner|Aetna coordination + Colorado recovery | Phase 3 ($500K-$1M/year): Culture transformation advisory
+
+**Pursuit Map:** Thread 1: Adrienne Moore in her first 90 days (Feb-May 2026). Thread 2: Julie Ann Alvarado-Dubek via CHRO networks. Thread 3: Amy Perry via Modern Healthcare 100 Most Influential network + military connections (Luke AFB, Fort Huachuca).
+
+
+---
+
+# Research Dossier — Baker Hughes
+
+## Organization Snapshot
+
+- **Legal Name**: Baker Hughes Company
+- **Headquarters**: Houston, Texas and London, UK (co-headquartered)
+- **Founded**: 1987
+- **Industry**: Energy Services
+- **Revenue**: $27.7B
+- **Employees**: 56K+
+- **Ownership**: Publicly traded (NASDAQ: BKR). Formerly majority-owned by GE (exited 2019)
+- **Geographic Footprint**: Operations in 120+ countries with major facilities in US, UK, Italy, Germany, Norway, Singapore, Malaysia, India, UAE, Saudi Arabia, Brazil, Australia
+- **ICP Score**: 86
+- **Tier**: Tier 1
+
+## Financial Health & Growth Stage
+
+**Revenue:** FY 2025 $27.7B (flat YoY). IET $13.4B (+10%), OFSE declined ~8%
+
+**Profitability:** Record EBITDA $4,825M (+5%); IET margins 18.5% (+170bps); record free cash flow $2.7B
+
+**Chart acquisition:** $13.6B — largest in company history. Targeting $325M+ cost synergies, double-digit EPS accretion. Expected close mid-2026
+
+**IET backlog:** Record $32.4B; $14.9B in FY2025 orders (above high-end guidance)
+
+**2026 targets:** IET revenue $13.5B at 20% EBITDA margins; OFSE $13.75B; overall organic EBITDA growth mid-single digits
+
+**Key pressures:** Upstream spending headwinds, tariff costs, Chart integration complexity
+
+**Tailwinds:** LNG/gas infrastructure supercycle, data center power demand ($550M+ in Q2 2025 alone), energy transition, Chart synergies
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Muzzamil Khider Ahmed** — Chief People & Culture Officer
+- Tenure: Promoted to ELT 2024; CPO since 2023
+- Background: Experience across US, UAE, Colombia, Ecuador, Egypt. Replaced departing CHRO Deanna Jones
+- Why target: Owns people/culture transformation during massive restructuring and Chart integration. New to ELT, building his agenda — needs to demonstrate impact quickly. Direct buyer for McChrystal
+
+**Maria Claudia Borras** — Chief Growth & Experience Officer
+- Tenure: New role October 2024
+- Background: Previously EVP OFSE since 2022. Newly created cross-cutting role for growth and customer experience
+- Why target: Role inherently requires breaking down silos between OFSE and IET — classic Team of Teams problem. Newly created position, defining her mandate
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Lorenzo Simonelli | Chairman & CEO | CEO since 2017 | Italian-born; career GE executive; ran GE Oil & Gas before merger. CEO Today USA Award 2025 | Executive sponsor, not outreach target |
+| Muzzamil Khider Ahmed | Chief People & Culture Officer | Promoted to ELT 2024; CPO since 2023 | Experience across US, UAE, Colombia, Ecuador, Egypt. Replaced departing CHRO Deanna Jones | — |
+| Maria Claudia Borras | Chief Growth & Experience Officer | New role October 2024 | Previously EVP OFSE since 2022. Newly created cross-cutting role for growth and customer experience | — |
+| Ahmed Moghal | EVP & CFO | Since February 2025 | Previously SVP & CFO of IET segment since 2023. Navigating Chart acquisition financing | — |
+| Amerino Gatti | EVP, Oilfield Services & Equipment | Since October 2024 | Succeeded Borras as OFSE head. Leading OFSE through margin recovery | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Restructured from 4 product companies (OFS, OFE, TPS, DS) to 2 segments (OFSE and IET). Now entering 'Horizon Two' focused on scaling profitability. Baker Hughes Business System (BHBS) deployed company-wide driving 300+ bps margin expansion
+
+**Glassdoor:** 4.0/5.0 (6,933 reviews); 82% recommend; 74% positive outlook. Culture 3.9/5.0
+
+**Key signal:** 'Decision-making feels slow and layered, especially on cross-functional projects' — direct McChrystal fit signal
+
+**Concerns:** Layoffs every 2-3 years create trust issues; 'senior leadership' and 'management' cited as cons; large-company bureaucracy
+
+**Positives:** Visible senior leadership, strong safety culture, technology shift, good benefits
+
+**CHRO departure:** Deanna Jones (EVP People/Comms/Transformation & CHRO) departed 2025 during peak transformation need
+
+**Newly created roles:** Chief People & Culture Officer on ELT + Chief Growth & Experience Officer signal organization recognizes it has a culture/operating model problem
+
+## Recent News & Trigger Events
+
+- [2025-07-01] — **$13.6B acquisition of Chart Industries announced — largest in company history** — Massive post-merger integration requiring cultural alignment, operating model harmonization, cross-functional coordination. Classic McChrystal territory
+- [2024-10-01] — **Major leadership restructuring — new OFSE head, new CGXO role, CPCO elevated to ELT** — Multiple simultaneous transitions; new roles signal strategic recognition that growth and culture need dedicated attention
+- [2025-01-01] — **CHRO Deanna Jones departs during transformation** — Critical people/culture leadership gap at worst possible time
+- [2025-01-31] — **Record FY2025 EBITDA ($4.8B) and IET backlog ($32.4B)** — Financial strength creates budget for transformation; but OFSE/IET divergent trajectories require unified operating model
+- [2025-06-01] — **$550M+ in data center power orders in single quarter** — Rapid new market entry demands organizational agility traditional oilfield services culture may struggle to deliver
+- [2025-09-01] — **Chart Industries shareholders approve acquisition — on track for mid-2026 close** — Integration planning actively underway. McChrystal must engage before close to influence operating model design
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Active mega-acquisition (Chart, mid-2026 close), multiple leadership transitions, CHRO departure, explicit Horizon Two targets, record financials creating budget, Glassdoor confirming cross-functional decision-making problems
+
+**Primary Problem**: Executing a dual transformation — restructuring legacy business from 4 to 2 segments while absorbing $13.6B Chart Industries acquisition — with a nearly-new leadership team, departed CHRO, slow cross-functional decision-making (per Glassdoor), and divergent growth trajectories between IET and OFSE
+
+**Best Capability Fit**: Team of Teams operating model for OFSE/IET/Chart coordination; post-merger integration cultural architecture; leadership team alignment for multiple new executives; cross-functional decision-making acceleration
+
+**Likely Objections**
+
+- We have the Baker Hughes Business System for operational improvement
+- We're already working with integration consultants for Chart
+- Our leadership team is new and still getting oriented
+
+**Competitive Landscape**
+
+- McKinsey likely engaged on Chart integration strategy
+- Deloitte/Accenture possible in digital transformation
+- Korn Ferry possible for leadership assessment
+- None solve operating model and cultural integration at team level
+
+## Conversation Entry Points
+
+- **Q**: You're about to integrate a $13.6 billion acquisition while your two core segments are on completely different growth trajectories. How are you building a unified operating model that lets Chart, IET, and OFSE move at different speeds without fragmenting decision-making?
+  *Framing*: Chart integration as primary entry
+- **Q**: Horizon Two has explicit margin targets for both segments, but IET is growing 10% while OFSE is contracting. How do you prevent the natural tension between a growth segment and a pressured segment from becoming organizational dysfunction?
+  *Framing*: Two-speed organization challenge
+- **Q**: You've had significant leadership transitions — new CFO, new OFSE head, new CPCO, new CGXO, CHRO departure. How is the new team building shared operating norms before Chart adds another layer of complexity?
+  *Framing*: Leadership alignment urgency
+
+**Recommended First Meeting Framing**: Position as 'operating model advisory for the Horizon Two transformation' — not post-merger integration (already handled), but the organizational architecture that makes integration work at execution level.
+
+## Brand Insights & Market Positioning
+
+**Position:** #3 oilfield services globally (behind SLB, Halliburton). Actively repositioning as 'energy technology company.'
+
+**Evolution:** Rebrand from 'Baker Hughes, a GE company' (2020) to standalone. IET-led strategy and Chart acquisition = becoming diversified industrial technology company. But 48% of revenue still OFSE, creating gap between brand aspiration and business reality.
+
+**Threats:** If OFSE underperforms while IET thrives, 'energy technology' narrative applies to only half the company. SLB's digital platform and Halliburton's completions dominance squeeze OFSE. Chart adds industrial markets far from traditional identity.
+
+**Investments:** Cordant digital platform, data center solutions ($550M+), geothermal partnership.
+
+**McChrystal connection:** Brand aspiration requires cross-functional collaboration between OFSE and IET, unified go-to-market, and culture that sells integrated solutions. Chart makes this harder. McChrystal bridges the gap.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Dim 1: Chart Industries Integration Architecture** — $13.6B deal creating three-body problem (OFSE + legacy IET + Chart). Chart will operate as standalone unit within IET, but coordination (transfer pricing, shared customers, tech integration) is the default failure mode. McKinsey designs integration playbook; McChrystal builds shared consciousness that makes it work.
+
+**Dim 2: Two-Speed Organization (IET vs. OFSE)** — IET growing 10%, approaching 20% margins. OFSE declining 8%. Share C-suite, functions, single brand. Leadership attention naturally gravitates to growth story. Deloitte builds shared services; McChrystal solves how leaders allocate resources and maintain shared consciousness at different tempos.
+
+**Dim 3: Leadership Team Alignment** — New CFO, new OFSE head, new CGXO, new CPCO, CHRO departed. Essentially new team, untested through crisis or major integration. McChrystal builds team operating systems, not individual coaching (Korn Ferry).
+
+**Dim 4: New Market Organizational Agility** — $550M+ data center orders in one quarter. Hyperscalers expect speed; Baker Hughes culture built for multi-year EPC projects. Organizational DNA hasn't caught up.
+
+**Dim 5: BHBS + Chart Culture Integration** — BHBS drove 300+ bps of margin expansion but was designed for Baker Hughes. Can it scale to Chart's different product mix without 'not invented here' resistance?
+
+### 9b. Cumulative Case
+Chart acquisition -> requires cultural integration -> compounds two-speed OFSE/IET challenge -> at moment leadership team is newly configured -> under Horizon Two margin targets -> while entering new markets (data centers) demanding organizational agility -> all of which must work or 'energy technology' brand fails.
+
+Revenue: Phase 1: $500K-$750K (pre-Chart ELT alignment) | Phase 2: $1.5M-$2.5M (post-merger operating model) | Phase 3: $500K-$1M/year | Total: $2.5M-$4.25M
+
+### 9c. Enterprise Issues
+1. Chart integration without cultural destruction ($325M+ synergy target)
+2. Two-segment divergence creating organizational schizophrenia
+3. Slow cross-functional decision-making (Glassdoor: 'slow and layered')
+4. CHRO departure during peak transformation need
+5. New market entry vs. legacy culture (data centers, geothermal)
+6. Leadership team cohesion deficit (multiple new executives)
+7. BHBS scalability to Chart operations
+8. Brand-reality gap (48% still OFSE while branding as 'energy technology')
+
+### 9d. Expected Outcomes
+1. Unified three-entity operating model — cross-functional decision time reduced 40-60%
+2. ELT shared operating norms — 100% able to articulate shared priorities within 90 days
+3. Chart cultural architecture — engagement within 10% of Baker Hughes benchmarks at 18 months
+4. OFSE margin recovery framework — 150-200 bps improvement within 18 months
+5. New market 'fast lane' — proposal-to-contract cycle reduced 30% for data center customers
+6. BHBS extension to Chart — adoption across 80% of Chart ops within 24 months
+7. Horizon Two leadership development — 50+ high-potential leaders complete program in 24 months
+
+### 9e. Key Stakeholders
+| Unit | Leader | Title | Relevance |
+|------|--------|-------|-----------|
+| CEO Office | Lorenzo Simonelli | Chairman & CEO | Executive sponsor |
+| People & Culture | Muzzamil Khider Ahmed | CPCO | PRIMARY TARGET — owns culture transformation |
+| Growth & Experience | Maria Claudia Borras | CGXO | SECONDARY TARGET — cross-functional role |
+| Finance | Ahmed Moghal | EVP CFO | Budget holder, new to role |
+| OFSE | Amerino Gatti | EVP | Margin recovery challenge |
+| IET | [TBD] | EVP | Growth engine, Chart absorption |
+| Operations | Brian Finken | VP COO | Cross-company ops implementer |
+
+### 9f. Opportunity Thesis
+**Why Now:** Chart close mid-2026. 6-month window before close = when integration design happens. McChrystal must engage by Q1 2026 to influence operating model. After close, patterns calcify.
+
+**Why McChrystal:** McKinsey does integration strategy. Deloitte does IMO workstreams. Korn Ferry does leadership assessment. None solve: how does a 56,000-person company with new leadership absorb $13.6B acquisition while entering new markets and actually make decisions faster? McChrystal COMPLEMENTS incumbents.
+
+**Phased Engagement:** Phase 1 (Q1-Q2 2026, $500K-$750K): ELT alignment sprint pre-Chart close | Phase 2 (H2 2026-H1 2027, $1.5M-$2.5M): Post-merger operating model + BHBS/Chart integration | Phase 3 (2027-28, $500K-$1M/year): Horizon Two execution support
+
+**Pursuit Map:** Thread 1: CPCO Muzzamil Khider Ahmed (direct buyer, new to ELT). Thread 2: CGXO Maria Claudia Borras (cross-functional mandate). Thread 3: Warm introduction through Houston energy/GE alumni networks.
+
+
+---
+
+# Research Dossier — The Home Depot
+
+## Organization Snapshot
+
+- **Legal Name**: The Home Depot, Inc.
+- **Headquarters**: Atlanta, Georgia
+- **Founded**: 1978
+- **Industry**: Retail
+- **Revenue**: $159.0B
+- **Employees**: 470K+
+- **Ownership**: Publicly traded (NYSE: HD)
+- **Geographic Footprint**: 2,300+ stores across US, Canada, and Mexico. 160 market delivery operations, 20 direct fulfillment centers, 17 flatbed distribution centers. SRS Distribution subsidiary operates 760+ locations
+- **ICP Score**: 87
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue:** FY 2025 $164.7B (+3.2% YoY). ~50% from professional customers
+
+**EPS:** Adjusted $14.69 (down from $15.24 in FY2024)
+
+**FY2026 guidance:** 2.5-4.5% total sales growth; flat to +4% EPS; flat to +2% comps
+
+**Key acquisitions:** SRS Distribution $18.25B (closed Jun 2024) — specialty trade distribution; GMS $5.5B (closed Sep 2025) — drywall, ceilings, steel; Mingledorff's (HVAC, 2026 pending)
+
+**Credit:** Fitch A (affirmed despite GMS)
+
+**E-commerce:** $25B business; 45% of online orders fulfilled through stores
+
+**Pressures:** Frozen housing market (3 consecutive years), consumer uncertainty, tariff exposure, integration complexity
+
+**Tailwinds:** Pro market TAM expansion, supply chain nearly complete (55% same/next-day delivery), aging housing stock
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Stephanie Smith** — EVP, Human Resources
+- Tenure: Appointed March 2025
+- Background: Previously SVP Supply Chain — led inventory management, transportation, delivery, analytics. Rare profile: supply chain to HR move
+- Why target: Unique background: moved from running supply chain to running HR. Understands operational complexity AND people strategy. New to HR role, building agenda. Perfect McChrystal buyer — knows operational pain and now owns the people/culture lever
+
+**Michael Rowe** — EVP, Pro
+- Tenure: Appointed March 2025
+- Background: Previously President, Home Depot Canada. Leads strategic 'Win the Pro' initiative
+- Why target: Leads most complex cross-functional initiative in company history — integrating SRS, GMS, salesforce, delivery, CRM across organizational boundaries. Needs Team of Teams coordination
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Ted Decker | Chair, President & CEO | CEO since March 2022 | 24+ years at Home Depot; prior Kimberly-Clark, Scott Paper, PNC Bank. William & Mary BA, Carnegie Mellon MBA. 2025 USO Patriot of the Year | Executive sponsor. Strong veteran affinity |
+| Stephanie Smith | EVP, Human Resources | Appointed March 2025 | Previously SVP Supply Chain — led inventory management, transportation, delivery, analytics. Rare profile: supply chain to HR move | — |
+| Michael Rowe | EVP, Pro | Appointed March 2025 | Previously President, Home Depot Canada. Leads strategic 'Win the Pro' initiative | — |
+| Ann-Marie Campbell | Senior EVP, US Stores & Operations, Canada, Mexico | Joined 1985 as cashier | 40-year Home Depot career; leads 2,300+ stores and 400,000+ associates. Most tenured senior leader | Critical stakeholder — any transformation touches every store |
+| Angie Brown | EVP & CIO | Elevated January 2026 | Previously SVP of IT. Leading AI adoption and technology modernization. New to CIO role | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Store-centric decentralized culture — store managers historically had significant autonomy. 'One Home Depot' initiative centralizing supply chain and digital capabilities, creating tension with decentralized DNA. SRS operating independently with own CEO and leadership
+
+**Glassdoor:** 3.8/5.0 (55,322 reviews); 70% recommend; 61% positive outlook. Culture 3.7/5.0
+
+**Positives:** Strong moral compass, community involvement, diversity, promote-from-within (Campbell started as cashier 1985)
+
+**Concerns:** Low store associate pay, management accountability issues, 'stretched thin due to lack of full staffing,' hours rearranged/cut
+
+**SRS operating independently:** Deliberate 'preserve independence' model creates coordination challenges as Home Depot tries to capture synergies
+
+**HR transition:** Tim Hourigan (EVP HR, 23 years) retiring June 2025; Stephanie Smith taking over — major institutional knowledge loss at critical moment
+
+**Veteran/military affinity:** Home Depot Foundation invested $500M+ in veteran causes, commits $750M by 2030. Ted Decker 2025 USO Patriot of the Year. Strong cultural alignment with McChrystal
+
+## Recent News & Trigger Events
+
+- [2025-09-01] — **$5.5B acquisition of GMS completed through SRS Distribution** — Second major acquisition in 15 months. Integration complexity multiplies: SRS + GMS must coordinate with each other AND Home Depot stores
+- [2025-03-01] — **Michael Rowe named EVP Pro; Stephanie Smith named EVP HR** — New Pro leader must orchestrate most complex cross-functional initiative. New HR leader from supply chain building culture during integration
+- [2026-02-01] — **Q4 FY2025: ~4% quarterly sales decline; cautious FY2026 guidance** — Financial pressure creates urgency for Pro strategy to deliver growth — must execute efficiently
+- [2026-01-01] — **Angie Brown elevated to CIO — leading AI adoption and tech modernization** — Technology leadership transition during digital transformation
+- [2025-06-01] — **Tim Hourigan retirement — 23-year EVP HR departing** — Massive institutional knowledge loss at the moment company needs HR/culture leadership most
+- [2026-01-01] — **'Win the Pro' preferred pricing program launch** — Not just pricing — requires coordinating pricing, delivery, CRM, sales force, SRS/GMS, stores into unified pro experience
+
+## McChrystal Fit Assessment
+
+**Rating**: Strong
+ — Multiple active triggers (GMS acquisition, leadership transitions, Pro launch), clear economic buyer (Stephanie Smith with operational background), massive budget ($165B revenue), veteran/military cultural affinity (Patriot of the Year), specific problem (cross-entity coordination) maps precisely to McChrystal differentiation. Atlanta HQ proximity is bonus
+
+**Primary Problem**: Transforming from a store-centric DIY retailer into an integrated omnichannel pro-serving platform — while absorbing $24B+ in acquisitions operating independently, with three new EVPs in critical roles, a frozen housing market creating urgency, and a decentralized store culture that may resist the centralized capabilities the Pro strategy requires
+
+**Best Capability Fit**: Cross-functional alignment for Pro strategy (6+ organizational units); Team of Teams for SRS/GMS/stores operating as independent but coordinated entities; leadership alignment for Rowe/Smith/Brown triad; culture evolution from decentralized DIY to coordinated omnichannel
+
+**Likely Objections**
+
+- We're the world's largest home improvement retailer — we know how to run our business
+- SRS is operating independently by design
+- We already have management consulting relationships
+
+**Competitive Landscape**
+
+- McKinsey likely on Pro strategy design and acquisition strategy
+- BCG possible on supply chain ('One Home Depot')
+- Bain possible on customer analytics
+- None address operating model layer for cross-entity coordination
+
+## Conversation Entry Points
+
+- **Q**: You've got SRS operating independently, GMS just acquired, a new preferred pricing program launching, and a sales force expansion — all under a new EVP Pro. How are you building coordination that lets these independent pieces deliver a unified pro customer experience?
+  *Framing*: Pro strategy coordination as entry
+- **Q**: Stephanie, you moved from running supply chain to leading HR for 470,000 associates during the biggest strategic pivot in Home Depot's history. How are you thinking about building a culture that can execute the Pro strategy while preserving the store-centric DNA?
+  *Framing*: For EVP HR Smith — culture + operational background
+- **Q**: The military faces this constantly — independent units that must coordinate in theater without losing specialized capabilities. SRS and GMS are your independent units. How are you building shared consciousness without centralized control?
+  *Framing*: Military analogy especially powerful given Home Depot's veteran affinity
+
+**Recommended First Meeting Framing**: Position as 'operating model advisory for the Pro transformation' — how independent entities coordinate without centralized command. Military analogy (independent service branches in theater) is especially powerful given Home Depot's veteran affinity.
+
+## Brand Insights & Market Positioning
+
+**Brand:** World's 32nd most valuable. #1 home improvement globally.
+
+**Evolution:** Expanding from 'DIY retail' to 'total home improvement for consumers AND professionals.' Most significant brand expansion in company history — must resonate with sophisticated professional contractors who view Home Depot as consumer store.
+
+**Threats:** Pro credibility gap; Amazon Business digital competition; tariff-driven price volatility; SRS/GMS/Mingledorff's maintaining independent brands creating fragmented pro experience.
+
+**Major investments:** $500M+ Home Depot Foundation for veterans ($750M by 2030); 200 supply chain facilities; $24B+ SRS/GMS acquisitions.
+
+**McChrystal connection:** Brand promises seamless pro service across stores, SRS, GMS, digital, delivery, credit. Gap between promise and organizational capability = McChrystal territory. Veteran affinity creates natural cultural bridge no other firm can replicate.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Dim 1: Cross-Entity Pro Coordination** — Pro customer must get seamless experience across 2,300 stores, SRS (760+ locations), GMS (280+), sales force, digital/CRM, delivery, and trade credit — all different organizations. McChrystal's Team of Teams was designed for independent units coordinating without centralized command. McKinsey designed the strategy; McChrystal builds the coordination mechanisms.
+
+**Dim 2: Culture Transformation (DIY to Pro)** — Store-centric, decentralized DNA may resist centralized capabilities needed for Pro. McChrystal builds cultural operating systems for decentralized autonomy + centralized coordination coexistence.
+
+**Dim 3: Multi-Acquisition Integration** — SRS, GMS, Mingledorff's all kept independent. Independence without coordination = theoretical synergies. McChrystal builds shared consciousness that makes synergy capture organic.
+
+**Dim 4: Leadership Triad Synchronization** — Rowe (Pro), Smith (HR), Brown (CIO) own three Pro transformation pillars. All started within 12 months. Without synchronization, agendas compete. McChrystal builds team operating systems.
+
+### 9b. Cumulative Case
+Pro strategy pivot -> $24B+ acquisitions operating independently -> demands cross-entity coordination -> at moment 3 critical EVPs turned over -> housing market frozen -> Pro strategy must deliver growth NOW -> but organizational model isn't designed for this -> store-centric culture may resist -> tariff uncertainty adds complexity.
+
+Revenue: Phase 1: $750K-$1M (Pro operating model + leadership triad) | Phase 2: $2M-$3M (enterprise-wide) | Phase 3: $750K-$1.5M/year | Total: $3.5M-$5.5M
+
+### 9c. Enterprise Issues
+1. Independent acquisition coordination paradox (synergies need coordination; model prevents it)
+2. Store culture vs. centralized Pro capabilities tension
+3. New EVP synchronization gap (Rowe/Smith/Brown)
+4. Pro customer experience fragmentation (6+ entities, one relationship)
+5. Supply chain transformation organizational absorption (200 facilities built, now coordinate)
+6. Tariff response agility
+7. E-commerce vs. store channel conflict ($25B, 45% fulfilled through stores)
+8. Frozen housing market creating strategic urgency without budget flexibility
+
+### 9d. Expected Outcomes
+1. Cross-entity Pro operating model — NPS +15 points; cross-sell up 20%
+2. Leadership triad alignment — coordinated resource allocation within 90 days
+3. Culture transformation roadmap — engagement in Pro roles up 10+ points
+4. Synergy acceleration — $200M+ activated within 18 months through coordination
+5. Tariff response playbook — decision cycle from weeks to 72 hours
+6. Regional Pro leadership development — 100+ leaders complete program in 12 months
+7. Pro customer journey unification — 'inconsistent experience' complaints down 50%
+
+### 9e. Key Stakeholders
+| Unit | Leader | Title | Relevance |
+|------|--------|-------|-----------|
+| CEO Office | Ted Decker | Chair/President/CEO | Executive sponsor. Patriot of the Year — veteran affinity |
+| Human Resources | Stephanie Smith | EVP HR | PRIMARY TARGET — supply chain background + HR mandate |
+| Pro | Michael Rowe | EVP Pro | SECONDARY TARGET — owns Pro transformation |
+| US Stores | Ann-Marie Campbell | SEVP | Critical influencer — 40-year tenure |
+| Technology | Angie Brown | EVP CIO | Third leg of transformation triad |
+| Finance | Richard McPhail | EVP CFO | Budget authority |
+| SRS Distribution | Dan Tinker | President & CEO | Independent entity, key coordination partner |
+
+### 9f. Opportunity Thesis
+**Why Now:** Preferred pricing program launching 2026. Three new EVPs building agendas. Housing market frozen — Pro must deliver growth. Window to shape operating model before habits calcify.
+
+**Why McChrystal:** McKinsey designed Pro strategy. BCG did supply chain. Bain did customer analytics. None solve coordination across 6 independent entities without centralized control. Military analogy (service branches in theater) is especially powerful given Home Depot's $500M+ veteran investment and CEO's Patriot of the Year.
+
+**Phased Engagement:** Phase 1 (Q2-Q3 2026, $750K-$1M): Pro organization operating model + Rowe/Smith/Brown alignment | Phase 2 (Q4 2026-Q2 2027, $2M-$3M): Enterprise-wide coordination + SRS/GMS + culture | Phase 3 ($750K-$1.5M/year): Ongoing advisory
+
+**Pursuit Map:** Thread 1: Stephanie Smith via supply-chain-to-HR career angle. Thread 2: Michael Rowe via Pro transformation coordination challenge. Thread 3: Ted Decker via veteran/military channels (USO, military board connections).
+
+
+---
+
+# Research Dossier — ADB Safegate
+
+## Organization Snapshot
+
+- **Legal Name**: ADB SAFEGATE N.V.
+- **Headquarters**: Zaventem, Belgium
+- **Founded**: 1920
+- **Industry**: Airport Technology
+- **Revenue**: $440M
+- **Employees**: 900
+- **Ownership**: Private — owned by The Carlyle Group (acquired July 2017 from PAI Partners for ~$1B). CPP Investments (Canada Pension Plan) as co-investor
+- **Geographic Footprint**: 175+ countries, 2,700+ airports. Regional operations: Americas (US-led), EMEA, Asia-Pacific. Smart factory in Liege, Belgium
+- **ICP Score**: 65
+- **Tier**: Tier 2
+
+## Financial Health & Growth Stage
+
+**Revenue:** ~EUR 400M at 2017 acquisition; reportedly ~$750M as of 2025 [INFERRED — represents ~80%+ growth over hold period]
+
+**Profitability:** Not publicly disclosed. 2025 refinancing (EUR 500M term loan + EUR 184M equity injection + EUR 100M HoldCo PIK) suggests investing for growth rather than near-term EBITDA maximization
+
+**Growth stage:** Late-stage PE portfolio company transitioning from hardware to integrated digital platform
+
+**Pressures:** 9-year PE hold (exceeding typical 5-7 year), integration of multiple acquisitions (All Weather, Liberty, AviBit, ERNI, Lucebit), competition from Honeywell/Siemens/Thales, delayed airport projects now hitting simultaneously
+
+**Tailwinds:** Global airport infrastructure boom (Western Sydney, JFK T1, Munich), Airside 4.0 creating recurring digital revenue, sustainability mandates driving LED retrofits
+
+## Leadership Team Profiles
+
+### Priority Targets for Outreach
+
+**Joe Pokoj** — COO / CEO Americas
+- Tenure: Multi-year
+- Background: US-based. Dual role suggests lean organization
+- Why target: Dual-hatted operator who feels lean staffing and cross-product coordination pain daily. Pragmatic buyer — delivering JFK T1 while coordinating 900-person global operation
+
+**Thorben Burghardt** — CTO & EVP Business Lines
+- Tenure: Multi-year
+- Background: Technology and product strategy. Leads Airside 4.0 development
+- Why target: Owns Airside 4.0 platform integration — requires merging legacy product lines (lighting, gates, tower, digital) into unified offering. Organizational design challenge as much as technology
+
+### Full C-Suite & Key Leaders
+
+| Name | Title | Tenure | Background | Notes |
+|------|-------|--------|------------|-------|
+| Laurent Dubois | CEO | Since April 2020 | Belgian; Vrije Universiteit Brussels (Economics). Former CEO GE Healthcare Partners; former Partner at McKinsey & Company | Former McKinsey partner — understands consulting. Both opportunity (speaks the language) and risk (may default to McKinsey) |
+| Joe Pokoj | COO / CEO Americas | Multi-year | US-based. Dual role suggests lean organization | — |
+| Thorben Burghardt | CTO & EVP Business Lines | Multi-year | Technology and product strategy. Leads Airside 4.0 development | — |
+| Christian Onselaere | Chairman | Former CEO (founding-2020) | Built ADB SAFEGATE through PAI and Carlyle transitions. Institutional memory | — |
+| Regardt Willer | CMO & VP Business Development | Multi-year | Marketing, brand strategy, business development. Won 2025 Marketing award for Airside 4.0 campaign | — |
+
+## Organizational Culture & Structure Signals
+
+**Structure**: Global but fragmented: ~900 employees across 175+ countries means extremely thin coverage. Regional heads (Americas, Asia) operate with significant autonomy by necessity. Product line silos likely persist from ADB (lighting) + Safegate (gates) merger plus multiple acquisitions
+
+**Glassdoor:** 3.8/5.0 (99 reviews); 72% recommend. Culture 3.8/5.0
+
+**Key signal:** 'Fast-paced work environment, typical for companies owned by a private equity company, and not everyone is fitting in to the new culture'
+
+**Concerns:** 'Very lean with little training, requiring employees to figure things out on their own'; onboarding needs improvement; pay could be better
+
+**Positives:** Nice atmosphere, caring/supportive people, good work-life balance
+
+**PE pace vs. capacity:** Classic tension — high expectations with thin staffing. Employees explicitly cite PE ownership as cultural pace driver
+
+**CEO from McKinsey/GE:** Laurent Dubois' background suggests data-driven, process-oriented style — potentially at odds with engineering-heavy, product-focused legacy culture
+
+## Recent News & Trigger Events
+
+- [2025-01-01] — **Triple win at 2025 Airport Technology Excellence Awards (Marketing, R&D, Social Impact)** — Validates Airside 4.0 strategy but creates pressure to deliver across lean global workforce
+- [2024-12-01] — **Munich Airport awards next-gen controller working position contract with AI and Airside 4.0** — Major reference customer requiring cross-product-line coordination
+- [2025-06-01] — **JFK New Terminal One: comprehensive Airside 4.0 deployment including first-in-US Follow-the-Greens** — Highest-profile project in company history. Execution risk is existential — failure at JFK damages brand globally
+- [2025-01-01] — **Carlyle sponsors EUR 500M+ refinancing (term loan, equity injection, HoldCo PIK)** — Financial restructuring after 8+ years signals either exit preparation or growth recapitalization. Creates organizational urgency
+- [2025-06-01] — **Western Sydney International Airport contract — Australia's largest airfield lighting contract** — Another greenfield Airside 4.0 deployment stretching delivery capacity
+
+## McChrystal Fit Assessment
+
+**Rating**: Moderate
+ — Strong organizational fit (platform transformation, merger integration, PE pressure) and clear McChrystal match. Moderated by: company size below typical ICP sweet spot, private PE-owned with limited advisory budget, CEO's McKinsey default, Carlyle exit timeline uncertainty. However, if $750M revenue is accurate, it's within range, and impact at this scale would be transformational
+
+**Primary Problem**: A ~900-person company executing platform transformation (Airside 4.0) requiring integration of multiple legacy product lines — while simultaneously delivering marquee global contracts (JFK, Munich, Western Sydney, Vienna) — under PE ownership pressure as Carlyle approaches/exceeds typical hold period. Gap between strategic ambition (integrated platform) and organizational capacity (lean, fragmented, legacy-siloed)
+
+**Best Capability Fit**: Cross-functional alignment for integrated Airside 4.0 delivery; Team of Teams for lean global coordination (900 people, 175 countries); organizational maturity for PE exit; leadership alignment under PE pressure
+
+**Likely Objections**
+
+- We're too small for McChrystal
+- CEO is former McKinsey partner — he has consulting relationships
+- Carlyle may be preparing for exit — can't commit long-term
+
+**Competitive Landscape**
+
+- McKinsey: CEO is former partner — possible existing relationship
+- Carlyle portfolio operations team (internal)
+- Boutique aviation consulting firms
+- None address cross-product-line organizational design
+
+## Conversation Entry Points
+
+- **Q**: Airside 4.0 is brilliant technology — but delivering integrated airport solutions requires your lighting, gate, tower, and digital teams to work as one. How is the organization keeping up with the platform's ambition?
+  *Framing*: Platform vs. organization gap
+- **Q**: After 9 years of Carlyle ownership, the organization you present to a buyer matters as much as the technology. How are you thinking about demonstrating organizational maturity as part of your value story?
+  *Framing*: PE exit readiness — positions operating model as enterprise value driver
+- **Q**: You're delivering marquee contracts at JFK, Munich, Western Sydney, and Vienna simultaneously — with roughly 900 people. What's the organizational model that lets you execute at this quality without burning people out?
+  *Framing*: Lean global execution challenge
+
+**Recommended First Meeting Framing**: Position as 'operating model advisory for PE-backed platform transformation' — how a lean global organization coordinates across product lines and regions. Emphasize impact at scale (900 people, 175 countries = every improvement matters disproportionately).
+
+## Brand Insights & Market Positioning
+
+**Brand:** Niche market leader — world's #1 in airfield visual guidance, serving 2,700+ airports. Not in broad brand indexes but dominant within category.
+
+**Competitive standing:** Leader in airfield lighting and gate management (Safedock). Emerging competitor to Indra, Thales, Frequentis in ATC tower. Competing with much larger Honeywell, Siemens for broader airport solutions.
+
+**Evolution:** From hardware vendor ('we sell airfield lights') to integrated digital platform ('we deliver Airside 4.0 — the operating system for airport operations'). Brand says 'integrated platform' but organization still structured around legacy product lines.
+
+**Threats:** Big tech encroachment (Honeywell, Siemens, Thales); customer lock-in concerns; marquee contract delivery risk (JFK/Western Sydney are brand-defining); PE exit brand continuity.
+
+**McChrystal connection:** Brand promises integrated performance — but org structure reflects legacy product silos. McChrystal builds the organizational capability to match the platform vision.
+
+## Deep McChrystal Group Fit Analysis
+
+### 9a. Fit Dimensions
+
+**Dim 1: Product Line Integration for Platform Delivery** — Assembled from ADB (lighting) + Safegate (gates) + All Weather + Liberty + AviBit/ERNI. Each retains engineering culture. Airside 4.0 requires integrated delivery. McKinsey redesigns org chart; McChrystal builds operating rhythm and trust that lets diverse teams work together.
+
+**Dim 2: Lean Global Coordination** — 900 people, 175 countries. Every coordination failure has outsized impact. Glassdoor confirms: 'very lean, figure things out on your own.' McChrystal builds information-sharing and decision-making for lean organizations at scale — same approach as Special Operations (small teams, global theaters, perfect coordination).
+
+**Dim 3: PE Exit Organizational Readiness** — 9 years under Carlyle. A company dependent on heroic individual efforts is worth less than one with scalable, repeatable operating model. McChrystal builds the operating model that increases enterprise value.
+
+**Dim 4: High-Stakes Execution** — Airport operations are safety-critical, time-pressured. Products are safety-critical. Mirrors military operating environments where McChrystal's methodology was developed.
+
+### 9b. Cumulative Case
+PE hold exceeded (9 years) -> exit pressure -> demands organizational maturity -> during platform transformation (Airside 4.0) -> requiring product-line integration -> with ~900 people across 175 countries -> under simultaneous marquee contract pressure (JFK, Munich, Western Sydney, Vienna) -> in safety-critical environment -> where execution failure is existential.
+
+Revenue: Phase 1: $250K-$400K (exec committee + delivery model) | Phase 2: $400K-$600K (regional cascade + exit readiness) | Phase 3: $200K-$350K/year | Total: $850K-$1.35M
+
+### 9c. Enterprise Issues
+1. Legacy product line silos blocking platform delivery
+2. Thin global staffing creating single points of failure
+3. PE pace vs. organizational capacity mismatch
+4. Simultaneous marquee contract delivery risk (JFK, Munich, Western Sydney, Vienna)
+5. CEO background creating consulting dependency risk (former McKinsey partner)
+6. Onboarding and knowledge transfer gaps
+7. Regional autonomy vs. platform consistency
+
+### 9d. Expected Outcomes
+1. Cross-product-line delivery model — project cycle time reduced 20-30%; coordination issues down 50%
+2. Global operating rhythm — regional escalations to HQ reduced 40%; 80% of cross-regional issues resolved within 48 hours
+3. Executive committee alignment — decision cycle reduced 30%; zero conflicting directives
+4. Organizational maturity for PE exit — operating model rated 'investor-ready'; contributes to 0.5-1.0x EBITDA multiple improvement [INFERRED]
+5. Marquee contract delivery assurance — 100% within 10% of timeline; zero critical quality incidents
+6. Knowledge transfer system — new hire time-to-productivity reduced 30%; critical knowledge mapped within 12 months
+
+### 9e. Key Stakeholders
+| Unit | Leader | Title | Relevance |
+|------|--------|-------|-----------|
+| CEO Office | Laurent Dubois | CEO | Decision-maker. Former McKinsey — differentiate positioning |
+| Board | Christian Onselaere | Chairman | Institutional memory, board influence |
+| Operations/Americas | Joe Pokoj | COO/CEO Americas | PRIMARY TARGET — feels execution pain daily |
+| Technology/Products | Thorben Burghardt | CTO & EVP | SECONDARY TARGET — platform integration owner |
+| Finance | Dominic Cote-Vaillancourt | CFO | Budget holder, exit prep |
+| Marketing | Regardt Willer | CMO & VP BD | Brand-organization gap awareness |
+| Carlyle Group | Operating partners | PE ownership | May recommend/fund advisory |
+
+### 9f. Opportunity Thesis
+**Why Now:** PE hold exceeded + marquee contract delivery peak + platform transformation midstream. Next 18 months determine whether Airside 4.0 is genuine platform business (premium valuation) or repackaged hardware (commodity valuation).
+
+**Why McChrystal:** Former McKinsey CEO knows McKinsey's strengths and limitations. McKinsey designs blueprints; McChrystal builds team coordination for execution. 900 people in 175 countries in safety-critical environment = Special Operations analogy is especially apt.
+
+**Phased Engagement:** Phase 1 (Q2-Q3 2026, $250K-$400K): Exec committee + Airside 4.0 delivery model | Phase 2 (Q4 2026-Q1 2027, $400K-$600K): Regional cascade + PE exit readiness | Phase 3 ($200K-$350K/year): Ongoing advisory + transition support
+
+**Pursuit Map:** Thread 1: Joe Pokoj (COO/Americas) via JFK delivery pressure. Thread 2: Thorben Burghardt (CTO) via platform integration challenge. Thread 3: Warm introduction via Carlyle Group network — 'we help PE portfolio companies build operating model maturity that increases exit valuation.'
