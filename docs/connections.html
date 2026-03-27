@@ -576,12 +576,12 @@
           <div class="summary-card"><div class="summary-value">${allCompanies}</div><div class="summary-label">Companies</div></div>
           <div class="summary-card"><div class="summary-value">${fmt(allLeaders)}</div><div class="summary-label">Key Connections</div></div>
           <div class="summary-card"><div class="summary-value">${fmt(allConnections)}</div><div class="summary-label">Other Connections</div></div>
-          <div class="summary-card"><div class="summary-value">${data.partner_count}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
+          <div class="summary-card"><div class="summary-value">${data.partner_count}</div><div class="summary-label">MG Leaders</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all MG leadership</div></div>
         </div>
 
         <div class="connections-layout">
           <aside class="partner-sidebar" id="partner-filter">
-            <div class="sidebar-label">Filter by Partner</div>
+            <div class="sidebar-label">MG Leadership</div>
             <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${allCompanies}</span></button>
             ${partnerBreakdown.map(([name, count]) =>
               `<button class="partner-pill${activePartner === name ? ' active' : ''}" data-partner="${esc(name)}">${esc(name)}<span class="pill-count">${count}</span></button>`
@@ -614,12 +614,12 @@
           <div class="summary-card"><div class="summary-value">${r.companies.length}</div><div class="summary-label">Companies</div></div>
           <div class="summary-card"><div class="summary-value">${fmt(leaderCount)}</div><div class="summary-label">Key Connections</div></div>
           <div class="summary-card"><div class="summary-value">${fmt(connCount)}</div><div class="summary-label">Other Connections</div></div>
-          <div class="summary-card"><div class="summary-value">${r.partner_breakdown.length}</div><div class="summary-label">MG Partners</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all partners &amp; advisors</div></div>
+          <div class="summary-card"><div class="summary-value">${r.partner_breakdown.length}</div><div class="summary-label">MG Leaders</div><div style="font-size:10px;color:var(--text-muted);margin-top:4px;font-style:italic;">Goal: all MG leadership</div></div>
         </div>
 
         <div class="connections-layout">
           <aside class="partner-sidebar" id="partner-filter">
-            <div class="sidebar-label">Filter by Partner</div>
+            <div class="sidebar-label">MG Leadership</div>
             <button class="partner-pill${!activePartner ? ' active' : ''}" data-partner="">All<span class="pill-count">${r.companies.length}</span></button>
             ${r.partner_breakdown.map(pb =>
               `<button class="partner-pill${activePartner === pb.partner ? ' active' : ''}" data-partner="${esc(pb.partner)}">${esc(pb.partner)}<span class="pill-count">${pb.company_count}</span></button>`
